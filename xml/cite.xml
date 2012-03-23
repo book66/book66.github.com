@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>03/23(五)</date>
-      <title>Lush Life</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UF007.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=13584</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>03/24(六)</date>
       <title>乙男蟻女：106個世代標籤，深入你不知道...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RB9004.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=20449</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>03/25(日)</date>
       <title>小蘇打天然清潔你的家250+</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0406.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=18483</link>
+    </book>
+    <book>
+      <date>03/30(五)</date>
+      <title>那時西藏：記一個攝影師的慢拍十年</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPF04.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=19547</link>
     </book>
   </preview>
 </book66>

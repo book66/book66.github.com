@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>03/23(五)</date>
-      <title>聰明孩子正在玩的200個推理遊戲</title>
-      <price>131</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000133071-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000133071</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>03/24(六)</date>
       <title>我的第一件自然風手作服：一天就可完...</title>
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000188057-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000188057</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>03/25(日)</date>
       <title>超有趣的英文單字故事書</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000091774-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000091774</link>
+    </book>
+    <book>
+      <date>03/30(五)</date>
+      <title>打開中國文學史之小說（明朝之前）</title>
+      <price>185</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000082579-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000082579</link>
     </book>
   </preview>
 </book66>
