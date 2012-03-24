@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>03/24(六)</date>
-      <title>我的第一件自然風手作服：一天就可完...</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000188057-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000188057</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>03/25(日)</date>
       <title>超有趣的英文單字故事書</title>
       <price>132</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000099971-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000099971</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>03/26(一)</date>
       <title>K 書撇步：讀書有那麼難嗎？</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000082579-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000082579</link>
+    </book>
+    <book>
+      <date>03/31(六)</date>
+      <title>菇，最好吃！</title>
+      <price>124</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000188624-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000188624</link>
     </book>
   </preview>
 </book66>
