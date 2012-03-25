@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>03/25(日)</date>
-      <title>超有趣的英文單字故事書</title>
-      <price>132</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000099971-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000099971</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>03/26(一)</date>
       <title>K 書撇步：讀書有那麼難嗎？</title>
       <price>119</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000188623-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000188623</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>03/27(二)</date>
       <title>這句日語你用對了嗎附（MP3）</title>
@@ -51,6 +44,13 @@
       <price>124</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000188624-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000188624</link>
+    </book>
+    <book>
+      <date>04/01(日)</date>
+      <title>認真感受每一天-教你感悟真理的3分鐘...</title>
+      <price>132</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000117474-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000117474</link>
     </book>
   </preview>
 </book66>
