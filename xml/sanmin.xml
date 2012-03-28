@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>03/28(三)</date>
+      <date>03/29(四)</date>
       <title>漢字圖解1000例</title>
       <price>284</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962075587.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>03/29(四)</date>
-      <title>古風歐陸麵包</title>
-      <price>290</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962144450.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002578883</link>
-    </book>
     <book>
       <date>03/30(五)</date>
       <title>秒殺煩惱：別讓小事毀了你的好事</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986861425.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001629173</link>
+    </book>
+    <book>
+      <date>04/04(三)</date>
+      <title>死時誰為你哭泣：101則以終為始的人生智...</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986861424.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001415696</link>
     </book>
   </preview>
 </book66>
