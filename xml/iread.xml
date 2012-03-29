@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>03/29(四)</date>
-      <title>我的第一支外幣會賺錢：超簡單圖解理...</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000091774-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000091774</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>03/30(五)</date>
       <title>打開中國文學史之小說（明朝之前）</title>
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000082579-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000082579</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>03/31(六)</date>
       <title>菇，最好吃！</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000189695-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000189695</link>
+    </book>
+    <book>
+      <date>04/05(四)</date>
+      <title>一天看完的英文文法：馬上看，馬上會...</title>
+      <price>164</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000103268-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000103268</link>
     </book>
   </preview>
 </book66>

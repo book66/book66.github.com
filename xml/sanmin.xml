@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>03/29(四)</date>
+      <date>03/30(五)</date>
       <title>古風歐陸麵包</title>
       <price>290</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962144450.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>03/30(五)</date>
-      <title>秒殺煩惱：別讓小事毀了你的好事</title>
-      <price>152</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185472.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001271004</link>
-    </book>
     <book>
       <date>03/31(六)</date>
       <title>12星座人生全攻略</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986861424.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001415696</link>
+    </book>
+    <book>
+      <date>04/05(四)</date>
+      <title>找回失落的自己：黃庭禪開啟一生的寧靜與自...</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986861427.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002519102</link>
     </book>
   </preview>
 </book66>
