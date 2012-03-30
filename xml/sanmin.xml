@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>03/30(五)</date>
+      <date>03/31(六)</date>
       <title>秒殺煩惱：別讓小事毀了你的好事</title>
       <price>152</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185472.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>03/31(六)</date>
-      <title>12星座人生全攻略</title>
-      <price>165</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986613867.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002745221</link>
-    </book>
     <book>
       <date>04/01(日)</date>
       <title>死守現金公司不會倒</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986861427.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002519102</link>
+    </book>
+    <book>
+      <date>04/06(五)</date>
+      <title>讀500字換一生平心靜氣： 絕妙雙經典，...</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986874325.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002708571</link>
     </book>
   </preview>
 </book66>
