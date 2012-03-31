@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>03/31(六)</date>
+      <date>04/01(日)</date>
       <title>12星座人生全攻略</title>
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986613867.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>04/01(日)</date>
-      <title>死守現金公司不會倒</title>
-      <price>172</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986636363.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001313346</link>
-    </book>
     <book>
       <date>04/02(一)</date>
       <title>糖尿病飲食筆記：食在要了解的100件事</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986874325.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002708571</link>
+    </book>
+    <book>
+      <date>04/07(六)</date>
+      <title>天邊</title>
+      <price>198</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986609413.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002590645</link>
     </book>
   </preview>
 </book66>
