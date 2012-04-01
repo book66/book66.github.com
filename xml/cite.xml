@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/01(日)</date>
-      <title>時光如此輕柔：愛上莎士比亞書店的理由</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2045.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=20774</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/02(一)</date>
       <title>社會新鮮人的第一本「管理學」教科書</title>
       <price>178</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0440.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21464</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/03(二)</date>
       <title>時間漩渦</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7054.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21529</link>
+    </book>
+    <book>
+      <date>04/08(日)</date>
+      <title>佛陀的幸福課：教你療癒傷痛、轉化負面情緒...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ2034.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=20490</link>
     </book>
   </preview>
 </book66>
