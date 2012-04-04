@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>04/04(三)</date>
+      <date>04/05(四)</date>
       <title>死時誰為你哭泣：101則以終為始的人生智...</title>
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986861424.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>04/05(四)</date>
-      <title>找回失落的自己：黃庭禪開啟一生的寧靜與自...</title>
-      <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986861427.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002519102</link>
-    </book>
     <book>
       <date>04/06(五)</date>
       <title>讀500字換一生平心靜氣： 絕妙雙經典，...</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986874430.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002570165</link>
+    </book>
+    <book>
+      <date>04/11(三)</date>
+      <title>遇見希臘</title>
+      <price>198</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986221239.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000773017</link>
     </book>
   </preview>
 </book66>
