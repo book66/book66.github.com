@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>04/05(四)</date>
+      <date>04/06(五)</date>
       <title>找回失落的自己：黃庭禪開啟一生的寧靜與自...</title>
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986861427.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>04/06(五)</date>
-      <title>讀500字換一生平心靜氣： 絕妙雙經典，...</title>
-      <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986874325.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002708571</link>
-    </book>
     <book>
       <date>04/07(六)</date>
       <title>天邊</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986221239.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000773017</link>
+    </book>
+    <book>
+      <date>04/12(四)</date>
+      <title>數學女孩：費瑪最後定理</title>
+      <price>224</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986609701.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002521234</link>
     </book>
   </preview>
 </book66>

@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/05(四)</date>
-      <title>一天看完的英文文法：馬上看，馬上會...</title>
-      <price>164</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000103268-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000103268</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/06(五)</date>
       <title>這樣做就對了：老總教你改變職場地位...</title>
       <price>132</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000119686-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000119686</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/07(六)</date>
       <title>無創傷的自然療法：對症足部按摩</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000190364-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000190364</link>
+    </book>
+    <book>
+      <date>04/12(四)</date>
+      <title>心臟病居家保命自救手冊：最新治療與...</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000128740-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000128740</link>
     </book>
   </preview>
 </book66>
