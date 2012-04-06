@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/06(五)</date>
-      <title>我們最幸福：北韓人民的真實生活</title>
-      <price>263</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1008.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=19302</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/07(六)</date>
       <title>改變人生的持續術</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7054.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21529</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/08(日)</date>
       <title>佛陀的幸福課：教你療癒傷痛、轉化負面情緒...</title>
@@ -51,6 +44,13 @@
       <price>329</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0047.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=20257</link>
+    </book>
+    <book>
+      <date>04/13(五)</date>
+      <title>愛孩子，不必談條件：美國教育專家的反傳統...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3043.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=19504</link>
     </book>
   </preview>
 </book66>

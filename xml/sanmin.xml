@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>04/06(五)</date>
+      <date>04/07(六)</date>
       <title>讀500字換一生平心靜氣： 絕妙雙經典，...</title>
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986874325.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>04/07(六)</date>
-      <title>天邊</title>
-      <price>198</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986609413.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002590645</link>
-    </book>
     <book>
       <date>04/08(日)</date>
       <title>寶貝孩子的親子瑜伽</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986609701.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002521234</link>
+    </book>
+    <book>
+      <date>04/13(五)</date>
+      <title>甜死你</title>
+      <price>211</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986864589.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002635045</link>
     </book>
   </preview>
 </book66>
