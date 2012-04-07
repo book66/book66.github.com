@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/07(六)</date>
-      <title>天邊</title>
-      <price>198</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986609413.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002590645</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/08(日)</date>
       <title>寶貝孩子的親子瑜伽</title>
       <price>211</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986636379.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001414490</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/09(一)</date>
       <title>順時養生料理書</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986864589.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002635045</link>
+    </book>
+    <book>
+      <date>04/14(六)</date>
+      <title>味覺的旅行</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986221229.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000769430</link>
     </book>
   </preview>
 </book66>

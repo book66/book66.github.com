@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/07(六)</date>
-      <title>改變人生的持續術</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7054.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=21529</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/08(日)</date>
       <title>佛陀的幸福課：教你療癒傷痛、轉化負面情緒...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ2034.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=20490</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/09(一)</date>
       <title>青花瓷的故事</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3043.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19504</link>
+    </book>
+    <book>
+      <date>04/14(六)</date>
+      <title>來自咖啡產地的急件：9個國家X4萬公里，...</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FS0019.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=20379</link>
     </book>
   </preview>
 </book66>
