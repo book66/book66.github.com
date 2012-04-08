@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>04/08(日)</date>
+      <date>04/09(一)</date>
       <title>寶貝孩子的親子瑜伽</title>
       <price>211</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986636379.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>04/09(一)</date>
-      <title>順時養生料理書</title>
-      <price>165</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/207033100.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000701127</link>
-    </book>
     <book>
       <date>04/10(二)</date>
       <title>賽德克巴萊：史實全紀錄</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986221229.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000769430</link>
+    </book>
+    <book>
+      <date>04/15(日)</date>
+      <title>癌症有救了：「非常識醫學」的癌症療法</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986609729.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002692592</link>
     </book>
   </preview>
 </book66>
