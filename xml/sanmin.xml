@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>04/09(一)</date>
+      <date>04/10(二)</date>
       <title>順時養生料理書</title>
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/207033100.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>04/10(二)</date>
-      <title>賽德克巴萊：史實全紀錄</title>
-      <price>172</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986874430.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002570165</link>
-    </book>
     <book>
       <date>04/11(三)</date>
       <title>遇見希臘</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986609729.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002692592</link>
+    </book>
+    <book>
+      <date>04/16(一)</date>
+      <title>我的第一本手作羊毛氈－FUN手作4</title>
+      <price>165</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986708594.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000590658</link>
     </book>
   </preview>
 </book66>
