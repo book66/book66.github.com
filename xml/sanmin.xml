@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>04/12(四)</date>
+      <date>04/13(五)</date>
       <title>數學女孩：費瑪最後定理</title>
       <price>224</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986609701.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>04/13(五)</date>
-      <title>甜死你</title>
-      <price>211</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986864589.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002635045</link>
-    </book>
     <book>
       <date>04/14(六)</date>
       <title>味覺的旅行</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986271093.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002555523</link>
+    </book>
+    <book>
+      <date>04/19(四)</date>
+      <title>犧牲石</title>
+      <price>251</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185663.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002697104</link>
     </book>
   </preview>
 </book66>
