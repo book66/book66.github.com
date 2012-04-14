@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/14(六)</date>
-      <title>來自咖啡產地的急件：9個國家X4萬公里，...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FS0019.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=20379</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/15(日)</date>
       <title>我無罪</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5041.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=20698</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/16(一)</date>
       <title>失去你以後</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2228.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21019</link>
+    </book>
+    <book>
+      <date>04/21(六)</date>
+      <title>人生的第一本杜拉克</title>
+      <price>178</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7053.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=19639</link>
     </book>
   </preview>
 </book66>
