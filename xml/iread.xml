@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/14(六)</date>
-      <title>新素食主義</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000190362-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000190362</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/15(日)</date>
       <title>犯錯的勇氣：當你發現錯誤時，你就是...</title>
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000091911-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000091911</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/16(一)</date>
       <title>想說就會說的表達力</title>
@@ -51,6 +44,13 @@
       <price>217</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000180683-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000180683</link>
+    </book>
+    <book>
+      <date>04/21(六)</date>
+      <title>這一餐一鍋搞定：60 道無油煙的素食...</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000190879-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000190879</link>
     </book>
   </preview>
 </book66>
