@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/16(一)</date>
-      <title>失去你以後</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0007.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=18262</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/17(二)</date>
       <title>這樣吃水最有效</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0173.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19347</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/18(三)</date>
       <title>內觀瑜伽：結合禪修與中醫的療癒之道</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0060.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19194</link>
+    </book>
+    <book>
+      <date>04/23(一)</date>
+      <title>再沒錢也存得出一桶金：不用省吃儉用，讓存...</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RO1012X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=20074</link>
     </book>
   </preview>
 </book66>
