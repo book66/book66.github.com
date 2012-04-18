@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>04/18(三)</date>
+      <date>04/19(四)</date>
       <title>變身後天美女應該這樣做：美白、養顏、瘦身...</title>
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986271093.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>04/19(四)</date>
-      <title>犧牲石</title>
-      <price>251</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185663.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002697104</link>
-    </book>
     <book>
       <date>04/20(五)</date>
       <title>圖解唐卡</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185648.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002635596</link>
+    </book>
+    <book>
+      <date>04/25(三)</date>
+      <title>我的愛情，我說了算！</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185511.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001367400</link>
     </book>
   </preview>
 </book66>
