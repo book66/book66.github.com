@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/19(四)</date>
-      <title>題目很簡單，不過你會嗎？        ...</title>
-      <price>131</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000135166-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000135166</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/20(五)</date>
       <title>一個人用英文去旅行（附贈一個人用英...</title>
       <price>217</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000180683-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000180683</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/21(六)</date>
       <title>這一餐一鍋搞定：60 道無油煙的素食...</title>
@@ -51,6 +44,13 @@
       <price>383</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000191622-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000191622</link>
+    </book>
+    <book>
+      <date>04/26(四)</date>
+      <title>日本小學生的第一本日文文法書</title>
+      <price>197</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000176598-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000176598</link>
     </book>
   </preview>
 </book66>

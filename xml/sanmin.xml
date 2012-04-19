@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>04/19(四)</date>
+      <date>04/20(五)</date>
       <title>犧牲石</title>
       <price>251</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185663.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>04/20(五)</date>
-      <title>圖解唐卡</title>
-      <price>251</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986626671.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002745297</link>
-    </book>
     <book>
       <date>04/21(六)</date>
       <title>京都岔路－換空間3</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185511.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001367400</link>
+    </book>
+    <book>
+      <date>04/26(四)</date>
+      <title>風格的要素</title>
+      <price>165</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986702574.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002706345</link>
     </book>
   </preview>
 </book66>

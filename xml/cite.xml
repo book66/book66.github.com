@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/19(四)</date>
-      <title>如何成為頂尖設計師（全新修訂版）</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VQ0022.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=18917</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/20(五)</date>
       <title>投資名嘴沒教，但是你應該要懂的31個關鍵...</title>
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2228.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21019</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/21(六)</date>
       <title>人生的第一本杜拉克</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1005.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=17889</link>
+    </book>
+    <book>
+      <date>04/26(四)</date>
+      <title>窗，光與風與人的對話</title>
+      <price>329</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FI1016.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=20921</link>
     </book>
   </preview>
 </book66>
