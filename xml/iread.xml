@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/21(六)</date>
-      <title>這一餐一鍋搞定：60 道無油煙的素食...</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000190879-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000190879</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/22(日)</date>
       <title>做你生命的主角</title>
       <price>132</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000117470-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000117470</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/23(一)</date>
       <title>懂的人都不說的社交心理詭計</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000119478-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000119478</link>
+    </book>
+    <book>
+      <date>04/28(六)</date>
+      <title>我猜！他下一步會這麼做</title>
+      <price>119</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000086807-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000086807</link>
     </book>
   </preview>
 </book66>

@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>04/21(六)</date>
+      <date>04/22(日)</date>
       <title>京都岔路－換空間3</title>
       <price>211</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986673267.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>04/22(日)</date>
-      <title>靈癒力：學會解讀靈界的訊息</title>
-      <price>211</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986609710.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002522215</link>
-    </book>
     <book>
       <date>04/23(一)</date>
       <title>不吃藥的天然排毒法！</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986664872.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000918200</link>
+    </book>
+    <book>
+      <date>04/28(六)</date>
+      <title>超逼真～動物園摺紙</title>
+      <price>165</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986636017.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001203130</link>
     </book>
   </preview>
 </book66>
