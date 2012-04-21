@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/21(六)</date>
-      <title>人生的第一本杜拉克</title>
-      <price>178</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7053.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=19639</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/22(日)</date>
       <title>與靈共存：一位靈魂療癒師讓亡者好走、生者...</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0060.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19194</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/23(一)</date>
       <title>再沒錢也存得出一桶金：不用省吃儉用，讓存...</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX1051.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21578</link>
+    </book>
+    <book>
+      <date>04/28(六)</date>
+      <title>神秘禮物：一段關於傷痛與救贖的真實紀事</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MA029.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=21518</link>
     </book>
   </preview>
 </book66>
