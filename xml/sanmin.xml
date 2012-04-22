@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>04/22(日)</date>
+      <date>04/23(一)</date>
       <title>靈癒力：學會解讀靈界的訊息</title>
       <price>211</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986609710.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>04/23(一)</date>
-      <title>不吃藥的天然排毒法！</title>
-      <price>198</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986271095.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002560503</link>
-    </book>
     <book>
       <date>04/24(二)</date>
       <title>我的男友是爛軟人：一個我與爛軟人365天...</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986636017.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001203130</link>
+    </book>
+    <book>
+      <date>04/29(日)</date>
+      <title>高更的原始之夢</title>
+      <price>323</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986868155.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001513630</link>
     </book>
   </preview>
 </book66>
