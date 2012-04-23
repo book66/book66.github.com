@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>04/23(一)</date>
+      <date>04/24(二)</date>
       <title>不吃藥的天然排毒法！</title>
       <price>198</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986271095.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>04/24(二)</date>
-      <title>我的男友是爛軟人：一個我與爛軟人365天...</title>
-      <price>158</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185648.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002635596</link>
-    </book>
     <book>
       <date>04/25(三)</date>
       <title>我的愛情，我說了算！</title>
@@ -51,6 +44,13 @@
       <price>323</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986868155.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001513630</link>
+    </book>
+    <book>
+      <date>04/30(一)</date>
+      <title>今天開始動手學種菜</title>
+      <price>211</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986664898.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001077623</link>
     </book>
   </preview>
 </book66>
