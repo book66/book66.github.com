@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/26(四)</date>
-      <title>窗，光與風與人的對話</title>
-      <price>329</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FI1016.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=20921</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/27(五)</date>
       <title>寫給我的生活的信</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX1051.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21578</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/28(六)</date>
       <title>神秘禮物：一段關於傷痛與救贖的真實紀事</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2229.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21470</link>
+    </book>
+    <book>
+      <date>05/03(四)</date>
+      <title>宋史可以這樣讀</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH3057.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=21074</link>
     </book>
   </preview>
 </book66>

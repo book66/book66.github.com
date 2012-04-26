@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/26(四)</date>
-      <title>日本小學生的第一本日文文法書</title>
-      <price>197</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000176598-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000176598</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/27(五)</date>
       <title>輕鬆學做50道中式素點心</title>
       <price>158</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000119478-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000119478</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/28(六)</date>
       <title>我猜！他下一步會這麼做</title>
@@ -51,6 +44,13 @@
       <price>230</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000147249-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000147249</link>
+    </book>
+    <book>
+      <date>05/03(四)</date>
+      <title>Kelly的私房口金包</title>
+      <price>251</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000153296-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000153296</link>
     </book>
   </preview>
 </book66>
