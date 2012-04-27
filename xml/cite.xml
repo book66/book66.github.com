@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/27(五)</date>
-      <title>寫給我的生活的信</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX1051.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=21578</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/28(六)</date>
       <title>神秘禮物：一段關於傷痛與救贖的真實紀事</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MA029.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21518</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/29(日)</date>
       <title>習慣改變了，頭腦就會變好：東大生教你的七...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH3057.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21074</link>
+    </book>
+    <book>
+      <date>05/04(五)</date>
+      <title>衣物收納寶典：超實用圖解收納絕技1000...</title>
+      <price>197</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GD143.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=21385</link>
     </book>
   </preview>
 </book66>

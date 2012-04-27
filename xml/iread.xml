@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/27(五)</date>
-      <title>輕鬆學做50道中式素點心</title>
-      <price>158</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000119478-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000119478</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/28(六)</date>
       <title>我猜！他下一步會這麼做</title>
       <price>119</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000086807-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000086807</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/29(日)</date>
       <title>遠離三高很簡單：減脂降糖抗壓全書</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000153296-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000153296</link>
+    </book>
+    <book>
+      <date>05/04(五)</date>
+      <title>3D人體大透視</title>
+      <price>297</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000188107-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000188107</link>
     </book>
   </preview>
 </book66>
