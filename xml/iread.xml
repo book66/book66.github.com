@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/28(六)</date>
-      <title>我猜！他下一步會這麼做</title>
-      <price>119</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000086807-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000086807</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>04/29(日)</date>
       <title>遠離三高很簡單：減脂降糖抗壓全書</title>
       <price>231</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000150982-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000150982</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>04/30(一)</date>
       <title>笑拈蓮花（3）：啟發你智慧的禪學小品</title>
@@ -51,6 +44,13 @@
       <price>297</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000188107-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000188107</link>
+    </book>
+    <book>
+      <date>05/05(六)</date>
+      <title>元貞相法：手相</title>
+      <price>383</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000134121-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000134121</link>
     </book>
   </preview>
 </book66>
