@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>04/29(日)</date>
+      <date>04/30(一)</date>
       <title>高更的原始之夢</title>
       <price>323</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986868155.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>04/30(一)</date>
-      <title>今天開始動手學種菜</title>
-      <price>211</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986664898.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001077623</link>
-    </book>
     <book>
       <date>05/01(二)</date>
       <title>林書豪旋風：Lincredible 17</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986167913.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002715331</link>
+    </book>
+    <book>
+      <date>05/06(日)</date>
+      <title>一杯茶的生活哲學－茶風系列9</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957659432.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000379409</link>
     </book>
   </preview>
 </book66>
