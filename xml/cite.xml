@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>04/30(一)</date>
-      <title>醫院不告訴你的40件事</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0448.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=21639</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>05/01(二)</date>
       <title>越住越有錢：把住家打造成聚寶盆的風水改造...</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OC0055.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=17614</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>05/02(三)</date>
       <title>讓人人都聽你的19堂說服課：從裡到外，你...</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OC0059X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19846</link>
+    </book>
+    <book>
+      <date>05/07(一)</date>
+      <title>她們都不在了</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6415.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=21839</link>
     </book>
   </preview>
 </book66>

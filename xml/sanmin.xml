@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>04/30(一)</date>
+      <date>05/01(二)</date>
       <title>今天開始動手學種菜</title>
       <price>211</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986664898.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>05/01(二)</date>
-      <title>林書豪旋風：Lincredible 17</title>
-      <price>231</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957135532.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002876629</link>
-    </book>
     <book>
       <date>05/02(三)</date>
       <title>臨時會用到的保命常識</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957659432.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000379409</link>
+    </book>
+    <book>
+      <date>05/07(一)</date>
+      <title>六世達賴喇嘛倉央嘉措的情與詩</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957713483.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002618380</link>
     </book>
   </preview>
 </book66>
