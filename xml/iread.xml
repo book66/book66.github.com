@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>05/01(二)</date>
-      <title>血型不同,健康大不同</title>
-      <price>158</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000144938-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000144938</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>05/02(三)</date>
       <title>躺著背單字NEW TOEIC新多益（附防...</title>
       <price>230</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000147249-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000147249</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>05/03(四)</date>
       <title>Kelly的私房口金包</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000080629-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000080629</link>
+    </book>
+    <book>
+      <date>05/08(二)</date>
+      <title>二十幾歲女孩要懂的100件事</title>
+      <price>158</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000136820-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000136820</link>
     </book>
   </preview>
 </book66>
