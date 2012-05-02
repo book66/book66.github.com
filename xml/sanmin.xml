@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>05/02(三)</date>
+      <date>05/03(四)</date>
       <title>臨時會用到的保命常識</title>
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986271118.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>05/03(四)</date>
-      <title>勇者！改變職場與人生的關鍵心態</title>
-      <price>172</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185534.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001413002</link>
-    </book>
     <book>
       <date>05/04(五)</date>
       <title>不可不吃的1600道家常爽口涼菜</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185509.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001338365</link>
+    </book>
+    <book>
+      <date>05/09(三)</date>
+      <title>公司賺錢有這麼難嗎：所有創業家相見恨晚的...</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986874327.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002740096</link>
     </book>
   </preview>
 </book66>
