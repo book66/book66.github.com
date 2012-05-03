@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>05/03(四)</date>
-      <title>Kelly的私房口金包</title>
-      <price>251</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000153296-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000153296</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>05/04(五)</date>
       <title>3D人體大透視</title>
       <price>297</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000188107-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000188107</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>05/05(六)</date>
       <title>元貞相法：手相</title>
@@ -51,6 +44,13 @@
       <price>191</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000156482-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000156482</link>
+    </book>
+    <book>
+      <date>05/10(四)</date>
+      <title>不生病的食譜-免疫力特效食譜100道輕...</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000153301-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000153301</link>
     </book>
   </preview>
 </book66>
