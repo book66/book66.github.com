@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>05/04(五)</date>
+      <date>05/05(六)</date>
       <title>不可不吃的1600道家常爽口涼菜</title>
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986626651.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>05/05(六)</date>
-      <title>幸福陽宅不求人</title>
-      <price>158</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986167913.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002715331</link>
-    </book>
     <book>
       <date>05/06(日)</date>
       <title>一杯茶的生活哲學－茶風系列9</title>
@@ -51,6 +44,13 @@
       <price>429</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/988219420.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002594739</link>
+    </book>
+    <book>
+      <date>05/11(五)</date>
+      <title>賈伯斯：成功創新的12項堅持</title>
+      <price>182</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986874162.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002594728</link>
     </book>
   </preview>
 </book66>

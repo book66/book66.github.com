@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>05/04(五)</date>
-      <title>3D人體大透視</title>
-      <price>297</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000188107-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000188107</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>05/05(六)</date>
       <title>元貞相法：手相</title>
       <price>383</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000134121-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000134121</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>05/06(日)</date>
       <title>我對自己有信心：做好心理建設的3分鐘...</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000153301-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000153301</link>
+    </book>
+    <book>
+      <date>05/11(五)</date>
+      <title>老闆不在家，小心摸到大白鯊</title>
+      <price>132</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000116585-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000116585</link>
     </book>
   </preview>
 </book66>
