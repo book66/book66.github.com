@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>05/05(六)</date>
+      <date>05/06(日)</date>
       <title>幸福陽宅不求人</title>
       <price>158</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986167913.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>05/06(日)</date>
-      <title>一杯茶的生活哲學－茶風系列9</title>
-      <price>172</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957659432.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000379409</link>
-    </book>
     <book>
       <date>05/07(一)</date>
       <title>六世達賴喇嘛倉央嘉措的情與詩</title>
@@ -51,6 +44,13 @@
       <price>182</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986874162.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002594728</link>
+    </book>
+    <book>
+      <date>05/12(六)</date>
+      <title>喝茶找茶玩茶－茶風25</title>
+      <price>198</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957659645.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000580124</link>
     </book>
   </preview>
 </book66>
