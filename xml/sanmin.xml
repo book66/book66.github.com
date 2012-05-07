@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>05/07(一)</date>
+      <date>05/08(二)</date>
       <title>六世達賴喇嘛倉央嘉措的情與詩</title>
       <price>172</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957713483.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>05/08(二)</date>
-      <title>不是路已走到盡頭，而是該轉彎了</title>
-      <price>145</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185509.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001338365</link>
-    </book>
     <book>
       <date>05/09(三)</date>
       <title>公司賺錢有這麼難嗎：所有創業家相見恨晚的...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185601.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002532995</link>
+    </book>
+    <book>
+      <date>05/14(一)</date>
+      <title>老闆不教，卻最看重的80種能力（口袋書）</title>
+      <price>111</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986622462.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002668522</link>
     </book>
   </preview>
 </book66>
