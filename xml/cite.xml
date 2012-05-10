@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>05/10(四)</date>
-      <title>英雄劫：春秋時代南方三國的恩怨情仇</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3047.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=21305</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>05/11(五)</date>
       <title>就是愛住北歐風的家</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GL018.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=20916</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>05/12(六)</date>
       <title>家長學：從5歲到成年的教養之道</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1019.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19488</link>
+    </book>
+    <book>
+      <date>05/17(四)</date>
+      <title>我一直都在</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OT1005.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=21020</link>
     </book>
   </preview>
 </book66>
