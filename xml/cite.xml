@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>05/11(五)</date>
-      <title>就是愛住北歐風的家</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GL018.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=20916</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>05/12(六)</date>
       <title>家長學：從5歲到成年的教養之道</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB112.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=20831</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>05/13(日)</date>
       <title>方舟浩劫</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OT1005.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21020</link>
+    </book>
+    <book>
+      <date>05/18(五)</date>
+      <title>超神奇！腦內物質工作術：7種人人都有的效...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RW2010.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=21007</link>
     </book>
   </preview>
 </book66>
