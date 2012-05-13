@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>05/13(日)</date>
+      <date>05/14(一)</date>
       <title>腳本</title>
       <price>251</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185601.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>05/14(一)</date>
-      <title>老闆不教，卻最看重的80種能力（口袋書）</title>
-      <price>111</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986622462.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002668522</link>
-    </book>
     <book>
       <date>05/15(二)</date>
       <title>照顧離乳寶寶的全方位副食品計畫</title>
@@ -51,6 +44,13 @@
       <price>205</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/988810409.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001654329</link>
+    </book>
+    <book>
+      <date>05/20(日)</date>
+      <title>這樣投資，對？不對？</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986622480.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002740084</link>
     </book>
   </preview>
 </book66>

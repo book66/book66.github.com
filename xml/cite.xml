@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>05/13(日)</date>
-      <title>方舟浩劫</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HB025.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=17409</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>05/14(一)</date>
       <title>好神引導，一拜見效</title>
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OC0060.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=20372</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>05/15(二)</date>
       <title>領導未來的CEO：12堂EMBA名師的管...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2230.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21838</link>
+    </book>
+    <book>
+      <date>05/20(日)</date>
+      <title>諸神之城：伊嵐翠（全新封面）</title>
+      <price>343</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HB004X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=16500</link>
     </book>
   </preview>
 </book66>
