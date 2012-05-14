@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>05/14(一)</date>
+      <date>05/15(二)</date>
       <title>老闆不教，卻最看重的80種能力（口袋書）</title>
       <price>111</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986622462.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>05/15(二)</date>
-      <title>照顧離乳寶寶的全方位副食品計畫</title>
-      <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986626677.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002745298</link>
-    </book>
     <book>
       <date>05/16(三)</date>
       <title>輸贏：業務員的戰爭</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986622480.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002740084</link>
+    </book>
+    <book>
+      <date>05/21(一)</date>
+      <title>文言文原來這麼Easy!</title>
+      <price>238</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986618760.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002727842</link>
     </book>
   </preview>
 </book66>
