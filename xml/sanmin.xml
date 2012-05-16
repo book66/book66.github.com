@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>05/16(三)</date>
+      <date>05/17(四)</date>
       <title>輸贏：業務員的戰爭</title>
       <price>238</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185230.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>05/17(四)</date>
-      <title>老子十八講</title>
-      <price>198</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957145293.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001183939</link>
-    </book>
     <book>
       <date>05/18(五)</date>
       <title>魏晉原來是這麼瘋狂</title>
@@ -51,6 +44,13 @@
       <price>383</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962073409.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002693537</link>
+    </book>
+    <book>
+      <date>05/23(三)</date>
+      <title>剩食</title>
+      <price>323</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962043133.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002578880</link>
     </book>
   </preview>
 </book66>

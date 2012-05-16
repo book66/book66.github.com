@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>05/16(三)</date>
-      <title>你運動對了嗎？：懂得運動健護，穩定核心，...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1019.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=19488</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>05/17(四)</date>
       <title>我一直都在</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OT1005.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21020</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>05/18(五)</date>
       <title>超神奇！腦內物質工作術：7種人人都有的效...</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ2032.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19851</link>
+    </book>
+    <book>
+      <date>05/23(三)</date>
+      <title>在遙遠那方的太陽鳥</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5044.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=21834</link>
     </book>
   </preview>
 </book66>
