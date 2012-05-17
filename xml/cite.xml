@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>05/17(四)</date>
-      <title>我一直都在</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OT1005.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=21020</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>05/18(五)</date>
       <title>超神奇！腦內物質工作術：7種人人都有的效...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RW2010.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21007</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>05/19(六)</date>
       <title>一口氣搞懂外匯市場：無所不在的貨幣，是你...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5044.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21834</link>
+    </book>
+    <book>
+      <date>05/24(四)</date>
+      <title>別讓直覺騙了你：30種減少錯誤，快速解決...</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0069.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=19586</link>
     </book>
   </preview>
 </book66>

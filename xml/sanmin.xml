@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>05/17(四)</date>
+      <date>05/18(五)</date>
       <title>老子十八講</title>
       <price>198</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957145293.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>05/18(五)</date>
-      <title>魏晉原來是這麼瘋狂</title>
-      <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957713487.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002731063</link>
-    </book>
     <book>
       <date>05/19(六)</date>
       <title>美元是張紙</title>
@@ -51,6 +44,13 @@
       <price>323</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962043133.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002578880</link>
+    </book>
+    <book>
+      <date>05/24(四)</date>
+      <title>吃出自癒力！歐陽英教你會吃排宿毒</title>
+      <price>231</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986271124.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002601017</link>
     </book>
   </preview>
 </book66>
