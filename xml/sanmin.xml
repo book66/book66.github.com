@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>05/18(五)</date>
+      <date>05/19(六)</date>
       <title>魏晉原來是這麼瘋狂</title>
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957713487.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>05/19(六)</date>
-      <title>美元是張紙</title>
-      <price>205</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/988810409.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001654329</link>
-    </book>
     <book>
       <date>05/20(日)</date>
       <title>這樣投資，對？不對？</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986271124.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002601017</link>
+    </book>
+    <book>
+      <date>05/25(五)</date>
+      <title>名山靈芽：武夷岩茶</title>
+      <price>165</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957659850.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002543231</link>
     </book>
   </preview>
 </book66>
