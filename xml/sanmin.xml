@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>05/19(六)</date>
+      <date>05/20(日)</date>
       <title>美元是張紙</title>
       <price>205</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/988810409.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>05/20(日)</date>
-      <title>這樣投資，對？不對？</title>
-      <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986622480.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002740084</link>
-    </book>
     <book>
       <date>05/21(一)</date>
       <title>文言文原來這麼Easy!</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957659850.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002543231</link>
+    </book>
+    <book>
+      <date>05/26(六)</date>
+      <title>專業攝影就要這樣玩</title>
+      <price>251</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986605620.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002626954</link>
     </book>
   </preview>
 </book66>
