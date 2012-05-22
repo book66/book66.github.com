@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>05/22(二)</date>
+      <date>05/23(三)</date>
       <title>葉準詠春：木人樁法</title>
       <price>383</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962073409.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>05/23(三)</date>
-      <title>剩食</title>
-      <price>323</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962043133.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002578880</link>
-    </book>
     <book>
       <date>05/24(四)</date>
       <title>吃出自癒力！歐陽英教你會吃排宿毒</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957659485.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000417698</link>
+    </book>
+    <book>
+      <date>05/29(二)</date>
+      <title>用喝的就能瘦！DIY蔬果汁瘦身美顏法</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986271102.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002572946</link>
     </book>
   </preview>
 </book66>
