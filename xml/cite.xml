@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>05/23(三)</date>
-      <title>在遙遠那方的太陽鳥</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5044.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=21834</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>05/24(四)</date>
       <title>別讓直覺騙了你：30種減少錯誤，快速解決...</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0069.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19586</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>05/25(五)</date>
       <title>生命迴旋：潛行生死2322天</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0075.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21435</link>
+    </book>
+    <book>
+      <date>05/30(三)</date>
+      <title>史記菁華錄</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK6025.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=21066</link>
     </book>
   </preview>
 </book66>
