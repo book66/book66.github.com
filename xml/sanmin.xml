@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>05/24(四)</date>
+      <date>05/25(五)</date>
       <title>吃出自癒力！歐陽英教你會吃排宿毒</title>
       <price>231</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986271124.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>05/25(五)</date>
-      <title>名山靈芽：武夷岩茶</title>
-      <price>165</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957659850.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002543231</link>
-    </book>
     <book>
       <date>05/26(六)</date>
       <title>專業攝影就要這樣玩</title>
@@ -51,6 +44,13 @@
       <price>164</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986874741.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002691924</link>
+    </book>
+    <book>
+      <date>05/31(四)</date>
+      <title>糖果心理學02：有怎樣的態度，就有怎樣的...</title>
+      <price>145</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986613852.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002711959</link>
     </book>
   </preview>
 </book66>
