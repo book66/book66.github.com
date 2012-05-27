@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>05/27(日)</date>
+      <date>05/28(一)</date>
       <title>1分鐘讀心術</title>
       <price>145</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986167871.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>05/28(一)</date>
-      <title>雲南普洱茶</title>
-      <price>165</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957659485.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000417698</link>
-    </book>
     <book>
       <date>05/29(二)</date>
       <title>用喝的就能瘦！DIY蔬果汁瘦身美顏法</title>
@@ -51,6 +44,13 @@
       <price>164</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986197338.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001499822</link>
+    </book>
+    <book>
+      <date>06/03(日)</date>
+      <title>禪的智慧大全集</title>
+      <price>238</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986167851.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002694819</link>
     </book>
   </preview>
 </book66>
