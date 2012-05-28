@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>05/28(一)</date>
+      <date>05/29(二)</date>
       <title>雲南普洱茶</title>
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957659485.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>05/29(二)</date>
-      <title>用喝的就能瘦！DIY蔬果汁瘦身美顏法</title>
-      <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986271102.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002572946</link>
-    </book>
     <book>
       <date>05/30(三)</date>
       <title>非學不可的英語單字王</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986167851.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002694819</link>
+    </book>
+    <book>
+      <date>06/04(一)</date>
+      <title>梁啟超說佛</title>
+      <price>165</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986634057.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001477834</link>
     </book>
   </preview>
 </book66>
