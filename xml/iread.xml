@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>05/29(二)</date>
-      <title>監獄天使黃明鎮</title>
-      <price>132</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000133649-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000133649</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>05/30(三)</date>
       <title>歷史上最棒的壞女人</title>
       <price>263</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000121640-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000121640</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>05/31(四)</date>
       <title>第一次學刻橡皮章</title>
@@ -51,6 +44,13 @@
       <price>132</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000083308-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000083308</link>
+    </book>
+    <book>
+      <date>06/05(二)</date>
+      <title>生命是長期而持續的累積：彭明輝談困...</title>
+      <price>198</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000186464-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000186464</link>
     </book>
   </preview>
 </book66>
