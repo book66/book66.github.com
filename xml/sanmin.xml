@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>05/30(三)</date>
+      <date>05/31(四)</date>
       <title>非學不可的英語單字王</title>
       <price>164</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986874741.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>05/31(四)</date>
-      <title>糖果心理學02：有怎樣的態度，就有怎樣的...</title>
-      <price>145</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986613852.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002711959</link>
-    </book>
     <book>
       <date>06/01(五)</date>
       <title>食物配對不生病！菜籃族不可不知的食材宜忌...</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185678.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002741338</link>
+    </book>
+    <book>
+      <date>06/06(三)</date>
+      <title>老子看破沒有說破的潛智慧</title>
+      <price>211</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957713463.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001660891</link>
     </book>
   </preview>
 </book66>
