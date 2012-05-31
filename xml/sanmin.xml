@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>05/31(四)</date>
+      <date>06/01(五)</date>
       <title>糖果心理學02：有怎樣的態度，就有怎樣的...</title>
       <price>145</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986613852.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>06/01(五)</date>
-      <title>食物配對不生病！菜籃族不可不知的食材宜忌...</title>
-      <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986271163.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002726904</link>
-    </book>
     <book>
       <date>06/02(六)</date>
       <title>異宅守護靈套書（共二冊）</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957713463.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001660891</link>
+    </book>
+    <book>
+      <date>06/07(四)</date>
+      <title>天堂與地獄</title>
+      <price>264</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986611121.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001666424</link>
     </book>
   </preview>
 </book66>

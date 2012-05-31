@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>05/31(四)</date>
-      <title>打造設計風樂活庭園</title>
-      <price>263</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VK0021.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=22428</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>06/01(五)</date>
       <title>設計英國</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPF05.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19181</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>06/02(六)</date>
       <title>走進英倫古堡</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AC568.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=22910</link>
+    </book>
+    <book>
+      <date>06/07(四)</date>
+      <title>克服害羞輕鬆說話</title>
+      <price>158</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0016X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=19652</link>
     </book>
   </preview>
 </book66>
