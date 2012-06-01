@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>06/01(五)</date>
-      <title>設計英國</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPF05.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=19181</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>06/02(六)</date>
       <title>走進英倫古堡</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPF03.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=18506</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>06/03(日)</date>
       <title>古都旅攝：嚴選40處老北京與新首都的空間...</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0016X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19652</link>
+    </book>
+    <book>
+      <date>06/08(五)</date>
+      <title>當世界只剩下貓</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPS02.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=23016</link>
     </book>
   </preview>
 </book66>

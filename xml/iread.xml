@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>06/01(五)</date>
-      <title>王道：未來3.0</title>
-      <price>261</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000188514-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000188514</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>06/02(六)</date>
       <title>Cotton Friend 手作誌：我的...</title>
       <price>131</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000136823-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000136823</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>06/03(日)</date>
       <title>看故事學單字so easy！</title>
@@ -51,6 +44,13 @@
       <price>257</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000007537-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000007537</link>
+    </book>
+    <book>
+      <date>06/08(五)</date>
+      <title>打開中國文學史之詩歌</title>
+      <price>197</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000084768-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000084768</link>
     </book>
   </preview>
 </book66>
