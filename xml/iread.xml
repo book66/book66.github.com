@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>06/02(六)</date>
-      <title>Cotton Friend 手作誌：我的...</title>
-      <price>131</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000136823-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000136823</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>06/03(日)</date>
       <title>看故事學單字so easy！</title>
       <price>132</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000100182-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000100182</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>06/04(一)</date>
       <title>魔術方塊高手制霸技</title>
@@ -51,6 +44,13 @@
       <price>197</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000084768-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000084768</link>
+    </book>
+    <book>
+      <date>06/09(六)</date>
+      <title>英語動詞這樣用才對！</title>
+      <price>197</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000082172-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000082172</link>
     </book>
   </preview>
 </book66>
