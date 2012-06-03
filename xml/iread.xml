@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>06/03(日)</date>
-      <title>看故事學單字so easy！</title>
-      <price>132</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000100182-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000100182</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>06/04(一)</date>
       <title>魔術方塊高手制霸技</title>
       <price>132</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000083308-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000083308</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>06/05(二)</date>
       <title>生命是長期而持續的累積：彭明輝談困...</title>
@@ -51,6 +44,13 @@
       <price>197</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000082172-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000082172</link>
+    </book>
+    <book>
+      <date>06/10(日)</date>
+      <title>愛說笑！奇趣笑料分享包</title>
+      <price>112</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000122954-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000122954</link>
     </book>
   </preview>
 </book66>

@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>06/03(日)</date>
+      <date>06/04(一)</date>
       <title>禪的智慧大全集</title>
       <price>238</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986167851.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>06/04(一)</date>
-      <title>梁啟超說佛</title>
-      <price>165</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986634057.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001477834</link>
-    </book>
     <book>
       <date>06/05(二)</date>
       <title>小資女孩該懂的愛情與麵包 ：荷包的品格，...</title>
@@ -51,6 +44,13 @@
       <price>218</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185320.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000775584</link>
+    </book>
+    <book>
+      <date>06/10(日)</date>
+      <title>完全圖解生活の禪</title>
+      <price>145</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986167840.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002620659</link>
     </book>
   </preview>
 </book66>
