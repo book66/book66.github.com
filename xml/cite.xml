@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>06/04(一)</date>
-      <title>日本神樣事典</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI2037.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=22839</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>06/05(二)</date>
       <title>小坪數格局破解100</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GQ301.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=22188</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>06/06(三)</date>
       <title>雲端工作術：Google教我的100個工...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YX0015.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=22362</link>
+    </book>
+    <book>
+      <date>06/11(一)</date>
+      <title>等待美麗</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5046.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=22656</link>
     </book>
   </preview>
 </book66>

@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>06/04(一)</date>
-      <title>魔術方塊高手制霸技</title>
-      <price>132</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000083308-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000083308</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>06/05(二)</date>
       <title>生命是長期而持續的累積：彭明輝談困...</title>
       <price>198</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000186464-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000186464</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>06/06(三)</date>
       <title>瓜．果．筍真好吃！：50 道不同風味...</title>
@@ -51,6 +44,13 @@
       <price>112</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000122954-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000122954</link>
+    </book>
+    <book>
+      <date>06/11(一)</date>
+      <title>靜學姊（典藏版）</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000137002-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000137002</link>
     </book>
   </preview>
 </book66>

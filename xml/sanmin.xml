@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>06/04(一)</date>
+      <date>06/05(二)</date>
       <title>梁啟超說佛</title>
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986634057.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>06/05(二)</date>
-      <title>小資女孩該懂的愛情與麵包 ：荷包的品格，...</title>
-      <price>172</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185678.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002741338</link>
-    </book>
     <book>
       <date>06/06(三)</date>
       <title>老子看破沒有說破的潛智慧</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986167840.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002620659</link>
+    </book>
+    <book>
+      <date>06/11(一)</date>
+      <title>抄經，抄出歡喜自在來</title>
+      <price>158</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986197429.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002681051</link>
     </book>
   </preview>
 </book66>
