@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>06/05(二)</date>
+      <date>06/06(三)</date>
       <title>小資女孩該懂的愛情與麵包 ：荷包的品格，...</title>
       <price>172</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185678.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>06/06(三)</date>
-      <title>老子看破沒有說破的潛智慧</title>
-      <price>211</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957713463.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001660891</link>
-    </book>
     <book>
       <date>06/07(四)</date>
       <title>天堂與地獄</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986197429.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002681051</link>
+    </book>
+    <book>
+      <date>06/12(二)</date>
+      <title>小沙彌說解《心經》</title>
+      <price>165</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957713484.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002669246</link>
     </book>
   </preview>
 </book66>

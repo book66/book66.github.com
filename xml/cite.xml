@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>06/05(二)</date>
-      <title>小坪數格局破解100</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GQ301.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=22188</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>06/06(三)</date>
       <title>雲端工作術：Google教我的100個工...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AC568.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=22910</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>06/07(四)</date>
       <title>克服害羞輕鬆說話</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5046.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=22656</link>
+    </book>
+    <book>
+      <date>06/12(二)</date>
+      <title>台灣街角小旅行：emico的散步地圖</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF205.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=22108</link>
     </book>
   </preview>
 </book66>
