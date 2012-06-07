@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>06/07(四)</date>
-      <title>天堂與地獄</title>
-      <price>264</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986611121.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001666424</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>06/08(五)</date>
       <title>隨翻隨查！中藥蔬果養生速查圖典</title>
       <price>211</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986271183.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002749223</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>06/09(六)</date>
       <title>就是不進連鎖店：100天沒有連鎖店的旅程</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185666.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002728772</link>
+    </book>
+    <book>
+      <date>06/14(四)</date>
+      <title>懶人也能成為家事王：省時省力的超效清潔術</title>
+      <price>125</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986271173.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002742220</link>
     </book>
   </preview>
 </book66>
