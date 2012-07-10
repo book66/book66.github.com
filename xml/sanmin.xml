@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2012-07-10</date>
-      <title>一考就上！考公職一定要會的英文文法</title>
-      <price>230</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986271050.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001662814</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2012-07-11</date>
       <title>基礎穴道針灸指南</title>
       <price>396</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986877400.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002700292</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-07-12</date>
       <title>圖解冥想</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986634089.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002790729</link>
+    </book>
+    <book>
+      <date>2012-07-17</date>
+      <title>瑋瑋和他的患癌媽媽</title>
+      <price>231</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962231075.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001680750</link>
     </book>
   </preview>
 </book66>
