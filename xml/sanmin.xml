@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2012-07-21</date>
-      <title>簡單易學的家庭剪髮造型</title>
-      <price>165</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986636065.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002707952</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2012-07-22</date>
       <title>寶寶聰明就這樣簡單</title>
       <price>205</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962890427.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002738794</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-07-25</date>
       <title>世界第一的銷售大師：喬．吉拉德每天在想的...</title>
@@ -44,6 +37,20 @@
       <price>297</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986604735.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002726623</link>
+    </book>
+    <book>
+      <date>2012-07-29</date>
+      <title>活出生命的色彩～阿嬤ㄟ調色盤</title>
+      <price>198</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957285345.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002624634</link>
+    </book>
+    <book>
+      <date>2012-07-30</date>
+      <title>我敢發誓，這本旅遊會話一玩就會！</title>
+      <price>230</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986622470.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002620576</link>
     </book>
   </preview>
 </book66>
