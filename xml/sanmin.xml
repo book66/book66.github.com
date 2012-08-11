@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2012-08-11</date>
-      <title>繪色</title>
-      <price>290</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962042410.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001313898</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2012-08-12</date>
       <title>命運發牌機會出牌</title>
       <price>158</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185004.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000498175</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-08-13</date>
       <title>美食，決定旅行的方向</title>
