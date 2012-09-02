@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2012-09-02</date>
-      <title>牡蠣之書</title>
-      <price>158</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1023.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=22193</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2012-09-03</date>
       <title>老子的幫助</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL4065.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21765</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-09-04</date>
       <title>A KING：某王者</title>
