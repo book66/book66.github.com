@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2012-09-21</date>
-      <title>我的第1本咖啡Book</title>
-      <price>185</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100596380</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100596380</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2012-09-22</date>
       <title>不會日文也能出走日本:直覺式日語說話術</title>
       <price>197</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100609020</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100609020</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-09-23</date>
       <title>百日紅:畫師尋訪江戶怪談之卷</title>
