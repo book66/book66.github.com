@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-09-29</date>
-      <title>王陽明的人生64個感悟</title>
-      <price>158</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957713496.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002993655</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-09-29</date>
       <title>擁抱45℃的天空：愛．關懷．魔術醫生的非...</title>
       <price>178</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185684.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002801249</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-01</date>
       <title>圖解聖經</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986864588.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002584494</link>
+    </book>
+    <book>
+      <date>2012-10-06</date>
+      <title>愛情如戲，全靠演技：全面提升女人戀愛技巧...</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185720.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003026000</link>
     </book>
   </preview>
 </book66>

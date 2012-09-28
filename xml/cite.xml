@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-09-29</date>
-      <title>手作私空間：日式自然風X簡單設計改造</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPP07.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=23771</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-09-29</date>
       <title>舊屋翻新格局破解100例</title>
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GQ302.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23160</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-09-30</date>
       <title>轉轉</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3080.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23633</link>
+    </book>
+    <book>
+      <date>2012-10-05</date>
+      <title>簡單就好，生活可以很德國</title>
+      <price>158</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5068.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=23184</link>
     </book>
   </preview>
 </book66>
