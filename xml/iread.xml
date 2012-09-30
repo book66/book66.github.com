@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2012-09-30</date>
-      <title>毛毛</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000189900-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000189900</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2012-10-01</date>
       <title>失控的邏輯課</title>
       <price>197</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000075990-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000075990</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-02</date>
       <title>狗媽媽的快樂手作班</title>
