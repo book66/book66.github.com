@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-03</date>
-      <title>克萊因壺</title>
-      <price>224</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UP003.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=19179</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-03</date>
       <title>小坪數格局破解100</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GQ301.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=22188</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-04</date>
       <title>神奇的肌筋膜酸痛自療法</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5065.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23147</link>
+    </book>
+    <book>
+      <date>2012-10-09</date>
+      <title>倒錯迴旋曲</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UC035.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=21463</link>
     </book>
   </preview>
 </book66>

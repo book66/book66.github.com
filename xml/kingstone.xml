@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-03</date>
-      <title>就算被討厭，也要勇敢說出來的100句話</title>
-      <price>165</price>
-      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20117/2011770873433/2011770873433b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2011770873433&amp;ACTID=a0708onsale66</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-03</date>
       <title>魔女高校1</title>
       <price>185</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20187/2018740717599/2018740717599b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2018740717599&amp;ACTID=a0708onsale66</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-04</date>
       <title>法醫才看得到的人體奧祕</title>
@@ -51,6 +44,13 @@
       <price>218</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20194/2019476487220/2019476487220b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2019476487220&amp;ACTID=a0708onsale66</link>
+    </book>
+    <book>
+      <date>2012-10-09</date>
+      <title>佐藤可士和的超設計術：一手打造UNIQL...</title>
+      <price>251</price>
+      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20147/2014770082225/2014770082225b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014770082225&amp;ACTID=a0708onsale66</link>
     </book>
   </preview>
 </book66>

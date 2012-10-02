@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-03</date>
-      <title>易經的人生64個感悟</title>
-      <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957713376.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000631321</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-03</date>
       <title>跟著榜首這樣背7,000單字</title>
       <price>230</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986622473.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002691377</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-04</date>
       <title>世界是肥的：生活型態、廣告以及政策背後的...</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957713406.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000764877</link>
+    </book>
+    <book>
+      <date>2012-10-09</date>
+      <title>圖解西藏密宗</title>
+      <price>251</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986626695.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003041078</link>
     </book>
   </preview>
 </book66>
