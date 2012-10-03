@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2012-10-03</date>
+      <date>2012-10-04</date>
       <title>重複的力量：你覺得單調沒成就感的事，卻是...</title>
       <price>172</price>
       <imageUrl>http://addons.books.com.tw/G/001/6/0010550256.jpg</imageUrl>
@@ -10,6 +10,27 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2012-10-01</date>
+      <title>在每個位子上發光：巧用你的工作天賦</title>
+      <price>198</price>
+      <imageUrl>http://addons.books.com.tw/G/001/4/0010547544.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010547544</link>
+    </book>
+    <book>
+      <date>2012-10-02</date>
+      <title>祕密花園</title>
+      <price>257</price>
+      <imageUrl>http://addons.books.com.tw/G/001/1/0010547071.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010547071</link>
+    </book>
+    <book>
+      <date>2012-10-03</date>
+      <title>重複的力量：你覺得單調沒成就感的事，卻是...</title>
+      <price>172</price>
+      <imageUrl>http://addons.books.com.tw/G/001/6/0010550256.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010550256</link>
+    </book>
     <book>
       <date>2012-10-04</date>
       <title>攝影眼的培養</title>
