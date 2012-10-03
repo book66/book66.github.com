@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-04</date>
-      <title>魔女高校1</title>
-      <price>185</price>
-      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20187/2018740717599/2018740717599b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2018740717599&amp;ACTID=a0708onsale66</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-04</date>
       <title>法醫才看得到的人體奧祕</title>
       <price>185</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20139/2013970021584/2013970021584b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2013970021584&amp;ACTID=a0708onsale66</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-05</date>
       <title>歐巴，開動囉～宋米秦的韓式幸福料理</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20147/2014770082225/2014770082225b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014770082225&amp;ACTID=a0708onsale66</link>
+    </book>
+    <book>
+      <date>2012-10-10</date>
+      <title>雲端經濟4強決戰：完全圖解「後PC世界」...</title>
+      <price>238</price>
+      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20148/2014840030316/2014840030316b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014840030316&amp;ACTID=a0708onsale66</link>
     </book>
   </preview>
 </book66>
