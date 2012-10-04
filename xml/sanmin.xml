@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-05</date>
-      <title>世界是肥的：生活型態、廣告以及政策背後的...</title>
-      <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185700.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002967112</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-05</date>
       <title>無上命令：實踐飯水分離陰陽飲食法</title>
       <price>231</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986864588.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002584494</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-06</date>
       <title>愛情如戲，全靠演技：全面提升女人戀愛技巧...</title>
@@ -51,6 +44,13 @@
       <price>197</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986622402.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001384935</link>
+    </book>
+    <book>
+      <date>2012-10-11</date>
+      <title>隨手刻橡皮章，第一顆就上癮 ：可愛印章╳...</title>
+      <price>145</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185719.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003046117</link>
     </book>
   </preview>
 </book66>
