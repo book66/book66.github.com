@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-06</date>
-      <title>歐巴，開動囉～宋米秦的韓式幸福料理</title>
-      <price>231</price>
-      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20142/2014270925008/2014270925008b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014270925008&amp;ACTID=a0708onsale66</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-06</date>
       <title>開始讀日本戰國史的第一本書</title>
       <price>224</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20173/2017310083638/2017310083638b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2017310083638&amp;ACTID=a0708onsale66</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-07</date>
       <title>用台灣好物，過幸福生活！（隨書贈送「台灣...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20149/2014960310985/2014960310985b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014960310985&amp;ACTID=a0708onsale66</link>
+    </book>
+    <book>
+      <date>2012-10-12</date>
+      <title>帶不回家</title>
+      <price>185</price>
+      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20185/2018576841253/2018576841253b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2018576841253&amp;ACTID=a0708onsale66</link>
     </book>
   </preview>
 </book66>
