@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-07</date>
-      <title>愛情如戲，全靠演技：全面提升女人戀愛技巧...</title>
-      <price>172</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185720.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003026000</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-07</date>
       <title>厚黑學大全壹：絕處逢生處世篇</title>
       <price>198</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957713405.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000755836</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-08</date>
       <title>厚黑學大全貳：舌燦蓮花口才篇</title>
@@ -51,6 +44,13 @@
       <price>297</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986626623.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001384515</link>
+    </book>
+    <book>
+      <date>2012-10-13</date>
+      <title>想要成交，拿出你的口袋名單：銷售翻五倍、...</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185704.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002982016</link>
     </book>
   </preview>
 </book66>
