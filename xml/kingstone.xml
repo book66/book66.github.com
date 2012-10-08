@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-09</date>
-      <title>如何畫得有意思?這樣學才好玩，畫得容易、...</title>
-      <price>218</price>
-      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20194/2019476487220/2019476487220b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2019476487220&amp;ACTID=a0708onsale66</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-09</date>
       <title>佐藤可士和的超設計術：一手打造UNIQL...</title>
       <price>251</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20147/2014770082225/2014770082225b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014770082225&amp;ACTID=a0708onsale66</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-10</date>
       <title>雲端經濟4強決戰：完全圖解「後PC世界」...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20141/2014130323432/2014130323432b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014130323432&amp;ACTID=a0708onsale66</link>
+    </book>
+    <book>
+      <date>2012-10-15</date>
+      <title>這樣吃，全身疼痛都消失：終結一輩子的不舒...</title>
+      <price>231</price>
+      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20141/2014150325102/2014150325102b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014150325102&amp;ACTID=a0708onsale66</link>
     </book>
   </preview>
 </book66>
