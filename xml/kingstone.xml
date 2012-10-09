@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-10</date>
-      <title>佐藤可士和的超設計術：一手打造UNIQL...</title>
-      <price>251</price>
-      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20147/2014770082225/2014770082225b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014770082225&amp;ACTID=a0708onsale66</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-10</date>
       <title>雲端經濟4強決戰：完全圖解「後PC世界」...</title>
       <price>238</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20148/2014840030316/2014840030316b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014840030316&amp;ACTID=a0708onsale66</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-11</date>
       <title>顧客爽快掏錢術：商品不打折卻賣得好的經營...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20141/2014150325102/2014150325102b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014150325102&amp;ACTID=a0708onsale66</link>
+    </book>
+    <book>
+      <date>2012-10-16</date>
+      <title>克萊兒說英文文法</title>
+      <price>197</price>
+      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20180/2018052415428/2018052415428b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2018052415428&amp;ACTID=a0708onsale66</link>
     </book>
   </preview>
 </book66>
