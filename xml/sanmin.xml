@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-13</date>
-      <title>圖解易經智慧寶典：精解64卦384爻</title>
-      <price>297</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986626623.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001384515</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-13</date>
       <title>想要成交，拿出你的口袋名單：銷售翻五倍、...</title>
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185704.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002982016</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-14</date>
       <title>圖解三國演義</title>
@@ -51,6 +44,13 @@
       <price>218</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957135512.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002807495</link>
+    </book>
+    <book>
+      <date>2012-10-19</date>
+      <title>行到水窮處</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957444810.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002738706</link>
     </book>
   </preview>
 </book66>

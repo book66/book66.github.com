@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-13</date>
-      <title>伊斯坦堡假期</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUC031.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=23481</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-13</date>
       <title>絕對領域</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPO12.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24275</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-14</date>
       <title>蜘蛛男</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA1064X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23898</link>
+    </book>
+    <book>
+      <date>2012-10-19</date>
+      <title>新娘（全新中譯本）</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OG0009.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=21947</link>
     </book>
   </preview>
 </book66>

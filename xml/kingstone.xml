@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-13</date>
-      <title>帶不回家</title>
-      <price>185</price>
-      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20185/2018576841253/2018576841253b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2018576841253&amp;ACTID=a0708onsale66</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-13</date>
       <title>M.E.T.能量敲打功：風靡德國20萬人...</title>
       <price>211</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20241/2024130334284/2024130334284b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2024130334284&amp;ACTID=a0708onsale66</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-14</date>
       <title>名媛主廚EMI教你做時尚宴客料理嚴選10...</title>
@@ -51,6 +44,13 @@
       <price>164</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20143/2014350154137/2014350154137b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014350154137&amp;ACTID=a0708onsale66</link>
+    </book>
+    <book>
+      <date>2012-10-19</date>
+      <title>肉魯玩台灣2天1夜私房小旅行</title>
+      <price>165</price>
+      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20173/2017330048976/2017330048976b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2017330048976&amp;ACTID=a0708onsale66</link>
     </book>
   </preview>
 </book66>
