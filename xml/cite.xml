@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-14</date>
-      <title>絕對領域</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPO12.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=24275</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-14</date>
       <title>蜘蛛男</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UU007.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=17879</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-15</date>
       <title>省錢修繕DIY全書</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OG0009.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21947</link>
+    </book>
+    <book>
+      <date>2012-10-20</date>
+      <title>貓咪使用手冊</title>
+      <price>145</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YC6002.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=23532</link>
     </book>
   </preview>
 </book66>

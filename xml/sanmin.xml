@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-14</date>
-      <title>想要成交，拿出你的口袋名單：銷售翻五倍、...</title>
-      <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185704.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002982016</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-14</date>
       <title>圖解三國演義</title>
       <price>251</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986853860.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000927395</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-15</date>
       <title>此生必學丹田拍打功：練氣養生原理實證大公...</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957444810.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002738706</link>
+    </book>
+    <book>
+      <date>2012-10-20</date>
+      <title>嫵媚（增訂新版）</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957444817.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002810215</link>
     </book>
   </preview>
 </book66>

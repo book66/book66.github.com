@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-14</date>
-      <title>M.E.T.能量敲打功：風靡德國20萬人...</title>
-      <price>211</price>
-      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20241/2024130334284/2024130334284b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2024130334284&amp;ACTID=a0708onsale66</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-14</date>
       <title>名媛主廚EMI教你做時尚宴客料理嚴選10...</title>
       <price>198</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20142/2014270936387/2014270936387b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014270936387&amp;ACTID=a0708onsale66</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-15</date>
       <title>這樣吃，全身疼痛都消失：終結一輩子的不舒...</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20173/2017330048976/2017330048976b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2017330048976&amp;ACTID=a0708onsale66</link>
+    </book>
+    <book>
+      <date>2012-10-20</date>
+      <title>凱妞BUY首爾</title>
+      <price>198</price>
+      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20173/2017320010761/2017320010761b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2017320010761&amp;ACTID=a0708onsale66</link>
     </book>
   </preview>
 </book66>
