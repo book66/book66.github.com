@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-15</date>
-      <title>蜘蛛男</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UU007.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=17879</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-15</date>
       <title>省錢修繕DIY全書</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GD144.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23796</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-16</date>
       <title>欺騙的種子：揭發政府不想面對、企業不讓你...</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YC6002.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23532</link>
+    </book>
+    <book>
+      <date>2012-10-21</date>
+      <title>京都‧大阪‧神戶手作工藝雜貨坊：私藏特色...</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPT06.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=24820</link>
     </book>
   </preview>
 </book66>
