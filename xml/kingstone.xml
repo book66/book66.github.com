@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-16</date>
-      <title>這樣吃，全身疼痛都消失：終結一輩子的不舒...</title>
-      <price>231</price>
-      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20141/2014150325102/2014150325102b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014150325102&amp;ACTID=a0708onsale66</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-16</date>
       <title>克萊兒說英文文法</title>
       <price>197</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20180/2018052415428/2018052415428b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2018052415428&amp;ACTID=a0708onsale66</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-17</date>
       <title>愛上旅行的理由</title>
@@ -51,6 +44,13 @@
       <price>197</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20117/2011770878773/2011770878773b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2011770878773&amp;ACTID=a0708onsale66</link>
+    </book>
+    <book>
+      <date>2012-10-22</date>
+      <title>此生必去！台灣山林旅遊秘境：森呼吸的身心...</title>
+      <price>164</price>
+      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20173/2017330043636/2017330043636b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2017330043636&amp;ACTID=a0708onsale66</link>
     </book>
   </preview>
 </book66>
