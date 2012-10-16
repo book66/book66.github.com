@@ -3,34 +3,13 @@
   <today>
     <book>
       <date>2012-10-17</date>
-      <title>房間裡的小奇蹟</title>
-      <price>191</price>
-      <imageUrl>http://addons.books.com.tw/G/001/3/0010545333.jpg</imageUrl>
-      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010545333</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-15</date>
-      <title>臨場說話的技術：年收3千萬，日本人氣講師...</title>
-      <price>165</price>
-      <imageUrl>http://addons.books.com.tw/G/001/2/0010550592.jpg</imageUrl>
-      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010550592</link>
-    </book>
-    <book>
-      <date>2012-10-16</date>
-      <title>房間裡的小奇蹟</title>
-      <price>191</price>
-      <imageUrl>http://addons.books.com.tw/G/001/3/0010545333.jpg</imageUrl>
-      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010545333</link>
-    </book>
-    <book>
-      <date>2012-10-17</date>
       <title>祕密</title>
       <price>165</price>
       <imageUrl>http://addons.books.com.tw/G/001/4/0010369914.jpg</imageUrl>
       <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010369914</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-18</date>
       <title>啟發每個人的數學小書：愛因斯坦愉悅推薦，...</title>

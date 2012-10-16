@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-17</date>
-      <title>活化體內酵素：擊退疾病與不怕冷的健康法</title>
-      <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986679846.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002810226</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-17</date>
       <title>地理課沒教的事：用Google Eart...</title>
       <price>198</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957135519.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002841562</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-18</date>
       <title>吃當季盛產，最好！</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986272165.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002999436</link>
+    </book>
+    <book>
+      <date>2012-10-23</date>
+      <title>下一站</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957444813.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002810214</link>
     </book>
   </preview>
 </book66>
