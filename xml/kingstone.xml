@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-18</date>
-      <title>愛上旅行的理由</title>
-      <price>263</price>
-      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20171/2017190033129/2017190033129b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2017190033129&amp;ACTID=a0708onsale66</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-18</date>
       <title>讓全家人遠離疾病的100種室內花草</title>
       <price>164</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20143/2014350154137/2014350154137b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014350154137&amp;ACTID=a0708onsale66</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-19</date>
       <title>肉魯玩台灣2天1夜私房小旅行</title>
@@ -51,6 +44,13 @@
       <price>197</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20148/2014830042459/2014830042459b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014830042459&amp;ACTID=a0708onsale66</link>
+    </book>
+    <book>
+      <date>2012-10-24</date>
+      <title>掌握代謝，90%的肥肉會自己消失！</title>
+      <price>197</price>
+      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20141/2014110536241/2014110536241b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014110536241&amp;ACTID=a0708onsale66</link>
     </book>
   </preview>
 </book66>
