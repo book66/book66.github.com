@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-19</date>
-      <title>吃當季盛產，最好！</title>
-      <price>218</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957135512.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002807495</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-19</date>
       <title>行到水窮處</title>
       <price>172</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957444810.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002738706</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-20</date>
       <title>嫵媚（增訂新版）</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957135557.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002993937</link>
+    </book>
+    <book>
+      <date>2012-10-25</date>
+      <title>社會性動物：愛、性格與成就的來源</title>
+      <price>251</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986272122.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002974982</link>
     </book>
   </preview>
 </book66>
