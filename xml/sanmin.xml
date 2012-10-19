@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-20</date>
-      <title>行到水窮處</title>
-      <price>172</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957444810.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002738706</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-20</date>
       <title>嫵媚（增訂新版）</title>
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957444817.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002810215</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-21</date>
       <title>90後準記者勇闖北韓</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986272122.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002974982</link>
+    </book>
+    <book>
+      <date>2012-10-26</date>
+      <title>油蔴菜籽</title>
+      <price>165</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957444816.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002738721</link>
     </book>
   </preview>
 </book66>
