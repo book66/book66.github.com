@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-21</date>
-      <title>貓咪使用手冊</title>
-      <price>145</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YC6002.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=23532</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-21</date>
       <title>京都‧大阪‧神戶手作工藝雜貨坊：私藏特色...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPT06.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24820</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-22</date>
       <title>我家就是國際學校：波蘭媽媽X台灣爸爸的地...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH1106X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23139</link>
+    </book>
+    <book>
+      <date>2012-10-27</date>
+      <title>藍眼男孩</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6510.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=23352</link>
     </book>
   </preview>
 </book66>
