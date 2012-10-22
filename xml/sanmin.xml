@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2012-10-22</date>
-      <title>別讓房子毒害你：簡單方法遠離居家健康隱形...</title>
-      <price>211</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986272165.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002999436</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2012-10-23</date>
       <title>下一站</title>
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957444813.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002810214</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-24</date>
       <title>教孩子大膽做夢：終結糖漿課堂</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986272104.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002745324</link>
+    </book>
+    <book>
+      <date>2012-10-29</date>
+      <title>村上春樹雜文集</title>
+      <price>238</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957135503.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002814721</link>
     </book>
   </preview>
 </book66>
