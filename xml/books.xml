@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2012-10-23</date>
+      <date>2012-10-24</date>
       <title>天使的呼喚</title>
       <price>211</price>
       <imageUrl>http://addons.books.com.tw/G/001/9/0010552069.jpg</imageUrl>
@@ -10,6 +10,20 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2012-10-22</date>
+      <title>只用10%的薪水，讓全世界的財富都聽你的...</title>
+      <price>165</price>
+      <imageUrl>http://addons.books.com.tw/G/001/8/0010546148.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010546148</link>
+    </book>
+    <book>
+      <date>2012-10-23</date>
+      <title>天使的呼喚</title>
+      <price>211</price>
+      <imageUrl>http://addons.books.com.tw/G/001/9/0010552069.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010552069</link>
+    </book>
     <book>
       <date>2012-10-24</date>
       <title>The Tools：五大工具把問題變成勇...</title>
