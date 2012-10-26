@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-27</date>
-      <title>油蔴菜籽</title>
-      <price>165</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957444816.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002738721</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-27</date>
       <title>吳寶春嚴選感心好食材</title>
       <price>198</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957135551.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002988073</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-28</date>
       <title>黃帝內經精要解說圖解</title>
