@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-29</date>
-      <title>當世界只剩下貓</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPS02.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=23016</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-29</date>
       <title>意識究竟從何而來？：從神經科學看人類心智...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0101.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23351</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-30</date>
       <title>科技想要什麼</title>

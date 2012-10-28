@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-10-29</date>
-      <title>日本美體教主木式快瘦曲線舞：下班30分...</title>
-      <price>185</price>
-      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20141/2014110549494/2014110549494b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014110549494&amp;ACTID=a0708onsale66</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-10-29</date>
       <title>人生看漲！幸福的黃金筆記本：每一句都足以...</title>
       <price>185</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20187/2018740681135/2018740681135b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2018740681135&amp;ACTID=a0708onsale66</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-10-30</date>
       <title>身體調校聖經：要瘦就瘦，要壯就壯，想睡就...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20180/2018030737337/2018030737337b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2018030737337&amp;ACTID=a0708onsale66</link>
+    </book>
+    <book>
+      <date>2012-11-04</date>
+      <title>減脂肪降血糖低GI飲食全書</title>
+      <price>211</price>
+      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20141/2014110499638/2014110499638b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/Book_Page.asp?KmCode=2014110499638&amp;ACTID=a0708onsale66</link>
     </book>
   </preview>
 </book66>
