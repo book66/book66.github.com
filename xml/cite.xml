@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-01</date>
-      <title>美好永遠的背後</title>
-      <price>218</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0184.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25100</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-01</date>
       <title>原諒</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6416.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24477</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-02</date>
       <title>養生要植根．治病要除根</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RD4052.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23475</link>
+    </book>
+    <book>
+      <date>2012-11-07</date>
+      <title>一張單程機票</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BP1042.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=24415</link>
     </book>
   </preview>
 </book66>
