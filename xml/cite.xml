@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2012-11-01</date>
-      <title>原諒</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6416.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=24477</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2012-11-02</date>
       <title>養生要植根．治病要除根</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD2024.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24340</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-03</date>
       <title>熔爐</title>
