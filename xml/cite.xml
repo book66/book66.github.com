@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-02</date>
-      <title>原諒</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6416.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=24477</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-02</date>
       <title>養生要植根．治病要除根</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD2024.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24340</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-03</date>
       <title>熔爐</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BP1042.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24415</link>
+    </book>
+    <book>
+      <date>2012-11-08</date>
+      <title>二流小說家與殺人狂魔之唯美三連拍</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6511.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=23975</link>
     </book>
   </preview>
 </book66>
