@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-03</date>
-      <title>低成本大電影：專業級電影製作指南</title>
-      <price>231</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962144599.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002693329</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-03</date>
       <title>糖果心理學03：每天5分鐘，學會情緒掌控...</title>
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986613899.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003073710</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-04</date>
       <title>風水</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986878107.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002880933</link>
+    </book>
+    <book>
+      <date>2012-11-09</date>
+      <title>糊塗，是有學問的</title>
+      <price>164</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986595108.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003049704</link>
     </book>
   </preview>
 </book66>

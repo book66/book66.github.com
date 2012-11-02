@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-03</date>
-      <title>養生要植根．治病要除根</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD2024.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=24340</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-03</date>
       <title>熔爐</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RQ7032.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24472</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-04</date>
       <title>別讓房子毒害你：簡單方法遠離居家健康隱形...</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6511.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23975</link>
+    </book>
+    <book>
+      <date>2012-11-09</date>
+      <title>裝潢建材全能百科王：從入門到棈通</title>
+      <price>317</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GA053.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=23584</link>
     </book>
   </preview>
 </book66>
