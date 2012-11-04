@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-05</date>
-      <title>風水</title>
-      <price>198</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986605608.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002579369</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-05</date>
       <title>大學生一定要做的100件事</title>
       <price>145</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986671484.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000900591</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-06</date>
       <title>無敵英語單字速記寶典</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185701.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002991168</link>
+    </book>
+    <book>
+      <date>2012-11-11</date>
+      <title>黃熙</title>
+      <price>197</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986597957.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003091381</link>
     </book>
   </preview>
 </book66>
