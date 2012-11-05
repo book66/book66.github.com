@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-06</date>
-      <title>築地魚市打工的幸福日子</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2049.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=24470</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-06</date>
       <title>17天瘦一圈！吃好動少又快瘦：全美風行，...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RD4052.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23475</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-07</date>
       <title>一張單程機票</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5070.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24480</link>
+    </book>
+    <book>
+      <date>2012-11-12</date>
+      <title>1, 2, 3和＋－×÷的數學旅行：數字...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FQ2008.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=24145</link>
     </book>
   </preview>
 </book66>
