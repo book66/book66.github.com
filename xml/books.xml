@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2012-11-05</date>
+      <date>2012-11-06</date>
       <title>學創意，現在就該懂的事</title>
       <price>211</price>
       <imageUrl>http://addons.books.com.tw/G/001/0/0010553040.jpg</imageUrl>
@@ -10,6 +10,13 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2012-11-05</date>
+      <title>學創意，現在就該懂的事</title>
+      <price>211</price>
+      <imageUrl>http://addons.books.com.tw/G/001/0/0010553040.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010553040</link>
+    </book>
     <book>
       <date>2012-11-06</date>
       <title>一枝鉛筆就能畫：30天一定學會，超有趣又...</title>
