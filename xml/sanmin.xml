@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-07</date>
-      <title>無敵英語單字速記寶典</title>
-      <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986604523.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002926536</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-07</date>
       <title>1000萬人都說有效的輕鬆戒菸法</title>
       <price>198</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185553.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001661084</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-08</date>
       <title>仰望星空</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962070323.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002810220</link>
+    </book>
+    <book>
+      <date>2012-11-13</date>
+      <title>靛藍一點，孩子不難搞：另類幸福處方箋</title>
+      <price>145</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986597964.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003087790</link>
     </book>
   </preview>
 </book66>
