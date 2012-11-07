@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-08</date>
-      <title>1000萬人都說有效的輕鬆戒菸法</title>
-      <price>198</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185553.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001661084</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-08</date>
       <title>仰望星空</title>
       <price>211</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986878107.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002880933</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-09</date>
       <title>糊塗，是有學問的</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986597964.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003087790</link>
+    </book>
+    <book>
+      <date>2012-11-14</date>
+      <title>圖解英語文法大全</title>
+      <price>230</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986695791.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001211464</link>
     </book>
   </preview>
 </book66>
