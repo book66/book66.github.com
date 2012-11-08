@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-09</date>
-      <title>仰望星空</title>
-      <price>211</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986878107.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002880933</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-09</date>
       <title>糊塗，是有學問的</title>
       <price>164</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986595108.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003049704</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-10</date>
       <title>可愛壁貼自己動手做：利用簡單素材，貼出幸...</title>
@@ -51,6 +44,13 @@
       <price>230</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986695791.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001211464</link>
+    </book>
+    <book>
+      <date>2012-11-15</date>
+      <title>洞見最真實的自己：覺醒生命的11個階段</title>
+      <price>231</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957447187.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001247725</link>
     </book>
   </preview>
 </book66>
