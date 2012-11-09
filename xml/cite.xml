@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-10</date>
-      <title>裝潢建材全能百科王：從入門到棈通</title>
-      <price>317</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GA053.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=23584</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-10</date>
       <title>小鎮生活指南</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL1256.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24473</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-11</date>
       <title>從貨幣讀懂世界經濟</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1030.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23930</link>
+    </book>
+    <book>
+      <date>2012-11-16</date>
+      <title>男人肌肉就要這樣練：20天練出肌肉爆發力...</title>
+      <price>263</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1023.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=24144</link>
     </book>
   </preview>
 </book66>
