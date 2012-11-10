@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-11</date>
-      <title>小鎮生活指南</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL1256.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=24473</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-11</date>
       <title>從貨幣讀懂世界經濟</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5070.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24480</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-12</date>
       <title>1, 2, 3和＋－×÷的數學旅行：數字...</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1023.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24144</link>
+    </book>
+    <book>
+      <date>2012-11-17</date>
+      <title>邊走邊想：安藤忠雄永不落幕的建築人生</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MA0028.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=23546</link>
     </book>
   </preview>
 </book66>
