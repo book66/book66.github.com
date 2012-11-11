@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-12</date>
-      <title>Janet的英語遊樂園：不用教科書，英語...</title>
-      <price>238</price>
-      <imageUrl>http://addons.books.com.tw/G/001/6/0010550496.jpg</imageUrl>
-      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010550496</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-12</date>
       <title>大資金潮：大前研一預言新興國家牽動的經濟...</title>
       <price>198</price>
       <imageUrl>http://addons.books.com.tw/G/001/1/0010552011.jpg</imageUrl>
       <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010552011</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-13</date>
       <title>Google英語學習法：8大超越字典、補...</title>
