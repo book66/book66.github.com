@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-13</date>
-      <title>1, 2, 3和＋－×÷的數學旅行：數字...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FQ2008.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=24145</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-13</date>
       <title>血色十字架</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0016.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24150</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-14</date>
       <title>總還有別的辦法</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7040.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24606</link>
+    </book>
+    <book>
+      <date>2012-11-19</date>
+      <title>魚翅與花椒：英國女孩的中國菜歷險記</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1052.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=23933</link>
     </book>
   </preview>
 </book66>
