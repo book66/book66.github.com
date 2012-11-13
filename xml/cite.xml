@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-14</date>
-      <title>血色十字架</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0016.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=24150</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-14</date>
       <title>總還有別的辦法</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3055.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23980</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-15</date>
       <title>世界第一好懂的哲學課：一口氣讀懂15本哲...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1052.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23933</link>
+    </book>
+    <book>
+      <date>2012-11-20</date>
+      <title>邏輯這樣用，才能解決各種難題：結合5大心...</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2239.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=24540</link>
     </book>
   </preview>
 </book66>

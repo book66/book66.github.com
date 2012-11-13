@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-14</date>
-      <title>靛藍一點，孩子不難搞：另類幸福處方箋</title>
-      <price>145</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986597964.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003087790</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-14</date>
       <title>圖解英語文法大全</title>
       <price>230</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986695791.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001211464</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-15</date>
       <title>洞見最真實的自己：覺醒生命的11個階段</title>
@@ -51,6 +44,13 @@
       <price>178</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185710.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002991203</link>
+    </book>
+    <book>
+      <date>2012-11-20</date>
+      <title>窮人天使：看見你所不知道的德蕾莎修女</title>
+      <price>197</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957447240.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003045853</link>
     </book>
   </preview>
 </book66>
