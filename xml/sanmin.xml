@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-16</date>
-      <title>洞見最真實的自己：覺醒生命的11個階段</title>
-      <price>231</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957447187.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001247725</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-16</date>
       <title>中國明星廚師創新菜</title>
       <price>290</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962144783.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002766010</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-17</date>
       <title>九州情濃</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986845015.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003087881</link>
+    </book>
+    <book>
+      <date>2012-11-22</date>
+      <title>寶寶聰明就這樣簡單</title>
+      <price>205</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962890427.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002738794</link>
     </book>
   </preview>
 </book66>
