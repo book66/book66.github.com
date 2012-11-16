@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-17</date>
-      <title>男人肌肉就要這樣練：20天練出肌肉爆發力...</title>
-      <price>263</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1023.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=24144</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-17</date>
       <title>邊走邊想：安藤忠雄永不落幕的建築人生</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MA0028.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23546</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-18</date>
       <title>散步在華爾街的馬克思</title>
@@ -51,6 +44,13 @@
       <price>218</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2048.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23990</link>
+    </book>
+    <book>
+      <date>2012-11-23</date>
+      <title>圖解刮痧全書：不必定位穴點就能有效操作</title>
+      <price>317</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YM2409C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=24261</link>
     </book>
   </preview>
 </book66>
