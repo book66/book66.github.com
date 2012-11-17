@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2012-11-17</date>
-      <title>泰戈爾的詩</title>
-      <price>131</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100179517</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100179517</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2012-11-18</date>
       <title>原來，古羅馬人這樣過日子</title>
       <price>238</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100581511</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100581511</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
