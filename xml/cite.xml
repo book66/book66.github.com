@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-18</date>
-      <title>邊走邊想：安藤忠雄永不落幕的建築人生</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MA0028.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=23546</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-18</date>
       <title>散步在華爾街的馬克思</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7040.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24606</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-19</date>
       <title>魚翅與花椒：英國女孩的中國菜歷險記</title>
@@ -51,6 +44,13 @@
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YM2409C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24261</link>
+    </book>
+    <book>
+      <date>2012-11-24</date>
+      <title>在水裡自由練功：掌握游泳招式、心法，精進...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1022.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=23648</link>
     </book>
   </preview>
 </book66>
