@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-19</date>
-      <title>散步在華爾街的馬克思</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7040.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=24606</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-19</date>
       <title>魚翅與花椒：英國女孩的中國菜歷險記</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1052.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23933</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-20</date>
       <title>邏輯這樣用，才能解決各種難題：結合5大心...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1022.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23648</link>
+    </book>
+    <book>
+      <date>2012-11-25</date>
+      <title>圖解生活中90個財經關鍵詞：看懂這些，就...</title>
+      <price>244</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0469.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=24545</link>
     </book>
   </preview>
 </book66>
