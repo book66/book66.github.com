@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-20</date>
-      <title>改變人生的由右向左筆記術：換個方向寫筆記...</title>
-      <price>178</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185710.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002991203</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-20</date>
       <title>窮人天使：看見你所不知道的德蕾莎修女</title>
       <price>197</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957447240.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003045853</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-21</date>
       <title>我的奇異修佛之旅：觀音佛祖親授新世紀佛法...</title>
@@ -51,6 +44,13 @@
       <price>191</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185723.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003074814</link>
+    </book>
+    <book>
+      <date>2012-11-26</date>
+      <title>英語學習大革命：英文象形字之美</title>
+      <price>243</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957419057.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003059412</link>
     </book>
   </preview>
 </book66>
