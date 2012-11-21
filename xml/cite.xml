@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-22</date>
-      <title>閱讀蒙田，是為了生活</title>
-      <price>317</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7041.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=24546</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-22</date>
       <title>廚房裡的身影：餐桌上的溫暖記憶</title>
       <price>218</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2048.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23990</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-23</date>
       <title>圖解刮痧全書：不必定位穴點就能有效操作</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0017.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24482</link>
+    </book>
+    <book>
+      <date>2012-11-28</date>
+      <title>新領導力：克服危機時代的領導者條件</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0464.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25112</link>
     </book>
   </preview>
 </book66>
