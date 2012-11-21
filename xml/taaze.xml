@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2012-11-21</date>
-      <title>蔬菜之神</title>
-      <price>185</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100603036</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100603036</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2012-11-22</date>
       <title>那年.菸田裡:斗笠.洋巾.花布衫</title>
       <price>251</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100219003</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100219003</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-23</date>
       <title>哲學男子</title>
