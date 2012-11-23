@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-24</date>
-      <title>圖解刮痧全書：不必定位穴點就能有效操作</title>
-      <price>317</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YM2409C.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=24261</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-24</date>
       <title>在水裡自由練功：掌握游泳招式、心法，精進...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1022.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23648</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-25</date>
       <title>圖解生活中90個財經關鍵詞：看懂這些，就...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2173X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24669</link>
+    </book>
+    <book>
+      <date>2012-11-30</date>
+      <title>瞧這些英國佬：英格蘭人的人類學田野報告</title>
+      <price>297</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1030X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=24409</link>
     </book>
   </preview>
 </book66>

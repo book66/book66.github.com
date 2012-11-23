@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-24</date>
-      <title>字首字根字尾放口袋</title>
-      <price>197</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986622474.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002694246</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-24</date>
       <title>精緻慕斯蛋糕</title>
       <price>231</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962144615.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002730792</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-11-25</date>
       <title>100位首爾大生教你考上第一志願的筆記訣...</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185707.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003007470</link>
+    </book>
+    <book>
+      <date>2012-11-30</date>
+      <title>用美國人的方法瘋閱讀：1500萬人大推的...</title>
+      <price>231</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986882351.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003024981</link>
     </book>
   </preview>
 </book66>
