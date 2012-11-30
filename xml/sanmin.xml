@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-01</date>
-      <title>用美國人的方法瘋閱讀：1500萬人大推的...</title>
-      <price>231</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986882351.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003024981</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-12-01</date>
       <title>我的第一本圖解技術分析</title>
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986616355.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002982868</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-12-02</date>
       <title>唯美寫真手帖：攝影師的30個私房台灣拍攝...</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185692.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002801251</link>
+    </book>
+    <book>
+      <date>2012-12-07</date>
+      <title>全世界最有錢的人：猶太人憑什麼有錢</title>
+      <price>158</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986595111.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003092265</link>
     </book>
   </preview>
 </book66>
