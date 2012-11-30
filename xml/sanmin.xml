@@ -3,19 +3,54 @@
   <today>
     <book>
       <date>2012-11-30</date>
-      <title>快樂只有自己能給：42個讓快樂不請自來的...</title>
-      <price>145</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185707.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003007470</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-30</date>
       <title>用美國人的方法瘋閱讀：1500萬人大推的...</title>
       <price>231</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986882351.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003024981</link>
+    </book>
+  </today>
+  <preview>
+    <book>
+      <date>2012-12-01</date>
+      <title>我的第一本圖解技術分析</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986616355.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002982868</link>
+    </book>
+    <book>
+      <date>2012-12-02</date>
+      <title>唯美寫真手帖：攝影師的30個私房台灣拍攝...</title>
+      <price>231</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185679.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002743989</link>
+    </book>
+    <book>
+      <date>2012-12-03</date>
+      <title>別字辨正新版</title>
+      <price>211</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957091828.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000744234</link>
+    </book>
+    <book>
+      <date>2012-12-04</date>
+      <title>公司賺錢有這麼難嗎：所有創業家相見恨晚的...</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986874327.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002740096</link>
+    </book>
+    <book>
+      <date>2012-12-05</date>
+      <title>中國網購大生意</title>
+      <price>224</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962076470.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002623596</link>
+    </book>
+    <book>
+      <date>2012-12-06</date>
+      <title>關於考試，這樣準備就對了：優秀考生都在實...</title>
+      <price>165</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185692.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002801251</link>
     </book>
   </preview>
 </book66>
