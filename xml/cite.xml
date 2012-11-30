@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-11-30</date>
-      <title>&amp;#32118;對不會輸的交涉術：專業律...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2173X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=24669</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-11-30</date>
       <title>瞧這些英國佬：英格蘭人的人類學田野報告</title>
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1030X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24409</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-12-01</date>
       <title>改變你一生的成功法則：神奇的A4思考術</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0018.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25773</link>
+    </book>
+    <book>
+      <date>2012-12-06</date>
+      <title>思考的藝術：52 個非受迫性思考錯誤</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5073.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25704</link>
     </book>
   </preview>
 </book66>
