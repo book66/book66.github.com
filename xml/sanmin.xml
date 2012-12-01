@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-02</date>
-      <title>我的第一本圖解技術分析</title>
-      <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986616355.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002982868</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-12-02</date>
       <title>唯美寫真手帖：攝影師的30個私房台灣拍攝...</title>
       <price>231</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185679.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002743989</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-12-03</date>
       <title>別字辨正新版</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986595111.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003092265</link>
+    </book>
+    <book>
+      <date>2012-12-08</date>
+      <title>空心靈雨</title>
+      <price>205</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962075599.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002740124</link>
     </book>
   </preview>
 </book66>
