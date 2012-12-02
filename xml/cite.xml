@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-03</date>
-      <title>我們的身體，想念野蠻的自然：人體的原始記...</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0102.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=23569</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-12-03</date>
       <title>Evernote超效率數位筆記術</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AC569.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23896</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-12-04</date>
       <title>京都美好散策，Milly的私旅風景：從住...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FS0023.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25700</link>
+    </book>
+    <book>
+      <date>2012-12-09</date>
+      <title>誰來拯救全球經濟？</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0472.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25809</link>
     </book>
   </preview>
 </book66>
