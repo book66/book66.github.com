@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-04</date>
-      <title>別字辨正新版</title>
-      <price>211</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957091828.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000744234</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-12-04</date>
       <title>公司賺錢有這麼難嗎：所有創業家相見恨晚的...</title>
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986874327.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002740096</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-12-05</date>
       <title>中國網購大生意</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185266.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000745081</link>
+    </book>
+    <book>
+      <date>2012-12-10</date>
+      <title>新版實用多音字</title>
+      <price>211</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957091815.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000711117</link>
     </book>
   </preview>
 </book66>
