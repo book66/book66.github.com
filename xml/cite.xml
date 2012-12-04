@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-05</date>
-      <title>京都美好散策，Milly的私旅風景：從住...</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KY0019.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25816</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-12-05</date>
       <title>一個人的朝聖</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0018.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25773</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-12-06</date>
       <title>思考的藝術：52 個非受迫性思考錯誤</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1033.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25611</link>
+    </book>
+    <book>
+      <date>2012-12-11</date>
+      <title>你會管人嗎？輕鬆解決主管最常見的7大困擾</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2192X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25525</link>
     </book>
   </preview>
 </book66>
