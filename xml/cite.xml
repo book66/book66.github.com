@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-06</date>
-      <title>一個人的朝聖</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0018.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25773</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-12-06</date>
       <title>思考的藝術：52 個非受迫性思考錯誤</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5073.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25704</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-12-07</date>
       <title>跟阿嬤學做菜：家傳食譜＆灶腳裡的料理智慧</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2192X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25525</link>
+    </book>
+    <book>
+      <date>2012-12-12</date>
+      <title>《人性的弱點》75周年最新增訂紀念版：改...</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0468.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25769</link>
     </book>
   </preview>
 </book66>
