@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-08</date>
-      <title>全世界最有錢的人：猶太人憑什麼有錢</title>
-      <price>158</price>
-      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986595111.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003092265</link>
+      <title>空心靈雨</title>
+      <price>205</price>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/962075599.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002740124</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2012-12-08</date>
-      <title>空心靈雨</title>
-      <price>205</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962075599.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002740124</link>
-    </book>
     <book>
       <date>2012-12-09</date>
       <title>為什麼聰明人會做糊塗事？</title>
@@ -51,6 +44,13 @@
       <price>264</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/988814812.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002795829</link>
+    </book>
+    <book>
+      <date>2012-12-14</date>
+      <title>歷史的心計</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986595114.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003092266</link>
     </book>
   </preview>
 </book66>
