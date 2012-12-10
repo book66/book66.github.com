@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-11</date>
-      <title>植物看得見你：還聞得到、知道蟲子的Siz...</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1033.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25611</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-12-11</date>
       <title>你會管人嗎？輕鬆解決主管最常見的7大困擾</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2192X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25525</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-12-12</date>
       <title>《人性的弱點》75周年最新增訂紀念版：改...</title>
@@ -51,6 +44,13 @@
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD035.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25489</link>
+    </book>
+    <book>
+      <date>2012-12-17</date>
+      <title>希特勒草莓：屠殺、謊言與良知的歷史戰場（...</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUB001X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26151</link>
     </book>
   </preview>
 </book66>
