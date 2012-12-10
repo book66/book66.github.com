@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2012-12-10</date>
+      <date>2012-12-11</date>
       <title>做了這本書</title>
       <price>165</price>
       <imageUrl>http://addons.books.com.tw/G/001/4/0010555974.jpg</imageUrl>
@@ -10,6 +10,13 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2012-12-10</date>
+      <title>做了這本書</title>
+      <price>165</price>
+      <imageUrl>http://addons.books.com.tw/G/001/4/0010555974.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010555974</link>
+    </book>
     <book>
       <date>2012-12-11</date>
       <title>怪咖時代：小眾勢力崛起，愈怪愈有商機</title>
