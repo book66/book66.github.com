@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-13</date>
-      <title>人性的弱點75周年最新增訂紀念版：改變一...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0468.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25769</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-12-13</date>
       <title>一月光哩的距離</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR5406.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25098</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-12-14</date>
       <title>華頓商學院的高效談判學：讓你成為最好的談...</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YL2022.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25287</link>
+    </book>
+    <book>
+      <date>2012-12-19</date>
+      <title>我在25個城市，遇見的25個人</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0185.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25812</link>
     </book>
   </preview>
 </book66>
