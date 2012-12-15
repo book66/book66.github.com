@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-15</date>
-      <title>華頓商學院的高效談判學：讓你成為最好的談...</title>
-      <price>264</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1095.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25864</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-12-15</date>
       <title>生命的躍升：40億年演化史上最重要的10...</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1236.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24604</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-12-16</date>
       <title>太極黃金分割四季十二時辰養生法</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FI1018.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25286</link>
+    </book>
+    <book>
+      <date>2012-12-21</date>
+      <title>藏在巷弄裡的明朝</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL1258.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=24939</link>
     </book>
   </preview>
 </book66>
