@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-16</date>
-      <title>生命的躍升：40億年演化史上最重要的10...</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1236.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=24604</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-12-16</date>
       <title>太極黃金分割四季十二時辰養生法</title>
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD035.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25489</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-12-17</date>
       <title>手作私空間：日式自然風X簡單設計改造</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL1258.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24939</link>
+    </book>
+    <book>
+      <date>2012-12-22</date>
+      <title>打包去火星：太空生活背後的古怪科學</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1237.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25488</link>
     </book>
   </preview>
 </book66>
