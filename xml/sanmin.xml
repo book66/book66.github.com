@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-17</date>
-      <title>16型人格找到自己的真正天賦</title>
-      <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986185682.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002879718</link>
+      <title>全世界都在用的英文單字分類大全</title>
+      <price>296</price>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986622496.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003049818</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2012-12-17</date>
-      <title>全世界都在用的英文單字分類大全</title>
-      <price>296</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986622496.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003049818</link>
-    </book>
     <book>
       <date>2012-12-18</date>
       <title>英文字母與讀音解難</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962073411.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002798447</link>
+    </book>
+    <book>
+      <date>2012-12-23</date>
+      <title>敢活120歲</title>
+      <price>224</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962073408.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002693536</link>
     </book>
   </preview>
 </book66>
