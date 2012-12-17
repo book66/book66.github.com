@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-18</date>
-      <title>手作私空間：日式自然風X簡單設計改造</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPP07.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=23771</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-12-18</date>
       <title>我如何清空父母的家</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YL2022.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25287</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-12-19</date>
       <title>我在25個城市，遇見的25個人</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5071.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25103</link>
+    </book>
+    <book>
+      <date>2012-12-24</date>
+      <title>學習就這8件事：觀點、創意、寬容、善良、...</title>
+      <price>158</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FM0031X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25767</link>
     </book>
   </preview>
 </book66>
