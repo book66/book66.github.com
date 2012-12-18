@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-19</date>
-      <title>英文字母與讀音解難</title>
-      <price>290</price>
-      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/962071940.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002623595</link>
+      <title>1院，請進場</title>
+      <price>231</price>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/962043110.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002571810</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2012-12-19</date>
-      <title>1院，請進場</title>
-      <price>231</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962043110.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002571810</link>
-    </book>
     <book>
       <date>2012-12-20</date>
       <title>路向</title>
@@ -51,6 +44,13 @@
       <price>178</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957713501.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003075164</link>
+    </book>
+    <book>
+      <date>2012-12-25</date>
+      <title>HELLO WORLD</title>
+      <price>264</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962043161.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002704194</link>
     </book>
   </preview>
 </book66>
