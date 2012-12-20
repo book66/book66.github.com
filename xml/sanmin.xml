@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-21</date>
-      <title>路向</title>
+      <title>直接找上顧客：奧美大師傳授直效＆網路行銷...</title>
       <price>323</price>
-      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/962043164.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002724763</link>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986837095.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000765164</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2012-12-21</date>
-      <title>直接找上顧客：奧美大師傳授直效＆網路行銷...</title>
-      <price>323</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986837095.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000765164</link>
-    </book>
     <book>
       <date>2012-12-22</date>
       <title>長跑運動全攻略：健體、訓練、比賽</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962043185.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002795813</link>
+    </book>
+    <book>
+      <date>2012-12-27</date>
+      <title>生死講座：與智者一起聊生死</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957713504.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003075165</link>
     </book>
   </preview>
 </book66>
