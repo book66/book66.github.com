@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-22</date>
-      <title>藏在巷弄裡的明朝</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL1258.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=24939</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-12-22</date>
       <title>打包去火星：太空生活背後的古怪科學</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1237.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25488</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-12-23</date>
       <title>小心，魔鬼就在你身邊：犯罪心理學家教你辨...</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OC0064.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25109</link>
+    </book>
+    <book>
+      <date>2012-12-28</date>
+      <title>死後的世界</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7042.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25705</link>
     </book>
   </preview>
 </book66>
