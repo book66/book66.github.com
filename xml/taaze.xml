@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2012-12-22</date>
-      <title>法國人帶你逛羅浮宮：看懂大師名作，用問的...</title>
-      <price>231</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100576339</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100576339</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2012-12-23</date>
       <title>咖啡狂的筆記Coffee holic’s...</title>
       <price>211</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100482655</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100482655</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
