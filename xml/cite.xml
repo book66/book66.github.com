@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-24</date>
-      <title>小心，魔鬼就在你身邊：犯罪心理學家教你辨...</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5071.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25103</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-12-24</date>
       <title>學習就這8件事：觀點、創意、寬容、善良、...</title>
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FM0031X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25767</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-12-25</date>
       <title>說慈禧</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA6005.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26024</link>
+    </book>
+    <book>
+      <date>2012-12-30</date>
+      <title>蒙曼說唐：武則天</title>
+      <price>263</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH7101X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=24994</link>
     </book>
   </preview>
 </book66>

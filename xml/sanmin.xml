@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-24</date>
-      <title>敢活120歲</title>
-      <price>224</price>
-      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/962073408.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002693536</link>
+      <title>王陽明悟人生大智慧</title>
+      <price>178</price>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/957713501.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003075164</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2012-12-24</date>
-      <title>王陽明悟人生大智慧</title>
-      <price>178</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957713501.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003075164</link>
-    </book>
     <book>
       <date>2012-12-25</date>
       <title>HELLO WORLD</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957091816.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000716566</link>
+    </book>
+    <book>
+      <date>2012-12-30</date>
+      <title>一本書讀懂中華五千年</title>
+      <price>323</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/988810480.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002739218</link>
     </book>
   </preview>
 </book66>
