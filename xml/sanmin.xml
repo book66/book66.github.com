@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-25</date>
-      <title>王陽明悟人生大智慧</title>
-      <price>178</price>
-      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/957713501.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003075164</link>
+      <title>HELLO WORLD</title>
+      <price>264</price>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/962043161.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002704194</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2012-12-25</date>
-      <title>HELLO WORLD</title>
-      <price>264</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962043161.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002704194</link>
-    </book>
     <book>
       <date>2012-12-26</date>
       <title>如何與孩子溝通</title>
@@ -51,6 +44,13 @@
       <price>323</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/988810480.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002739218</link>
+    </book>
+    <book>
+      <date>2012-12-31</date>
+      <title>夠關鍵，公司就不能沒有你：明天的你會感謝...</title>
+      <price>224</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986874322.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002620538</link>
     </book>
   </preview>
 </book66>
