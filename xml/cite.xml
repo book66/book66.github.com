@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-28</date>
-      <title>這樣拜才有出頭天</title>
-      <price>158</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OC0064.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25109</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-12-28</date>
       <title>死後的世界</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7042.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25705</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-12-29</date>
       <title>醫療崩壞！沒有醫生救命的時代</title>
