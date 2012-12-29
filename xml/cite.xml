@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2012-12-30</date>
-      <title>醫療崩壞！沒有醫生救命的時代</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA6005.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26024</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2012-12-30</date>
       <title>蒙曼說唐：武則天</title>
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH7101X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24994</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2012-12-31</date>
       <title>大腦有問題?!：大腦瑕疵如何影響你我的生...</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ2043.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25699</link>
+    </book>
+    <book>
+      <date>2012-01-05</date>
+      <title>情書的技術</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RM7705.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25692</link>
     </book>
   </preview>
 </book66>
