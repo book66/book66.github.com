@@ -2,14 +2,28 @@
 <book66>
   <today>
     <book>
+      <date>2013-01-01</date>
+      <title>夠關鍵，公司就不能沒有你：明天的你會感謝...</title>
+      <price>224</price>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986874322.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002620538</link>
+    </book>
+  </today>
+  <preview>
+    <book>
+      <date>2013-01-01</date>
+      <title>血型健康密碼ＡＢＯ</title>
+      <price>158</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986197500.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003044032</link>
+    </book>
+    <book>
       <date>2013-01-02</date>
       <title>圖解紅樓夢</title>
       <price>251</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986594212.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003099293</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2013-01-03</date>
       <title>習近平：中國新領導人</title>
