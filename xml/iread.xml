@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-31</date>
-      <title>國家寶藏1：天國謎墓</title>
-      <price>131</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000081162-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000081162</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-01-01</date>
       <title>在愛裡相遇：做個好大人，給孩子一份...</title>
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000085144-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000085144</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-01-02</date>
       <title>大人氣×超可愛  雜貨迷の魔法橡皮章...</title>
@@ -51,6 +44,13 @@
       <price>131</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000126826.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000126826</link>
+    </book>
+    <book>
+      <date>2013-01-07</date>
+      <title>愛．婚禮－一生最浪漫的旅行就從這裡...</title>
+      <price>231</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000176748-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000176748</link>
     </book>
   </preview>
 </book66>

@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-01</date>
-      <title>夠關鍵，公司就不能沒有你：明天的你會感謝...</title>
-      <price>224</price>
-      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986874322.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002620538</link>
+      <title>血型健康密碼ＡＢＯ</title>
+      <price>158</price>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986197500.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003044032</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-01-01</date>
-      <title>血型健康密碼ＡＢＯ</title>
-      <price>158</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986197500.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003044032</link>
-    </book>
     <book>
       <date>2013-01-02</date>
       <title>圖解紅樓夢</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986877402.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003006625</link>
+    </book>
+    <book>
+      <date>2013-01-07</date>
+      <title>1分鐘！正韓妞50款百搭編髮</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185744.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003098139</link>
     </book>
   </preview>
 </book66>
