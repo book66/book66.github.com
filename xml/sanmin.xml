@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-02</date>
-      <title>血型健康密碼ＡＢＯ</title>
-      <price>158</price>
-      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986197500.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003044032</link>
+      <title>圖解紅樓夢</title>
+      <price>251</price>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986594212.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003099293</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-01-02</date>
-      <title>圖解紅樓夢</title>
-      <price>251</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986594212.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003099293</link>
-    </book>
     <book>
       <date>2013-01-03</date>
       <title>習近平：中國新領導人</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185744.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003098139</link>
+    </book>
+    <book>
+      <date>2013-01-08</date>
+      <title>新多益3冠王教你腦力全開記單字</title>
+      <price>231</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986882352.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003074322</link>
     </book>
   </preview>
 </book66>

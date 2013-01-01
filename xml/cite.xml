@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-02</date>
-      <title>山路彎彎</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RC7014.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25693</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-01-02</date>
       <title>台灣1日小旅行</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA6209.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=20771</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-01-03</date>
       <title>代謝平衡，健康瘦身2：均準飲食，順便瘦身</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2227.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=20834</link>
+    </book>
+    <book>
+      <date>2013-01-08</date>
+      <title>代謝平衡，健康瘦身</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3077.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=19131</link>
     </book>
   </preview>
 </book66>
