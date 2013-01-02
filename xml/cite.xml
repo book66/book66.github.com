@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-03</date>
-      <title>台灣1日小旅行</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA6209.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=20771</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-01-03</date>
       <title>代謝平衡，健康瘦身2：均準飲食，順便瘦身</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3084.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26292</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-01-04</date>
       <title>簡單的事持續做，就不簡單!：改變心念、發...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3077.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19131</link>
+    </book>
+    <book>
+      <date>2013-01-09</date>
+      <title>雲端工作術：Google教我的100個工...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AC568.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=22910</link>
     </book>
   </preview>
 </book66>
