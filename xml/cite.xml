@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-05</date>
-      <title>簡單的事持續做，就不簡單!：改變心念、發...</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ2043.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25699</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-01-05</date>
       <title>情書的技術</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RM7705.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25692</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-01-06</date>
       <title>腦袋越算越聰明：在生活的加減乘除中訓練思...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD037.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26211</link>
+    </book>
+    <book>
+      <date>2013-01-11</date>
+      <title>一眼挑出好食材</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0049.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=22663</link>
     </book>
   </preview>
 </book66>
