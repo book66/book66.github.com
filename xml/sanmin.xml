@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-06</date>
-      <title>贏在起跑點：生肖姓名學之解密篇</title>
-      <price>211</price>
-      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986604773.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002806969</link>
+      <title>泡茶．喝茶</title>
+      <price>238</price>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986877402.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003006625</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-01-06</date>
-      <title>泡茶．喝茶</title>
-      <price>238</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986877402.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003006625</link>
-    </book>
     <book>
       <date>2013-01-07</date>
       <title>1分鐘！正韓妞50款百搭編髮</title>
@@ -51,6 +44,13 @@
       <price>250</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986592701.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003079722</link>
+    </book>
+    <book>
+      <date>2013-01-12</date>
+      <title>貓娘貓糧</title>
+      <price>198</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962898303.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000746054</link>
     </book>
   </preview>
 </book66>
