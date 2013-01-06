@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-07</date>
-      <title>泡茶．喝茶</title>
-      <price>238</price>
-      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986877402.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003006625</link>
+      <title>1分鐘！正韓妞50款百搭編髮</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986185744.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003098139</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-01-07</date>
-      <title>1分鐘！正韓妞50款百搭編髮</title>
-      <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185744.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003098139</link>
-    </book>
     <book>
       <date>2013-01-08</date>
       <title>新多益3冠王教你腦力全開記單字</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962898303.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000746054</link>
+    </book>
+    <book>
+      <date>2013-01-13</date>
+      <title>氣候異常下的健康調理術</title>
+      <price>158</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986197511.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003084411</link>
     </book>
   </preview>
 </book66>
