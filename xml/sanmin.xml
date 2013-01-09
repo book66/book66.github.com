@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-10</date>
-      <title>啡喝不可：打開SPR Coffee之門</title>
-      <price>197</price>
-      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986597941.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003059431</link>
+      <title>國王遊戲：滅亡6.11</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/957104978.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003472187</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-01-10</date>
-      <title>國王遊戲：滅亡6.11</title>
-      <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957104978.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003472187</link>
-    </book>
     <book>
       <date>2013-01-11</date>
       <title>從早到晚要用到的英文(附贈正統老外錄製M...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957418774.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003011037</link>
+    </book>
+    <book>
+      <date>2013-01-16</date>
+      <title>傾聽幸福的心聲</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185634.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002588218</link>
     </book>
   </preview>
 </book66>

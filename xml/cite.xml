@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-10</date>
-      <title>雲端工作術：Google教我的100個工...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AC568.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=22910</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-01-10</date>
       <title>人體能量學的奧祕：為什麼可以甩出健康的身...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD037.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26211</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-01-11</date>
       <title>一眼挑出好食材</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2232.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=22299</link>
+    </book>
+    <book>
+      <date>2013-01-16</date>
+      <title>為什麼日本樂天員工都說英語？樂天集團以英...</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3057.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26521</link>
     </book>
   </preview>
 </book66>
