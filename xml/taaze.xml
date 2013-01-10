@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-01-10</date>
-      <title>砂之器</title>
-      <price>263</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100157379</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100157379</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-01-11</date>
       <title>那些動物教我的事</title>
       <price>251</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100121422</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100121422</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-01-12</date>
       <title>邏輯力：邏輯思考的入門書</title>
