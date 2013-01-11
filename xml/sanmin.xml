@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-12</date>
-      <title>從早到晚要用到的英文(附贈正統老外錄製M...</title>
-      <price>250</price>
-      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986592701.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003079722</link>
+      <title>貓娘貓糧</title>
+      <price>198</price>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/962898303.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000746054</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-01-12</date>
-      <title>貓娘貓糧</title>
-      <price>198</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962898303.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000746054</link>
-    </book>
     <book>
       <date>2013-01-13</date>
       <title>氣候異常下的健康調理術</title>
@@ -51,6 +44,13 @@
       <price>230</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986592702.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003073700</link>
+    </book>
+    <book>
+      <date>2013-01-18</date>
+      <title>三國謀事變術</title>
+      <price>158</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962888501.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000431602</link>
     </book>
   </preview>
 </book66>

@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-12</date>
-      <title>一眼挑出好食材</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0049.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=22663</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-01-12</date>
       <title>醫院不告訴你的40件事</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0448.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21639</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-01-13</date>
       <title>在森崎書店的日子</title>
@@ -51,6 +44,13 @@
       <price>132</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FS0024.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26090</link>
+    </book>
+    <book>
+      <date>2013-01-18</date>
+      <title>冰鑑識人學（改版）：看曾國藩如何成功識人...</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3017X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25689</link>
     </book>
   </preview>
 </book66>
