@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-13</date>
-      <title>貓娘貓糧</title>
-      <price>198</price>
-      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/962898303.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000746054</link>
+      <title>氣候異常下的健康調理術</title>
+      <price>158</price>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986197511.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003084411</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-01-13</date>
-      <title>氣候異常下的健康調理術</title>
-      <price>158</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986197511.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003084411</link>
-    </book>
     <book>
       <date>2013-01-14</date>
       <title>歷史的心計</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962888501.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000431602</link>
+    </book>
+    <book>
+      <date>2013-01-19</date>
+      <title>料理福氣DIY：建築師教你創化風水好格局</title>
+      <price>197</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986611103.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001653615</link>
     </book>
   </preview>
 </book66>
