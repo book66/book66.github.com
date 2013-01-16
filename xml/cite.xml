@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-17</date>
-      <title>為什麼日本樂天員工都說英語？樂天集團以英...</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3057.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26521</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-01-17</date>
       <title>拖拖拉拉，人生照樣精采：史丹佛教授給拖拉...</title>
       <price>132</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FS0024.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26090</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-01-18</date>
       <title>冰鑑識人學（改版）：看曾國藩如何成功識人...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2233.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=22650</link>
+    </book>
+    <book>
+      <date>2013-01-23</date>
+      <title>停止說自己壞話：喜歡自己是幸福人生的第一...</title>
+      <price>145</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0086.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26771</link>
     </book>
   </preview>
 </book66>

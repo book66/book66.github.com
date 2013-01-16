@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-17</date>
-      <title>傾聽幸福的心聲</title>
-      <price>172</price>
-      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986185634.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002588218</link>
+      <title>跟著日本導遊用3,000句日本語.遊日本...</title>
+      <price>230</price>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986592702.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003073700</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-01-17</date>
-      <title>跟著日本導遊用3,000句日本語.遊日本...</title>
-      <price>230</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986592702.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003073700</link>
-    </book>
     <book>
       <date>2013-01-18</date>
       <title>三國謀事變術</title>
@@ -51,6 +44,13 @@
       <price>230</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986592705.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003092335</link>
+    </book>
+    <book>
+      <date>2013-01-23</date>
+      <title>愛，錯在哪裡：101則在愛情裡最常遇見的...</title>
+      <price>165</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185737.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003082203</link>
     </book>
   </preview>
 </book66>
