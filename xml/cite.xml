@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-18</date>
-      <title>拖拖拉拉，人生照樣精采：史丹佛教授給拖拉...</title>
-      <price>132</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FS0024.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26090</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-01-18</date>
       <title>冰鑑識人學（改版）：看曾國藩如何成功識人...</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3017X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25689</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-01-19</date>
       <title>我們最幸福：北韓人民的真實生活</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0086.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26771</link>
+    </book>
+    <book>
+      <date>2013-01-24</date>
+      <title>作家們</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL1259.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25694</link>
     </book>
   </preview>
 </book66>

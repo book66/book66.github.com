@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-18</date>
-      <title>跟著日本導遊用3,000句日本語.遊日本...</title>
-      <price>230</price>
-      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986592702.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003073700</link>
+      <title>三國謀事變術</title>
+      <price>158</price>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/962888501.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000431602</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-01-18</date>
-      <title>三國謀事變術</title>
-      <price>158</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962888501.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000431602</link>
-    </book>
     <book>
       <date>2013-01-19</date>
       <title>料理福氣DIY：建築師教你創化風水好格局</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986185737.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003082203</link>
+    </book>
+    <book>
+      <date>2013-01-24</date>
+      <title>宋詞100名言</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962893013.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000610987</link>
     </book>
   </preview>
 </book66>
