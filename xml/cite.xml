@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-19</date>
-      <title>冰鑑識人學（改版）：看曾國藩如何成功識人...</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3017X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25689</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-01-19</date>
       <title>我們最幸福：北韓人民的真實生活</title>
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1008.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19302</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-01-20</date>
       <title>風格獨特的一人咖啡館</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL1259.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25694</link>
+    </book>
+    <book>
+      <date>2013-01-25</date>
+      <title>上班族媽媽教出好孩子！</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SH0093.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26029</link>
     </book>
   </preview>
 </book66>
