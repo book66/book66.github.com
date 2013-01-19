@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-20</date>
-      <title>料理福氣DIY：建築師教你創化風水好格局</title>
-      <price>197</price>
-      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986611103.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001653615</link>
+      <title>泰戈爾的詩</title>
+      <price>131</price>
+      <imageUrl>http://www.sanmin.com.tw/http://img1.sanmin.com.tw/image/986671458.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000739567</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-01-20</date>
-      <title>泰戈爾的詩</title>
-      <price>131</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986671458.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000739567</link>
-    </book>
     <book>
       <date>2013-01-21</date>
       <title>國際大企業面試攻略</title>
@@ -51,6 +44,13 @@
       <price>197</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986622499.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003045926</link>
+    </book>
+    <book>
+      <date>2013-01-26</date>
+      <title>商業風水賺錢有法</title>
+      <price>264</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/988184231.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001002958</link>
     </book>
   </preview>
 </book66>
