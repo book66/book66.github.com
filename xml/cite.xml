@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-22</date>
-      <title>希特勒草莓：屠殺、謊言與良知的歷史戰場（...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUB001X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26151</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-01-22</date>
       <title>百大CEO都上過的哈佛領導課，你怎麼能不...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2233.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=22650</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-01-23</date>
       <title>停止說自己壞話：喜歡自己是幸福人生的第一...</title>
@@ -51,6 +44,13 @@
       <price>461</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FI1020.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25702</link>
+    </book>
+    <book>
+      <date>2013-01-28</date>
+      <title>改變建築的100個觀念</title>
+      <price>461</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FI1019.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25701</link>
     </book>
   </preview>
 </book66>
