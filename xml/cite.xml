@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-23</date>
-      <title>百大CEO都上過的哈佛領導課，你怎麼能不...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2233.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=22650</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-01-23</date>
       <title>停止說自己壞話：喜歡自己是幸福人生的第一...</title>
       <price>145</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0086.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26771</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-01-24</date>
       <title>作家們</title>
@@ -51,6 +44,13 @@
       <price>461</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FI1019.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25701</link>
+    </book>
+    <book>
+      <date>2013-01-29</date>
+      <title>東京日和</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPO21.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26213</link>
     </book>
   </preview>
 </book66>
