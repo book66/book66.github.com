@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-25</date>
-      <title>作家們</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL1259.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25694</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-01-25</date>
       <title>上班族媽媽教出好孩子！</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SH0093.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26029</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-01-26</date>
       <title>29張當票：典當不到的人生啟發</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3058.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26769</link>
+    </book>
+    <book>
+      <date>2013-01-31</date>
+      <title>圖解100個印度史詩神話故事</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA1064X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=23898</link>
     </book>
   </preview>
 </book66>
