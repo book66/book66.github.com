@@ -2,12 +2,55 @@
 <book66>
   <today>
     <book>
-      <date>2013-01-27</date>
-      <title>植物看得見你：還聞得到、知道蟲子的Siz...</title>
-      <price>172</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100625897</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100625897</link>
+      <date>2013-01-28</date>
+      <title>社會性動物</title>
+      <price>251</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100604599</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100604599</link>
     </book>
   </today>
-  <preview/>
+  <preview>
+    <book>
+      <date>2013-01-29</date>
+      <title>千里步道，環島慢行：一生一定要走一段的土...</title>
+      <price>251</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100572804</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100572804</link>
+    </book>
+    <book>
+      <date>2013-01-30</date>
+      <title>鬥陣俱樂部</title>
+      <price>211</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100604586</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100604586</link>
+    </book>
+    <book>
+      <date>2013-01-31</date>
+      <title>說話有自信，老闆、朋友都挺你：100個讓...</title>
+      <price>172</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100576999</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100576999</link>
+    </book>
+    <book>
+      <date>2013-02-01</date>
+      <title>料理圖鑑：1500招廚房新手求生術</title>
+      <price>231</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100034891</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100034891</link>
+    </book>
+    <book>
+      <date>2013-02-02</date>
+      <title>印度數學</title>
+      <price>165</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100227929</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100227929</link>
+    </book>
+    <book>
+      <date>2013-02-03</date>
+      <title>人生不是只有步驟一二三</title>
+      <price>145</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100595368</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100595368</link>
+    </book>
+  </preview>
 </book66>
