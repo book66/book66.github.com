@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-28</date>
-      <title>我在包裡放本書：能幹的人、聰明的人、有自...</title>
-      <price>172</price>
-      <imageUrl>http://addons.books.com.tw/G/001/9/0010563409.jpg</imageUrl>
-      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010563409</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-01-28</date>
       <title>斷捨離：斷絕不需要的東西，捨棄多餘的廢物...</title>
       <price>165</price>
       <imageUrl>http://addons.books.com.tw/G/001/3/0010516523.jpg</imageUrl>
       <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010516523</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-01-29</date>
       <title>活用一輩子的筆記術</title>

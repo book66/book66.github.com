@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-01-28</date>
-      <title>改變時尚的100個觀念</title>
-      <price>461</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FI1020.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25702</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-01-28</date>
       <title>改變建築的100個觀念</title>
       <price>461</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FI1019.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25701</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-01-29</date>
       <title>東京日和</title>
