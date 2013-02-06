@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-02-06</date>
+      <date>2013-02-07</date>
       <title>人體內的太陽</title>
       <price>211</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986882185.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-02-07</date>
-      <title>釣魚台戰雲密佈</title>
-      <price>165</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986646509.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001405209</link>
-    </book>
     <book>
       <date>2013-02-08</date>
       <title>卜陽鐵口直斷職場速查</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185304.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000764587</link>
+    </book>
+    <book>
+      <date>2013-02-13</date>
+      <title>茶經校注</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957659736.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000947387</link>
     </book>
   </preview>
 </book66>
