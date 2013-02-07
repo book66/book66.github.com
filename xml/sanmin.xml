@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-02-07</date>
+      <date>2013-02-08</date>
       <title>釣魚台戰雲密佈</title>
       <price>165</price>
       <imageUrl>http://img2.sanmin.com.tw/images/986/986646509.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-02-08</date>
-      <title>卜陽鐵口直斷職場速查</title>
-      <price>197</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986591603.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003370289</link>
-    </book>
-    <book>
       <date>2013-02-09</date>
       <title>像心理學家一樣思考：立即扭轉劣勢的77個...</title>
       <price>158</price>
-      <imageUrl>http://img1.sanmin.com.tw/images/986/986185421.jpg</imageUrl>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185421.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001197203</link>
     </book>
     <book>
       <date>2013-02-10</date>
       <title>記憶人人hold得住：從平凡人到記憶冠軍...</title>
       <price>238</price>
-      <imageUrl>http://img2.sanmin.com.tw/images/986/986640933.jpg</imageUrl>
+      <imageUrl>http://img1.sanmin.com.tw/images/986/986640933.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002820167</link>
     </book>
     <book>
@@ -42,15 +35,22 @@
       <date>2013-02-12</date>
       <title>給予的力量：改變一生的五個奇遇</title>
       <price>158</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185304.jpg</imageUrl>
+      <imageUrl>http://img2.sanmin.com.tw/images/986/986185304.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000764587</link>
     </book>
     <book>
       <date>2013-02-13</date>
       <title>茶經校注</title>
       <price>172</price>
-      <imageUrl>http://img1.sanmin.com.tw/images/957/957659736.jpg</imageUrl>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957659736.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000947387</link>
+    </book>
+    <book>
+      <date>2013-02-14</date>
+      <title>史記故事導讀</title>
+      <price>224</price>
+      <imageUrl>http://img1.sanmin.com.tw/images/957/957713505.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003372001</link>
     </book>
   </preview>
 </book66>
