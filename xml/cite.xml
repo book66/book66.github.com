@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-02-09</date>
-      <title>黑幼龍工作與生活的雙贏智慧</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0474.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25770</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-02-09</date>
       <title>2013幸運魔法手帳（雙封面隨機出貨）</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPV06.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26066</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-02-10</date>
       <title>羅蘭．巴特論羅蘭．巴特（全新修訂版）</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0473.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26212</link>
+    </book>
+    <book>
+      <date>2013-02-15</date>
+      <title>昏迷指數3</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RQ7035.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26154</link>
     </book>
   </preview>
 </book66>
