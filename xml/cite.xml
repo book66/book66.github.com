@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-02-11</date>
-      <title>羅蘭．巴特論羅蘭．巴特（全新修訂版）</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RM6012.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26156</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-02-11</date>
       <title>溫柔的殺戮</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6513.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26226</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-02-12</date>
       <title>我的有機陽台：自己種的最天然</title>
@@ -51,6 +44,13 @@
       <price>396</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPO06.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=22666</link>
+    </book>
+    <book>
+      <date>2013-02-17</date>
+      <title>2小時讀懂世界歷史</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI2039.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26227</link>
     </book>
   </preview>
 </book66>
