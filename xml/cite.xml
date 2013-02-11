@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-02-12</date>
-      <title>溫柔的殺戮</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6513.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26226</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-02-12</date>
       <title>我的有機陽台：自己種的最天然</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPV07.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26638</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-02-13</date>
       <title>那片藍天下</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI2039.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26227</link>
+    </book>
+    <book>
+      <date>2013-02-18</date>
+      <title>像間諜一樣思考：CIA中情局首度公開出奇...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0471.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25810</link>
     </book>
   </preview>
 </book66>
