@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-02-15</date>
-      <title>史記故事導讀</title>
-      <price>224</price>
-      <imageUrl>http://img2.sanmin.com.tw/images/957/957713505.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003372001</link>
+      <title>內觀瑜伽：結合禪修與中醫的療癒之道</title>
+      <price>251</price>
+      <imageUrl>http://img2.sanmin.com.tw/images/986/986120648.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001668981</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-02-15</date>
-      <title>內觀瑜伽：結合禪修與中醫的療癒之道</title>
-      <price>251</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986120648.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001668981</link>
-    </book>
     <book>
       <date>2013-02-16</date>
       <title>天下第一經：心經【精髓篇】</title>
@@ -28,7 +21,7 @@
       <date>2013-02-17</date>
       <title>東大醫科高材生的滿分思考法</title>
       <price>158</price>
-      <imageUrl>http://img2.sanmin.com.tw/images/986/986615123.jpg</imageUrl>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986615123.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002967259</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-02-19</date>
       <title>美人尖</title>
       <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957143931.jpg</imageUrl>
+      <imageUrl>http://img2.sanmin.com.tw/images/957/957143931.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000746147</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957659652.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000650418</link>
+    </book>
+    <book>
+      <date>2013-02-21</date>
+      <title>開啟天書的鑰匙：易經</title>
+      <price>231</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986604701.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002578107</link>
     </book>
   </preview>
 </book66>
