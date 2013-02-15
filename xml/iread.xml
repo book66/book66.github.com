@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-02-15</date>
-      <title>甄戰大學【法政學群】17而勵打造成功...</title>
-      <price>198</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000227263.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000227263</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-02-16</date>
-      <title>甄戰大學【醫藥衛生學群】17而勵打造...</title>
-      <price>198</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000227262.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000227262</link>
-    </book>
-    <book>
       <date>2013-02-17</date>
       <title>甄戰大學【文史哲學群】17而勵打造成...</title>
       <price>198</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000227265.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000227265</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-02-18</date>
       <title>甄戰大學【工程學群-機械類】17而勵...</title>
@@ -51,6 +37,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000205756-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000205756</link>
+    </book>
+    <book>
+      <date>2013-02-22</date>
+      <title>關於跑步，我說的其實是……</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000079425-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000079425</link>
     </book>
   </preview>
 </book66>
