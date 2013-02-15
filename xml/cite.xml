@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-02-16</date>
-      <title>昏迷指數3</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RQ7035.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26154</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-02-16</date>
       <title>52個攝影計畫：深入21位攝影師的創作過...</title>
       <price>396</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPO06.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=22666</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-02-17</date>
       <title>2小時讀懂世界歷史</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MC013.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25820</link>
+    </book>
+    <book>
+      <date>2013-02-22</date>
+      <title>上帝的指紋 增訂版（上下套書組）</title>
+      <price>482</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BM6006T.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=24658</link>
     </book>
   </preview>
 </book66>
