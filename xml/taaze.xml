@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2013-02-16</date>
-      <title>3D人體大透視</title>
-      <price>297</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100584752</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100584752</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-02-17</date>
       <title>散步在華爾街的馬克思</title>
       <price>231</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100618550</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100618550</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
