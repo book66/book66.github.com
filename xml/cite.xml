@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-02-19</date>
-      <title>像間諜一樣思考：CIA中情局首度公開出奇...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0471.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25810</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-02-19</date>
       <title>情書遺產</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YL2023.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25808</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-02-20</date>
       <title>喚醒大腦本能的思考法：腦科權威教你聰明人...</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MM1098X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23632</link>
+    </book>
+    <book>
+      <date>2013-02-25</date>
+      <title>如何閱讀一首詩</title>
+      <price>158</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK6028.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26209</link>
     </book>
   </preview>
 </book66>
