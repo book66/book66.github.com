@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-02-19</date>
-      <title>京都文創小舖簿</title>
-      <price>165</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100629228</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100629228</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-02-20</date>
       <title>一個孤獨漫步者的遐想</title>
       <price>158</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100577467</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100577467</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-02-21</date>
       <title>雲端工作術：Google教我的100個工...</title>

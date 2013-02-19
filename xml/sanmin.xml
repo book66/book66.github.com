@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-02-19</date>
+      <date>2013-02-20</date>
       <title>美人尖</title>
       <price>185</price>
       <imageUrl>http://img2.sanmin.com.tw/images/957/957143931.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-02-20</date>
-      <title>走出一個好身體－健康百寶箱73</title>
-      <price>145</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957659652.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000650418</link>
-    </book>
     <book>
       <date>2013-02-21</date>
       <title>開啟天書的鑰匙：易經</title>
@@ -28,7 +21,7 @@
       <date>2013-02-22</date>
       <title>印度吠陀數學：秒算法</title>
       <price>132</price>
-      <imageUrl>http://img2.sanmin.com.tw/images/957/957776966.jpg</imageUrl>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957776966.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000755867</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-02-24</date>
       <title>瑜珈就是這麼簡單─元氣系列96</title>
       <price>145</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986759638.jpg</imageUrl>
+      <imageUrl>http://img2.sanmin.com.tw/images/986/986759638.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000432486</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986648892.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001264276</link>
+    </book>
+    <book>
+      <date>2013-02-26</date>
+      <title>飯水分離陰陽飲食法〈最新增訂版〉</title>
+      <price>198</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986882186.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003367966</link>
     </book>
   </preview>
 </book66>
