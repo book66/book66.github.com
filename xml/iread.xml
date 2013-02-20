@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-02-20</date>
-      <title>老外都是這麼說：只要2000句，搞定所...</title>
-      <price>251</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000155537-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000155537</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-02-21</date>
-      <title>好學生的犀利筆記大公開：徹底分析20...</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000205756-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000205756</link>
-    </book>
-    <book>
       <date>2013-02-22</date>
       <title>關於跑步，我說的其實是……</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000079425-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000079425</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-02-23</date>
       <title>讓腳ㄚ子會呼吸的手作室鞋：For man...</title>
@@ -51,6 +37,13 @@
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000192110-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000192110</link>
+    </book>
+    <book>
+      <date>2013-02-27</date>
+      <title>快攻NBA籃球英文全解</title>
+      <price>211</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000195388-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000195388</link>
     </book>
   </preview>
 </book66>
