@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-02-28</date>
-      <title>恢復力</title>
-      <price>264</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0477.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26207</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-02-28</date>
       <title>萊柏維茲的讚歌</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YS0701.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26278</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-01</date>
       <title>騙倒胡迪尼：一個哈佛魔術師的幕後告白</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KG2011.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27131</link>
+    </book>
+    <book>
+      <date>2013-03-06</date>
+      <title>不生氣的技術</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BB7032.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26768</link>
     </book>
   </preview>
 </book66>
