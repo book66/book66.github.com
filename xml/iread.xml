@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-02-27</date>
-      <title>快攻NBA籃球英文全解</title>
-      <price>211</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000195388-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000195388</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-02-28</date>
-      <title>給我搞飛機：型男機長瘋狂詹姆士飛行...</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000171632-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000171632</link>
-    </book>
-    <book>
       <date>2013-03-01</date>
       <title>蝸牛食堂</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000131157-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000131157</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-02</date>
       <title>Facebook創新帝國的秘密</title>
@@ -51,6 +37,13 @@
       <price>329</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000201653-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000201653</link>
+    </book>
+    <book>
+      <date>2013-03-06</date>
+      <title>大故宮Ⅰ</title>
+      <price>211</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000216639-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000216639</link>
     </book>
   </preview>
 </book66>
