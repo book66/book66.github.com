@@ -3,19 +3,54 @@
   <today>
     <book>
       <date>2013-02-28</date>
-      <title>英文開竅手冊</title>
-      <price>263</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986604762.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002978938</link>
+      <title>一個快樂女人要上的40堂理財課</title>
+      <price>164</price>
+      <imageUrl>http://61.63.52.113/images/986/986616633.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003092139</link>
     </book>
   </today>
   <preview>
     <book>
-      <date>2013-02-28</date>
-      <title>一個快樂女人要上的40堂理財課</title>
+      <date>2013-03-01</date>
+      <title>我的天然香草芳療魔法</title>
+      <price>131</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986885444.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003516098</link>
+    </book>
+    <book>
+      <date>2013-03-02</date>
+      <title>圖解猶太人智慧書</title>
+      <price>251</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594219.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003517991</link>
+    </book>
+    <book>
+      <date>2013-03-03</date>
+      <title>我是朴槿惠</title>
+      <price>218</price>
+      <imageUrl>http://61.63.52.113/images/986/986185768.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003484024</link>
+    </book>
+    <book>
+      <date>2013-03-04</date>
+      <title>本草綱目養生活用圖典</title>
       <price>164</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986616633.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003092139</link>
+      <imageUrl>http://61.63.52.113/images/986/986594210.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003515683</link>
+    </book>
+    <book>
+      <date>2013-03-05</date>
+      <title>給爸媽的九型人格教養聖經</title>
+      <price>165</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986197513.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003101251</link>
+    </book>
+    <book>
+      <date>2013-03-06</date>
+      <title>葡萄酒ABC：品味與分享葡萄酒必備的10...</title>
+      <price>396</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986712050.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003515830</link>
     </book>
   </preview>
 </book66>
