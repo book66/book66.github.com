@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-02-28</date>
-      <title>給我搞飛機：型男機長瘋狂詹姆士飛行...</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000171632-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000171632</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-01</date>
-      <title>蝸牛食堂</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000131157-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000131157</link>
-    </book>
-    <book>
       <date>2013-03-02</date>
       <title>Facebook創新帝國的秘密</title>
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000202832-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000202832</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-03</date>
       <title>熟女最愛看的53個心理遊戲</title>
@@ -51,6 +37,13 @@
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000216639-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000216639</link>
+    </book>
+    <book>
+      <date>2013-03-07</date>
+      <title>劉墉超強說話術1：把話說到心窩裡</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000127096-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000127096</link>
     </book>
   </preview>
 </book66>
