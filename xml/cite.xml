@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-02</date>
-      <title>騙倒胡迪尼：一個哈佛魔術師的幕後告白</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0187.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26840</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-02</date>
       <title>與過去和好：別讓過去創傷變成人際關係的困...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MB020.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26845</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-03</date>
       <title>四季江戶味</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0037.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26857</link>
+    </book>
+    <book>
+      <date>2013-03-08</date>
+      <title>OUT主婦殺人事件</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RS7061.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26832</link>
     </book>
   </preview>
 </book66>
