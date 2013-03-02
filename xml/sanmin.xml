@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-03</date>
-      <title>圖解猶太人智慧書</title>
-      <price>251</price>
-      <imageUrl>http://61.63.52.113/images/986/986594219.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003517991</link>
+      <title>我是朴槿惠</title>
+      <price>218</price>
+      <imageUrl>http://61.63.52.113/images/986/986185768.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003484024</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-03-03</date>
-      <title>我是朴槿惠</title>
-      <price>218</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185768.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003484024</link>
-    </book>
     <book>
       <date>2013-03-04</date>
       <title>本草綱目養生活用圖典</title>
@@ -28,7 +21,7 @@
       <date>2013-03-05</date>
       <title>給爸媽的九型人格教養聖經</title>
       <price>165</price>
-      <imageUrl>http://61.63.52.113/images/986/986197513.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986197513.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003101251</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-03-07</date>
       <title>小隻女孩奈枸NEGO的時尚穿搭日誌：4大...</title>
       <price>211</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185759.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986185759.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003361990</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>230</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986592714.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003495229</link>
+    </book>
+    <book>
+      <date>2013-03-09</date>
+      <title>抄經，抄出歡喜自在來</title>
+      <price>158</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986197429.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002681051</link>
     </book>
   </preview>
 </book66>
