@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2013-03-02</date>
-      <title>風格就是你：向百年寫作經典《風格的要素》...</title>
-      <price>185</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100586446</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100586446</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-03-03</date>
       <title>用美國人的方法瘋閱讀：1500萬人大推的...</title>
       <price>231</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100612509</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100612509</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
