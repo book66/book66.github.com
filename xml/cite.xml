@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-03</date>
-      <title>與過去和好：別讓過去創傷變成人際關係的困...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MB020.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26845</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-03</date>
       <title>四季江戶味</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2050.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26215</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-04</date>
       <title>CURATION策展的時代：「串聯」的資...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RS7061.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26832</link>
+    </book>
+    <book>
+      <date>2013-03-09</date>
+      <title>以食養生的中醫樂活法</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YM2412.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27130</link>
     </book>
   </preview>
 </book66>
