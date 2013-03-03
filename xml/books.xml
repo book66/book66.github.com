@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-04</date>
-      <title>漢字樹：從圖像解開「人」的奧妙</title>
-      <price>211</price>
-      <imageUrl>http://addons.books.com.tw/G/001/6/0010566976.jpg</imageUrl>
-      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010566976</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-04</date>
       <title>你要如何衡量你的人生？哈佛商學院最重要的...</title>
       <price>198</price>
       <imageUrl>http://addons.books.com.tw/G/001/4/0010552634.jpg</imageUrl>
       <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010552634</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-05</date>
       <title>初學者的料理教科書：2500張步驟圖解，...</title>
