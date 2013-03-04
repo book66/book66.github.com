@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-03-04</date>
+      <date>2013-03-05</date>
       <title>本草綱目養生活用圖典</title>
       <price>164</price>
       <imageUrl>http://61.63.52.113/images/986/986594210.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-03-05</date>
-      <title>給爸媽的九型人格教養聖經</title>
-      <price>165</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986197513.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003101251</link>
-    </book>
     <book>
       <date>2013-03-06</date>
       <title>葡萄酒ABC：品味與分享葡萄酒必備的10...</title>
@@ -28,7 +21,7 @@
       <date>2013-03-07</date>
       <title>小隻女孩奈枸NEGO的時尚穿搭日誌：4大...</title>
       <price>211</price>
-      <imageUrl>http://61.63.52.113/images/986/986185759.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185759.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003361990</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-03-09</date>
       <title>抄經，抄出歡喜自在來</title>
       <price>158</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986197429.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986197429.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002681051</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986316221.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003515600</link>
+    </book>
+    <book>
+      <date>2013-03-11</date>
+      <title>一按就瘦，3週變身細肩帶美人</title>
+      <price>191</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185749.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003089974</link>
     </book>
   </preview>
 </book66>
