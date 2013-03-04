@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-05</date>
-      <title>CURATION策展的時代：「串聯」的資...</title>
-      <price>218</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1098.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27133</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-05</date>
       <title>你不知道的台灣美味秘境小旅行：隱藏在港灣...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KG2011.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27131</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-06</date>
       <title>不生氣的技術</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA6210.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26635</link>
+    </book>
+    <book>
+      <date>2013-03-11</date>
+      <title>數字力：比學歷資歷重要，成為keyman...</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2244.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26202</link>
     </book>
   </preview>
 </book66>
