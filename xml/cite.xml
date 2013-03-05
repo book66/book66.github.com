@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-06</date>
-      <title>你不知道的台灣美味秘境小旅行：隱藏在港灣...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KG2011.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27131</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-06</date>
       <title>不生氣的技術</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BB7032.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26768</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-07</date>
       <title>大店長開講：店長必修12學分 / 50個...</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2244.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26202</link>
+    </book>
+    <book>
+      <date>2013-03-12</date>
+      <title>IN格殺愛情</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RS7062.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26833</link>
     </book>
   </preview>
 </book66>
