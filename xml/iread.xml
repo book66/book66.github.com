@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-03-06</date>
-      <title>大故宮Ⅰ</title>
-      <price>211</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000216639-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000216639</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-07</date>
-      <title>劉墉超強說話術1：把話說到心窩裡</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000127096-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000127096</link>
-    </book>
-    <book>
       <date>2013-03-08</date>
       <title>上班前的黃金三小時</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000174022-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000174022</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-09</date>
       <title>小心！頸椎病就在你身邊！顧好頸椎，...</title>
@@ -51,6 +37,13 @@
       <price>238</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000209104-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000209104</link>
+    </book>
+    <book>
+      <date>2013-03-13</date>
+      <title>矽谷大廚到你家</title>
+      <price>317</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000204934-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000204934</link>
     </book>
   </preview>
 </book66>
