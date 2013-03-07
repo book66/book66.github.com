@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-08</date>
-      <title>小隻女孩奈枸NEGO的時尚穿搭日誌：4大...</title>
-      <price>211</price>
-      <imageUrl>http://61.63.52.113/images/986/986185759.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003361990</link>
+      <title>不敗學測英文應考大全</title>
+      <price>230</price>
+      <imageUrl>http://61.63.52.113/images/986/986592714.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003495229</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-03-08</date>
-      <title>不敗學測英文應考大全</title>
-      <price>230</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986592714.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003495229</link>
-    </book>
     <book>
       <date>2013-03-09</date>
       <title>抄經，抄出歡喜自在來</title>
@@ -28,7 +21,7 @@
       <date>2013-03-10</date>
       <title>古墓賊影：中國盜墓史全紀錄01</title>
       <price>145</price>
-      <imageUrl>http://61.63.52.113/images/986/986316221.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986316221.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003515600</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-03-12</date>
       <title>舌尖上的良藥：分解蔬果根莖葉對症速查全書</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986271278.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986271278.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003372657</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>197</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/957/957447253.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003467962</link>
+    </book>
+    <book>
+      <date>2013-03-14</date>
+      <title>英文文法超易學：1000 題老師最愛考的...</title>
+      <price>211</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986604532.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003532475</link>
     </book>
   </preview>
 </book66>
