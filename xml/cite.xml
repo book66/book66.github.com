@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-03-07</date>
-      <title>大店長開講：店長必修12學分 / 50個...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0037.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26857</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-03-08</date>
       <title>OUT主婦殺人事件</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RS7061.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26832</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-09</date>
       <title>以食養生的中醫樂活法</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0480.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26841</link>
+    </book>
+    <book>
+      <date>2013-03-14</date>
+      <title>巴黎‧異想</title>
+      <price>383</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2052.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26723</link>
     </book>
   </preview>
 </book66>
