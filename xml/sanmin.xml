@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-09</date>
-      <title>不敗學測英文應考大全</title>
-      <price>230</price>
-      <imageUrl>http://61.63.52.113/images/986/986592714.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003495229</link>
+      <title>抄經，抄出歡喜自在來</title>
+      <price>158</price>
+      <imageUrl>http://61.63.52.113/images/986/986197429.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002681051</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-03-09</date>
-      <title>抄經，抄出歡喜自在來</title>
-      <price>158</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986197429.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002681051</link>
-    </book>
     <book>
       <date>2013-03-10</date>
       <title>古墓賊影：中國盜墓史全紀錄01</title>
@@ -28,7 +21,7 @@
       <date>2013-03-11</date>
       <title>一按就瘦，3週變身細肩帶美人</title>
       <price>191</price>
-      <imageUrl>http://61.63.52.113/images/986/986185749.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185749.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003089974</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-03-13</date>
       <title>媒體女王歐普拉成功的鑽石信念</title>
       <price>197</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/957/957447253.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/957/957447253.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003467962</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986604532.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003532475</link>
+    </book>
+    <book>
+      <date>2013-03-15</date>
+      <title>其實，我們都陷在執著的觀念上</title>
+      <price>145</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185451.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001251889</link>
     </book>
   </preview>
 </book66>
