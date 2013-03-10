@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-11</date>
-      <title>台灣1日小旅行2</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA6210.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26635</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-11</date>
       <title>數字力：比學歷資歷重要，成為keyman...</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2244.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26202</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-12</date>
       <title>IN格殺愛情</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/g/GD0359C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26270</link>
+    </book>
+    <book>
+      <date>2013-03-17</date>
+      <title>社群引力：成功企業的新集客策略</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB914.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26704</link>
     </book>
   </preview>
 </book66>
