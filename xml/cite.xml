@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-12</date>
-      <title>數字力：比學歷資歷重要，成為keyman...</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2244.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26202</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-12</date>
       <title>IN格殺愛情</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RS7062.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26833</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-13</date>
       <title>操盤手的萬無一失投資術</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB914.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26704</link>
+    </book>
+    <book>
+      <date>2013-03-18</date>
+      <title>雪中第六感</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUC033.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26759</link>
     </book>
   </preview>
 </book66>
