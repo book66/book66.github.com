@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-14</date>
-      <title>操盤手的萬無一失投資術</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0480.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26841</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-14</date>
       <title>巴黎‧異想</title>
       <price>383</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2052.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26723</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-15</date>
       <title>當我們老在一起：一百個退休夫妻的日常練習</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1036.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26764</link>
+    </book>
+    <book>
+      <date>2013-03-20</date>
+      <title>企鵝怎麼開咖啡店?：企劃力訓練講座</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0483.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27067</link>
     </book>
   </preview>
 </book66>
