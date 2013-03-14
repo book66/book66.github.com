@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-15</date>
-      <title>巴黎‧異想</title>
-      <price>383</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2052.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26723</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-15</date>
       <title>當我們老在一起：一百個退休夫妻的日常練習</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA1077.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26159</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-16</date>
       <title>不老騎士</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0483.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27067</link>
+    </book>
+    <book>
+      <date>2013-03-21</date>
+      <title>資深護理師省力育兒妙招</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SR0064.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27043</link>
     </book>
   </preview>
 </book66>
