@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-03-15</date>
+      <date>2013-03-16</date>
       <title>其實，我們都陷在執著的觀念上</title>
       <price>145</price>
       <imageUrl>http://61.63.52.113/images/986/986185451.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-03-16</date>
-      <title>陽宅開運自己來</title>
-      <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986679396.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001635398</link>
-    </book>
     <book>
       <date>2013-03-17</date>
       <title>圓滿人生不等待</title>
@@ -28,7 +21,7 @@
       <date>2013-03-18</date>
       <title>按按腳！百病從「跟」除，全身病痛都消失！</title>
       <price>231</price>
-      <imageUrl>http://61.63.52.113/images/986/986271285.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986271285.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003466427</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-03-20</date>
       <title>一按上菜！80道零失敗懶人電鍋料理</title>
       <price>172</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986271289.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986271289.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003491170</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986885877.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003537544</link>
+    </book>
+    <book>
+      <date>2013-03-22</date>
+      <title>我搬走了你的乳酪！</title>
+      <price>172</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185726.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003074815</link>
     </book>
   </preview>
 </book66>
