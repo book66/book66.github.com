@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-17</date>
-      <title>陽宅開運自己來</title>
-      <price>185</price>
-      <imageUrl>http://61.63.52.113/images/986/986679396.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001635398</link>
+      <title>圓滿人生不等待</title>
+      <price>158</price>
+      <imageUrl>http://61.63.52.113/images/957/957713511.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003515591</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-03-17</date>
-      <title>圓滿人生不等待</title>
-      <price>158</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/957/957713511.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003515591</link>
-    </book>
     <book>
       <date>2013-03-18</date>
       <title>按按腳！百病從「跟」除，全身病痛都消失！</title>
@@ -28,7 +21,7 @@
       <date>2013-03-19</date>
       <title>李嘉誠成功致富12商道</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.113/images/957/957800471.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/957/957800471.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003526557</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-03-21</date>
       <title>好媽媽影響孩子的一生</title>
       <price>165</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986885877.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986885877.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003537544</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986185726.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003074815</link>
+    </book>
+    <book>
+      <date>2013-03-23</date>
+      <title>乾隆皇帝的秘密花園</title>
+      <price>205</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/962/962075608.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003622580</link>
     </book>
   </preview>
 </book66>
