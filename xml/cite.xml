@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-18</date>
-      <title>社群引力：成功企業的新集客策略</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB914.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26704</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-18</date>
       <title>雪中第六感</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUC033.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26759</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-19</date>
       <title>不要做最好，但要搶第一：從銀行門僮到登上...</title>
@@ -51,6 +44,13 @@
       <price>264</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH1001X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26837</link>
+    </book>
+    <book>
+      <date>2013-03-24</date>
+      <title>「拍貓，是很嚴肅的。」吳毅平15年貓寫真...</title>
+      <price>429</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPS04.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26770</link>
     </book>
   </preview>
 </book66>
