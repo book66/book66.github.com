@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-20</date>
-      <title>不要做最好，但要搶第一：從銀行門僮到登上...</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1036.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26764</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-20</date>
       <title>企鵝怎麼開咖啡店?：企劃力訓練講座</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0483.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27067</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-21</date>
       <title>資深護理師省力育兒妙招</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA6005.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26024</link>
+    </book>
+    <book>
+      <date>2013-03-26</date>
+      <title>奧斯卡與我：普列希特給兒子的 20 堂哲...</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BP6017.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26868</link>
     </book>
   </preview>
 </book66>

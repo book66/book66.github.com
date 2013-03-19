@@ -11,13 +11,6 @@
   </today>
   <preview>
     <book>
-      <date>2013-03-20</date>
-      <title>一按上菜！80道零失敗懶人電鍋料理</title>
-      <price>172</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986271289.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003491170</link>
-    </book>
-    <book>
       <date>2013-03-21</date>
       <title>好媽媽影響孩子的一生</title>
       <price>165</price>
@@ -28,7 +21,7 @@
       <date>2013-03-22</date>
       <title>我搬走了你的乳酪！</title>
       <price>172</price>
-      <imageUrl>http://61.63.52.113/images/986/986185726.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185726.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003074815</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-03-24</date>
       <title>圖解黃帝內經的養生智慧：九型體質精要與十...</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594221.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986594221.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003515691</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986271240.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003054247</link>
+    </book>
+    <book>
+      <date>2013-03-26</date>
+      <title>我的第一本圖解波段操作</title>
+      <price>185</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986616367.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003515334</link>
     </book>
   </preview>
 </book66>
