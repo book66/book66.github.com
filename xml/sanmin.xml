@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-22</date>
-      <title>好媽媽影響孩子的一生</title>
-      <price>165</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986885877.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003537544</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-22</date>
       <title>我搬走了你的乳酪！</title>
       <price>172</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986185726.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003074815</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-23</date>
       <title>乾隆皇帝的秘密花園</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986608002.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002074030</link>
+    </book>
+    <book>
+      <date>2013-03-28</date>
+      <title>就是要教你「詐」</title>
+      <price>165</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986597124.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003557912</link>
     </book>
   </preview>
 </book66>
