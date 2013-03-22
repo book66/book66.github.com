@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-23</date>
-      <title>最後的簡訊</title>
-      <price>197</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6417.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26225</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-23</date>
       <title>小說中國：晚清到當代的中文小說</title>
       <price>264</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH1001X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26837</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-24</date>
       <title>「拍貓，是很嚴肅的。」吳毅平15年貓寫真...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GV701.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26305</link>
+    </book>
+    <book>
+      <date>2013-03-29</date>
+      <title>思路決定財路：巴菲特神秘俱樂部</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/g/GW1008.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27032</link>
     </book>
   </preview>
 </book66>
