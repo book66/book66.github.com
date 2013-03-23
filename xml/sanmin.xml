@@ -11,13 +11,6 @@
   </today>
   <preview>
     <book>
-      <date>2013-03-24</date>
-      <title>圖解黃帝內經的養生智慧：九型體質精要與十...</title>
-      <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594221.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003515691</link>
-    </book>
-    <book>
       <date>2013-03-25</date>
       <title>居家擺設左右你性格！圖解空間心理學</title>
       <price>185</price>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986271269.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003099326</link>
+    </book>
+    <book>
+      <date>2013-03-30</date>
+      <title>愛上豆漿機：按一按，養生豆漿讓你喝出健康...</title>
+      <price>185</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986624745.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003013367</link>
     </book>
   </preview>
 </book66>

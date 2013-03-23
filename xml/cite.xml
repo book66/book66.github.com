@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-24</date>
-      <title>小說中國：晚清到當代的中文小說</title>
-      <price>264</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH1001X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26837</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-24</date>
       <title>「拍貓，是很嚴肅的。」吳毅平15年貓寫真...</title>
       <price>429</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPS04.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26770</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-25</date>
       <title>醫療崩壞！沒有醫生救命的時代</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/g/GW1008.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27032</link>
+    </book>
+    <book>
+      <date>2013-03-30</date>
+      <title>會議革命（暢銷改版）</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7059.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27034</link>
     </book>
   </preview>
 </book66>
