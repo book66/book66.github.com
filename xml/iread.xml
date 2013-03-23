@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-03-23</date>
-      <title>Cotton friend 手作誌 2─...</title>
-      <price>164</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000203139-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000203139</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-24</date>
-      <title>Good morning很生活的英語（2...</title>
-      <price>197</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000122012-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000122012</link>
-    </book>
-    <book>
       <date>2013-03-25</date>
       <title>好想咬一口！不織布的甜蜜午茶時間</title>
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000220707-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000220707</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-26</date>
       <title>銀河系焊接工人</title>
@@ -51,6 +37,13 @@
       <price>224</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000205285-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000205285</link>
+    </book>
+    <book>
+      <date>2013-03-30</date>
+      <title>月薪二、三萬，未來怎麼辦？Ⅱ：三年...</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000202847-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000202847</link>
     </book>
   </preview>
 </book66>
