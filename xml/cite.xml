@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-25</date>
-      <title>「拍貓，是很嚴肅的。」吳毅平15年貓寫真...</title>
-      <price>429</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPS04.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26770</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-25</date>
       <title>醫療崩壞！沒有醫生救命的時代</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA6005.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26024</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-26</date>
       <title>奧斯卡與我：普列希特給兒子的 20 堂哲...</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7059.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27034</link>
+    </book>
+    <book>
+      <date>2013-03-31</date>
+      <title>狗狗在跟你說話！完全聽懂狗吠手冊</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YR8001.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27038</link>
     </book>
   </preview>
 </book66>
