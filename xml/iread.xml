@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-03-26</date>
-      <title>銀河系焊接工人</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000167912-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000167912</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-03-27</date>
       <title>連老外都在用的英語「國民會話」大全...</title>
       <price>230</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000179950-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000179950</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-28</date>
       <title>劉墉超強說話術4：偷偷說到心深處</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000206023-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000206023</link>
+    </book>
+    <book>
+      <date>2013-04-02</date>
+      <title>消逝之行</title>
+      <price>211</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000223807.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000223807</link>
     </book>
   </preview>
 </book66>
