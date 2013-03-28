@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-29</date>
-      <title>就是要教你「詐」</title>
-      <price>165</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986597124.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003557912</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-29</date>
       <title>小資女孩的心機速效微整術：變身後天美女應...</title>
       <price>172</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986271269.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003099326</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-30</date>
       <title>愛上豆漿機：按一按，養生豆漿讓你喝出健康...</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986594223.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003591935</link>
+    </book>
+    <book>
+      <date>2013-04-04</date>
+      <title>抗暖化，我也可以：氣候變遷與永續發展</title>
+      <price>251</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986221930.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002883740</link>
     </book>
   </preview>
 </book66>
