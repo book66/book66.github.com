@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-03-29</date>
-      <title>預見</title>
-      <price>224</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000205285-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000205285</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-30</date>
-      <title>月薪二、三萬，未來怎麼辦？Ⅱ：三年...</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000202847-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000202847</link>
-    </book>
-    <book>
       <date>2013-03-31</date>
       <title>解讀忍經2-掌舵圓潤通達的處世謀略</title>
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000117585-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000117585</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-04-01</date>
       <title>超Q不織布吊飾就是可愛嘛！27款作了...</title>
@@ -51,6 +37,13 @@
       <price>224</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000224901-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000224901</link>
+    </book>
+    <book>
+      <date>2013-04-05</date>
+      <title>錢奴：今天你不弄懂金錢，有一天你就...</title>
+      <price>211</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000167132-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000167132</link>
     </book>
   </preview>
 </book66>
