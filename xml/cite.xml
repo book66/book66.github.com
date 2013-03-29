@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-30</date>
-      <title>思路決定財路：巴菲特神秘俱樂部</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/g/GW1008.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27032</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-30</date>
       <title>會議革命（暢銷改版）</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7059.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27034</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-03-31</date>
       <title>狗狗在跟你說話！完全聽懂狗吠手冊</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6515.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27371</link>
+    </book>
+    <book>
+      <date>2013-04-05</date>
+      <title>疼痛自療全解：骨骼與身體自我矯治療法喚醒...</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD038.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27770</link>
     </book>
   </preview>
 </book66>
