@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-03-31</date>
-      <title>會議革命（暢銷改版）</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7059.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27034</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-03-31</date>
       <title>狗狗在跟你說話！完全聽懂狗吠手冊</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YR8001.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27038</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-04-01</date>
       <title>為什麼E=mc2？探索時空、質量之源與希...</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD038.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27770</link>
+    </book>
+    <book>
+      <date>2013-04-06</date>
+      <title>惡之書</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/g/GM6134C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27881</link>
     </book>
   </preview>
 </book66>
