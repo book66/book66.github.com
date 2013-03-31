@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-04-01</date>
-      <title>圖解美國小孩的每日二字：用英英字典的方法...</title>
-      <price>211</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986882356.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003495242</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-04-01</date>
       <title>元氣孕婦健康禁忌與照護－媽咪＆寶寶A02</title>
       <price>185</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986829361.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000510170</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-04-02</date>
       <title>英文簡報即戰力</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986591608.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003569590</link>
+    </book>
+    <book>
+      <date>2013-04-07</date>
+      <title>寶寶疾病護理大全</title>
+      <price>185</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986679379.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001288335</link>
     </book>
   </preview>
 </book66>
