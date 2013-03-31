@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-04-01</date>
-      <title>狗狗在跟你說話！完全聽懂狗吠手冊</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YR8001.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27038</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-04-01</date>
       <title>為什麼E=mc2？探索時空、質量之源與希...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1238.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27373</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-04-02</date>
       <title>5的無限次方立體記憶法：破解古人過目不忘...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/g/GM6134C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27881</link>
+    </book>
+    <book>
+      <date>2013-04-07</date>
+      <title>1分鐘骨盆瘦身術：什麼！真的只要1分鐘！...</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG044.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28055</link>
     </book>
   </preview>
 </book66>
