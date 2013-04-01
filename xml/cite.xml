@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-04-01</date>
-      <title>為什麼E=mc2？探索時空、質量之源與希...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1238.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27373</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-04-02</date>
       <title>5的無限次方立體記憶法：破解古人過目不忘...</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BC621.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27674</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-04-03</date>
       <title>這樣做，大腦愈用愈聰明：開發腦潛力的8個...</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG044.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28055</link>
+    </book>
+    <book>
+      <date>2013-04-08</date>
+      <title>中醫不告訴你的36件事</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0489.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27448</link>
     </book>
   </preview>
 </book66>
