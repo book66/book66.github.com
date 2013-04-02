@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-04-03</date>
-      <title>5的無限次方立體記憶法：破解古人過目不忘...</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BC621.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27674</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-04-03</date>
       <title>這樣做，大腦愈用愈聰明：開發腦潛力的8個...</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1017.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27255</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-04-04</date>
       <title>墓園女孩</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0489.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27448</link>
+    </book>
+    <book>
+      <date>2013-04-09</date>
+      <title>雲圖（電影海報書衣版）</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUC015X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27315</link>
     </book>
   </preview>
 </book66>
