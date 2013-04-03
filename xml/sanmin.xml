@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-04-04</date>
-      <title>一看就懂！圖解全身刮痧法</title>
-      <price>145</price>
-      <imageUrl>http://61.63.52.113/images/986/986594223.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003591935</link>
+      <title>抗暖化，我也可以：氣候變遷與永續發展</title>
+      <price>251</price>
+      <imageUrl>http://61.63.52.113/images/986/986221930.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002883740</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-04-04</date>
-      <title>抗暖化，我也可以：氣候變遷與永續發展</title>
-      <price>251</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986221930.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002883740</link>
-    </book>
     <book>
       <date>2013-04-05</date>
       <title>開架也能畫出超驚艷正妞妝：廣告明星沛莉教...</title>
@@ -28,7 +21,7 @@
       <date>2013-04-06</date>
       <title>公司好風水，大富大貴有辦法</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.113/images/986/986591608.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986591608.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003569590</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-04-08</date>
       <title>英文面試即戰力：完全為求職者量身打造的面...</title>
       <price>238</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986601025.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986601025.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002999513</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>164</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986592712.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003560105</link>
+    </book>
+    <book>
+      <date>2013-04-10</date>
+      <title>商用英單即戰力：完全為上班族量身打造的英...</title>
+      <price>263</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986601010.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002729576</link>
     </book>
   </preview>
 </book66>
