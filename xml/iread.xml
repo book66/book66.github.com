@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-04-04</date>
-      <title>府城的美味時光：台南安閑園的飯桌</title>
-      <price>224</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000224901-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000224901</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-04-05</date>
-      <title>錢奴：今天你不弄懂金錢，有一天你就...</title>
-      <price>211</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000167132-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000167132</link>
-    </book>
-    <book>
       <date>2013-04-06</date>
       <title>讓大師教你輕鬆讀書</title>
       <price>119</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000203163-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000203163</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-04-07</date>
       <title>女生最愛看的愛情心理遊戲</title>
@@ -51,6 +37,13 @@
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000187846-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000187846</link>
+    </book>
+    <book>
+      <date>2013-04-11</date>
+      <title>安藤忠雄：我的人生履歷書</title>
+      <price>238</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000222161-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000222161</link>
     </book>
   </preview>
 </book66>
