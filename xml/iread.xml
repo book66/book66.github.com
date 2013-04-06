@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-04-06</date>
-      <title>讓大師教你輕鬆讀書</title>
-      <price>119</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000203163-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000203163</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-04-07</date>
-      <title>女生最愛看的愛情心理遊戲</title>
-      <price>124</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000102860-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000102860</link>
-    </book>
-    <book>
       <date>2013-04-08</date>
       <title>屁股管理學</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000179359-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000179359</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-04-09</date>
       <title>正確的輻射觀</title>
@@ -51,6 +37,13 @@
       <price>230</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000161293-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000161293</link>
+    </book>
+    <book>
+      <date>2013-04-13</date>
+      <title>解開星座的愛情密碼（4冊套書）</title>
+      <price>164</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000136667-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000136667</link>
     </book>
   </preview>
 </book66>
