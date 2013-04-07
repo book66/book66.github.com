@@ -11,13 +11,6 @@
   </today>
   <preview>
     <book>
-      <date>2013-04-08</date>
-      <title>英文面試即戰力：完全為求職者量身打造的面...</title>
-      <price>238</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986601025.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002999513</link>
-    </book>
-    <book>
       <date>2013-04-09</date>
       <title>40幾歲就退休：先窮一下子，再富一輩子的...</title>
       <price>164</price>
@@ -28,7 +21,7 @@
       <date>2013-04-10</date>
       <title>商用英單即戰力：完全為上班族量身打造的英...</title>
       <price>263</price>
-      <imageUrl>http://61.63.52.113/images/986/986601010.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986601010.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002729576</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-04-12</date>
       <title>圖解神奇的刮痧、拔罐、艾灸居家療法</title>
       <price>164</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594222.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986594222.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003560106</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>178</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986185777.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003596526</link>
+    </book>
+    <book>
+      <date>2013-04-14</date>
+      <title>味覺的旅行</title>
+      <price>185</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986221229.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000769430</link>
     </book>
   </preview>
 </book66>
