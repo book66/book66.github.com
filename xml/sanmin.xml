@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-04-09</date>
-      <title>英文面試即戰力：完全為求職者量身打造的面...</title>
-      <price>238</price>
-      <imageUrl>http://61.63.52.113/images/986/986601025.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002999513</link>
+      <title>40幾歲就退休：先窮一下子，再富一輩子的...</title>
+      <price>164</price>
+      <imageUrl>http://61.63.52.113/images/986/986592712.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003560105</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-04-09</date>
-      <title>40幾歲就退休：先窮一下子，再富一輩子的...</title>
-      <price>164</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986592712.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003560105</link>
-    </book>
     <book>
       <date>2013-04-10</date>
       <title>商用英單即戰力：完全為上班族量身打造的英...</title>
@@ -28,7 +21,7 @@
       <date>2013-04-11</date>
       <title>離開你，找到真正的自己</title>
       <price>172</price>
-      <imageUrl>http://61.63.52.113/images/986/986185748.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185748.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003089973</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-04-13</date>
       <title>我要成為斷捨離達人！</title>
       <price>178</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185777.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986185777.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003596526</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986221229.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000769430</link>
+    </book>
+    <book>
+      <date>2013-04-15</date>
+      <title>居家好風水，大富大貴有辦法</title>
+      <price>185</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986591607.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003560104</link>
     </book>
   </preview>
 </book66>
