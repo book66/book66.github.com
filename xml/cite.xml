@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-04-10</date>
-      <title>雲圖（電影海報書衣版）</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUC015X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27315</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-04-10</date>
       <title>朝鮮王朝的歷史與人物</title>
       <price>178</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI2040.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27693</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-04-11</date>
       <title>如果你對現況感到倦怠……</title>
@@ -51,6 +44,13 @@
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD2025.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27831</link>
+    </book>
+    <book>
+      <date>2013-04-16</date>
+      <title>我的錢都花到哪去了？薪水再少也能留住錢的...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0485.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28203</link>
     </book>
   </preview>
 </book66>
