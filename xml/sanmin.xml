@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-04-11</date>
-      <title>商用英單即戰力：完全為上班族量身打造的英...</title>
-      <price>263</price>
-      <imageUrl>http://61.63.52.113/images/986/986601010.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002729576</link>
+      <title>離開你，找到真正的自己</title>
+      <price>172</price>
+      <imageUrl>http://61.63.52.113/images/986/986185748.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003089973</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-04-11</date>
-      <title>離開你，找到真正的自己</title>
-      <price>172</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185748.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003089973</link>
-    </book>
     <book>
       <date>2013-04-12</date>
       <title>圖解神奇的刮痧、拔罐、艾灸居家療法</title>
@@ -28,7 +21,7 @@
       <date>2013-04-13</date>
       <title>我要成為斷捨離達人！</title>
       <price>178</price>
-      <imageUrl>http://61.63.52.113/images/986/986185777.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185777.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003596526</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-04-15</date>
       <title>居家好風水，大富大貴有辦法</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986591607.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986591607.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003560104</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986197451.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002980045</link>
+    </book>
+    <book>
+      <date>2013-04-17</date>
+      <title>Janet的英語遊樂園：不用教科書，英語...</title>
+      <price>238</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986601012.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003050971</link>
     </book>
   </preview>
 </book66>
