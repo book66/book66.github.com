@@ -11,13 +11,6 @@
   </today>
   <preview>
     <book>
-      <date>2013-04-12</date>
-      <title>圖解神奇的刮痧、拔罐、艾灸居家療法</title>
-      <price>164</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594222.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003560106</link>
-    </book>
-    <book>
       <date>2013-04-13</date>
       <title>我要成為斷捨離達人！</title>
       <price>178</price>
@@ -28,7 +21,7 @@
       <date>2013-04-14</date>
       <title>味覺的旅行</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.113/images/986/986221229.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986221229.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000769430</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-04-16</date>
       <title>大學教授教你輕鬆背單字（基礎版）</title>
       <price>231</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986197451.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986197451.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002980045</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986601012.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003050971</link>
+    </book>
+    <book>
+      <date>2013-04-18</date>
+      <title>特效反射區按摩圖解全書：快速打造纖腰、翹...</title>
+      <price>84</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594228.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003591936</link>
     </book>
   </preview>
 </book66>
