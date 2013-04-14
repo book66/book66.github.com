@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-04-15</date>
-      <title>味覺的旅行</title>
+      <title>居家好風水，大富大貴有辦法</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.113/images/986/986221229.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000769430</link>
+      <imageUrl>http://61.63.52.113/images/986/986591607.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003560104</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-04-15</date>
-      <title>居家好風水，大富大貴有辦法</title>
-      <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986591607.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003560104</link>
-    </book>
     <book>
       <date>2013-04-16</date>
       <title>大學教授教你輕鬆背單字（基礎版）</title>
@@ -28,7 +21,7 @@
       <date>2013-04-17</date>
       <title>Janet的英語遊樂園：不用教科書，英語...</title>
       <price>238</price>
-      <imageUrl>http://61.63.52.113/images/986/986601012.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986601012.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003050971</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-04-19</date>
       <title>高更的原始之夢</title>
       <price>323</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986868155.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986868155.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001513630</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986592700.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003552687</link>
+    </book>
+    <book>
+      <date>2013-04-21</date>
+      <title>不老騎士：那些歲月帶不走的夢想與勇氣</title>
+      <price>185</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185751.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003361988</link>
     </book>
   </preview>
 </book66>
