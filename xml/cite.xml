@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-04-16</date>
-      <title>我的錢都花到哪去了？薪水再少也能留住錢的...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0485.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28203</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-04-17</date>
       <title>在這裡等妳</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OT1009.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=29764</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-04-18</date>
       <title>徹底理解「江戶風範」：日常禮節x經商哲學...</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA6007.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26865</link>
+    </book>
+    <book>
+      <date>2013-04-23</date>
+      <title>教出有思考力、自律、學習態度佳的好孩子</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SH0083X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27833</link>
     </book>
   </preview>
 </book66>
