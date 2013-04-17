@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-04-18</date>
-      <title>Janet的英語遊樂園：不用教科書，英語...</title>
-      <price>238</price>
-      <imageUrl>http://61.63.52.113/images/986/986601012.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003050971</link>
+      <title>特效反射區按摩圖解全書：快速打造纖腰、翹...</title>
+      <price>84</price>
+      <imageUrl>http://61.63.52.113/images/986/986594228.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003591936</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-04-18</date>
-      <title>特效反射區按摩圖解全書：快速打造纖腰、翹...</title>
-      <price>84</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594228.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003591936</link>
-    </book>
     <book>
       <date>2013-04-19</date>
       <title>高更的原始之夢</title>
@@ -28,7 +21,7 @@
       <date>2013-04-20</date>
       <title>2件事情，就能感動所有老闆和員工！</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.113/images/986/986592700.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986592700.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003552687</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-04-22</date>
       <title>老師沒教老闆不說的：金字塔學習術</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986713977.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986713977.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003583495</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986594227.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003560107</link>
+    </book>
+    <book>
+      <date>2013-04-24</date>
+      <title>天邊</title>
+      <price>198</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986609413.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002590645</link>
     </book>
   </preview>
 </book66>
