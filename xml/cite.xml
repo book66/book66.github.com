@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-04-18</date>
-      <title>在這裡等妳</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OT1009.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=29764</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-04-18</date>
       <title>徹底理解「江戶風範」：日常禮節x經商哲學...</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL4069.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27253</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-04-19</date>
       <title>Four Fish 人‧魚‧海的兩種未來...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SH0083X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27833</link>
+    </book>
+    <book>
+      <date>2013-04-24</date>
+      <title>3分鐘強效溝通法：69個切中重點、贏得人...</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7060.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28200</link>
     </book>
   </preview>
 </book66>
