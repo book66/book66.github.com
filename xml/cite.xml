@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-04-19</date>
-      <title>徹底理解「江戶風範」：日常禮節x經商哲學...</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL4069.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27253</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-04-19</date>
       <title>Four Fish 人‧魚‧海的兩種未來...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FS0026.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27129</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-04-20</date>
       <title>觀鳥大年：飆鳥活動＝一種極限運動？誰能料...</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7060.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28200</link>
+    </book>
+    <book>
+      <date>2013-04-25</date>
+      <title>日本減重美女名醫教你打造「吃不胖」體質</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3090.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27213</link>
     </book>
   </preview>
 </book66>
