@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-04-21</date>
-      <title>觀鳥大年：飆鳥活動＝一種極限運動？誰能料...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1027X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27320</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-04-21</date>
       <title>訂價耍心機：9種讓顧客心甘情願掏錢的價格...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0038.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27747</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-04-22</date>
       <title>小資外食減重法：不用花大錢，不用刻意改變...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0481C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27667</link>
+    </book>
+    <book>
+      <date>2013-04-27</date>
+      <title>不小心，就把日子過成這麼有趣</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF320.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27671</link>
     </book>
   </preview>
 </book66>
