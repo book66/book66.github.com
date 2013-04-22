@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-04-22</date>
+      <date>2013-04-23</date>
       <title>老師沒教老闆不說的：金字塔學習術</title>
       <price>185</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986713977.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-04-23</date>
-      <title>胃腸病調養食療與保健</title>
-      <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594227.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003560107</link>
-    </book>
     <book>
       <date>2013-04-24</date>
       <title>天邊</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986185736.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003074898</link>
+    </book>
+    <book>
+      <date>2013-04-29</date>
+      <title>輕鬆打造完美S曲線：不用節食、無須拚命運...</title>
+      <price>84</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594225.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003552700</link>
     </book>
   </preview>
 </book66>
