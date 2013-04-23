@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-04-24</date>
-      <title>教出有思考力、自律、學習態度佳的好孩子</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SH0083X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27833</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-04-24</date>
       <title>3分鐘強效溝通法：69個切中重點、贏得人...</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7060.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28200</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-04-25</date>
       <title>日本減重美女名醫教你打造「吃不胖」體質</title>
@@ -51,6 +44,13 @@
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD4009X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27830</link>
+    </book>
+    <book>
+      <date>2013-04-30</date>
+      <title>惡之書</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/g/GM6134C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27881</link>
     </book>
   </preview>
 </book66>
