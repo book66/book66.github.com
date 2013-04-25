@@ -11,13 +11,6 @@
   </today>
   <preview>
     <book>
-      <date>2013-04-26</date>
-      <title>厚黑學全集參：厚黑心術實用篇</title>
-      <price>198</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/957/957713514.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003561237</link>
-    </book>
-    <book>
       <date>2013-04-27</date>
       <title>電影三字經</title>
       <price>238</price>
@@ -28,7 +21,7 @@
       <date>2013-04-28</date>
       <title>殭屍經濟學：教你殺死帳單、打擊負債、戰勝...</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.113/images/986/986185736.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185736.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003074898</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-04-30</date>
       <title>歐洲俏媳婦：德國人妻的愛戀進行式</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986197455.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986197455.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002788502</link>
     </book>
   </preview>
