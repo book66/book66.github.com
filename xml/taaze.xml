@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2013-04-27</date>
-      <title>設計全書A-Z</title>
-      <price>1188</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100153022</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100153022</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-04-28</date>
       <title>一個人的老後</title>
       <price>165</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100211177</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100211177</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
