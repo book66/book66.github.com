@@ -2,14 +2,21 @@
 <book66>
   <today>
     <book>
+      <date>2013-04-28</date>
+      <title>我不是放羊的小孩</title>
+      <price>145</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000078840-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000078840</link>
+    </book>
+  </today>
+  <preview>
+    <book>
       <date>2013-04-29</date>
       <title>3030職場英文</title>
       <price>191</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000155819-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000155819</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2013-04-30</date>
       <title>茶21席</title>
