@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-04-30</date>
-      <title>兒童安全用藥全書</title>
-      <price>297</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD4009X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27830</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-04-30</date>
       <title>惡之書</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/g/GM6134C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27881</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-05-01</date>
       <title>手術刀與靈魂：外科醫師與超自然經歷的邂逅...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0087.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27998</link>
+    </book>
+    <book>
+      <date>2013-05-06</date>
+      <title>你其實可以不用開刀：一位良心醫師的貼心囑...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0104.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28167</link>
     </book>
   </preview>
 </book66>
