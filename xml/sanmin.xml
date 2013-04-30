@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-04-30</date>
+      <date>2013-05-01</date>
       <title>歐洲俏媳婦：德國人妻的愛戀進行式</title>
       <price>185</price>
       <imageUrl>http://61.63.52.113/images/986/986197455.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-05-01</date>
-      <title>少年維特的煩惱：歌德中短篇小說選</title>
-      <price>165</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986595128.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003622481</link>
-    </book>
     <book>
       <date>2013-05-02</date>
       <title>茶壺：選壺．養壺．賞壺</title>
@@ -28,7 +21,7 @@
       <date>2013-05-03</date>
       <title>跟著新多益滿分王一起戰勝NEW TOEI...</title>
       <price>250</price>
-      <imageUrl>http://61.63.52.113/images/986/986592708.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986592708.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003552688</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-05-05</date>
       <title>糖尿病營養食譜</title>
       <price>231</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/962/962144869.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/962/962144869.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003591469</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986608053.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003575534</link>
+    </book>
+    <book>
+      <date>2013-05-07</date>
+      <title>名醫良方：中成藥實用指南</title>
+      <price>231</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/962/962144978.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003535422</link>
     </book>
   </preview>
 </book66>
