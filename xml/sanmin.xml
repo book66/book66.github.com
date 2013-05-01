@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-05-01</date>
-      <title>少年維特的煩惱：歌德中短篇小說選</title>
-      <price>165</price>
-      <imageUrl>http://61.63.52.113/images/986/986595128.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003622481</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-05-02</date>
       <title>茶壺：選壺．養壺．賞壺</title>
       <price>238</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986877401.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986877401.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002743720</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-05-03</date>
       <title>跟著新多益滿分王一起戰勝NEW TOEI...</title>
@@ -28,7 +21,7 @@
       <date>2013-05-04</date>
       <title>1分鐘！正韓妞50款百搭編髮</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.113/images/986/986185744.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185744.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003098139</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-05-06</date>
       <title>遠離癌症：癌症的知識與預防</title>
       <price>145</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986608053.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986608053.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003575534</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/962/962144978.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003535422</link>
+    </book>
+    <book>
+      <date>2013-05-08</date>
+      <title>用facebook學英文：跟著3億個英文...</title>
+      <price>197</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986592704.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003601943</link>
     </book>
   </preview>
 </book66>
