@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-05-06</date>
-      <title>糖尿病營養食譜</title>
-      <price>231</price>
-      <imageUrl>http://61.63.52.113/images/962/962144869.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003591469</link>
+      <title>遠離癌症：癌症的知識與預防</title>
+      <price>145</price>
+      <imageUrl>http://61.63.52.113/images/986/986608053.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003575534</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-05-06</date>
-      <title>遠離癌症：癌症的知識與預防</title>
-      <price>145</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986608053.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003575534</link>
-    </book>
     <book>
       <date>2013-05-07</date>
       <title>名醫良方：中成藥實用指南</title>
@@ -28,7 +21,7 @@
       <date>2013-05-08</date>
       <title>用facebook學英文：跟著3億個英文...</title>
       <price>197</price>
-      <imageUrl>http://61.63.52.113/images/986/986592704.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986592704.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003601943</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-05-10</date>
       <title>我的第一本育兒百科全集</title>
       <price>198</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986679330.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986679330.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000700063</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>99</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/957/957143393.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000272941</link>
+    </book>
+    <book>
+      <date>2013-05-12</date>
+      <title>圖解道教</title>
+      <price>251</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594230.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003633881</link>
     </book>
   </preview>
 </book66>
