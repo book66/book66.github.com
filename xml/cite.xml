@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-05-08</date>
-      <title>歐洲與沒有歷史的人(全新增訂版)</title>
-      <price>429</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH4009X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28536</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-05-08</date>
       <title>讓九成顧客回流的33個關鍵秘訣：不要小看...</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2245.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27940</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-05-09</date>
       <title>傲慢與偏見</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0041.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28565</link>
+    </book>
+    <book>
+      <date>2013-05-14</date>
+      <title>甲骨文的故事</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK6030.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27591</link>
     </book>
   </preview>
 </book66>
