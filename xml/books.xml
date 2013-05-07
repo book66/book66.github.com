@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-05-07</date>
+      <date>2013-05-08</date>
       <title>超譯尼采</title>
       <price>231</price>
       <imageUrl>http://addons.books.com.tw/G/001/8/0010559388.jpg</imageUrl>
@@ -10,6 +10,20 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-05-06</date>
+      <title>南瓜計畫：狠心摘弱枝，才能比人茁壯的經營...</title>
+      <price>198</price>
+      <imageUrl>http://addons.books.com.tw/G/001/0/0010574340.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010574340</link>
+    </book>
+    <book>
+      <date>2013-05-07</date>
+      <title>超譯尼采</title>
+      <price>231</price>
+      <imageUrl>http://addons.books.com.tw/G/001/8/0010559388.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010559388</link>
+    </book>
     <book>
       <date>2013-05-08</date>
       <title>后宮甄嬛傳教我的80件事</title>
