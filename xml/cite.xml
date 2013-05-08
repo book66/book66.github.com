@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-05-08</date>
-      <title>讓九成顧客回流的33個關鍵秘訣：不要小看...</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2245.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27940</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-05-09</date>
       <title>傲慢與偏見</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU6039.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28206</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-05-10</date>
       <title>經典。曹雪芹 紅樓夢</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK6030.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27591</link>
+    </book>
+    <book>
+      <date>2013-05-15</date>
+      <title>寫作力：只要讀懂題目，國文作文就能成功得...</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RC4002.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28538</link>
     </book>
   </preview>
 </book66>
