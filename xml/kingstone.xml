@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-05-11</date>
-      <title>再一次相遇：那些年，我們一起追的女孩(電...</title>
-      <price>197</price>
-      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20198/2019870091009/2019870091009b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2019870091009&amp;actid=a0708onsale66</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-05-11</date>
       <title>美妝檢驗權威徐教授才敢說的真相：揭開10...</title>
       <price>198</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20146/2014660011922/2014660011922b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014660011922&amp;actid=a0708onsale66</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-05-12</date>
       <title>植物的異色世界</title>
@@ -72,6 +65,13 @@
       <price>198</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20180/2018052378235/2018052378235b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052378235&amp;actid=a0708onsale66</link>
+    </book>
+    <book>
+      <date>2013-05-20</date>
+      <title>村上收音機</title>
+      <price>185</price>
+      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20186/2018610957131/2018610957131b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018610957131&amp;actid=a0708onsale66</link>
     </book>
   </preview>
 </book66>

@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-05-11</date>
-      <title>經典。曹雪芹 紅樓夢</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RC5001.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27317</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-05-11</date>
       <title>隔離島</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6408X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27944</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-05-12</date>
       <title>天使</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU6038.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=22850</link>
+    </book>
+    <book>
+      <date>2013-05-17</date>
+      <title>我們沒有權利樂觀：後石油危機時代的真相</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7047.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28604</link>
     </book>
   </preview>
 </book66>
