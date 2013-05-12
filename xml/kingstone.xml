@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-05-13</date>
-      <title>植物的異色世界</title>
-      <price>461</price>
-      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20237/2023700011556/2023700011556b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2023700011556&amp;actid=a0708onsale66</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-05-13</date>
       <title>關於跑步，我說的其實是……</title>
       <price>165</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20186/2018610586126/2018610586126b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018610586126&amp;actid=a0708onsale66</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-05-14</date>
       <title>派特的幸福劇本(電影書衣版)</title>
@@ -72,6 +65,13 @@
       <price>231</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20149/2014941128738/2014941128738b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941128738&amp;actid=a0708onsale66</link>
+    </book>
+    <book>
+      <date>2013-05-22</date>
+      <title>趁熱品嚐</title>
+      <price>145</price>
+      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20186/2018610936365/2018610936365b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018610936365&amp;actid=a0708onsale66</link>
     </book>
   </preview>
 </book66>

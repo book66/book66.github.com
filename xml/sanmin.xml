@@ -11,13 +11,6 @@
   </today>
   <preview>
     <book>
-      <date>2013-05-13</date>
-      <title>最強手帳改造術：58個創意提案×百款內頁...</title>
-      <price>178</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185795.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003596501</link>
-    </book>
-    <book>
       <date>2013-05-14</date>
       <title>根掘り葉掘り生活日語字彙通</title>
       <price>172</price>
@@ -28,7 +21,7 @@
       <date>2013-05-15</date>
       <title>黃帝內經</title>
       <price>264</price>
-      <imageUrl>http://61.63.52.113/images/988/988818106.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/988/988818106.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003092468</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-05-17</date>
       <title>常見食物與體質食養</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/962/962073415.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/962/962073415.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003075142</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986185758.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003098076</link>
+    </book>
+    <book>
+      <date>2013-05-19</date>
+      <title>一代奇人戴笠將軍(二版)</title>
+      <price>165</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/957/957192729.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000334568</link>
     </book>
   </preview>
 </book66>
