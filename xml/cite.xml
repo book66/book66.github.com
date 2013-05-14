@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-05-15</date>
-      <title>甲骨文的故事</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK6030.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27591</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-05-15</date>
       <title>寫作力：只要讀懂題目，國文作文就能成功得...</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RC4002.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28538</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-05-16</date>
       <title>大亨小傳</title>
@@ -51,6 +44,13 @@
       <price>197</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6418.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28448</link>
+    </book>
+    <book>
+      <date>2013-05-21</date>
+      <title>世紀陳家莊：從養豬戶到營收百億的企業家族...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5076.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27376</link>
     </book>
   </preview>
 </book66>
