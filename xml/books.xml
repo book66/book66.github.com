@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-05-15</date>
+      <date>2013-05-16</date>
       <title>The Magic魔法</title>
       <price>191</price>
       <imageUrl>http://addons.books.com.tw/G/001/4/0010558764.jpg</imageUrl>
@@ -10,6 +10,27 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-05-13</date>
+      <title>隱形冠軍：21世紀最被低估的競爭優勢</title>
+      <price>251</price>
+      <imageUrl>http://addons.books.com.tw/G/001/7/0010570727.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010570727</link>
+    </book>
+    <book>
+      <date>2013-05-14</date>
+      <title>學校沒教的邏輯課：發現八卦、婚姻、網拍背...</title>
+      <price>152</price>
+      <imageUrl>http://addons.books.com.tw/G/001/5/0010571035.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010571035</link>
+    </book>
+    <book>
+      <date>2013-05-15</date>
+      <title>The Magic魔法</title>
+      <price>191</price>
+      <imageUrl>http://addons.books.com.tw/G/001/4/0010558764.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010558764</link>
+    </book>
     <book>
       <date>2013-05-16</date>
       <title>在家啟動創造力：55個超簡單的親子手作，...</title>
