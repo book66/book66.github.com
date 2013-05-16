@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-05-17</date>
-      <title>圖解英文的原理：用老外的思維學好英文</title>
-      <price>197</price>
-      <imageUrl>http://61.63.52.113/images/986/986622499.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003045926</link>
+      <title>常見食物與體質食養</title>
+      <price>185</price>
+      <imageUrl>http://61.63.52.113/images/962/962073415.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003075142</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-05-17</date>
-      <title>常見食物與體質食養</title>
-      <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/962/962073415.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003075142</link>
-    </book>
     <book>
       <date>2013-05-18</date>
       <title>讀過再也不會忘！東大、慶應、早稻田，教你...</title>
@@ -28,7 +21,7 @@
       <date>2013-05-19</date>
       <title>一代奇人戴笠將軍(二版)</title>
       <price>165</price>
-      <imageUrl>http://61.63.52.113/images/957/957192729.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/957/957192729.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000334568</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-05-21</date>
       <title>瞳妖．夢魔（共二冊）</title>
       <price>164</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986197445.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986197445.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003025230</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/962/962073413.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003063085</link>
+    </book>
+    <book>
+      <date>2013-05-23</date>
+      <title>老人與海：海明威中短篇小說選</title>
+      <price>165</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986595129.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003622482</link>
     </book>
   </preview>
 </book66>
