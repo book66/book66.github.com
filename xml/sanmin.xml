@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-05-18</date>
-      <title>常見食物與體質食養</title>
-      <price>185</price>
-      <imageUrl>http://61.63.52.113/images/962/962073415.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003075142</link>
+      <title>讀過再也不會忘！東大、慶應、早稻田，教你...</title>
+      <price>165</price>
+      <imageUrl>http://61.63.52.113/images/986/986185758.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003098076</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-05-18</date>
-      <title>讀過再也不會忘！東大、慶應、早稻田，教你...</title>
-      <price>165</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185758.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003098076</link>
-    </book>
     <book>
       <date>2013-05-19</date>
       <title>一代奇人戴笠將軍(二版)</title>
@@ -28,7 +21,7 @@
       <date>2013-05-20</date>
       <title>考一次就過關：GEPT全民英檢初級滿分攻...</title>
       <price>250</price>
-      <imageUrl>http://61.63.52.113/images/986/986592717.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986592717.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003601945</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-05-22</date>
       <title>痛風治療與中醫調養</title>
       <price>231</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/962/962073413.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/962/962073413.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003063085</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986595129.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003622482</link>
+    </book>
+    <book>
+      <date>2013-05-24</date>
+      <title>寬恕，是療癒的開始</title>
+      <price>172</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185775.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003537747</link>
     </book>
   </preview>
 </book66>
