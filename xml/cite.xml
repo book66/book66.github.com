@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-05-18</date>
-      <title>我們沒有權利樂觀：後石油危機時代的真相</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7047.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28604</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-05-18</date>
       <title>塵封筆記本（電影原著小說）</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RS7063.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28440</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-05-19</date>
       <title>日本人，搞不懂你ㄋㄟ！台灣女孩的留日闖蕩...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7063.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28335</link>
+    </book>
+    <book>
+      <date>2013-05-24</date>
+      <title>行李箱男孩</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0021.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28067</link>
     </book>
   </preview>
 </book66>
