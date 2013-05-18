@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-05-18</date>
-      <title>鬆‧癒‧太極拳</title>
-      <price>132</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000137416-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000137416</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-05-19</date>
-      <title>聰明人都在玩的135個益智遊戲</title>
-      <price>131</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000125023-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000125023</link>
-    </book>
-    <book>
       <date>2013-05-20</date>
       <title>用日本小學課本學50音（修訂版）</title>
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000181234-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000181234</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-05-21</date>
       <title>24節氣三合一養生法：經絡、食療、瑜...</title>
@@ -51,6 +37,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000189219-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000189219</link>
+    </book>
+    <book>
+      <date>2013-05-25</date>
+      <title>易經入門【解難篇】</title>
+      <price>158</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000203165-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000203165</link>
     </book>
   </preview>
 </book66>
