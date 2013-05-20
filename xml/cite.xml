@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-05-21</date>
-      <title>神祕微笑</title>
-      <price>197</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6418.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28448</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-05-21</date>
       <title>世紀陳家莊：從養豬戶到營收百億的企業家族...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5076.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27376</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-05-22</date>
       <title>傅柯：危險哲學家</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0014X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28468</link>
+    </book>
+    <book>
+      <date>2013-05-27</date>
+      <title>騙倒買家！──世紀假畫天才的秘密告白</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0040.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28564</link>
     </book>
   </preview>
 </book66>
