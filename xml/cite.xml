@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-05-22</date>
-      <title>世紀陳家莊：從養豬戶到營收百億的企業家族...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5076.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27376</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-05-22</date>
       <title>傅柯：危險哲學家</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH1142X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28535</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-05-23</date>
       <title>一定做得到的速讀術：開發你的速讀腦，一分...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0040.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28564</link>
+    </book>
+    <book>
+      <date>2013-05-28</date>
+      <title>比說話更清楚！繪文字的技術：10倍速提升...</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7064.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28602</link>
     </book>
   </preview>
 </book66>
