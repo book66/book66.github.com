@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-05-24</date>
-      <title>一定做得到的速讀術：開發你的速讀腦，一分...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7063.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28335</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-05-24</date>
       <title>行李箱男孩</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0021.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28067</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-05-25</date>
       <title>超專注力</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1001.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28466</link>
+    </book>
+    <book>
+      <date>2013-05-30</date>
+      <title>圖解你該知道的十二年國教</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3061.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28455</link>
     </book>
   </preview>
 </book66>
