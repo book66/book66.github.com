@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-05-24</date>
-      <title>老人與海：海明威中短篇小說選</title>
-      <price>165</price>
-      <imageUrl>http://61.63.52.113/images/986/986595129.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003622482</link>
+      <title>寬恕，是療癒的開始</title>
+      <price>172</price>
+      <imageUrl>http://61.63.52.113/images/986/986185775.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003537747</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-05-24</date>
-      <title>寬恕，是療癒的開始</title>
-      <price>172</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185775.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003537747</link>
-    </book>
     <book>
       <date>2013-05-25</date>
       <title>這一生早知道早幸福的9個覺悟：和尚賣了法...</title>
@@ -28,7 +21,7 @@
       <date>2013-05-26</date>
       <title>Fanny's ideas自然結果的手作...</title>
       <price>231</price>
-      <imageUrl>http://61.63.52.113/images/986/986627773.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986627773.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001636320</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-05-28</date>
       <title>高血壓、高血脂、高血糖飲食療法</title>
       <price>165</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594226.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986594226.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003569595</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986185707.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003007470</link>
+    </book>
+    <book>
+      <date>2013-05-30</date>
+      <title>活好，活久（修訂版）</title>
+      <price>231</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/988/988813728.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002760078</link>
     </book>
   </preview>
 </book66>
