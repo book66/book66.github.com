@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-05-25</date>
-      <title>行李箱男孩</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0021.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28067</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-05-25</date>
       <title>超專注力</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3060G.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28674</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-05-26</date>
       <title>派特的幸福劇本(電影書衣版)</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3061.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28455</link>
+    </book>
+    <book>
+      <date>2013-05-31</date>
+      <title>地中海的春天</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MS1046.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28469</link>
     </book>
   </preview>
 </book66>
