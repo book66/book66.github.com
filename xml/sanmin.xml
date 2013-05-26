@@ -11,13 +11,6 @@
   </today>
   <preview>
     <book>
-      <date>2013-05-27</date>
-      <title>過敏症安全食譜（中英對照）</title>
-      <price>290</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/962/962144883.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003044326</link>
-    </book>
-    <book>
       <date>2013-05-28</date>
       <title>高血壓、高血脂、高血糖飲食療法</title>
       <price>165</price>
@@ -28,7 +21,7 @@
       <date>2013-05-29</date>
       <title>快樂只有自己能給：42個讓快樂不請自來的...</title>
       <price>145</price>
-      <imageUrl>http://61.63.52.113/images/986/986185707.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185707.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003007470</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-05-31</date>
       <title>《碧巖錄》中的100大智慧</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/957/957713517.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/957/957713517.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003628876</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986636030.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001366791</link>
+    </book>
+    <book>
+      <date>2013-06-02</date>
+      <title>圖解英文的規則：用老外的方法說好英文</title>
+      <price>250</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986592716.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003601944</link>
     </book>
   </preview>
 </book66>
