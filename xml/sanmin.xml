@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-05-27</date>
+      <date>2013-05-28</date>
       <title>過敏症安全食譜（中英對照）</title>
       <price>290</price>
       <imageUrl>http://61.63.52.113/images/962/962144883.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-05-28</date>
-      <title>高血壓、高血脂、高血糖飲食療法</title>
-      <price>165</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594226.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003569595</link>
-    </book>
     <book>
       <date>2013-05-29</date>
       <title>快樂只有自己能給：42個讓快樂不請自來的...</title>
@@ -28,7 +21,7 @@
       <date>2013-05-30</date>
       <title>活好，活久（修訂版）</title>
       <price>231</price>
-      <imageUrl>http://61.63.52.113/images/988/988813728.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/988/988813728.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002760078</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-06-01</date>
       <title>Moya超人氣手作禮</title>
       <price>251</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986636030.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986636030.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001366791</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>250</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986592716.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003601944</link>
+    </book>
+    <book>
+      <date>2013-06-03</date>
+      <title>啟動夢想吸引力</title>
+      <price>211</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986271270.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003359652</link>
     </book>
   </preview>
 </book66>
