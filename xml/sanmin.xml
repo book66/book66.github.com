@@ -11,13 +11,6 @@
   </today>
   <preview>
     <book>
-      <date>2013-05-30</date>
-      <title>活好，活久（修訂版）</title>
-      <price>231</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/988/988813728.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002760078</link>
-    </book>
-    <book>
       <date>2013-05-31</date>
       <title>《碧巖錄》中的100大智慧</title>
       <price>185</price>
@@ -28,7 +21,7 @@
       <date>2013-06-01</date>
       <title>Moya超人氣手作禮</title>
       <price>251</price>
-      <imageUrl>http://61.63.52.113/images/986/986636030.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986636030.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001366791</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-06-03</date>
       <title>啟動夢想吸引力</title>
       <price>211</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986271270.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986271270.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003359652</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986185742.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003098138</link>
+    </book>
+    <book>
+      <date>2013-06-05</date>
+      <title>不抱怨的智慧（暢銷實踐版）</title>
+      <price>185</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986591612.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003668465</link>
     </book>
   </preview>
 </book66>
