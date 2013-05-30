@@ -11,13 +11,6 @@
   </today>
   <preview>
     <book>
-      <date>2013-05-31</date>
-      <title>《碧巖錄》中的100大智慧</title>
-      <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/957/957713517.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003628876</link>
-    </book>
-    <book>
       <date>2013-06-01</date>
       <title>Moya超人氣手作禮</title>
       <price>251</price>
@@ -28,7 +21,7 @@
       <date>2013-06-02</date>
       <title>圖解英文的規則：用老外的方法說好英文</title>
       <price>250</price>
-      <imageUrl>http://61.63.52.113/images/986/986592716.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986592716.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003601944</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-06-04</date>
       <title>凍齡女王金松河：這樣思考、運動和保養就能...</title>
       <price>211</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185742.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986185742.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003098138</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986591612.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003668465</link>
+    </book>
+    <book>
+      <date>2013-06-06</date>
+      <title>620億美元的秘密：巴菲特雪球傳奇全紀錄</title>
+      <price>297</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986271275.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003448619</link>
     </book>
   </preview>
 </book66>
