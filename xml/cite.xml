@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-06-01</date>
-      <title>地中海的春天</title>
-      <price>224</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MS1046.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28469</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-06-01</date>
       <title>為什麼有些人一開口就能說到重點？：讓人一...</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0090.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28462</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-06-02</date>
       <title>蒼井優　台灣的女孩</title>
@@ -51,6 +44,13 @@
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VX0024.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28070</link>
+    </book>
+    <book>
+      <date>2013-06-07</date>
+      <title>生命就是堅持信念，走到最終</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX1052.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28166</link>
     </book>
   </preview>
 </book66>

@@ -2,14 +2,21 @@
 <book66>
   <today>
     <book>
+      <date>2013-06-01</date>
+      <title>品京都</title>
+      <price>238</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000128897-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000128897</link>
+    </book>
+  </today>
+  <preview>
+    <book>
       <date>2013-06-02</date>
       <title>按開人體的竅：穴位玄機妙用</title>
       <price>191</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000234819-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000234819</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2013-06-03</date>
       <title>青木和子之花草刺鏽之旅</title>
