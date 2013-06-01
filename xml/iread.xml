@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-06-01</date>
-      <title>品京都</title>
-      <price>238</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000128897-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000128897</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-06-02</date>
-      <title>按開人體的竅：穴位玄機妙用</title>
-      <price>191</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000234819-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000234819</link>
-    </book>
-    <book>
       <date>2013-06-03</date>
       <title>青木和子之花草刺鏽之旅</title>
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000203144-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000203144</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-06-04</date>
       <title>輕鬆打造完美廚藝：新手變大廚的20項...</title>
@@ -51,6 +37,13 @@
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000117587-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000117587</link>
+    </book>
+    <book>
+      <date>2013-06-08</date>
+      <title>誰說現在學日文太晚？：讓你不管幾歲...</title>
+      <price>106</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000223885.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000223885</link>
     </book>
   </preview>
 </book66>
