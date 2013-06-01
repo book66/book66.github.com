@@ -11,13 +11,6 @@
   </today>
   <preview>
     <book>
-      <date>2013-06-02</date>
-      <title>圖解英文的規則：用老外的方法說好英文</title>
-      <price>250</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986592716.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003601944</link>
-    </book>
-    <book>
       <date>2013-06-03</date>
       <title>啟動夢想吸引力</title>
       <price>211</price>
@@ -28,7 +21,7 @@
       <date>2013-06-04</date>
       <title>凍齡女王金松河：這樣思考、運動和保養就能...</title>
       <price>211</price>
-      <imageUrl>http://61.63.52.113/images/986/986185742.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185742.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003098138</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-06-06</date>
       <title>620億美元的秘密：巴菲特雪球傳奇全紀錄</title>
       <price>297</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986271275.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986271275.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003448619</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986594632.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003668469</link>
+    </book>
+    <book>
+      <date>2013-06-08</date>
+      <title>珍．奧斯汀的世界：英國最受歡迎小說家的生...</title>
+      <price>317</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986627733.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001322797</link>
     </book>
   </preview>
 </book66>
