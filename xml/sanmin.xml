@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-06-05</date>
-      <title>凍齡女王金松河：這樣思考、運動和保養就能...</title>
-      <price>211</price>
-      <imageUrl>http://61.63.52.113/images/986/986185742.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003098138</link>
+      <title>不抱怨的智慧（暢銷實踐版）</title>
+      <price>185</price>
+      <imageUrl>http://61.63.52.113/images/986/986591612.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003668465</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-06-05</date>
-      <title>不抱怨的智慧（暢銷實踐版）</title>
-      <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986591612.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003668465</link>
-    </book>
     <book>
       <date>2013-06-06</date>
       <title>620億美元的秘密：巴菲特雪球傳奇全紀錄</title>
@@ -28,7 +21,7 @@
       <date>2013-06-07</date>
       <title>活用厚黑學、妙用潛規則</title>
       <price>165</price>
-      <imageUrl>http://61.63.52.113/images/986/986594632.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594632.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003668469</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-06-09</date>
       <title>陰屍路01：人事全非</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986674999.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986674999.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003002686</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>250</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986592715.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003649066</link>
+    </book>
+    <book>
+      <date>2013-06-11</date>
+      <title>Hello！mt 我的幸福故事，就從mt...</title>
+      <price>185</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185780.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003537749</link>
     </book>
   </preview>
 </book66>
