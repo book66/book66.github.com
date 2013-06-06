@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-06-07</date>
-      <title>改變歷史的50種動物</title>
-      <price>317</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VX0024.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28070</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-06-07</date>
       <title>生命就是堅持信念，走到最終</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX1052.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28166</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-06-08</date>
       <title>中國金融大揭密：異常崛起的大銀行真相</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX1053.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28598</link>
+    </book>
+    <book>
+      <date>2013-06-13</date>
+      <title>貓國物語復刻珍藏版：貓國物語+子貓絮語+...</title>
+      <price>659</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VX0006T.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27907</link>
     </book>
   </preview>
 </book66>
