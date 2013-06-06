@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-06-07</date>
-      <title>620億美元的秘密：巴菲特雪球傳奇全紀錄</title>
-      <price>297</price>
-      <imageUrl>http://61.63.52.113/images/986/986271275.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003448619</link>
+      <title>活用厚黑學、妙用潛規則</title>
+      <price>165</price>
+      <imageUrl>http://61.63.52.113/images/986/986594632.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003668469</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-06-07</date>
-      <title>活用厚黑學、妙用潛規則</title>
-      <price>165</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594632.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003668469</link>
-    </book>
     <book>
       <date>2013-06-08</date>
       <title>珍．奧斯汀的世界：英國最受歡迎小說家的生...</title>
@@ -28,7 +21,7 @@
       <date>2013-06-09</date>
       <title>陰屍路01：人事全非</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.113/images/986/986674999.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986674999.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003002686</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-06-11</date>
       <title>Hello！mt 我的幸福故事，就從mt...</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185780.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986185780.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003537749</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986271282.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003491169</link>
+    </book>
+    <book>
+      <date>2013-06-13</date>
+      <title>圖解國富論</title>
+      <price>317</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986595130.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003633882</link>
     </book>
   </preview>
 </book66>
