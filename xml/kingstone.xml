@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-06-08</date>
-      <title>一張單程機票</title>
-      <price>211</price>
-      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20185/2018551570383/2018551570383b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018551570383&amp;actid=a0708onsale66</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-06-08</date>
       <title>在愛情轉角處，想你</title>
       <price>119</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20185/2018577204873/2018577204873b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018577204873&amp;actid=a0708onsale66</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-06-09</date>
       <title>獵月：骸骨之城4</title>
@@ -72,6 +65,13 @@
       <price>131</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20187/2018740746698/2018740746698b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018740746698&amp;actid=a0708onsale66</link>
+    </book>
+    <book>
+      <date>2013-06-17</date>
+      <title>建築變形記：從帕德嫩神廟到哭牆，13則時...</title>
+      <price>238</price>
+      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20192/2019230025842/2019230025842b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2019230025842&amp;actid=a0708onsale66</link>
     </book>
   </preview>
 </book66>
