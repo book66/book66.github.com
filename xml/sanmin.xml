@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-06-08</date>
-      <title>活用厚黑學、妙用潛規則</title>
-      <price>165</price>
-      <imageUrl>http://61.63.52.113/images/986/986594632.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003668469</link>
+      <title>珍．奧斯汀的世界：英國最受歡迎小說家的生...</title>
+      <price>317</price>
+      <imageUrl>http://61.63.52.113/images/986/986627733.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001322797</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-06-08</date>
-      <title>珍．奧斯汀的世界：英國最受歡迎小說家的生...</title>
-      <price>317</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986627733.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001322797</link>
-    </book>
     <book>
       <date>2013-06-09</date>
       <title>陰屍路01：人事全非</title>
@@ -28,7 +21,7 @@
       <date>2013-06-10</date>
       <title>圖解日本人天天在用的單字、句型</title>
       <price>250</price>
-      <imageUrl>http://61.63.52.113/images/986/986592715.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986592715.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003649066</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-06-12</date>
       <title>立即見效，一輩子最受用的10堂情緒管理課</title>
       <price>198</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986271282.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986271282.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003491169</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>317</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986595130.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003633882</link>
+    </book>
+    <book>
+      <date>2013-06-14</date>
+      <title>陰屍路02：漫漫長路</title>
+      <price>185</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594901.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003053752</link>
     </book>
   </preview>
 </book66>
