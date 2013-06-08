@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-06-08</date>
+      <date>2013-06-09</date>
       <title>京都自助超簡單</title>
       <price>211</price>
       <imageUrl>http://addons.books.com.tw/G/001/2/0010537122.jpg</imageUrl>
@@ -10,6 +10,48 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-06-03</date>
+      <title>獲利世代：自己動手，畫出你的商業模式</title>
+      <price>329</price>
+      <imageUrl>http://addons.books.com.tw/G/001/4/0010567254.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010567254</link>
+    </book>
+    <book>
+      <date>2013-06-04</date>
+      <title>媽媽一定要學會的關鍵33句話：失控的一句...</title>
+      <price>191</price>
+      <imageUrl>http://addons.books.com.tw/G/001/8/0010571708.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010571708</link>
+    </book>
+    <book>
+      <date>2013-06-05</date>
+      <title>傑米．奧利佛15分鐘上菜</title>
+      <price>317</price>
+      <imageUrl>http://addons.books.com.tw/G/001/9/0010576929.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010576929</link>
+    </book>
+    <book>
+      <date>2013-06-06</date>
+      <title>醫生，不醫死：急診室的20個凝視與思考</title>
+      <price>158</price>
+      <imageUrl>http://addons.books.com.tw/G/001/4/0010576744.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010576744</link>
+    </book>
+    <book>
+      <date>2013-06-07</date>
+      <title>7天瘦肚子2【最強版】「早上喝果汁＋晚上...</title>
+      <price>185</price>
+      <imageUrl>http://addons.books.com.tw/G/001/3/0010579443.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010579443</link>
+    </book>
+    <book>
+      <date>2013-06-08</date>
+      <title>京都自助超簡單</title>
+      <price>211</price>
+      <imageUrl>http://addons.books.com.tw/G/001/2/0010537122.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010537122</link>
+    </book>
     <book>
       <date>2013-06-09</date>
       <title>法醫．屍體．解剖室：犯罪搜查216問-專...</title>

@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2013-06-08</date>
-      <title>用facebook學英文：跟著3億個英文...</title>
-      <price>197</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100642044</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100642044</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-06-09</date>
       <title>把丟掉的心找回來</title>
       <price>145</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100611525</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100611525</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
