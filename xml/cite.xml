@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-06-12</date>
-      <title>日常美，買好物</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GI065.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27695</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-06-12</date>
       <title>主角的條件</title>
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX1053.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28598</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-06-13</date>
       <title>貓國物語復刻珍藏版：貓國物語+子貓絮語+...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPT09.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28216</link>
+    </book>
+    <book>
+      <date>2013-06-18</date>
+      <title>卡位學：學著「出賣自己」</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BE031.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28404</link>
     </book>
   </preview>
 </book66>
