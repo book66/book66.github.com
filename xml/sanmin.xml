@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-06-13</date>
-      <title>立即見效，一輩子最受用的10堂情緒管理課</title>
-      <price>198</price>
-      <imageUrl>http://61.63.52.113/images/986/986271282.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003491169</link>
+      <title>圖解國富論</title>
+      <price>317</price>
+      <imageUrl>http://61.63.52.113/images/986/986595130.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003633882</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-06-13</date>
-      <title>圖解國富論</title>
-      <price>317</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986595130.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003633882</link>
-    </book>
     <book>
       <date>2013-06-14</date>
       <title>陰屍路02：漫漫長路</title>
@@ -28,7 +21,7 @@
       <date>2013-06-15</date>
       <title>從面相看健康</title>
       <price>145</price>
-      <imageUrl>http://61.63.52.113/images/986/986608055.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986608055.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003669681</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-06-17</date>
       <title>一點就通！跟著大師輕鬆學色鉛筆</title>
       <price>211</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185806.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986185806.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003667197</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>131</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986595131.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003658718</link>
+    </book>
+    <book>
+      <date>2013-06-19</date>
+      <title>網賺首部曲：網路印鈔術</title>
+      <price>211</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986271309.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003606923</link>
     </book>
   </preview>
 </book66>
