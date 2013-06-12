@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-06-12</date>
+      <date>2013-06-13</date>
       <title>草莓之夜</title>
       <price>185</price>
       <imageUrl>http://addons.books.com.tw/G/001/1/0010576591.jpg</imageUrl>
@@ -10,6 +10,27 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-06-10</date>
+      <title>主管不說，但你一定要懂的50件事</title>
+      <price>172</price>
+      <imageUrl>http://addons.books.com.tw/G/001/5/0010577515.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010577515</link>
+    </book>
+    <book>
+      <date>2013-06-11</date>
+      <title>可不可以吃不胖：打造易瘦體質的減肥魔法書</title>
+      <price>257</price>
+      <imageUrl>http://addons.books.com.tw/G/001/8/0010577918.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010577918</link>
+    </book>
+    <book>
+      <date>2013-06-12</date>
+      <title>草莓之夜</title>
+      <price>185</price>
+      <imageUrl>http://addons.books.com.tw/G/001/1/0010576591.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010576591</link>
+    </book>
     <book>
       <date>2013-06-13</date>
       <title>健康背部解剖書：最完整的肩、頸、背健康指...</title>
