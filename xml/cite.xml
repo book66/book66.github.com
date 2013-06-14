@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-06-15</date>
-      <title>冰箱有什麼就煮什麼：料理家教教你家常菜大...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM008.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27782</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-06-15</date>
       <title>夢想，出發：風格小舖成功開店！</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF315.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28679</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-06-16</date>
       <title>葛拉漢永恆的投資智慧</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1100.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27696</link>
+    </book>
+    <book>
+      <date>2013-06-21</date>
+      <title>為什麼一口接一口停不了?：揭開零食成癮的...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ2046.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28449</link>
     </book>
   </preview>
 </book66>
