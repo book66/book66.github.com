@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-06-16</date>
-      <title>從面相看健康</title>
-      <price>145</price>
-      <imageUrl>http://61.63.52.113/images/986/986608055.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003669681</link>
+      <title>陰屍路03：身陷囹圄</title>
+      <price>185</price>
+      <imageUrl>http://61.63.52.113/images/986/986594905.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003096095</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-06-16</date>
-      <title>陰屍路03：身陷囹圄</title>
-      <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594905.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003096095</link>
-    </book>
     <book>
       <date>2013-06-17</date>
       <title>一點就通！跟著大師輕鬆學色鉛筆</title>
@@ -28,7 +21,7 @@
       <date>2013-06-18</date>
       <title>競選州長：馬克吐溫中短篇小說選</title>
       <price>131</price>
-      <imageUrl>http://61.63.52.113/images/986/986595131.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986595131.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003658718</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-06-20</date>
       <title>魔女1/2之魔女訓練營</title>
       <price>132</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986197428.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986197428.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002681050</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>139</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/957/957713512.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003668480</link>
+    </book>
+    <book>
+      <date>2013-06-22</date>
+      <title>陰屍路04：慾望之心</title>
+      <price>185</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594904.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003456971</link>
     </book>
   </preview>
 </book66>
