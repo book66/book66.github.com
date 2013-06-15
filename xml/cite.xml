@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-06-16</date>
-      <title>夢想，出發：風格小舖成功開店！</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF315.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28679</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-06-16</date>
       <title>葛拉漢永恆的投資智慧</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0486.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27446</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-06-17</date>
       <title>58間Cafe，58種京都：用一杯咖啡的...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ2046.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28449</link>
+    </book>
+    <book>
+      <date>2013-06-22</date>
+      <title>日日好食光：幸福便當小料理×304</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB816.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27209</link>
     </book>
   </preview>
 </book66>
