@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-06-19</date>
-      <title>卡位學：學著「出賣自己」</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BE031.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28404</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-06-19</date>
       <title>人生有千萬個起跑點</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3059.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27771</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-06-20</date>
       <title>Facilitation引導學：創造場域...</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0189.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28600</link>
+    </book>
+    <book>
+      <date>2013-06-25</date>
+      <title>體驗經濟時代（十週年修訂版）：人們正在追...</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1101.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28280</link>
     </book>
   </preview>
 </book66>
