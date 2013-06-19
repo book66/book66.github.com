@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-06-20</date>
-      <title>人生有千萬個起跑點</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3059.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27771</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-06-20</date>
       <title>Facilitation引導學：創造場域...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1100.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27696</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-06-21</date>
       <title>為什麼一口接一口停不了?：揭開零食成癮的...</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1101.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28280</link>
+    </book>
+    <book>
+      <date>2013-06-26</date>
+      <title>查理桑莫的走騙人生</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YX0019.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28453</link>
     </book>
   </preview>
 </book66>
