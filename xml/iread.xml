@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-06-20</date>
-      <title>金剛經‧心經</title>
-      <price>145</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000212922-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000212922</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-06-21</date>
-      <title>宜爾辛之死及其他故事</title>
-      <price>197</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000234818-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000234818</link>
-    </book>
-    <book>
       <date>2013-06-22</date>
       <title>10 天學會英文片語</title>
       <price>131</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000203177-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000203177</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-06-23</date>
       <title>你是我上輩子的仇人</title>
@@ -51,6 +37,13 @@
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000200781-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000200781</link>
+    </book>
+    <book>
+      <date>2013-06-27</date>
+      <title>帶著英文去旅行：從3個單字開始說英文...</title>
+      <price>119</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000218170-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000218170</link>
     </book>
   </preview>
 </book66>
