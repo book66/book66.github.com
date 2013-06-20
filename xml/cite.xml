@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-06-21</date>
-      <title>Facilitation引導學：創造場域...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1100.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27696</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-06-21</date>
       <title>為什麼一口接一口停不了?：揭開零食成癮的...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ2046.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28449</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-06-22</date>
       <title>日日好食光：幸福便當小料理×304</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YX0019.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28453</link>
+    </book>
+    <book>
+      <date>2013-06-27</date>
+      <title>牛奶、謊言與內幕(增訂版)</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD003X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28439</link>
     </book>
   </preview>
 </book66>
