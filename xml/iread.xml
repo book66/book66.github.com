@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-06-22</date>
-      <title>10 天學會英文片語</title>
-      <price>131</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000203177-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000203177</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-06-23</date>
       <title>你是我上輩子的仇人</title>
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000120561-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000120561</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-06-24</date>
       <title>氣候變遷地圖</title>
@@ -44,6 +37,13 @@
       <price>119</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000218170-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000218170</link>
+    </book>
+    <book>
+      <date>2013-06-28</date>
+      <title>曼斯菲爾莊園</title>
+      <price>231</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000203184-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000203184</link>
     </book>
   </preview>
 </book66>
