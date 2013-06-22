@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-06-22</date>
+      <date>2013-06-23</date>
       <title>陰屍路04：慾望之心</title>
       <price>185</price>
       <imageUrl>http://61.63.52.113/images/986/986594904.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-06-23</date>
-      <title>忍經精髓‧殷誡善導活學活用</title>
-      <price>211</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/957/957800485.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003668427</link>
-    </book>
     <book>
       <date>2013-06-24</date>
       <title>拯救視力大作戰</title>
@@ -28,7 +21,7 @@
       <date>2013-06-25</date>
       <title>陰屍路05：最佳防禦</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.113/images/986/986594914.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986594914.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003743374</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-06-27</date>
       <title>富爸爸，富女人：態度決定你的荷包深度</title>
       <price>224</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185757.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986185757.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003517952</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986271286.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003513478</link>
+    </book>
+    <book>
+      <date>2013-06-29</date>
+      <title>賣到缺貨的促銷勝經（暢銷版）</title>
+      <price>198</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986591611.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003633880</link>
     </book>
   </preview>
 </book66>
