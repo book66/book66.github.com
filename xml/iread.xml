@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-06-23</date>
-      <title>你是我上輩子的仇人</title>
-      <price>145</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000120561-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000120561</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-06-24</date>
-      <title>氣候變遷地圖</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000204503-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000204503</link>
-    </book>
-    <book>
       <date>2013-06-25</date>
       <title>勇敢開口說英文：別怕說錯，因為老外...</title>
       <price>230</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000224869-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000224869</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-06-26</date>
       <title>淡定</title>
@@ -51,6 +37,13 @@
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000183634-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000183634</link>
+    </book>
+    <book>
+      <date>2013-06-30</date>
+      <title>你肯定會用到的500句日語（附MP3）...</title>
+      <price>131</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000099764-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000099764</link>
     </book>
   </preview>
 </book66>
