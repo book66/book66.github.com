@@ -2,14 +2,21 @@
 <book66>
   <today>
     <book>
+      <date>2013-06-24</date>
+      <title>做了這本書</title>
+      <price>165</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100626453</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100626453</link>
+    </book>
+  </today>
+  <preview>
+    <book>
       <date>2013-06-25</date>
       <title>鹿男</title>
       <price>185</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100192599</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100192599</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2013-06-26</date>
       <title>村上收音機</title>
