@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-06-29</date>
-      <title>跟我這樣做 你就不用爲錢工作?</title>
-      <price>145</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000183634-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000183634</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-06-30</date>
-      <title>你肯定會用到的500句日語（附MP3）...</title>
-      <price>131</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000099764-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000099764</link>
-    </book>
-    <book>
       <date>2013-07-01</date>
       <title>New TOEIC新多益10大情境單字(...</title>
       <price>284</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000231654-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000231654</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-07-02</date>
       <title>英雄史詩 戰爭與和平：鐵與血的啟示 ...</title>
@@ -51,6 +37,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000203155-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000203155</link>
+    </book>
+    <book>
+      <date>2013-07-06</date>
+      <title>阿茂的奇遇──與台灣獼猴友情的歷險...</title>
+      <price>185</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000200379-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000200379</link>
     </book>
   </preview>
 </book66>
