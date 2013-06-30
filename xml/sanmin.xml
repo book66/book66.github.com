@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-07-01</date>
-      <title>從掌紋看健康</title>
-      <price>145</price>
-      <imageUrl>http://61.63.52.113/images/986/986608056.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003712029</link>
+      <title>跟著榜首這樣背7,000單字</title>
+      <price>230</price>
+      <imageUrl>http://61.63.52.113/images/986/986622473.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002691377</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-07-01</date>
-      <title>跟著榜首這樣背7,000單字</title>
-      <price>230</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986622473.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002691377</link>
-    </book>
     <book>
       <date>2013-07-02</date>
       <title>別把癌症看得太可怕：腫瘤診治的30年手記</title>
@@ -28,7 +21,7 @@
       <date>2013-07-03</date>
       <title>別只給我一根骨頭</title>
       <price>132</price>
-      <imageUrl>http://61.63.52.113/images/986/986753143.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986753143.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000749505</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-07-05</date>
       <title>十三件聖物</title>
       <price>238</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185731.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986185731.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003082202</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/055/055217001.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003751498</link>
+    </book>
+    <book>
+      <date>2013-07-07</date>
+      <title>30 歲前逆轉英文的 20 堂自修課：韓...</title>
+      <price>277</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986874326.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002743702</link>
     </book>
   </preview>
 </book66>
