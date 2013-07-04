@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-07-05</date>
-      <title>經濟學了沒：熊秉元帶你解讀社會百態</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7044.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27984</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-07-05</date>
       <title>冷浪漫：你的感性其實很理性</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VX0025.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=29553</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-07-06</date>
       <title>比努力更關鍵的運氣創造法則：除了天賦、努...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0485.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28203</link>
+    </book>
+    <book>
+      <date>2013-07-11</date>
+      <title>圖解生活中90個財經關鍵詞：看懂這些，就...</title>
+      <price>244</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0469.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=24545</link>
     </book>
   </preview>
 </book66>
