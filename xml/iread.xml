@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-07-04</date>
-      <title>大遷徙</title>
-      <price>627</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000131115-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000131115</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-07-05</date>
-      <title>Y0Y0 Crafts─37 個 YOY...</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000203155-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000203155</link>
-    </book>
-    <book>
       <date>2013-07-06</date>
       <title>阿茂的奇遇──與台灣獼猴友情的歷險...</title>
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000200379-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000200379</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-07-07</date>
       <title>其實我們擁有的比需要的還多</title>
@@ -51,6 +37,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000218124-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000218124</link>
+    </book>
+    <book>
+      <date>2013-07-11</date>
+      <title>解讀忍經5-高擎挑戰挫折的意志利劍</title>
+      <price>145</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000117588-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000117588</link>
     </book>
   </preview>
 </book66>
