@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-07-05</date>
-      <title>用美國人的方法瘋閱讀：1500萬人大推的...</title>
-      <price>231</price>
-      <imageUrl>http://61.63.52.113/images/986/986882351.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003024981</link>
+      <title>十三件聖物</title>
+      <price>238</price>
+      <imageUrl>http://61.63.52.113/images/986/986185731.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003082202</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-07-05</date>
-      <title>十三件聖物</title>
-      <price>238</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185731.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003082202</link>
-    </book>
     <book>
       <date>2013-07-06</date>
       <title>Angels and Demons</title>
@@ -28,7 +21,7 @@
       <date>2013-07-07</date>
       <title>30 歲前逆轉英文的 20 堂自修課：韓...</title>
       <price>277</price>
-      <imageUrl>http://61.63.52.113/images/986/986874326.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986874326.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002743702</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-07-09</date>
       <title>The Kite Runner (10t...</title>
       <price>217</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/140/140884582.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/140/140884582.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003751622</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>296</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986622496.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003049818</link>
+    </book>
+    <book>
+      <date>2013-07-11</date>
+      <title>外星人來度假</title>
+      <price>172</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185778.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003667188</link>
     </book>
   </preview>
 </book66>
