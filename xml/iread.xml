@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-07-05</date>
-      <title>Y0Y0 Crafts─37 個 YOY...</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000203155-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000203155</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-07-06</date>
-      <title>阿茂的奇遇──與台灣獼猴友情的歷險...</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000200379-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000200379</link>
-    </book>
-    <book>
       <date>2013-07-07</date>
       <title>其實我們擁有的比需要的還多</title>
       <price>132</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000085493-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000085493</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-07-08</date>
       <title>葡萄酒的世界地圖</title>
@@ -51,6 +37,13 @@
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000117588-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000117588</link>
+    </book>
+    <book>
+      <date>2013-07-12</date>
+      <title>馬上想做．想揹的手作布包特集</title>
+      <price>251</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000136430-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000136430</link>
     </book>
   </preview>
 </book66>
