@@ -2,14 +2,21 @@
 <book66>
   <today>
     <book>
+      <date>2013-07-07</date>
+      <title>其實我們擁有的比需要的還多</title>
+      <price>132</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000085493-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000085493</link>
+    </book>
+  </today>
+  <preview>
+    <book>
       <date>2013-07-08</date>
       <title>葡萄酒的世界地圖</title>
       <price>172</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000233919-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000233919</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2013-07-09</date>
       <title>大英博物館生活在古代系列--生活在古...</title>

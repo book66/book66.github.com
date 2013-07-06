@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-07-07</date>
-      <title>比努力更關鍵的運氣創造法則：除了天賦、努...</title>
-      <price>218</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0491.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28539</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-07-07</date>
       <title>偏愛京都</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2055.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28993</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-07-08</date>
       <title>眾神喧譁的年代</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO6018.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=29291</link>
+    </book>
+    <book>
+      <date>2013-07-13</date>
+      <title>豬肉風味全書：一隻豬從頭吃到尾的不失敗烹...</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM010.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28464</link>
     </book>
   </preview>
 </book66>
