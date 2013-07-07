@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-07-07</date>
+      <date>2013-07-08</date>
       <title>30 歲前逆轉英文的 20 堂自修課：韓...</title>
       <price>277</price>
       <imageUrl>http://61.63.52.113/images/986/986874326.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-07-08</date>
-      <title>來下廚吧！我們周末不外食：和Peggy一...</title>
-      <price>198</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185779.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003596527</link>
-    </book>
     <book>
       <date>2013-07-09</date>
       <title>The Kite Runner (10t...</title>
@@ -28,7 +21,7 @@
       <date>2013-07-10</date>
       <title>全世界都在用的英文單字分類大全</title>
       <price>296</price>
-      <imageUrl>http://61.63.52.113/images/986/986622496.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986622496.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003049818</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-07-12</date>
       <title>居家必備！最有效淨化室內空氣的90種植物</title>
       <price>197</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986605672.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986605672.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003077167</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986185823.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003694689</link>
+    </book>
+    <book>
+      <date>2013-07-14</date>
+      <title>命理傳燈錄</title>
+      <price>264</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986861568.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001303548</link>
     </book>
   </preview>
 </book66>
