@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-07-08</date>
-      <title>葡萄酒的世界地圖</title>
-      <price>172</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000233919-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000233919</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-07-09</date>
-      <title>大英博物館生活在古代系列--生活在古...</title>
-      <price>461</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000139221-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000139221</link>
-    </book>
-    <book>
       <date>2013-07-10</date>
       <title>FBI教你反間藏心術</title>
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000218124-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000218124</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-07-11</date>
       <title>解讀忍經5-高擎挑戰挫折的意志利劍</title>
@@ -51,6 +37,13 @@
       <price>65</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000225484-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000225484</link>
+    </book>
+    <book>
+      <date>2013-07-15</date>
+      <title>你的商業知識都是錯的：不懂思考，再...</title>
+      <price>191</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000234742-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000234742</link>
     </book>
   </preview>
 </book66>
