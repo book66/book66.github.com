@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-07-09</date>
-      <title>眾神喧譁的年代</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5077.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=29042</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-07-09</date>
       <title>Google教我的101個工作最佳化：效...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB917.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=30084</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-07-10</date>
       <title>我的錢都花到哪去了？薪水再少也能留住錢的...</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BCB706.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27960</link>
+    </book>
+    <book>
+      <date>2013-07-15</date>
+      <title>人生必訪&amp;#12398;日本百年旅舖：穿...</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GZ014.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=29556</link>
     </book>
   </preview>
 </book66>
