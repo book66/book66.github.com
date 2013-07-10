@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-07-11</date>
-      <title>我的錢都花到哪去了？薪水再少也能留住錢的...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0485.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28203</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-07-11</date>
       <title>圖解生活中90個財經關鍵詞：看懂這些，就...</title>
       <price>244</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0469.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24545</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-07-12</date>
       <title>今天學心理學了沒？</title>
@@ -51,6 +44,13 @@
       <price>218</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BF3040.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=29337</link>
+    </book>
+    <book>
+      <date>2013-07-17</date>
+      <title>最極致的服務最賺錢：麗池卡登、寶格麗、迪...</title>
+      <price>218</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1102.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=29319</link>
     </book>
   </preview>
 </book66>
