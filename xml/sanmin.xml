@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-07-10</date>
+      <date>2013-07-11</date>
       <title>全世界都在用的英文單字分類大全</title>
       <price>296</price>
       <imageUrl>http://61.63.52.113/images/986/986622496.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-07-11</date>
-      <title>外星人來度假</title>
-      <price>172</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185778.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003667188</link>
-    </book>
     <book>
       <date>2013-07-12</date>
       <title>居家必備！最有效淨化室內空氣的90種植物</title>
@@ -28,7 +21,7 @@
       <date>2013-07-13</date>
       <title>熱門韓劇景點一次打包！</title>
       <price>231</price>
-      <imageUrl>http://61.63.52.113/images/986/986185823.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185823.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003694689</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-07-15</date>
       <title>字首字根字尾放口袋</title>
       <price>197</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986622474.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986622474.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002694246</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>132</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/957/957776966.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000755867</link>
+    </book>
+    <book>
+      <date>2013-07-17</date>
+      <title>圖解美國小孩的每日二字：用英英字典的方法...</title>
+      <price>211</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986882356.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003495242</link>
     </book>
   </preview>
 </book66>
