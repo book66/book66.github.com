@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-07-13</date>
-      <title>今天學心理學了沒？</title>
-      <price>158</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO6018.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=29291</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-07-13</date>
       <title>豬肉風味全書：一隻豬從頭吃到尾的不失敗烹...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM010.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28464</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-07-14</date>
       <title>圖解和風自然設計宅</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7047.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28604</link>
+    </book>
+    <book>
+      <date>2013-07-19</date>
+      <title>腰腹臀硬起來，擊碎鮪魚肚！30分究極體幹...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1EJ003.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28950</link>
     </book>
   </preview>
 </book66>
