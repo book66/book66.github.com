@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-07-13</date>
-      <title>熱門韓劇景點一次打包！</title>
-      <price>231</price>
-      <imageUrl>http://61.63.52.113/images/986/986185823.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003694689</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-07-14</date>
       <title>命理傳燈錄</title>
       <price>264</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986861568.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986861568.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001303548</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-07-15</date>
       <title>字首字根字尾放口袋</title>
@@ -28,7 +21,7 @@
       <date>2013-07-16</date>
       <title>印度吠陀數學：秒算法</title>
       <price>132</price>
-      <imageUrl>http://61.63.52.113/images/957/957776966.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/957/957776966.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000755867</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-07-18</date>
       <title>冰鑑：比面相學更準確的識人術</title>
       <price>131</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986634088.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986634088.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002798088</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/957/957143048.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000093126</link>
+    </book>
+    <book>
+      <date>2013-07-20</date>
+      <title>用美國人的方法記單字：拿國中學過的舉1反...</title>
+      <price>231</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986874324.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002700549</link>
     </book>
   </preview>
 </book66>
