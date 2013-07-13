@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-07-13</date>
+      <date>2013-07-14</date>
       <title>豬肉風味全書：一隻豬從頭吃到尾的不失敗烹...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM010.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-07-14</date>
-      <title>圖解和風自然設計宅</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BCB706.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27960</link>
-    </book>
     <book>
       <date>2013-07-15</date>
       <title>人生必訪&amp;#12398;日本百年旅舖：穿...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1EJ003.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28950</link>
+    </book>
+    <book>
+      <date>2013-07-20</date>
+      <title>法國爸媽這樣教，孩子健康不挑食</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3062.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=29038</link>
     </book>
   </preview>
 </book66>
