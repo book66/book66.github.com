@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-07-16</date>
-      <title>人生必訪&amp;#12398;日本百年旅舖：穿...</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GZ014.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=29556</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-07-16</date>
       <title>黑錢的真相：貪汙不只是掏空國庫，更吞噬了...</title>
       <price>218</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BF3040.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=29337</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-07-17</date>
       <title>最極致的服務最賺錢：麗池卡登、寶格麗、迪...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0471.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25810</link>
+    </book>
+    <book>
+      <date>2013-07-22</date>
+      <title>真相</title>
+      <price>257</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0022.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=29320</link>
     </book>
   </preview>
 </book66>
