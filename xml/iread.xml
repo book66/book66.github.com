@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-07-15</date>
-      <title>你的商業知識都是錯的：不懂思考，再...</title>
-      <price>191</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000234742-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000234742</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-07-16</date>
-      <title>文學男子</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000195313-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000195313</link>
-    </book>
-    <book>
       <date>2013-07-17</date>
       <title>馬悅凌細說問診單</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000129859-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000129859</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-07-18</date>
       <title>純淨手感．毛氈布設計創作集-6款24個...</title>
@@ -51,6 +37,13 @@
       <price>263</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000205082-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000205082</link>
+    </book>
+    <book>
+      <date>2013-07-22</date>
+      <title>男人的玩具：一生追求的夢幻逸品</title>
+      <price>251</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000234737-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000234737</link>
     </book>
   </preview>
 </book66>
