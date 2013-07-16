@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-07-16</date>
-      <title>印度吠陀數學：秒算法</title>
-      <price>132</price>
-      <imageUrl>http://61.63.52.113/images/957/957776966.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000755867</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-07-17</date>
       <title>圖解美國小孩的每日二字：用英英字典的方法...</title>
       <price>211</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986882356.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986882356.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003495242</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-07-18</date>
       <title>冰鑑：比面相學更準確的識人術</title>
@@ -28,7 +21,7 @@
       <date>2013-07-19</date>
       <title>說岳全傳(精)</title>
       <price>238</price>
-      <imageUrl>http://61.63.52.113/images/957/957143048.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/957/957143048.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000093126</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-07-21</date>
       <title>印度吠陀數學：速解法</title>
       <price>132</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/957/957776969.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/957/957776969.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000759365</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>131</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986634003.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000990801</link>
+    </book>
+    <book>
+      <date>2013-07-23</date>
+      <title>全世界都在用的英文文法聖經</title>
+      <price>329</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986622488.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002978906</link>
     </book>
   </preview>
 </book66>
