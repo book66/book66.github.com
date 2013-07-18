@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-07-19</date>
-      <title>我們沒有權利樂觀：後石油危機時代的真相</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7047.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28604</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-07-19</date>
       <title>腰腹臀硬起來，擊碎鮪魚肚！30分究極體幹...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1EJ003.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28950</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-07-20</date>
       <title>法國爸媽這樣教，孩子健康不挑食</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OC0066.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=29763</link>
+    </book>
+    <book>
+      <date>2013-07-25</date>
+      <title>今天學經濟學了沒</title>
+      <price>158</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO6017.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=29294</link>
     </book>
   </preview>
 </book66>
