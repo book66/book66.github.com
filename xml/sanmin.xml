@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-07-20</date>
-      <title>說岳全傳(精)</title>
-      <price>238</price>
-      <imageUrl>http://61.63.52.113/images/957/957143048.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000093126</link>
+      <title>用美國人的方法記單字：拿國中學過的舉1反...</title>
+      <price>231</price>
+      <imageUrl>http://61.63.52.113/images/986/986874324.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002700549</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-07-20</date>
-      <title>用美國人的方法記單字：拿國中學過的舉1反...</title>
-      <price>231</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986874324.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002700549</link>
-    </book>
     <book>
       <date>2013-07-21</date>
       <title>印度吠陀數學：速解法</title>
@@ -28,7 +21,7 @@
       <date>2013-07-22</date>
       <title>心計：來自人生中進進退退的遊戲</title>
       <price>131</price>
-      <imageUrl>http://61.63.52.113/images/986/986634003.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986634003.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000990801</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-07-24</date>
       <title>溫室中的島嶼</title>
       <price>251</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/957/957145135.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/957/957145135.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000746492</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>164</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986634032.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001226018</link>
+    </book>
+    <book>
+      <date>2013-07-26</date>
+      <title>我的第一本英文行事曆</title>
+      <price>230</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986622468.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002598238</link>
     </book>
   </preview>
 </book66>
