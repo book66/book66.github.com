@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-07-21</date>
+      <date>2013-07-22</date>
       <title>印度吠陀數學：速解法</title>
       <price>132</price>
       <imageUrl>http://61.63.52.113/images/957/957776969.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-07-22</date>
-      <title>心計：來自人生中進進退退的遊戲</title>
-      <price>131</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986634003.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000990801</link>
-    </book>
     <book>
       <date>2013-07-23</date>
       <title>全世界都在用的英文文法聖經</title>
@@ -28,7 +21,7 @@
       <date>2013-07-24</date>
       <title>溫室中的島嶼</title>
       <price>251</price>
-      <imageUrl>http://61.63.52.113/images/957/957145135.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/957/957145135.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000746492</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-07-26</date>
       <title>我的第一本英文行事曆</title>
       <price>230</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986622468.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986622468.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002598238</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>106</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/957/957143750.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000332756</link>
+    </book>
+    <book>
+      <date>2013-07-28</date>
+      <title>改變人生的超．速習法</title>
+      <price>172</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986615107.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002522161</link>
     </book>
   </preview>
 </book66>
