@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-07-24</date>
-      <title>長輩沒教，但你一定要懂的81種送禮大學問</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OC0066.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=29763</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-07-25</date>
       <title>今天學經濟學了沒</title>
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO6017.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=29294</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-07-26</date>
       <title>圖解100個印度史詩神話故事</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/l/LT0080.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27669</link>
+    </book>
+    <book>
+      <date>2013-07-31</date>
+      <title>大腦有問題?!：大腦瑕疵如何影響你我的生...</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0103.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25706</link>
     </book>
   </preview>
 </book66>
