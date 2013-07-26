@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-07-26</date>
+      <date>2013-07-27</date>
       <title>不可以搶我的糖果！</title>
       <price>165</price>
       <imageUrl>http://addons.books.com.tw/G/001/7/0010557267.jpg</imageUrl>
@@ -10,6 +10,41 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-07-22</date>
+      <title>勇敢做唯一的自己：台大教授郭瑞祥的人生管...</title>
+      <price>185</price>
+      <imageUrl>http://addons.books.com.tw/G/001/7/0010581267.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010581267</link>
+    </book>
+    <book>
+      <date>2013-07-23</date>
+      <title>不完美的禮物：放下「應該」的你，擁抱真實...</title>
+      <price>198</price>
+      <imageUrl>http://addons.books.com.tw/G/001/1/0010581951.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010581951</link>
+    </book>
+    <book>
+      <date>2013-07-24</date>
+      <title>想住這樣的家：40個令人心動的絕妙案例，...</title>
+      <price>297</price>
+      <imageUrl>http://addons.books.com.tw/G/001/6/0010581166.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010581166</link>
+    </book>
+    <book>
+      <date>2013-07-25</date>
+      <title>「天然手作麵包101道」周老師的美食教室...</title>
+      <price>297</price>
+      <imageUrl>http://addons.books.com.tw/G/001/7/0010582177.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010582177</link>
+    </book>
+    <book>
+      <date>2013-07-26</date>
+      <title>不可以搶我的糖果！</title>
+      <price>165</price>
+      <imageUrl>http://addons.books.com.tw/G/001/7/0010557267.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010557267</link>
+    </book>
     <book>
       <date>2013-07-27</date>
       <title>吃掉原文書的英文單字書：認識單字的起源快...</title>
