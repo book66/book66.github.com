@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-07-27</date>
-      <title>我的第一本英文行事曆</title>
-      <price>230</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986622468.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002598238</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-07-27</date>
       <title>關於羅馬人的二十個問題(平)</title>
       <price>106</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/957/957143750.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000332756</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-07-28</date>
       <title>改變人生的超．速習法</title>
@@ -28,7 +21,7 @@
       <date>2013-07-29</date>
       <title>貼心完整版！愛犬飼養、醫療、美容全方位寶...</title>
       <price>131</price>
-      <imageUrl>http://61.63.52.113/images/986/986605690.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986605690.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003706252</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-07-31</date>
       <title>用美國小學課本學英文：和美國小學生一起上...</title>
       <price>224</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986861429.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986861429.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002584318</link>
     </book>
   </preview>
