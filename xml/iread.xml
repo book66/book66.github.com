@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-07-30</date>
-      <title>變身 插畫製造機！</title>
-      <price>145</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000184968-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000184968</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-07-31</date>
-      <title>Boss的微笑：縱橫商場不能說的祕密（...</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000191981-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000191981</link>
-    </book>
-    <book>
       <date>2013-08-01</date>
       <title>海裡有鱷魚</title>
       <price>178</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000183456-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000183456</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-08-02</date>
       <title>森林系繪本風手作包</title>
@@ -51,6 +37,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000189520-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000189520</link>
+    </book>
+    <book>
+      <date>2013-08-06</date>
+      <title>龍騎士四部曲：最後榮耀</title>
+      <price>389</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000196323-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000196323</link>
     </book>
   </preview>
 </book66>
