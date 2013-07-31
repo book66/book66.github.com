@@ -3,19 +3,54 @@
   <today>
     <book>
       <date>2013-07-31</date>
-      <title>台灣夜市美食攻略完全制霸</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/l/LT0080.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27669</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-07-31</date>
       <title>大腦有問題?!：大腦瑕疵如何影響你我的生...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0103.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25706</link>
+    </book>
+  </today>
+  <preview>
+    <book>
+      <date>2013-08-01</date>
+      <title>長輩沒教，但你一定要懂的81種送禮大學問</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OC0066.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=29763</link>
+    </book>
+    <book>
+      <date>2013-08-02</date>
+      <title>掛在地圖上的狂想者：幾條線、幾種色、幾個...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FS0027.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=29036</link>
+    </book>
+    <book>
+      <date>2013-08-03</date>
+      <title>鯡魚與莓果：瑞典芬蘭的美味驚豔</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA1082.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=29335</link>
+    </book>
+    <book>
+      <date>2013-08-04</date>
+      <title>上行京都　跟著老京都走！36個散步遊京都...</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPT14.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=30037</link>
+    </book>
+    <book>
+      <date>2013-08-05</date>
+      <title>主管不說，但你一定要懂的50件事</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7065.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=29039</link>
+    </book>
+    <book>
+      <date>2013-08-06</date>
+      <title>台灣史新聞</title>
+      <price>297</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA1083.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=29748</link>
     </book>
   </preview>
 </book66>
