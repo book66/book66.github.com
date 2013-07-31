@@ -2,14 +2,21 @@
 <book66>
   <today>
     <book>
+      <date>2013-08-01</date>
+      <title>海裡有鱷魚</title>
+      <price>178</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000183456-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000183456</link>
+    </book>
+  </today>
+  <preview>
+    <book>
       <date>2013-08-02</date>
       <title>森林系繪本風手作包</title>
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000186393-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000186393</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2013-08-03</date>
       <title>50次新多益滿分的怪物講師NEW TOE...</title>
