@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-08-01</date>
-      <title>用美國小學課本學英文：和美國小學生一起上...</title>
-      <price>224</price>
-      <imageUrl>http://61.63.52.113/images/986/986861429.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002584318</link>
+      <title>新多益測驗短期特訓班：沒時間、討厭英文的...</title>
+      <price>158</price>
+      <imageUrl>http://61.63.52.113/images/986/986185830.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003759020</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-08-01</date>
-      <title>新多益測驗短期特訓班：沒時間、討厭英文的...</title>
-      <price>158</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185830.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003759020</link>
-    </book>
     <book>
       <date>2013-08-02</date>
       <title>風格就是你</title>
@@ -28,7 +21,7 @@
       <date>2013-08-03</date>
       <title>錢穆講中國經濟史</title>
       <price>257</price>
-      <imageUrl>http://61.63.52.113/images/962/962076508.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/962/962076508.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003692770</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-08-05</date>
       <title>風格的要素</title>
       <price>165</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986702574.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986702574.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002706345</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986185799.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003646290</link>
+    </book>
+    <book>
+      <date>2013-08-07</date>
+      <title>別讓大學毀了你</title>
+      <price>158</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986595133.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003693028</link>
     </book>
   </preview>
 </book66>
