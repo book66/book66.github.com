@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-08-03</date>
-      <title>風格就是你</title>
-      <price>185</price>
-      <imageUrl>http://61.63.52.113/images/986/986702575.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002706346</link>
+      <title>錢穆講中國經濟史</title>
+      <price>257</price>
+      <imageUrl>http://61.63.52.113/images/962/962076508.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003692770</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-08-03</date>
-      <title>錢穆講中國經濟史</title>
-      <price>257</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/962/962076508.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003692770</link>
-    </book>
     <book>
       <date>2013-08-04</date>
       <title>更輕鬆學口語 More Spoken I...</title>
@@ -28,7 +21,7 @@
       <date>2013-08-05</date>
       <title>風格的要素</title>
       <price>165</price>
-      <imageUrl>http://61.63.52.113/images/986/986702574.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986702574.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002706345</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-08-07</date>
       <title>別讓大學毀了你</title>
       <price>158</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986595133.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986595133.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003693028</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>99</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/957/957143787.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000345612</link>
+    </book>
+    <book>
+      <date>2013-08-09</date>
+      <title>羅馬人的故事Ⅱ─漢尼拔戰記(平)</title>
+      <price>185</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/957/957143394.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000274815</link>
     </book>
   </preview>
 </book66>
