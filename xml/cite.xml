@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-08-04</date>
-      <title>鯡魚與莓果：瑞典芬蘭的美味驚豔</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA1082.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=29335</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-08-04</date>
       <title>上行京都　跟著老京都走！36個散步遊京都...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPT14.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=30037</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-08-05</date>
       <title>主管不說，但你一定要懂的50件事</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPS05.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=31166</link>
+    </book>
+    <book>
+      <date>2013-08-10</date>
+      <title>史賓塞的快樂教育（暢銷修訂版）</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SH0022Y.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=29378</link>
     </book>
   </preview>
 </book66>
