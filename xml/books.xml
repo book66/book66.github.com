@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-08-03</date>
+      <date>2013-08-04</date>
       <title>10分鐘做早餐 ：一個人吃、兩人吃、全家...</title>
       <price>211</price>
       <imageUrl>http://addons.books.com.tw/G/001/3/0010584133.jpg</imageUrl>
@@ -10,6 +10,48 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-07-29</date>
+      <title>Google教我的101個工作最佳化：效...</title>
+      <price>251</price>
+      <imageUrl>http://addons.books.com.tw/G/001/6/0010583256.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010583256</link>
+    </book>
+    <book>
+      <date>2013-07-30</date>
+      <title>為什麼有錢人都用長皮夾？年收入200倍法...</title>
+      <price>172</price>
+      <imageUrl>http://addons.books.com.tw/G/001/2/0010553142.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010553142</link>
+    </book>
+    <book>
+      <date>2013-07-31</date>
+      <title>我就是忍不住笑了</title>
+      <price>185</price>
+      <imageUrl>http://addons.books.com.tw/G/001/1/0010553811.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010553811</link>
+    </book>
+    <book>
+      <date>2013-08-01</date>
+      <title>幸福的魔法：更快樂的101個選擇</title>
+      <price>211</price>
+      <imageUrl>http://addons.books.com.tw/G/001/5/0010584045.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010584045</link>
+    </book>
+    <book>
+      <date>2013-08-02</date>
+      <title>1200萬人都說有效的吃不胖飲食：創史上...</title>
+      <price>197</price>
+      <imageUrl>http://addons.books.com.tw/G/001/9/0010583069.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010583069</link>
+    </book>
+    <book>
+      <date>2013-08-03</date>
+      <title>10分鐘做早餐 ：一個人吃、兩人吃、全家...</title>
+      <price>211</price>
+      <imageUrl>http://addons.books.com.tw/G/001/3/0010584133.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010584133</link>
+    </book>
     <book>
       <date>2013-08-04</date>
       <title>不熬夜，不死背，睡前1分鐘驚人學習法</title>

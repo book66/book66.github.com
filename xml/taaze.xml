@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2013-08-03</date>
-      <title>從早到晚要用到的日文</title>
-      <price>250</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100647791</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100647791</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-08-04</date>
       <title>讀漫畫：讀者、漫畫家和漫畫產業</title>
       <price>185</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100627836</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100627836</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
