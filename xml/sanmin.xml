@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-08-05</date>
-      <title>更輕鬆學口語 More Spoken I...</title>
-      <price>191</price>
-      <imageUrl>http://61.63.52.113/images/962/962070333.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003741938</link>
+      <title>風格的要素</title>
+      <price>165</price>
+      <imageUrl>http://61.63.52.113/images/986/986702574.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002706345</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-08-05</date>
-      <title>風格的要素</title>
-      <price>165</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986702574.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002706345</link>
-    </book>
     <book>
       <date>2013-08-06</date>
       <title>眼界，決定你的世界：31個逆轉人生的新觀...</title>
@@ -28,7 +21,7 @@
       <date>2013-08-07</date>
       <title>別讓大學毀了你</title>
       <price>158</price>
-      <imageUrl>http://61.63.52.113/images/986/986595133.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986595133.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003693028</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-08-09</date>
       <title>羅馬人的故事Ⅱ─漢尼拔戰記(平)</title>
       <price>185</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/957/957143394.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/957/957143394.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000274815</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>197</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986702552.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001341181</link>
+    </book>
+    <book>
+      <date>2013-08-11</date>
+      <title>我的影的集</title>
+      <price>224</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/962/962043320.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003668335</link>
     </book>
   </preview>
 </book66>
