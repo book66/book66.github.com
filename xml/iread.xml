@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-08-04</date>
-      <title>醫學美容與皮膚保養</title>
-      <price>251</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000186457-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000186457</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-08-05</date>
-      <title>120 項 肌力訓練計劃書</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000189520-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000189520</link>
-    </book>
-    <book>
       <date>2013-08-06</date>
       <title>龍騎士四部曲：最後榮耀</title>
       <price>389</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000196323-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000196323</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-08-07</date>
       <title>銀座媽媽桑教的，男人就是吃這套！</title>
@@ -51,6 +37,13 @@
       <price>395</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000244911-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000244911</link>
+    </book>
+    <book>
+      <date>2013-08-11</date>
+      <title>96個一定要懂的0歲育兒知識</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000182513-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000182513</link>
     </book>
   </preview>
 </book66>
