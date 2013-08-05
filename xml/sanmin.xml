@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-08-05</date>
+      <date>2013-08-06</date>
       <title>風格的要素</title>
       <price>165</price>
       <imageUrl>http://61.63.52.113/images/986/986702574.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-08-06</date>
-      <title>眼界，決定你的世界：31個逆轉人生的新觀...</title>
-      <price>158</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185799.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003646290</link>
-    </book>
     <book>
       <date>2013-08-07</date>
       <title>別讓大學毀了你</title>
@@ -28,7 +21,7 @@
       <date>2013-08-08</date>
       <title>墨西哥史─仙人掌王國</title>
       <price>99</price>
-      <imageUrl>http://61.63.52.113/images/957/957143787.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/957/957143787.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000345612</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-08-10</date>
       <title>不可不會的5000個高階托福字彙</title>
       <price>197</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986702552.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986702552.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001341181</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/962/962043320.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003668335</link>
+    </book>
+    <book>
+      <date>2013-08-12</date>
+      <title>闇之底</title>
+      <price>172</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185849.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003847396</link>
     </book>
   </preview>
 </book66>
