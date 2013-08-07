@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-08-08</date>
-      <title>用Excel解決生活財務最重要的16個問...</title>
-      <price>98</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2B0054D.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28332</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-08-08</date>
       <title>不生氣的技術</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BB7032.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26768</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-08-09</date>
       <title>鳥的觀點：每一次飛行，都是意想不到的冒險...</title>

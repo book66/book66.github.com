@@ -2,14 +2,21 @@
 <book66>
   <today>
     <book>
+      <date>2013-08-08</date>
+      <title>味蕾唱歌</title>
+      <price>152</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000192116-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000192116</link>
+    </book>
+  </today>
+  <preview>
+    <book>
       <date>2013-08-09</date>
       <title>歷史不忍細讀《全集》</title>
       <price>263</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000200789-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000200789</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2013-08-10</date>
       <title>50次新多益滿分的怪物講師新多益聽力...</title>
