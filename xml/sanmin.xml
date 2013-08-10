@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-08-11</date>
-      <title>不可不會的5000個高階托福字彙</title>
-      <price>197</price>
-      <imageUrl>http://61.63.52.113/images/986/986702552.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001341181</link>
+      <title>我的影的集</title>
+      <price>224</price>
+      <imageUrl>http://61.63.52.113/images/962/962043320.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003668335</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-08-11</date>
-      <title>我的影的集</title>
-      <price>224</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/962/962043320.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003668335</link>
-    </book>
     <book>
       <date>2013-08-12</date>
       <title>闇之底</title>
@@ -28,7 +21,7 @@
       <date>2013-08-13</date>
       <title>西班牙史─首開殖民美洲的國家</title>
       <price>119</price>
-      <imageUrl>http://61.63.52.113/images/957/957143711.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/957/957143711.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000342155</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-08-15</date>
       <title>影響中國歷史的十篇美文</title>
       <price>238</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/962/962076495.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/962/962076495.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003752090</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986185824.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003714103</link>
+    </book>
+    <book>
+      <date>2013-08-17</date>
+      <title>羅馬人的故事Ⅲ─勝者的迷思(平)</title>
+      <price>99</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/957/957143457.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000333248</link>
     </book>
   </preview>
 </book66>
