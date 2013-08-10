@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-08-11</date>
-      <title>史賓塞的快樂教育（暢銷修訂版）</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SH0022Y.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=29378</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-08-11</date>
       <title>解構。紐約：百老匯X特色建築X設計店家X...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF606.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=29044</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-08-12</date>
       <title>尤達大師神祕檔案</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RQ7039.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=29739</link>
+    </book>
+    <book>
+      <date>2013-08-17</date>
+      <title>東京新名所：10大新景點 舊城區巷弄私旅</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPT12.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28947</link>
     </book>
   </preview>
 </book66>
