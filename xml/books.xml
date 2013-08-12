@@ -3,27 +3,13 @@
   <today>
     <book>
       <date>2013-08-13</date>
-      <title>這個問題，你用數學方式想過嗎？史丹佛大學...</title>
-      <price>172</price>
-      <imageUrl>http://addons.books.com.tw/G/001/6/0010585966.jpg</imageUrl>
-      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010585966</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-08-12</date>
-      <title>這個問題，你用數學方式想過嗎？史丹佛大學...</title>
-      <price>172</price>
-      <imageUrl>http://addons.books.com.tw/G/001/6/0010585966.jpg</imageUrl>
-      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010585966</link>
-    </book>
-    <book>
-      <date>2013-08-13</date>
       <title>傾城之戀：短篇小說集(1)一九四三年[張...</title>
       <price>185</price>
       <imageUrl>http://addons.books.com.tw/G/001/8/0010472848.jpg</imageUrl>
       <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010472848</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-08-14</date>
       <title>兩個人很美好，一個人也自在</title>
