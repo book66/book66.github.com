@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-08-14</date>
+      <date>2013-08-15</date>
       <title>不可不會的3000個多益字彙</title>
       <price>197</price>
       <imageUrl>http://61.63.52.113/images/986/986702548.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-08-15</date>
-      <title>影響中國歷史的十篇美文</title>
-      <price>238</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/962/962076495.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003752090</link>
-    </book>
     <book>
       <date>2013-08-16</date>
       <title>郎咸平帶你重讀經典資本論與國富論</title>
@@ -28,7 +21,7 @@
       <date>2013-08-17</date>
       <title>羅馬人的故事Ⅲ─勝者的迷思(平)</title>
       <price>99</price>
-      <imageUrl>http://61.63.52.113/images/957/957143457.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/957/957143457.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000333248</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-08-19</date>
       <title>二十四節氣：春夏秋冬的生活智慧</title>
       <price>290</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/988/988818138.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/988/988818138.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003752114</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>230</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986592723.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003725686</link>
+    </book>
+    <book>
+      <date>2013-08-21</date>
+      <title>紅茶名品圖鑑</title>
+      <price>231</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/962/962145070.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003752097</link>
     </book>
   </preview>
 </book66>
