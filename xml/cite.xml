@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-08-16</date>
-      <title>中醫不告訴你的36件事</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0489.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27448</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-08-16</date>
       <title>梅莉史翠普電影俱樂部</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RQ7039.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=29739</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-08-17</date>
       <title>東京新名所：10大新景點 舊城區巷弄私旅</title>
@@ -51,6 +44,13 @@
       <price>197</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RQ7036.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27918</link>
+    </book>
+    <book>
+      <date>2013-08-22</date>
+      <title>肢解記憶</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6516.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28986</link>
     </book>
   </preview>
 </book66>
