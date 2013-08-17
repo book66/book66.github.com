@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-08-17</date>
-      <title>你一定要知道英文學得好的關鍵秘密在...</title>
-      <price>251</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000198082-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000198082</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-08-18</date>
-      <title>海魂－從鄭和的大航海時代到東瀛崛起</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000186976-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000186976</link>
-    </book>
-    <book>
       <date>2013-08-19</date>
       <title>營養學博士的斷奶飲食全書：新手爸媽...</title>
       <price>330</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000231138.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000231138</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-08-20</date>
       <title>翁山蘇姬</title>
@@ -51,6 +37,13 @@
       <price>172</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000215623-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000215623</link>
+    </book>
+    <book>
+      <date>2013-08-24</date>
+      <title>你一定要知道英文說得好的關鍵秘密在...</title>
+      <price>264</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000192120-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000192120</link>
     </book>
   </preview>
 </book66>
