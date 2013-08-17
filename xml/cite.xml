@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-08-18</date>
-      <title>東京新名所：10大新景點 舊城區巷弄私旅</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPT12.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28947</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-08-18</date>
       <title>咖啡飄香100年：咖啡之神田口護的永續經...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VV0044.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=29753</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-08-19</date>
       <title>世界遺產全書</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1039.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=29744</link>
+    </book>
+    <book>
+      <date>2013-08-24</date>
+      <title>因果，怎麼一回事？</title>
+      <price>158</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0074.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=30041</link>
     </book>
   </preview>
 </book66>

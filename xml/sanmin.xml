@@ -11,13 +11,6 @@
   </today>
   <preview>
     <book>
-      <date>2013-08-18</date>
-      <title>不可不會的2000個初級英檢字彙</title>
-      <price>164</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986702550.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001327888</link>
-    </book>
-    <book>
       <date>2013-08-19</date>
       <title>二十四節氣：春夏秋冬的生活智慧</title>
       <price>290</price>
@@ -28,7 +21,7 @@
       <date>2013-08-20</date>
       <title>英文文法有規則：250個一看就懂的文法規...</title>
       <price>230</price>
-      <imageUrl>http://61.63.52.113/images/986/986592723.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986592723.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003725686</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-08-22</date>
       <title>城殤：晚清民國 十六城記</title>
       <price>323</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/962/962043302.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/962/962043302.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003591467</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>250</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/986/986592722.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003694718</link>
+    </book>
+    <book>
+      <date>2013-08-24</date>
+      <title>日語電郵大師（附光碟）</title>
+      <price>231</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/962/962145092.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003583448</link>
     </book>
   </preview>
 </book66>
