@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-08-18</date>
+      <date>2013-08-19</date>
       <title>不可不會的2000個初級英檢字彙</title>
       <price>164</price>
       <imageUrl>http://61.63.52.113/images/986/986702550.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-08-19</date>
-      <title>二十四節氣：春夏秋冬的生活智慧</title>
-      <price>290</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/988/988818138.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003752114</link>
-    </book>
     <book>
       <date>2013-08-20</date>
       <title>英文文法有規則：250個一看就懂的文法規...</title>
@@ -28,7 +21,7 @@
       <date>2013-08-21</date>
       <title>紅茶名品圖鑑</title>
       <price>231</price>
-      <imageUrl>http://61.63.52.113/images/962/962145070.jpg</imageUrl>
+      <imageUrl>http://61.63.52.100/Assets/product_images/962/962145070.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003752097</link>
     </book>
     <book>
@@ -42,7 +35,7 @@
       <date>2013-08-23</date>
       <title>從早到晚要用到的日文</title>
       <price>250</price>
-      <imageUrl>http://61.63.52.100/Assets/product_images/986/986592722.jpg</imageUrl>
+      <imageUrl>http://61.63.52.113/images/986/986592722.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003694718</link>
     </book>
     <book>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://61.63.52.100/Assets/product_images/962/962145092.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003583448</link>
+    </book>
+    <book>
+      <date>2013-08-25</date>
+      <title>求生</title>
+      <price>172</price>
+      <imageUrl>http://61.63.52.100/Assets/product_images/986/986185826.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003694690</link>
     </book>
   </preview>
 </book66>
