@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-08-19</date>
+      <date>2013-08-20</date>
       <title>二十四節氣：春夏秋冬的生活智慧</title>
       <price>290</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/988/988818138.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-08-20</date>
-      <title>英文文法有規則：250個一看就懂的文法規...</title>
-      <price>230</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986592723.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003725686</link>
-    </book>
     <book>
       <date>2013-08-21</date>
       <title>紅茶名品圖鑑</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185826.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003694690</link>
+    </book>
+    <book>
+      <date>2013-08-26</date>
+      <title>不受傷，跑到100歲</title>
+      <price>264</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962073417.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003569361</link>
     </book>
   </preview>
 </book66>
