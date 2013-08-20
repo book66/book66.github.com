@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-08-21</date>
-      <title>品牌這樣思考：一場以設計、人類學、符號意...</title>
-      <price>264</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BCD720.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=29653</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-08-21</date>
       <title>我們的幸福時光</title>
       <price>197</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RQ7036.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27918</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-08-22</date>
       <title>肢解記憶</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FQ1029.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28673</link>
+    </book>
+    <book>
+      <date>2013-08-27</date>
+      <title>伊莉莎白一世的情人</title>
+      <price>297</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RQ7038.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=29034</link>
     </book>
   </preview>
 </book66>

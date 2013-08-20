@@ -11,13 +11,6 @@
   </today>
   <preview>
     <book>
-      <date>2013-08-21</date>
-      <title>紅茶名品圖鑑</title>
-      <price>231</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962145070.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003752097</link>
-    </book>
-    <book>
       <date>2013-08-22</date>
       <title>城殤：晚清民國 十六城記</title>
       <price>323</price>
@@ -51,6 +44,13 @@
       <price>264</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962073417.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003569361</link>
+    </book>
+    <book>
+      <date>2013-08-27</date>
+      <title>香港城區設計散步</title>
+      <price>290</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962075601.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003659011</link>
     </book>
   </preview>
 </book66>
