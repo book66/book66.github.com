@@ -11,13 +11,6 @@
   </today>
   <preview>
     <book>
-      <date>2013-08-22</date>
-      <title>城殤：晚清民國 十六城記</title>
-      <price>323</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962043302.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003591467</link>
-    </book>
-    <book>
       <date>2013-08-23</date>
       <title>從早到晚要用到的日文</title>
       <price>250</price>
@@ -51,6 +44,13 @@
       <price>290</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962075601.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003659011</link>
+    </book>
+    <book>
+      <date>2013-08-28</date>
+      <title>一次完全讀懂厚黑學</title>
+      <price>277</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595139.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003725690</link>
     </book>
   </preview>
 </book66>
