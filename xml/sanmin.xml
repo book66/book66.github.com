@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-08-23</date>
-      <title>城殤：晚清民國 十六城記</title>
-      <price>323</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962043302.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003591467</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-08-23</date>
       <title>從早到晚要用到的日文</title>
       <price>250</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986592722.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003694718</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-08-24</date>
       <title>日語電郵大師（附光碟）</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595139.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003725690</link>
+    </book>
+    <book>
+      <date>2013-08-29</date>
+      <title>羅馬人的故事Ⅳ─凱撒時代(盧比孔之前)(...</title>
+      <price>224</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957143458.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000332757</link>
     </book>
   </preview>
 </book66>
