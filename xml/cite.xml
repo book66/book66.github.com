@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-08-24</date>
-      <title>CIA教你識人術：看穿對方意圖，洞察事實...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1039.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=29744</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-08-24</date>
       <title>因果，怎麼一回事？</title>
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0074.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=30041</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-08-25</date>
       <title>清水洗臉，一生美肌：看診突破百萬人次的日...</title>
@@ -51,6 +44,13 @@
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD2025.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27831</link>
+    </book>
+    <book>
+      <date>2013-08-30</date>
+      <title>猶太人致富金律</title>
+      <price>218</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0327.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=15934</link>
     </book>
   </preview>
 </book66>

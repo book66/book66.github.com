@@ -11,13 +11,6 @@
   </today>
   <preview>
     <book>
-      <date>2013-08-24</date>
-      <title>日語電郵大師（附光碟）</title>
-      <price>231</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962145092.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003583448</link>
-    </book>
-    <book>
       <date>2013-08-25</date>
       <title>求生</title>
       <price>172</price>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957143458.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000332757</link>
+    </book>
+    <book>
+      <date>2013-08-30</date>
+      <title>澳大利亞史─古大陸新國度</title>
+      <price>119</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957143747.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000345506</link>
     </book>
   </preview>
 </book66>
