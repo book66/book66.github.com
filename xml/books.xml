@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-08-23</date>
+      <date>2013-08-24</date>
       <title>悖論：破解科學史上最複雜的9大謎團</title>
       <price>185</price>
       <imageUrl>http://addons.books.com.tw/G/001/0/0010581200.jpg</imageUrl>
@@ -10,6 +10,41 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-08-19</date>
+      <title>好策略壞策略</title>
+      <price>251</price>
+      <imageUrl>http://addons.books.com.tw/G/001/6/0010580726.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010580726</link>
+    </book>
+    <book>
+      <date>2013-08-20</date>
+      <title>冰與火之歌第三部：劍刃風暴套書（上中下，...</title>
+      <price>653</price>
+      <imageUrl>http://addons.books.com.tw/G/001/3/0010581853.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010581853</link>
+    </book>
+    <book>
+      <date>2013-08-21</date>
+      <title>現在才知道：小小上班族，也能投資、理財、...</title>
+      <price>185</price>
+      <imageUrl>http://addons.books.com.tw/G/001/5/0010586145.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010586145</link>
+    </book>
+    <book>
+      <date>2013-08-22</date>
+      <title>韓國化妝女王Pony’s 閃耀明星妝：揭...</title>
+      <price>238</price>
+      <imageUrl>http://addons.books.com.tw/G/001/0/0010579740.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010579740</link>
+    </book>
+    <book>
+      <date>2013-08-23</date>
+      <title>悖論：破解科學史上最複雜的9大謎團</title>
+      <price>185</price>
+      <imageUrl>http://addons.books.com.tw/G/001/0/0010581200.jpg</imageUrl>
+      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010581200</link>
+    </book>
     <book>
       <date>2013-08-24</date>
       <title>史上最完整的蔬果飲食圖鑑：營養功效、挑選...</title>

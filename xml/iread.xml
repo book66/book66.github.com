@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-08-23</date>
-      <title>JUMP！BACKPACKER！  Ne...</title>
-      <price>172</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000215623-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000215623</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-08-24</date>
-      <title>你一定要知道英文說得好的關鍵秘密在...</title>
-      <price>264</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000192120-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000192120</link>
-    </book>
-    <book>
       <date>2013-08-25</date>
       <title>學會帽子裁縫的第一本書</title>
       <price>251</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000186433-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000186433</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-08-26</date>
       <title>淡季</title>
@@ -51,6 +37,13 @@
       <price>990</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000192033-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000192033</link>
+    </book>
+    <book>
+      <date>2013-08-30</date>
+      <title>Rain的英文老師教你看圖記英文單字（...</title>
+      <price>211</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000183643-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000183643</link>
     </book>
   </preview>
 </book66>
