@@ -3,10 +3,10 @@
   <today>
     <book>
       <date>2013-09-01</date>
-      <title>簡單易學的家庭剪髮造型</title>
-      <price>165</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986636065.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002707952</link>
+      <title>35歲，活著確實是一件非常複雜的事：窮人...</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595135.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003693029</link>
     </book>
   </today>
   <preview>
@@ -44,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986877244.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003001998</link>
+    </book>
+    <book>
+      <date>2013-09-07</date>
+      <title>安頓身心：喚醒內心最美好的感覺</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957713520.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003803003</link>
     </book>
   </preview>
 </book66>
