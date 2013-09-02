@@ -3,27 +3,13 @@
   <today>
     <book>
       <date>2013-09-03</date>
-      <title>大數據</title>
-      <price>238</price>
-      <imageUrl>http://addons.books.com.tw/G/001/8/0010587258.jpg</imageUrl>
-      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010587258</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-09-02</date>
-      <title>大數據</title>
-      <price>238</price>
-      <imageUrl>http://addons.books.com.tw/G/001/8/0010587258.jpg</imageUrl>
-      <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010587258</link>
-    </book>
-    <book>
-      <date>2013-09-03</date>
       <title>移民台南：魚夫手繪幸福小食日誌</title>
       <price>231</price>
       <imageUrl>http://addons.books.com.tw/G/001/8/0010587268.jpg</imageUrl>
       <link>http://www.books.com.tw/exep/prod/booksfile.php?item=0010587268</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-09-04</date>
       <title>愛情市場學：80分女生，妳真的不夠好嗎？</title>
