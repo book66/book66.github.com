@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-09-03</date>
+      <date>2013-09-04</date>
       <title>超可愛鋼珠筆插畫生活帖：有了這本，任何素...</title>
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185859.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-09-04</date>
-      <title>我用這幾句英文在全世界交朋友</title>
-      <price>230</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986592720.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003693027</link>
-    </book>
     <book>
       <date>2013-09-05</date>
       <title>國王遊戲：滅亡6.11</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185692.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002801251</link>
+    </book>
+    <book>
+      <date>2013-09-10</date>
+      <title>聖經的故事</title>
+      <price>297</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595140.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003825084</link>
     </book>
   </preview>
 </book66>
