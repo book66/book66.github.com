@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-09-05</date>
+      <date>2013-09-06</date>
       <title>國王遊戲：滅亡6.11</title>
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957104978.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-09-06</date>
-      <title>當愛來臨時</title>
-      <price>158</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986877244.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003001998</link>
-    </book>
     <book>
       <date>2013-09-07</date>
       <title>安頓身心：喚醒內心最美好的感覺</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986175249.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002700308</link>
+    </book>
+    <book>
+      <date>2013-09-12</date>
+      <title>其實，我們都陷在執著的觀念上</title>
+      <price>145</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185451.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001251889</link>
     </book>
   </preview>
 </book66>

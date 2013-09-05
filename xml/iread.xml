@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-09-05</date>
-      <title>宿主 (電影書衣版)</title>
-      <price>263</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000080897-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000080897</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-09-06</date>
       <title>秒殺英文法－你所知道的英文學習法99...</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000185188-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000185188</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-09-07</date>
       <title>管脾氣不要管小孩：父母不抓狂修煉手...</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000225644-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000225644</link>
+    </book>
+    <book>
+      <date>2013-09-12</date>
+      <title>離人：太宰治的人生絮語</title>
+      <price>172</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000226822-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000226822</link>
     </book>
   </preview>
 </book66>
