@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-09-07</date>
-      <title>當愛來臨時</title>
-      <price>158</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986877244.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003001998</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-09-07</date>
       <title>安頓身心：喚醒內心最美好的感覺</title>
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957713520.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003803003</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-09-08</date>
       <title>洋蔥炒蛋到小英便當：蔡英文的人生滋味</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185451.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001251889</link>
+    </book>
+    <book>
+      <date>2013-09-13</date>
+      <title>全世界都在用的英文書信分類大全</title>
+      <price>296</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986592727.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003762038</link>
     </book>
   </preview>
 </book66>
