@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-09-09</date>
+      <date>2013-09-10</date>
       <title>關於考試，這樣準備就對了：優秀考生都在實...</title>
       <price>165</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185692.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-09-10</date>
-      <title>聖經的故事</title>
-      <price>297</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595140.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003825084</link>
-    </book>
     <book>
       <date>2013-09-11</date>
       <title>張金鶚的都市更新九堂課</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/054/054404520.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003367389</link>
+    </book>
+    <book>
+      <date>2013-09-16</date>
+      <title>優酪乳讓你腸道好菌久久</title>
+      <price>131</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986608043.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003098109</link>
     </book>
   </preview>
 </book66>
