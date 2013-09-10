@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-09-10</date>
+      <date>2013-09-11</date>
       <title>聖經的故事</title>
       <price>297</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595140.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-09-11</date>
-      <title>張金鶚的都市更新九堂課</title>
-      <price>224</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986175249.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002700308</link>
-    </book>
     <book>
       <date>2013-09-12</date>
       <title>其實，我們都陷在執著的觀念上</title>
@@ -51,6 +44,13 @@
       <price>131</price>
       <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986608043.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003098109</link>
+    </book>
+    <book>
+      <date>2013-09-17</date>
+      <title>看得開，放得下：本煥長老最後的開示</title>
+      <price>198</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957713519.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003694729</link>
     </book>
   </preview>
 </book66>
