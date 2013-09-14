@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-09-15</date>
-      <title>最後的讀書會：媽媽教我的人生智慧</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3063.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=30666</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-09-15</date>
       <title>從負責到當責：我還能做些什麼，把事情做對...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1080.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19703</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-09-16</date>
       <title>3秒搞定！圖解職場心理全事典：克服社交弱...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7042.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25705</link>
+    </book>
+    <book>
+      <date>2013-09-21</date>
+      <title>我愛東京旅遊失心瘋：就是要藥妝、甜點、可...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG037.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=31912</link>
     </book>
   </preview>
 </book66>
