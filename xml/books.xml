@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-09-17</date>
+      <date>2013-09-18</date>
       <title>做主管，管事不做事：動腦不動手，手下就會...</title>
       <price>198</price>
       <imageUrl>http://www.books.com.tw/img/001/058/86/0010588631.jpg</imageUrl>
@@ -10,6 +10,20 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-09-16</date>
+      <title>世界雖然殘酷，我們還是……：生命最痛的省...</title>
+      <price>191</price>
+      <imageUrl>http://www.books.com.tw/img/001/058/64/0010586420.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010586420</link>
+    </book>
+    <book>
+      <date>2013-09-17</date>
+      <title>做主管，管事不做事：動腦不動手，手下就會...</title>
+      <price>198</price>
+      <imageUrl>http://www.books.com.tw/img/001/058/86/0010588631.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010588631</link>
+    </book>
     <book>
       <date>2013-09-18</date>
       <title>當恐懼遇見愛</title>
