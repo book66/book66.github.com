@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-09-18</date>
-      <title>建材監工寶典事件書：2013年更新版</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GA026X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26729</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-09-18</date>
       <title>當責，從停止抱怨開始：克服被害者心態，才...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1107.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32487</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-09-19</date>
       <title>原諒</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BE032.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=30461</link>
+    </book>
+    <book>
+      <date>2013-09-24</date>
+      <title>手機不離身的雲端工作術：不進辦公室也沒差...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB918.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=31255</link>
     </book>
   </preview>
 </book66>
