@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-09-19</date>
-      <title>一個人的遠行</title>
-      <price>198</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000223255-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000223255</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-09-20</date>
-      <title>瞬間英文的奇蹟：10秒英文脫口說（1M...</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000074980-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000074980</link>
-    </book>
-    <book>
       <date>2013-09-21</date>
       <title>國家地理終極旅遊：一生必遊的500經...</title>
       <price>416</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000216044-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000216044</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-09-22</date>
       <title>愛紗的日語異想世界（精彩會話全收錄+...</title>
@@ -51,6 +37,13 @@
       <price>238</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000246340-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000246340</link>
+    </book>
+    <book>
+      <date>2013-09-26</date>
+      <title>淚流域</title>
+      <price>198</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000216378-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000216378</link>
     </book>
   </preview>
 </book66>
