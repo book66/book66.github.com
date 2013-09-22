@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-09-23</date>
-      <title>社會新鮮人的第一本「管理學」教科書</title>
-      <price>178</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0440.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=21464</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-09-23</date>
       <title>金融大騙局：誰偷走你的血汗錢</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BE032.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=30461</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-09-24</date>
       <title>手機不離身的雲端工作術：不進辦公室也沒差...</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6511.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=23975</link>
+    </book>
+    <book>
+      <date>2013-09-29</date>
+      <title>別讓直覺騙了你：30種減少錯誤，快速解決...</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0069.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=19586</link>
     </book>
   </preview>
 </book66>
