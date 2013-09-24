@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-09-24</date>
+      <date>2013-09-25</date>
       <title>亞森．羅蘋冒險系列盒裝首部曲</title>
       <price>990</price>
       <imageUrl>http://www.books.com.tw/img/001/051/03/0010510352.jpg</imageUrl>
@@ -10,6 +10,20 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-09-23</date>
+      <title>我們真的有自由意志嗎？：意識、抉擇與背後...</title>
+      <price>211</price>
+      <imageUrl>http://www.books.com.tw/img/001/057/80/0010578019.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010578019</link>
+    </book>
+    <book>
+      <date>2013-09-24</date>
+      <title>亞森．羅蘋冒險系列盒裝首部曲</title>
+      <price>990</price>
+      <imageUrl>http://www.books.com.tw/img/001/051/03/0010510352.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010510352</link>
+    </book>
     <book>
       <date>2013-09-25</date>
       <title>婚後3年，決定妳的一輩子的幸福：讓老公寵...</title>
