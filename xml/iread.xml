@@ -2,14 +2,21 @@
 <book66>
   <today>
     <book>
+      <date>2013-10-01</date>
+      <title>菜市場裡的大廚</title>
+      <price>251</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000190442-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000190442</link>
+    </book>
+  </today>
+  <preview>
+    <book>
       <date>2013-10-02</date>
       <title>我的箱子</title>
       <price>224</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000236939-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000236939</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2013-10-03</date>
       <title>拒當菜鳥 我的第一本裝潢計劃書 100...</title>
