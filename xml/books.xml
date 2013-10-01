@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-01</date>
+      <date>2013-10-02</date>
       <title>發現天賦之旅</title>
       <price>231</price>
       <imageUrl>http://www.books.com.tw/img/001/058/72/0010587254.jpg</imageUrl>
@@ -10,6 +10,20 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-09-30</date>
+      <title>Evernote 100個做筆記的好方法...</title>
+      <price>185</price>
+      <imageUrl>http://www.books.com.tw/img/001/059/04/0010590471.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010590471</link>
+    </book>
+    <book>
+      <date>2013-10-01</date>
+      <title>發現天賦之旅</title>
+      <price>231</price>
+      <imageUrl>http://www.books.com.tw/img/001/058/72/0010587254.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010587254</link>
+    </book>
     <book>
       <date>2013-10-02</date>
       <title>7天吃對順序肚子一定瘦：史上最有感！三餐...</title>
