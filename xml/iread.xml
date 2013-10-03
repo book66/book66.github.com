@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-03</date>
-      <title>拒當菜鳥 我的第一本裝潢計劃書 100...</title>
-      <price>317</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000248431-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000248431</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-10-04</date>
-      <title>小傷疤</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000243601-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000243601</link>
-    </book>
-    <book>
       <date>2013-10-05</date>
       <title>糖尿病飲食療法</title>
       <price>132</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000003909-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000003909</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-10-06</date>
       <title>寫作大師的秘密聖經：一次解決所有英...</title>
@@ -51,6 +37,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000227782-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000227782</link>
+    </book>
+    <book>
+      <date>2013-10-10</date>
+      <title>第三次工業革命：世界經濟即將被顛覆...</title>
+      <price>277</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000243464-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000243464</link>
     </book>
   </preview>
 </book66>
