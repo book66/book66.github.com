@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-10-05</date>
-      <title>觀看的方式</title>
-      <price>158</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH1099X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=17457</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-10-05</date>
       <title>Evernote 100個做筆記的好方法...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB919.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32779</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-10-06</date>
       <title>超譯尼采</title>
