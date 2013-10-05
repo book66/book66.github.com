@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-05</date>
-      <title>圖解：你所不知道的日本文化之美</title>
-      <price>251</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100654240</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100654240</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-10-06</date>
       <title>老虎的妻子</title>
       <price>198</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100590748</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100590748</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
