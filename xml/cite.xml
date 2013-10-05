@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-10-06</date>
-      <title>Evernote 100個做筆記的好方法...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB919.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=32779</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-10-06</date>
       <title>超譯尼采</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BCP004.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26110</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-10-07</date>
       <title>與過去和好：別讓過去創傷變成人際關係的困...</title>
@@ -51,6 +44,13 @@
       <price>363</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VS0009.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=29965</link>
+    </book>
+    <book>
+      <date>2013-10-12</date>
+      <title>一本讀通世界文學名著</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5061.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=20688</link>
     </book>
   </preview>
 </book66>
