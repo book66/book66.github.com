@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-06</date>
+      <date>2013-10-07</date>
       <title>剩食</title>
       <price>323</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/962/962043133.jpg</imageUrl>
@@ -11,46 +11,46 @@
   </today>
   <preview>
     <book>
-      <date>2013-10-07</date>
-      <title>愛，錯在哪裡：101則在愛情裡最常遇見的...</title>
-      <price>165</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986185737.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003082203</link>
-    </book>
-    <book>
       <date>2013-10-08</date>
       <title>找尋真實的蔣介石－蔣介石日記解讀</title>
       <price>442</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/962/962042736.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/962/962042736.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000651449</link>
     </book>
     <book>
       <date>2013-10-09</date>
       <title>畢業5年決定你的一生（暢銷實踐版）</title>
       <price>185</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986591619.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986591619.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003815106</link>
     </book>
     <book>
       <date>2013-10-10</date>
       <title>懂得溝通，打破親子的藩籬</title>
       <price>158</price>
-      <imageUrl>http://123.51.221.158:81/Assets/product_images/986/986877242.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986877242.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002788302</link>
     </book>
     <book>
       <date>2013-10-11</date>
       <title>《甄嬛傳》華妃早知道該多好的道理：這些職...</title>
       <price>165</price>
-      <imageUrl>http://123.51.221.159:81/Assets/product_images/986/986185853.jpg</imageUrl>
+      <imageUrl>http://123.51.221.158:81/Assets/product_images/986/986185853.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003825221</link>
     </book>
     <book>
       <date>2013-10-12</date>
       <title>說話的邏輯與技巧</title>
       <price>257</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962071987.jpg</imageUrl>
+      <imageUrl>http://123.51.221.159:81/Assets/product_images/962/962071987.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003622579</link>
+    </book>
+    <book>
+      <date>2013-10-13</date>
+      <title>炒匯王：賣在最高點（完全圖解修訂版）</title>
+      <price>164</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986592728.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003761793</link>
     </book>
   </preview>
 </book66>
