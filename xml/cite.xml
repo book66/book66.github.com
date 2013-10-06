@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-10-07</date>
-      <title>超譯尼采</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BCP004.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26110</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-10-07</date>
       <title>與過去和好：別讓過去創傷變成人際關係的困...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MB020.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26845</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-10-08</date>
       <title>藏在數字裡的謊言</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5061.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=20688</link>
+    </book>
+    <book>
+      <date>2013-10-13</date>
+      <title>超譯「哲學用語」事典：150個有趣的、難...</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1041.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=30837</link>
     </book>
   </preview>
 </book66>
