@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-08</date>
+      <date>2013-10-09</date>
       <title>為什麼你的故事被打X：創意、編劇、文案魔...</title>
       <price>238</price>
       <imageUrl>http://www.books.com.tw/img/001/059/25/0010592599.jpg</imageUrl>
@@ -10,6 +10,20 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-10-07</date>
+      <title>MASA，早安！我們一起吃Brunch吧...</title>
+      <price>263</price>
+      <imageUrl>http://www.books.com.tw/img/001/059/29/0010592940.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010592940</link>
+    </book>
+    <book>
+      <date>2013-10-08</date>
+      <title>為什麼你的故事被打X：創意、編劇、文案魔...</title>
+      <price>238</price>
+      <imageUrl>http://www.books.com.tw/img/001/059/25/0010592599.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010592599</link>
+    </book>
     <book>
       <date>2013-10-09</date>
       <title>我喜歡：林良x貝果，孩子的第一本詩歌繪本...</title>
