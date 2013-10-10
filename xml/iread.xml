@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-10</date>
-      <title>第三次工業革命：世界經濟即將被顛覆...</title>
-      <price>277</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000243464-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000243464</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-10-11</date>
-      <title>圓覺經</title>
-      <price>145</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000218498-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000218498</link>
-    </book>
-    <book>
       <date>2013-10-12</date>
       <title>腎臟病飲食療法</title>
       <price>132</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000003908-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000003908</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-10-13</date>
       <title>讓全家人遠離疾病的100種室內花草</title>
@@ -51,6 +37,13 @@
       <price>158</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000225866-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000225866</link>
+    </book>
+    <book>
+      <date>2013-10-17</date>
+      <title>巴黎女人的時尚聖經</title>
+      <price>449</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000179725-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000179725</link>
     </book>
   </preview>
 </book66>
