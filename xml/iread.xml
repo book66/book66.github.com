@@ -2,14 +2,21 @@
 <book66>
   <today>
     <book>
+      <date>2013-10-11</date>
+      <title>圓覺經</title>
+      <price>145</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000218498-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000218498</link>
+    </book>
+  </today>
+  <preview>
+    <book>
       <date>2013-10-12</date>
       <title>腎臟病飲食療法</title>
       <price>132</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000003908-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000003908</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2013-10-13</date>
       <title>讓全家人遠離疾病的100種室內花草</title>
