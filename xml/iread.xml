@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-11</date>
-      <title>圓覺經</title>
-      <price>145</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000218498-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000218498</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-10-12</date>
-      <title>腎臟病飲食療法</title>
-      <price>132</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000003908-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000003908</link>
-    </book>
-    <book>
       <date>2013-10-13</date>
       <title>讓全家人遠離疾病的100種室內花草</title>
       <price>164</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000189193-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000189193</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-10-14</date>
       <title>搜尋你內心的關鍵字：Google最熱門...</title>
@@ -51,6 +37,13 @@
       <price>449</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000179725-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000179725</link>
+    </book>
+    <book>
+      <date>2013-10-18</date>
+      <title>謝沅瑾文昌風水教科書</title>
+      <price>251</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000173949-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000173949</link>
     </book>
   </preview>
 </book66>
