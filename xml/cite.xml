@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-10-12</date>
-      <title>宇宙之愛：從靈魂占星揭露親密關係的奧祕</title>
-      <price>363</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VS0009.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=29965</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-10-12</date>
       <title>一本讀通世界文學名著</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5061.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=20688</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-10-13</date>
       <title>超譯「哲學用語」事典：150個有趣的、難...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2055.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28993</link>
+    </book>
+    <book>
+      <date>2013-10-18</date>
+      <title>能量、性、死亡：粒線體與我們的生命</title>
+      <price>329</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1240C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=31052</link>
     </book>
   </preview>
 </book66>
