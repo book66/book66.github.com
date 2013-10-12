@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-12</date>
+      <date>2013-10-13</date>
       <title>說話的邏輯與技巧</title>
       <price>257</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/962/962071987.jpg</imageUrl>
@@ -11,46 +11,46 @@
   </today>
   <preview>
     <book>
-      <date>2013-10-13</date>
-      <title>炒匯王：賣在最高點（完全圖解修訂版）</title>
-      <price>164</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986592728.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003761793</link>
-    </book>
-    <book>
       <date>2013-10-14</date>
       <title>長跑運動全攻略：健體、訓練、比賽</title>
       <price>231</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/962/962073411.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/962/962073411.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002798447</link>
     </book>
     <book>
       <date>2013-10-15</date>
       <title>懂得堅持，成功離你越來越近</title>
       <price>145</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986877243.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986877243.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002844992</link>
     </book>
     <book>
       <date>2013-10-16</date>
       <title>心之盛宴：跟Eddy做五星級菜式（中英對...</title>
       <price>350</price>
-      <imageUrl>http://123.51.221.158:81/Assets/product_images/962/962144936.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/962/962144936.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003667875</link>
     </book>
     <book>
       <date>2013-10-17</date>
       <title>搭訕寶典：進階篇</title>
       <price>132</price>
-      <imageUrl>http://123.51.221.159:81/Assets/product_images/986/986316266.jpg</imageUrl>
+      <imageUrl>http://123.51.221.158:81/Assets/product_images/986/986316266.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003791354</link>
     </book>
     <book>
       <date>2013-10-18</date>
       <title>用易經旺家宅</title>
       <price>264</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962144943.jpg</imageUrl>
+      <imageUrl>http://123.51.221.159:81/Assets/product_images/962/962144943.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003591470</link>
+    </book>
+    <book>
+      <date>2013-10-19</date>
+      <title>郎咸平帶你重讀經典資本論與國富論</title>
+      <price>198</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185824.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003714103</link>
     </book>
   </preview>
 </book66>

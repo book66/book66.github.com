@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-12</date>
-      <title>牧羊少年奇幻之旅（繪圖本）</title>
-      <price>145</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100210175</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100210175</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-10-13</date>
       <title>算病：算出體質，量身訂做養生方案</title>
       <price>198</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100257766</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100257766</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
