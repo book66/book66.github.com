@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-10-16</date>
-      <title>東京圖書館紀行</title>
-      <price>317</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPT15.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=32633</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-10-16</date>
       <title>影響力的要素：如何讓人對你心悅誠服</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5081.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=31381</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-10-17</date>
       <title>偏愛京都</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5053.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32814</link>
+    </book>
+    <book>
+      <date>2013-10-22</date>
+      <title>餐桌上的蔬菜百科</title>
+      <price>297</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM101.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=30009</link>
     </book>
   </preview>
 </book66>
