@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-15</date>
+      <date>2013-10-16</date>
       <title>懂得堅持，成功離你越來越近</title>
       <price>145</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986877243.jpg</imageUrl>
@@ -11,46 +11,46 @@
   </today>
   <preview>
     <book>
-      <date>2013-10-16</date>
-      <title>心之盛宴：跟Eddy做五星級菜式（中英對...</title>
-      <price>350</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/962/962144936.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003667875</link>
-    </book>
-    <book>
       <date>2013-10-17</date>
       <title>搭訕寶典：進階篇</title>
       <price>132</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986316266.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986316266.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003791354</link>
     </book>
     <book>
       <date>2013-10-18</date>
       <title>用易經旺家宅</title>
       <price>264</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/962/962144943.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/962/962144943.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003591470</link>
     </book>
     <book>
       <date>2013-10-19</date>
       <title>郎咸平帶你重讀經典資本論與國富論</title>
       <price>198</price>
-      <imageUrl>http://123.51.221.158:81/Assets/product_images/986/986185824.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185824.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003714103</link>
     </book>
     <book>
       <date>2013-10-20</date>
       <title>數學：你需要知道的超過2000個基本事實</title>
       <price>172</price>
-      <imageUrl>http://123.51.221.159:81/Assets/product_images/962/962144924.jpg</imageUrl>
+      <imageUrl>http://123.51.221.158:81/Assets/product_images/962/962144924.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003075139</link>
     </book>
     <book>
       <date>2013-10-21</date>
       <title>搭訕寶典：入門篇</title>
       <price>125</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986316265.jpg</imageUrl>
+      <imageUrl>http://123.51.221.159:81/Assets/product_images/986/986316265.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003742400</link>
+    </book>
+    <book>
+      <date>2013-10-22</date>
+      <title>低成本大電影：專業級電影製作指南</title>
+      <price>231</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962144599.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002693329</link>
     </book>
   </preview>
 </book66>
