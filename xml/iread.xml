@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-16</date>
-      <title>慢想力</title>
-      <price>158</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000225866-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000225866</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-10-17</date>
-      <title>巴黎女人的時尚聖經</title>
-      <price>449</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000179725-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000179725</link>
-    </book>
-    <book>
       <date>2013-10-18</date>
       <title>謝沅瑾文昌風水教科書</title>
       <price>251</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000173949-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000173949</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-10-19</date>
       <title>女人千萬要有錢：梁彥平教你一生滾錢...</title>
@@ -51,6 +37,13 @@
       <price>329</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000179831-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000179831</link>
+    </book>
+    <book>
+      <date>2013-10-23</date>
+      <title>幸福美肌，一輩子就買這一本：美膚心...</title>
+      <price>211</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000227422.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000227422</link>
     </book>
   </preview>
 </book66>
