@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-10-19</date>
-      <title>能量、性、死亡：粒線體與我們的生命</title>
-      <price>329</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1240C.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=31052</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-10-19</date>
       <title>思考的原點：大前研一的麥肯錫思考術</title>
       <price>178</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0503.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=31623</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-10-20</date>
       <title>美軍野外生存手冊：最權威的美軍特種部隊絕...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2056.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=29769</link>
+    </book>
+    <book>
+      <date>2013-10-25</date>
+      <title>明朝大人物：皇帝、權臣、佞倖、錦衣衛</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH7120X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=31509</link>
     </book>
   </preview>
 </book66>
