@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-10-21</date>
-      <title>Global Vision 全球視野：中...</title>
-      <price>653</price>
-      <imageUrl>http://www.books.com.tw/img/001/059/04/0010590482.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010590482</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-10-21</date>
       <title>十八歲起，你的格局不一樣：想像十年後的自...</title>
       <price>211</price>
       <imageUrl>http://www.books.com.tw/img/001/056/57/0010565780.jpg</imageUrl>
       <link>http://www.books.com.tw/products/0010565780</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-10-22</date>
       <title>手繪城市：畫遍全世界</title>
