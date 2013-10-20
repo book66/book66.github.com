@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-20</date>
-      <title>寫給無法完整說出一句英文的人〈1 書...</title>
-      <price>211</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000182822-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000182822</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-10-21</date>
-      <title>不要和鯊魚接吻，但要和勇敢一起睡覺...</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000189002-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000189002</link>
-    </book>
-    <book>
       <date>2013-10-22</date>
       <title>完全圖解登山聖經: 第一本真正適合臺...</title>
       <price>329</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000179831-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000179831</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-10-23</date>
       <title>幸福美肌，一輩子就買這一本：美膚心...</title>
@@ -51,6 +37,13 @@
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000216971-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000216971</link>
+    </book>
+    <book>
+      <date>2013-10-27</date>
+      <title>3招搞定450道省荷包美味料理</title>
+      <price>231</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000244920-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000244920</link>
     </book>
   </preview>
 </book66>
