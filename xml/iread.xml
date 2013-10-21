@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-21</date>
-      <title>不要和鯊魚接吻，但要和勇敢一起睡覺...</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000189002-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000189002</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-10-22</date>
-      <title>完全圖解登山聖經: 第一本真正適合臺...</title>
-      <price>329</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000179831-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000179831</link>
-    </book>
-    <book>
       <date>2013-10-23</date>
       <title>幸福美肌，一輩子就買這一本：美膚心...</title>
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000227422.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000227422</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-10-24</date>
       <title>鄉村風設計圖典1000：精選歐式、英式...</title>
@@ -51,6 +37,13 @@
       <price>231</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000244920-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000244920</link>
+    </book>
+    <book>
+      <date>2013-10-28</date>
+      <title>斷捨離：斷絕不需要的東西，捨棄多餘...</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000171750-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000171750</link>
     </book>
   </preview>
 </book66>

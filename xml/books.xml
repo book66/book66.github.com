@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-21</date>
+      <date>2013-10-22</date>
       <title>十八歲起，你的格局不一樣：想像十年後的自...</title>
       <price>211</price>
       <imageUrl>http://www.books.com.tw/img/001/056/57/0010565780.jpg</imageUrl>
@@ -10,6 +10,13 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-10-21</date>
+      <title>十八歲起，你的格局不一樣：想像十年後的自...</title>
+      <price>211</price>
+      <imageUrl>http://www.books.com.tw/img/001/056/57/0010565780.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010565780</link>
+    </book>
     <book>
       <date>2013-10-22</date>
       <title>手繪城市：畫遍全世界</title>
