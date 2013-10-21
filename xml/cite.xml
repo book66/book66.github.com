@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-10-22</date>
-      <title>g先生：關於宇宙創造的小說</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5053.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=32814</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-10-22</date>
       <title>餐桌上的蔬菜百科</title>
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM101.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=30009</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-10-23</date>
       <title>療傷的對話</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1241.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32813</link>
+    </book>
+    <book>
+      <date>2013-10-28</date>
+      <title>無私的藝術</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MC013.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25820</link>
     </book>
   </preview>
 </book66>
