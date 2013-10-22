@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-10-23</date>
-      <title>餐桌上的蔬菜百科</title>
-      <price>297</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM101.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=30009</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-10-23</date>
       <title>療傷的對話</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX1027X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=18429</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-10-24</date>
       <title>記憶的味道</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MC013.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25820</link>
+    </book>
+    <book>
+      <date>2013-10-29</date>
+      <title>對決人生：解讀海明威（精裝版）</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RC7200.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=29646</link>
     </book>
   </preview>
 </book66>
