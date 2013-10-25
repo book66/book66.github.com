@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-25</date>
-      <title>德語課</title>
-      <price>231</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100002586</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100002586</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-10-26</date>
       <title>村上收音機</title>
       <price>185</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100635522</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100635522</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-10-27</date>
       <title>圖解英語文法大全（修訂版）</title>
