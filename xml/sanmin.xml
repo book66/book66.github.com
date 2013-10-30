@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-30</date>
+      <date>2013-10-31</date>
       <title>轉捩點：你的幸福，缺的只是一個方法</title>
       <price>211</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/957/957447261.jpg</imageUrl>
@@ -11,46 +11,46 @@
   </today>
   <preview>
     <book>
-      <date>2013-10-31</date>
-      <title>禁色的蝴蝶：張國榮的藝術形象</title>
-      <price>297</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/962/962042750.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000662379</link>
-    </book>
-    <book>
       <date>2013-11-01</date>
       <title>朗文英文翻譯與作文指引</title>
       <price>145</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986280145.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986280145.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003367946</link>
     </book>
     <book>
       <date>2013-11-02</date>
       <title>走進那些女子部屋：小坪數多風格，打造令人...</title>
       <price>211</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185879.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185879.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003957049</link>
     </book>
     <book>
       <date>2013-11-03</date>
       <title>老狐狸格言之忍者無敵</title>
       <price>132</price>
-      <imageUrl>http://123.51.221.158:81/Assets/product_images/986/986594909.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986594909.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003606765</link>
     </book>
     <book>
       <date>2013-11-04</date>
       <title>西方美術簡史【全彩圖解】</title>
       <price>251</price>
-      <imageUrl>http://123.51.221.159:81/Assets/product_images/986/986595150.jpg</imageUrl>
+      <imageUrl>http://123.51.221.158:81/Assets/product_images/986/986595150.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003867391</link>
     </book>
     <book>
       <date>2013-11-05</date>
       <title>東大醫學生親授輕鬆考上第一志願的讀書法：...</title>
       <price>165</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185666.jpg</imageUrl>
+      <imageUrl>http://123.51.221.159:81/Assets/product_images/986/986185666.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002728772</link>
+    </book>
+    <book>
+      <date>2013-11-06</date>
+      <title>地球：你需要知道的超過2000個基本事實</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962144921.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003075136</link>
     </book>
   </preview>
 </book66>
