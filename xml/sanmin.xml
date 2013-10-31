@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-10-31</date>
+      <date>2013-11-01</date>
       <title>禁色的蝴蝶：張國榮的藝術形象</title>
       <price>297</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/962/962042750.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-11-01</date>
-      <title>朗文英文翻譯與作文指引</title>
-      <price>145</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986280145.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003367946</link>
-    </book>
-    <book>
       <date>2013-11-02</date>
       <title>走進那些女子部屋：小坪數多風格，打造令人...</title>
       <price>211</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185879.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986185879.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003957049</link>
     </book>
     <book>
       <date>2013-11-03</date>
       <title>老狐狸格言之忍者無敵</title>
       <price>132</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986594909.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986594909.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003606765</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-11-06</date>
       <title>地球：你需要知道的超過2000個基本事實</title>
       <price>172</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962144921.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/962/962144921.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003075136</link>
+    </book>
+    <book>
+      <date>2013-11-07</date>
+      <title>圖解太極拳：簡易太極拳法二十四式，養出健...</title>
+      <price>145</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986594244.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003874905</link>
     </book>
   </preview>
 </book66>
