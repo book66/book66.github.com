@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-01</date>
-      <title>維基解密─你不知道的事實真相</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000173890-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000173890</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-11-02</date>
       <title>英文文法超易學: 1000題老師最愛考...</title>
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000221854.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000221854</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-11-03</date>
       <title>20幾歲，要學會的幸福學分</title>
@@ -51,6 +44,13 @@
       <price>449</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000192891-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000192891</link>
+    </book>
+    <book>
+      <date>2013-11-08</date>
+      <title>簡單：打破複雜，創造絕對優勢</title>
+      <price>231</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000243260-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000243260</link>
     </book>
   </preview>
 </book66>
