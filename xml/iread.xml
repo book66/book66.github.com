@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-03</date>
-      <title>20幾歲，要學會的幸福學分</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000221801.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000221801</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-11-04</date>
       <title>英文秒殺口訣大公開</title>
       <price>172</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000249113-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000249113</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-11-05</date>
       <title>4F料理生活家課程精選</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000224069-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000224069</link>
+    </book>
+    <book>
+      <date>2013-11-10</date>
+      <title>開國大帝</title>
+      <price>145</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000046064-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000046064</link>
     </book>
   </preview>
 </book66>
