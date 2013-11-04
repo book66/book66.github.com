@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-04</date>
-      <title>英文秒殺口訣大公開</title>
-      <price>172</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000249113-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000249113</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-11-05</date>
-      <title>4F料理生活家課程精選</title>
-      <price>231</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000135859-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000135859</link>
-    </book>
-    <book>
       <date>2013-11-06</date>
       <title>國家地理終極攝影指南</title>
       <price>395</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000168394-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000168394</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-11-07</date>
       <title>田口護的精品咖啡大全</title>
@@ -51,6 +37,13 @@
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000046064-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000046064</link>
+    </book>
+    <book>
+      <date>2013-11-11</date>
+      <title>我知道你在想什麼：80萬人都說讚的史...</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000237122-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000237122</link>
     </book>
   </preview>
 </book66>
