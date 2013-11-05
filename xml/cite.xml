@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-05</date>
+      <date>2013-11-06</date>
       <title>騷動：改造灰姑娘</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OG0016.jpg</imageUrl>
@@ -10,13 +10,6 @@
     </book>
   </today>
   <preview>
-    <book>
-      <date>2013-11-06</date>
-      <title>愈早懂經濟學愈好！這樣你會比別人更有高度...</title>
-      <price>197</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2249.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=31050</link>
-    </book>
     <book>
       <date>2013-11-07</date>
       <title>扭轉近代文明的六種植物</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0194.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32991</link>
+    </book>
+    <book>
+      <date>2013-11-12</date>
+      <title>中藥，你吃對了嗎？：萬人提問，關於中藥迷...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1042.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=32630</link>
     </book>
   </preview>
 </book66>
