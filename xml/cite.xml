@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-11-07</date>
-      <title>愈早懂經濟學愈好！這樣你會比別人更有高度...</title>
-      <price>197</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2249.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=31050</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-11-07</date>
       <title>扭轉近代文明的六種植物</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MI1006.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=31650</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-11-08</date>
       <title>超易圖解思考法：活用5種最基本圖形，提升...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1042.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32630</link>
+    </book>
+    <book>
+      <date>2013-11-13</date>
+      <title>隔熱×節能×綠空間設計 讓你一台冷氣過四...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GB105.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=31645</link>
     </book>
   </preview>
 </book66>
