@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-06</date>
-      <title>國家地理終極攝影指南</title>
-      <price>395</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000168394-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000168394</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-11-07</date>
-      <title>田口護的精品咖啡大全</title>
-      <price>449</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000192891-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000192891</link>
-    </book>
-    <book>
       <date>2013-11-08</date>
       <title>簡單：打破複雜，創造絕對優勢</title>
       <price>231</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000243260-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000243260</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-11-09</date>
       <title>百病一指除！：特效百穴祛病全圖解</title>
@@ -51,6 +37,13 @@
       <price>231</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000075603-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000075603</link>
+    </book>
+    <book>
+      <date>2013-11-13</date>
+      <title>尋訪香格里拉：探索失落的茶馬古道</title>
+      <price>395</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000212824-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000212824</link>
     </book>
   </preview>
 </book66>
