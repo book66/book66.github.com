@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-11-08</date>
-      <title>扭轉近代文明的六種植物</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MI1006.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=31650</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-11-08</date>
       <title>超易圖解思考法：活用5種最基本圖形，提升...</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0508.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34384</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-11-09</date>
       <title>健康與回春之祕</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GB105.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=31645</link>
+    </book>
+    <book>
+      <date>2013-11-14</date>
+      <title>這樣表達，再複雜也能一聽就懂！商品或點子...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0507.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=32982</link>
     </book>
   </preview>
 </book66>
