@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-08</date>
-      <title>簡單：打破複雜，創造絕對優勢</title>
-      <price>231</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000243260-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000243260</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-11-09</date>
-      <title>百病一指除！：特效百穴祛病全圖解</title>
-      <price>231</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000224069-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000224069</link>
-    </book>
-    <book>
       <date>2013-11-10</date>
       <title>開國大帝</title>
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000046064-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000046064</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-11-11</date>
       <title>我知道你在想什麼：80萬人都說讚的史...</title>
@@ -51,6 +37,13 @@
       <price>297</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000239200-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000239200</link>
+    </book>
+    <book>
+      <date>2013-11-15</date>
+      <title>惡童</title>
+      <price>172</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000250363-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000250363</link>
     </book>
   </preview>
 </book66>
