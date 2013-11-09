@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-11-10</date>
-      <title>健康與回春之祕</title>
-      <price>363</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3071.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=30008</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-11-10</date>
       <title>連黑道大哥都臣服的飯店女經理社交客服術：...</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0092.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=30784</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-11-11</date>
       <title>比生病更可怕的醫療陷阱：別讓不必要的治療...</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH1142X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28535</link>
+    </book>
+    <book>
+      <date>2013-11-16</date>
+      <title>中國金融大揭密：異常崛起的大銀行真相</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2246.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28182</link>
     </book>
   </preview>
 </book66>
