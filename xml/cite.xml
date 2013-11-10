@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-11-11</date>
-      <title>連黑道大哥都臣服的飯店女經理社交客服術：...</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0092.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=30784</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-11-11</date>
       <title>比生病更可怕的醫療陷阱：別讓不必要的治療...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0194.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32991</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-11-12</date>
       <title>中藥，你吃對了嗎？：萬人提問，關於中藥迷...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2246.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28182</link>
+    </book>
+    <book>
+      <date>2013-11-17</date>
+      <title>無中生有的宇宙：科學家探索宇宙誕生與未來...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0107.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=34192</link>
     </book>
   </preview>
 </book66>
