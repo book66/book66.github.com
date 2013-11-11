@@ -2,14 +2,21 @@
 <book66>
   <today>
     <book>
+      <date>2013-11-11</date>
+      <title>離開你，找到真正的自己</title>
+      <price>172</price>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986185748.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003089973</link>
+    </book>
+  </today>
+  <preview>
+    <book>
       <date>2013-11-12</date>
       <title>3秒鐘就讀懂人心</title>
       <price>197</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986591618.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003820150</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2013-11-13</date>
       <title>生日快樂</title>
