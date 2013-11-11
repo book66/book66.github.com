@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-11</date>
+      <date>2013-11-12</date>
       <title>離開你，找到真正的自己</title>
       <price>172</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986185748.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-11-12</date>
-      <title>3秒鐘就讀懂人心</title>
-      <price>197</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986591618.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003820150</link>
-    </book>
-    <book>
       <date>2013-11-13</date>
       <title>生日快樂</title>
       <price>165</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986724892.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986724892.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000528436</link>
     </book>
     <book>
       <date>2013-11-14</date>
       <title>圖解英語文法大全（修訂版）</title>
       <price>250</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986592731.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986592731.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003803362</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-11-17</date>
       <title>圖解國富論</title>
       <price>317</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595130.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986595130.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003633882</link>
+    </book>
+    <book>
+      <date>2013-11-18</date>
+      <title>熊熊村妙字小故事01</title>
+      <price>145</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986643751.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001441816</link>
     </book>
   </preview>
 </book66>
