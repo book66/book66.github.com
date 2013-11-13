@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-13</date>
-      <title>隔熱×節能×綠空間設計 讓你一台冷氣過四...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GB105.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=31645</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-11-14</date>
       <title>這樣表達，再複雜也能一聽就懂！商品或點子...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0507.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32982</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-11-15</date>
       <title>傅柯：危險哲學家</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0038X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28534</link>
+    </book>
+    <book>
+      <date>2013-11-20</date>
+      <title>健走功：適合現代人的氣功健走，每天30分...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD040.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=34191</link>
     </book>
   </preview>
 </book66>

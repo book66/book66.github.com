@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-13</date>
+      <date>2013-11-14</date>
       <title>生日快樂</title>
       <price>165</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986724892.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-11-14</date>
-      <title>圖解英語文法大全（修訂版）</title>
-      <price>250</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986592731.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003803362</link>
-    </book>
-    <book>
       <date>2013-11-15</date>
       <title>黑道教我的12件事</title>
       <price>165</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986595154.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986595154.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003907785</link>
     </book>
     <book>
       <date>2013-11-16</date>
       <title>眼界，決定你的世界：31個逆轉人生的新觀...</title>
       <price>158</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185799.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185799.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003646290</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-11-19</date>
       <title>飯局決定你的結局：職場必懂的飯局潛規則</title>
       <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986591623.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986591623.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003916364</link>
+    </book>
+    <book>
+      <date>2013-11-20</date>
+      <title>親子創意果雕：在水果創意中，看見幸福的滋...</title>
+      <price>165</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986776797.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000745550</link>
     </book>
   </preview>
 </book66>
