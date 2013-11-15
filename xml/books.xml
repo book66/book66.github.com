@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-15</date>
+      <date>2013-11-16</date>
       <title>小心，別踩到我北方的腳！</title>
       <price>251</price>
       <imageUrl>http://www.books.com.tw/img/001/059/45/0010594582.jpg</imageUrl>
@@ -10,6 +10,41 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-11-11</date>
+      <title>等待的技術：慢想，讓決定更好</title>
+      <price>264</price>
+      <imageUrl>http://www.books.com.tw/img/001/059/37/0010593776.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010593776</link>
+    </book>
+    <book>
+      <date>2013-11-12</date>
+      <title>松浦彌太郎的100個基本</title>
+      <price>191</price>
+      <imageUrl>http://www.books.com.tw/img/001/058/73/0010587352.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010587352</link>
+    </book>
+    <book>
+      <date>2013-11-13</date>
+      <title>擇食2：邱錦伶的瘦身食堂</title>
+      <price>224</price>
+      <imageUrl>http://www.books.com.tw/img/001/059/37/0010593787.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010593787</link>
+    </book>
+    <book>
+      <date>2013-11-14</date>
+      <title>法國媽媽的從容教養100招：不動氣、不犧...</title>
+      <price>191</price>
+      <imageUrl>http://www.books.com.tw/img/001/059/30/0010593045.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010593045</link>
+    </book>
+    <book>
+      <date>2013-11-15</date>
+      <title>小心，別踩到我北方的腳！</title>
+      <price>251</price>
+      <imageUrl>http://www.books.com.tw/img/001/059/45/0010594582.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010594582</link>
+    </book>
     <book>
       <date>2013-11-16</date>
       <title>台灣人最想知道的英文字彙：EZ TALK...</title>

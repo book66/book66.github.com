@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-15</date>
+      <date>2013-11-16</date>
       <title>黑道教我的12件事</title>
       <price>165</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986595154.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-11-16</date>
-      <title>眼界，決定你的世界：31個逆轉人生的新觀...</title>
-      <price>158</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986185799.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003646290</link>
-    </book>
-    <book>
       <date>2013-11-17</date>
       <title>圖解國富論</title>
       <price>317</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986595130.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986595130.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003633882</link>
     </book>
     <book>
       <date>2013-11-18</date>
       <title>熊熊村妙字小故事01</title>
       <price>145</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986643751.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986643751.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001441816</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-11-21</date>
       <title>車禍鑑定DIY</title>
       <price>132</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957030208.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/957/957030208.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000078442</link>
+    </book>
+    <book>
+      <date>2013-11-22</date>
+      <title>我用這幾句日文和日本人一起工作：日商菜鳥...</title>
+      <price>197</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986592737.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003856409</link>
     </book>
   </preview>
 </book66>
