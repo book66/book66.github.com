@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-16</date>
-      <title>一個快樂女人要做的40個自己</title>
-      <price>125</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000205494-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000205494</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-11-17</date>
       <title>放出你的行銷病毒：30天網路行銷病毒...</title>
       <price>197</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000244910-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000244910</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-11-18</date>
       <title>變好：逆轉人生，只要做對這5件事</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000247861-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000247861</link>
+    </book>
+    <book>
+      <date>2013-11-23</date>
+      <title>居家必備！最有效淨化室內空氣的90種...</title>
+      <price>197</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000206349-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000206349</link>
     </book>
   </preview>
 </book66>
