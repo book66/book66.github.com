@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-11-18</date>
-      <title>無中生有的宇宙：科學家探索宇宙誕生與未來...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0107.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=34192</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-11-18</date>
       <title>比免揉麵包更簡單！簡單揉就好吃的家庭烘焙...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM105.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=33351</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-11-19</date>
       <title>手術刀與靈魂：外科醫師與超自然經歷的邂逅...</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUB009.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34193</link>
+    </book>
+    <book>
+      <date>2013-11-24</date>
+      <title>因果，怎麼一回事？</title>
+      <price>158</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0074.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=30041</link>
     </book>
   </preview>
 </book66>
