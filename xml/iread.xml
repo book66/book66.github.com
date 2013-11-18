@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-18</date>
-      <title>變好：逆轉人生，只要做對這5件事</title>
-      <price>198</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000237121-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000237121</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-11-19</date>
-      <title>設計摺學：一張紙激發無限造型創意，...</title>
-      <price>395</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000223228-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000223228</link>
-    </book>
-    <book>
       <date>2013-11-20</date>
       <title>一生都受用的大腦救命手冊： 100招獨...</title>
       <price>238</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000130801-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000130801</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-11-21</date>
       <title>麥肯錫教我的思考武器：找對最重要的i...</title>
@@ -51,6 +37,13 @@
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000115642-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000115642</link>
+    </book>
+    <book>
+      <date>2013-11-25</date>
+      <title>非常關係</title>
+      <price>185</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000165548-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000165548</link>
     </book>
   </preview>
 </book66>
