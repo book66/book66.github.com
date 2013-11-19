@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-19</date>
-      <title>設計摺學：一張紙激發無限造型創意，...</title>
-      <price>395</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000223228-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000223228</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-11-20</date>
-      <title>一生都受用的大腦救命手冊： 100招獨...</title>
-      <price>238</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000130801-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000130801</link>
-    </book>
-    <book>
       <date>2013-11-21</date>
       <title>麥肯錫教我的思考武器：找對最重要的i...</title>
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000216190-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000216190</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-11-22</date>
       <title>世界飲食文化小百科</title>
@@ -51,6 +37,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000165548-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000165548</link>
+    </book>
+    <book>
+      <date>2013-11-26</date>
+      <title>狗狗在跟你說話！完全聽懂狗吠手冊</title>
+      <price>185</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000219425-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000219425</link>
     </book>
   </preview>
 </book66>
