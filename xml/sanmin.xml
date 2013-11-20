@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-11-21</date>
-      <title>車禍鑑定DIY</title>
-      <price>132</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/957/957030208.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000078442</link>
-    </book>
-    <book>
       <date>2013-11-22</date>
       <title>我用這幾句日文和日本人一起工作：日商菜鳥...</title>
       <price>197</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986592737.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986592737.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003856409</link>
     </book>
     <book>
       <date>2013-11-23</date>
       <title>1949，國民黨敗給共產黨的100個原因</title>
       <price>185</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986595106.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986595106.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003049703</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-11-26</date>
       <title>用地理說世界歷史【全彩圖解】</title>
       <price>297</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595153.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986595153.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003916369</link>
+    </book>
+    <book>
+      <date>2013-11-27</date>
+      <title>慾望城市</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986674963.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001281241</link>
     </book>
   </preview>
 </book66>
