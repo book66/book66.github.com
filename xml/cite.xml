@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-11-23</date>
-      <title>冷浪漫：你的感性其實很理性</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VX0025.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=29553</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-11-23</date>
       <title>濟貧院的陰影：市井小民堅強求生的感人故事</title>
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUB009.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34193</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-11-24</date>
       <title>因果，怎麼一回事？</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1037.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27927</link>
+    </book>
+    <book>
+      <date>2013-11-29</date>
+      <title>脫會議！減去1/2會議的效率工作法</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5084.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=33706</link>
     </book>
   </preview>
 </book66>
