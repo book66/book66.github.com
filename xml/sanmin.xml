@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-22</date>
+      <date>2013-11-23</date>
       <title>我用這幾句日文和日本人一起工作：日商菜鳥...</title>
       <price>197</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986592737.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-11-23</date>
-      <title>1949，國民黨敗給共產黨的100個原因</title>
-      <price>185</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986595106.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003049703</link>
-    </book>
-    <book>
       <date>2013-11-24</date>
       <title>人是浮出來的，不是爬上去的：躲在成功背後...</title>
       <price>165</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986595125.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986595125.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003867390</link>
     </book>
     <book>
       <date>2013-11-25</date>
       <title>婚後3年，決定妳的一輩子的幸福：讓老公寵...</title>
       <price>205</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185864.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185864.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003857484</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-11-28</date>
       <title>原來如此！日本媽媽這樣敎孩子</title>
       <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986591615.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986591615.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003761850</link>
+    </book>
+    <book>
+      <date>2013-11-29</date>
+      <title>圖解道教</title>
+      <price>251</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986594230.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003633881</link>
     </book>
   </preview>
 </book66>
