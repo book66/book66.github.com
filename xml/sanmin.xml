@@ -5,7 +5,7 @@
       <date>2013-11-27</date>
       <title>慾望城市</title>
       <price>185</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986674963.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986674963.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001281241</link>
     </book>
   </today>
@@ -30,6 +30,27 @@
       <price>172</price>
       <imageUrl>http://123.51.221.156/Assets/product_images/962/962144920.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003075135</link>
+    </book>
+    <book>
+      <date>2013-12-01</date>
+      <title>中醫師的養生餐桌：三餐食材篇</title>
+      <price>251</price>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986882189.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003885424</link>
+    </book>
+    <book>
+      <date>2013-12-02</date>
+      <title>牛津英語大師幫你開口說英語</title>
+      <price>230</price>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986592739.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003901857</link>
+    </book>
+    <book>
+      <date>2013-12-03</date>
+      <title>數學女孩：隨機演算法</title>
+      <price>297</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986609789.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003866235</link>
     </book>
   </preview>
 </book66>
