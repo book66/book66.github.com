@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-28</date>
+      <date>2013-11-29</date>
       <title>原來如此！日本媽媽這樣敎孩子</title>
       <price>185</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986591615.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-11-29</date>
-      <title>圖解道教</title>
-      <price>251</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986594230.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003633881</link>
-    </book>
-    <book>
       <date>2013-11-30</date>
       <title>科學：你需要知道的超過2000個基本事實</title>
       <price>172</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/962/962144920.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/962/962144920.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003075135</link>
     </book>
     <book>
       <date>2013-12-01</date>
       <title>中醫師的養生餐桌：三餐食材篇</title>
       <price>251</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986882189.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986882189.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003885424</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-12-04</date>
       <title>追星韓語，就要醬學：人蔘姬&amp;泡菜公主的韓...</title>
       <price>224</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986615134.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986615134.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003367992</link>
+    </book>
+    <book>
+      <date>2013-12-05</date>
+      <title>失落的致富法則（中英對照）</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986892093.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003874911</link>
     </book>
   </preview>
 </book66>
