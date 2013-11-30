@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2013-11-30</date>
-      <title>Google翻譯不了的英文</title>
-      <price>197</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100659594</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100659594</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-12-01</date>
       <title>不一樣的孩子心理學：60招教養讀心術，輕...</title>
       <price>185</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100649430</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100649430</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
