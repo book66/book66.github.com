@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-01</date>
+      <date>2013-12-02</date>
       <title>中醫師的養生餐桌：三餐食材篇</title>
       <price>251</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986882189.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-12-02</date>
-      <title>牛津英語大師幫你開口說英語</title>
-      <price>230</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986592739.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003901857</link>
-    </book>
-    <book>
       <date>2013-12-03</date>
       <title>數學女孩：隨機演算法</title>
       <price>297</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986609789.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986609789.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003866235</link>
     </book>
     <book>
       <date>2013-12-04</date>
       <title>追星韓語，就要醬學：人蔘姬&amp;泡菜公主的韓...</title>
       <price>224</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986615134.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986615134.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003367992</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-12-07</date>
       <title>老狐狸格言之忍者無敵</title>
       <price>132</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986594909.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986594909.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003606765</link>
+    </book>
+    <book>
+      <date>2013-12-08</date>
+      <title>吃對黑豆一定瘦！有效、便宜、輕鬆、免運動...</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986577904.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004080516</link>
     </book>
   </preview>
 </book66>
