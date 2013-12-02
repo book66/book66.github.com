@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-02</date>
+      <date>2013-12-03</date>
       <title>華頓商學院最受歡迎的談判課：上完這堂課，...</title>
       <price>244</price>
       <imageUrl>http://www.books.com.tw/img/001/051/84/0010518407.jpg</imageUrl>
@@ -10,6 +10,13 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-12-02</date>
+      <title>華頓商學院最受歡迎的談判課：上完這堂課，...</title>
+      <price>244</price>
+      <imageUrl>http://www.books.com.tw/img/001/051/84/0010518407.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010518407</link>
+    </book>
     <book>
       <date>2013-12-03</date>
       <title>強風吹拂</title>
