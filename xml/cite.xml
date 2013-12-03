@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-12-04</date>
-      <title>梅莉史翠普電影俱樂部</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RQ7039.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=29739</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-12-04</date>
       <title>少年維特的煩惱</title>
       <price>119</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU6041.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32983</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-12-05</date>
       <title>我們的幸福時光</title>
