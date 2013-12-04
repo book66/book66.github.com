@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-04</date>
+      <date>2013-12-05</date>
       <title>追星韓語，就要醬學：人蔘姬&amp;泡菜公主的韓...</title>
       <price>224</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986615134.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-12-05</date>
-      <title>失落的致富法則（中英對照）</title>
-      <price>172</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986892093.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003874911</link>
-    </book>
-    <book>
       <date>2013-12-06</date>
       <title>教出中等孩子好成績</title>
       <price>158</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986893722.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986893722.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003965911</link>
     </book>
     <book>
       <date>2013-12-07</date>
       <title>老狐狸格言之忍者無敵</title>
       <price>132</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986594909.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986594909.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003606765</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-12-10</date>
       <title>王道：行銷3.0</title>
       <price>251</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986271317.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986271317.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003725329</link>
+    </book>
+    <book>
+      <date>2013-12-11</date>
+      <title>任何人都會有的思考盲點：認識自己、洞悉別...</title>
+      <price>224</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986882358.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003856924</link>
     </book>
   </preview>
 </book66>

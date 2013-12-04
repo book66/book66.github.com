@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-04</date>
-      <title>效果驚人！90%的疾病都能逆轉．全食...</title>
-      <price>251</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000223220-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000223220</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-12-05</date>
-      <title>大黑狗</title>
-      <price>191</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000252876-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000252876</link>
-    </book>
-    <book>
       <date>2013-12-06</date>
       <title>工作浮世繪</title>
       <price>317</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000197689-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000197689</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-12-07</date>
       <title>澳洲打工．不看會死</title>
@@ -51,6 +37,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000247550-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000247550</link>
+    </book>
+    <book>
+      <date>2013-12-11</date>
+      <title>千年之夢：永遠的旅行者</title>
+      <price>244</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000208995-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000208995</link>
     </book>
   </preview>
 </book66>
