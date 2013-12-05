@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-05</date>
-      <title>大黑狗</title>
-      <price>191</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000252876-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000252876</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-12-06</date>
-      <title>工作浮世繪</title>
-      <price>317</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000197689-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000197689</link>
-    </book>
-    <book>
       <date>2013-12-07</date>
       <title>澳洲打工．不看會死</title>
       <price>218</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000237180-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000237180</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-12-08</date>
       <title>發現孩子心中的精靈：引導孩子的內在...</title>
@@ -51,6 +37,13 @@
       <price>244</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000208995-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000208995</link>
+    </book>
+    <book>
+      <date>2013-12-12</date>
+      <title>解深密經</title>
+      <price>191</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000225092-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000225092</link>
     </book>
   </preview>
 </book66>
