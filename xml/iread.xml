@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-06</date>
-      <title>工作浮世繪</title>
-      <price>317</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000197689-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000197689</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-12-07</date>
-      <title>澳洲打工．不看會死</title>
-      <price>218</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000237180-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000237180</link>
-    </book>
-    <book>
       <date>2013-12-08</date>
       <title>發現孩子心中的精靈：引導孩子的內在...</title>
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000249274-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000249274</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-12-09</date>
       <title>手感質地素材集（附DVD光碟）</title>
@@ -51,6 +37,13 @@
       <price>191</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000225092-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000225092</link>
+    </book>
+    <book>
+      <date>2013-12-13</date>
+      <title>女人一定要做的50件事</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000210986-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000210986</link>
     </book>
   </preview>
 </book66>
