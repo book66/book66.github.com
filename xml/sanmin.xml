@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-07</date>
+      <date>2013-12-08</date>
       <title>老狐狸格言之忍者無敵</title>
       <price>132</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986594909.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-12-08</date>
-      <title>吃對黑豆一定瘦！有效、便宜、輕鬆、免運動...</title>
-      <price>172</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986577904.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004080516</link>
-    </book>
-    <book>
       <date>2013-12-09</date>
       <title>圖解顏面望診</title>
       <price>185</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986594245.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986594245.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003885421</link>
     </book>
     <book>
       <date>2013-12-10</date>
       <title>王道：行銷3.0</title>
       <price>251</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986271317.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986271317.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003725329</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-12-13</date>
       <title>別拖延了，討厭的工作就這樣做！</title>
       <price>139</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986893721.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986893721.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003832729</link>
+    </book>
+    <book>
+      <date>2013-12-14</date>
+      <title>熊熊村妙字小故事01</title>
+      <price>145</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986643751.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001441816</link>
     </book>
   </preview>
 </book66>

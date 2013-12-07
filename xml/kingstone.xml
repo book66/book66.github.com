@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-07</date>
-      <title>西岸三部曲1：天賦之子</title>
-      <price>185</price>
-      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20187/2018740748432/2018740748432b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018740748432&amp;actid=a0708onsale66</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-12-08</date>
       <title>煮物之味</title>
-      <price>198</price>
+      <price></price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20142/2014270865335/2014270865335b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014270865335&amp;actid=a0708onsale66</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-12-09</date>
       <title>東京的11種使用法</title>
@@ -72,6 +65,13 @@
       <price>197</price>
       <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20129/2012940150255/2012940150255b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2012940150255&amp;actid=a0708onsale66</link>
+    </book>
+    <book>
+      <date>2013-12-17</date>
+      <title>漫遊府城：舊城老街裡的新靈魂</title>
+      <price>264</price>
+      <imageUrl>http://life.kingstone.com.tw/Book/images/Product/20173/2017330062118/2017330062118b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2017330062118&amp;actid=a0708onsale66</link>
     </book>
   </preview>
 </book66>
