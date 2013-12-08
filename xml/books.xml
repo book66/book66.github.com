@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-12-09</date>
-      <title>日本刑警教你從筆跡看穿真實個性：從運筆長...</title>
-      <price>165</price>
-      <imageUrl>http://www.books.com.tw/img/001/057/39/0010573940.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010573940</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-12-09</date>
       <title>獨居時代：一個人住，因為我可以</title>
       <price>218</price>
       <imageUrl>http://www.books.com.tw/img/001/059/81/0010598165.jpg</imageUrl>
       <link>http://www.books.com.tw/products/0010598165</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-12-10</date>
       <title>控制</title>
