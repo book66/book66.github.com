@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-08</date>
+      <date>2013-12-09</date>
       <title>吃對黑豆一定瘦！有效、便宜、輕鬆、免運動...</title>
       <price>172</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986577904.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-12-09</date>
-      <title>圖解顏面望診</title>
-      <price>185</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986594245.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003885421</link>
-    </book>
-    <book>
       <date>2013-12-10</date>
       <title>王道：行銷3.0</title>
       <price>251</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986271317.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986271317.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003725329</link>
     </book>
     <book>
       <date>2013-12-11</date>
       <title>任何人都會有的思考盲點：認識自己、洞悉別...</title>
       <price>224</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986882358.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986882358.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003856924</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-12-14</date>
       <title>熊熊村妙字小故事01</title>
       <price>145</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986643751.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986643751.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001441816</link>
+    </book>
+    <book>
+      <date>2013-12-15</date>
+      <title>來當業務吧：我的第一本銷售課本</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986592733.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003867393</link>
     </book>
   </preview>
 </book66>
