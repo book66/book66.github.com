@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-10</date>
-      <title>這樣吃，最有酵！從增強免疫力、預防...</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000247550-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000247550</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-12-11</date>
-      <title>千年之夢：永遠的旅行者</title>
-      <price>244</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000208995-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000208995</link>
-    </book>
-    <book>
       <date>2013-12-12</date>
       <title>解深密經</title>
       <price>191</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000225092-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000225092</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-12-13</date>
       <title>女人一定要做的50件事</title>
@@ -51,6 +37,13 @@
       <price>251</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000132802-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000132802</link>
+    </book>
+    <book>
+      <date>2013-12-17</date>
+      <title>別讓眼睛過勞死！：眼科名醫教你消除...</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000232281-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000232281</link>
     </book>
   </preview>
 </book66>
