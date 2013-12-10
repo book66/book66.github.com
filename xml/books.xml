@@ -3,34 +3,13 @@
   <today>
     <book>
       <date>2013-12-11</date>
-      <title>控制</title>
-      <price>237</price>
-      <imageUrl>http://www.books.com.tw/img/001/058/30/0010583029.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010583029</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-12-09</date>
-      <title>獨居時代：一個人住，因為我可以</title>
-      <price>218</price>
-      <imageUrl>http://www.books.com.tw/img/001/059/81/0010598165.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010598165</link>
-    </book>
-    <book>
-      <date>2013-12-10</date>
-      <title>控制</title>
-      <price>237</price>
-      <imageUrl>http://www.books.com.tw/img/001/058/30/0010583029.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010583029</link>
-    </book>
-    <book>
-      <date>2013-12-11</date>
       <title>LuLu’s快瘦XS女神操：獨創「慢→快...</title>
       <price>251</price>
       <imageUrl>http://www.books.com.tw/img/001/059/19/0010591955.jpg</imageUrl>
       <link>http://www.books.com.tw/products/0010591955</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-12-12</date>
       <title>無心的壞話，會寄放孩子一輩子：培養正向好...</title>
