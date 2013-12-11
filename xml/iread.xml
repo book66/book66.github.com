@@ -2,14 +2,21 @@
 <book66>
   <today>
     <book>
+      <date>2013-12-12</date>
+      <title>解深密經</title>
+      <price>191</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000225092-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000225092</link>
+    </book>
+  </today>
+  <preview>
+    <book>
       <date>2013-12-13</date>
       <title>女人一定要做的50件事</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000210986-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000210986</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2013-12-14</date>
       <title>學問：100種提問力創造200倍企業力</title>
