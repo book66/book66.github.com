@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-12</date>
+      <date>2013-12-13</date>
       <title>缺餅歌與鐵冠數</title>
       <price>198</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986646519.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-12-13</date>
-      <title>別拖延了，討厭的工作就這樣做！</title>
-      <price>139</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986893721.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003832729</link>
-    </book>
-    <book>
       <date>2013-12-14</date>
       <title>熊熊村妙字小故事01</title>
       <price>145</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986643751.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986643751.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001441816</link>
     </book>
     <book>
       <date>2013-12-15</date>
       <title>來當業務吧：我的第一本銷售課本</title>
       <price>185</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986592733.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986592733.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003867393</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-12-18</date>
       <title>管不動部屬，你就做到累死</title>
       <price>139</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986884766.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986884766.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003591714</link>
+    </book>
+    <book>
+      <date>2013-12-19</date>
+      <title>史蒂芬‧柯維成功大師7堂課</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957800505.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003885379</link>
     </book>
   </preview>
 </book66>
