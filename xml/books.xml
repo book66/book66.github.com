@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-13</date>
+      <date>2013-12-14</date>
       <title>為什麼常識不可靠？寧可沒常識，也不要因為...</title>
       <price>251</price>
       <imageUrl>http://www.books.com.tw/img/001/059/37/0010593798.jpg</imageUrl>
@@ -10,6 +10,41 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-12-09</date>
+      <title>獨居時代：一個人住，因為我可以</title>
+      <price>218</price>
+      <imageUrl>http://www.books.com.tw/img/001/059/81/0010598165.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010598165</link>
+    </book>
+    <book>
+      <date>2013-12-10</date>
+      <title>控制</title>
+      <price>237</price>
+      <imageUrl>http://www.books.com.tw/img/001/058/30/0010583029.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010583029</link>
+    </book>
+    <book>
+      <date>2013-12-11</date>
+      <title>LuLu’s快瘦XS女神操：獨創「慢→快...</title>
+      <price>251</price>
+      <imageUrl>http://www.books.com.tw/img/001/059/19/0010591955.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010591955</link>
+    </book>
+    <book>
+      <date>2013-12-12</date>
+      <title>無心的壞話，會寄放孩子一輩子：培養正向好...</title>
+      <price>211</price>
+      <imageUrl>http://www.books.com.tw/img/001/059/77/0010597758.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010597758</link>
+    </book>
+    <book>
+      <date>2013-12-13</date>
+      <title>為什麼常識不可靠？寧可沒常識，也不要因為...</title>
+      <price>251</price>
+      <imageUrl>http://www.books.com.tw/img/001/059/37/0010593798.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010593798</link>
+    </book>
     <book>
       <date>2013-12-14</date>
       <title>每天清除癌細胞：陳月卿全食物養生法</title>
