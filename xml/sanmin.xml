@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-14</date>
+      <date>2013-12-15</date>
       <title>熊熊村妙字小故事01</title>
       <price>145</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986643751.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-12-15</date>
-      <title>來當業務吧：我的第一本銷售課本</title>
-      <price>185</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986592733.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003867393</link>
-    </book>
-    <book>
       <date>2013-12-16</date>
       <title>媽媽，我還不想去天堂</title>
       <price>211</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986601074.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986601074.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003865761</link>
     </book>
     <book>
       <date>2013-12-17</date>
       <title>勇敢開口說英文：別怕說錯，因為老外一定聽...</title>
       <price>230</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986616376.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986616376.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003591902</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-12-20</date>
       <title>輕鬆搞定孩子40種難纏行為</title>
       <price>145</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986884768.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986884768.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003685368</link>
+    </book>
+    <book>
+      <date>2013-12-21</date>
+      <title>九死一生話養生：黃帝三經與儒釋道養生奧秘</title>
+      <price>165</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986666467.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003564075</link>
     </book>
   </preview>
 </book66>
