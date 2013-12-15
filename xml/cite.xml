@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-12-16</date>
-      <title>愛因斯坦的夢</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5054.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=32808</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-12-16</date>
       <title>老闆開口前就完成了！：運用一分鐘重點工作...</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2225.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=20371</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-12-17</date>
       <title>健康與回春之祕</title>
@@ -51,6 +44,13 @@
       <price>363</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7051.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34379</link>
+    </book>
+    <book>
+      <date>2013-12-22</date>
+      <title>脊椎健康就能全身健康！：跟著體適能教練強...</title>
+      <price>197</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ2051.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=34544</link>
     </book>
   </preview>
 </book66>

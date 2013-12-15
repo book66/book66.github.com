@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-12-15</date>
-      <title>Angry Birds 憤怒鳥遊樂場：動...</title>
-      <price>297</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000229307-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000229307</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-12-16</date>
       <title>就是要Cute！ 有個性又簡單的手作包...</title>
       <price>251</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000132802-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000132802</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-12-17</date>
       <title>別讓眼睛過勞死！：眼科名醫教你消除...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000228977-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000228977</link>
+    </book>
+    <book>
+      <date>2013-12-22</date>
+      <title>六度人脈</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000222348-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000222348</link>
     </book>
   </preview>
 </book66>
