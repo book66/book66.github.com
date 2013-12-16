@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-16</date>
+      <date>2013-12-17</date>
       <title>媽媽，我還不想去天堂</title>
       <price>211</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986601074.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-12-17</date>
-      <title>勇敢開口說英文：別怕說錯，因為老外一定聽...</title>
-      <price>230</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986616376.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003591902</link>
-    </book>
-    <book>
       <date>2013-12-18</date>
       <title>管不動部屬，你就做到累死</title>
       <price>139</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986884766.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986884766.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003591714</link>
     </book>
     <book>
       <date>2013-12-19</date>
       <title>史蒂芬‧柯維成功大師7堂課</title>
       <price>185</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/957/957800505.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/957/957800505.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003885379</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-12-22</date>
       <title>輕輕鬆鬆學邏輯</title>
       <price>198</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957205254.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/957/957205254.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001551264</link>
+    </book>
+    <book>
+      <date>2013-12-23</date>
+      <title>麻吉談心術：這樣說，就能擁有出乎意料的好...</title>
+      <price>145</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986271346.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003847425</link>
     </book>
   </preview>
 </book66>
