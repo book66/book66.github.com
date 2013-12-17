@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-12-18</date>
-      <title>健康與回春之祕</title>
-      <price>363</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3071.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=30008</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-12-18</date>
       <title>不幸福人生指南：14種保證命運悲慘的思考...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH6001.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35152</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-12-19</date>
       <title>仰望夜空：全世界最想知道的362個宇宙奧...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0058.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34839</link>
+    </book>
+    <book>
+      <date>2013-12-24</date>
+      <title>主管不說，但你一定要懂的50件事</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7065.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=29039</link>
     </book>
   </preview>
 </book66>
