@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-18</date>
-      <title>十字架</title>
-      <price>211</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000224583-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000224583</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-12-19</date>
-      <title>Bye-bye！ 英文恐慌症</title>
-      <price>238</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000136239-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000136239</link>
-    </book>
-    <book>
       <date>2013-12-20</date>
       <title>男人一定要做的50件事</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000210987-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000210987</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-12-21</date>
       <title>我的操作之旅：三十而立</title>
@@ -51,6 +37,13 @@
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000222250.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000222250</link>
+    </book>
+    <book>
+      <date>2013-12-25</date>
+      <title>大成功！葛森醫師癌症療法：葛森博士...</title>
+      <price>263</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000250604-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000250604</link>
     </book>
   </preview>
 </book66>

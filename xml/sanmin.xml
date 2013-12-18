@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-18</date>
+      <date>2013-12-19</date>
       <title>管不動部屬，你就做到累死</title>
       <price>139</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986884766.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-12-19</date>
-      <title>史蒂芬‧柯維成功大師7堂課</title>
-      <price>185</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/957/957800505.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003885379</link>
-    </book>
-    <book>
       <date>2013-12-20</date>
       <title>輕鬆搞定孩子40種難纏行為</title>
       <price>145</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986884768.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986884768.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003685368</link>
     </book>
     <book>
       <date>2013-12-21</date>
       <title>九死一生話養生：黃帝三經與儒釋道養生奧秘</title>
       <price>165</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986666467.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986666467.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003564075</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-12-24</date>
       <title>黑道教我的12件事</title>
       <price>165</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595154.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986595154.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003907785</link>
+    </book>
+    <book>
+      <date>2013-12-25</date>
+      <title>Janet的英語遊樂園：不用教科書，英語...</title>
+      <price>238</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986601012.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003050971</link>
     </book>
   </preview>
 </book66>

@@ -2,14 +2,21 @@
 <book66>
   <today>
     <book>
+      <date>2013-12-19</date>
+      <title>視覺筆記：一枝筆輕鬆學素描、提高觀察力、...</title>
+      <price>198</price>
+      <imageUrl>http://www.books.com.tw/img/001/061/04/0010610480.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010610480</link>
+    </book>
+  </today>
+  <preview>
+    <book>
       <date>2014-12-16</date>
       <title>權威食品安全專家教你安心買，健康吃︰9個...</title>
       <price>185</price>
       <imageUrl>http://www.books.com.tw/img/001/059/80/0010598088.jpg</imageUrl>
       <link>http://www.books.com.tw/products/0010598088</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2014-12-17</date>
       <title>超譯尼采 II 權力．意志</title>
@@ -18,7 +25,7 @@
       <link>http://www.books.com.tw/products/0010593674</link>
     </book>
     <book>
-      <date>2013-12-18</date>
+      <date>2014-12-18</date>
       <title>視覺筆記：一枝筆輕鬆學素描、提高觀察力、...</title>
       <price>198</price>
       <imageUrl>http://www.books.com.tw/img/001/061/04/0010610480.jpg</imageUrl>
