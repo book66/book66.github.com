@@ -2,14 +2,21 @@
 <book66>
   <today>
     <book>
+      <date>2013-12-20</date>
+      <title>男人一定要做的50件事</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000210987-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000210987</link>
+    </book>
+  </today>
+  <preview>
+    <book>
       <date>2013-12-21</date>
       <title>我的操作之旅：三十而立</title>
       <price>251</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000228977-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000228977</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2013-12-22</date>
       <title>六度人脈</title>

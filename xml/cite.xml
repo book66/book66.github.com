@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-12-20</date>
-      <title>仰望夜空：全世界最想知道的362個宇宙奧...</title>
-      <price>330</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1242C.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=34373</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-12-20</date>
       <title>馬克思的家常菜：54種常見食材X 2道超...</title>
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0055.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=33733</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-12-21</date>
       <title>債的歷史：從文明的初始到全球負債時代</title>
@@ -51,6 +44,13 @@
       <price>653</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA1039X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26838</link>
+    </book>
+    <book>
+      <date>2013-12-26</date>
+      <title>高譚之神</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6517.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=29747</link>
     </book>
   </preview>
 </book66>
