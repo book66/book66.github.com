@@ -2,33 +2,26 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-20</date>
-      <title>輕鬆搞定孩子40種難纏行為</title>
-      <price>145</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986884768.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003685368</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-12-21</date>
       <title>九死一生話養生：黃帝三經與儒釋道養生奧秘</title>
       <price>165</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986666467.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003564075</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-12-22</date>
       <title>輕輕鬆鬆學邏輯</title>
       <price>198</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/957/957205254.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/957/957205254.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001551264</link>
     </book>
     <book>
       <date>2013-12-23</date>
       <title>麻吉談心術：這樣說，就能擁有出乎意料的好...</title>
       <price>145</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986271346.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986271346.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003847425</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-12-26</date>
       <title>東大教授告訴你，Science也不知道 ...</title>
       <price>211</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986615150.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986615150.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004037678</link>
+    </book>
+    <book>
+      <date>2013-12-27</date>
+      <title>給過了20歲才決定開口說英文的人們：用「...</title>
+      <price>217</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986616388.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003791407</link>
     </book>
   </preview>
 </book66>
