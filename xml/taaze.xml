@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-21</date>
-      <title>圖解：歷史的寬容</title>
-      <price>297</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100665785</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100665785</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-12-22</date>
       <title>一學就會107道經典韓國料理</title>
       <price>145</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100661732</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100661732</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
