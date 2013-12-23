@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-23</date>
-      <title>國家地理-直擊大災難</title>
-      <price>297</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000197688-S.JPG</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000197688</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-12-24</date>
-      <title>史丹佛改造人生的創意課︰這個世界不...</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000222250.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000222250</link>
-    </book>
-    <book>
       <date>2013-12-25</date>
       <title>大成功！葛森醫師癌症療法：葛森博士...</title>
       <price>263</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000250604-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000250604</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-12-26</date>
       <title>感覺十書：蔣勳談美（附 CD）</title>
@@ -51,6 +37,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000246925-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000246925</link>
+    </book>
+    <book>
+      <date>2013-12-30</date>
+      <title>我愛手工泰迪熊</title>
+      <price>211</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000247953-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000247953</link>
     </book>
   </preview>
 </book66>
