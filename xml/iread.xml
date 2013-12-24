@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-24</date>
-      <title>史丹佛改造人生的創意課︰這個世界不...</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000222250.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000222250</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-12-25</date>
-      <title>大成功！葛森醫師癌症療法：葛森博士...</title>
-      <price>263</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000250604-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000250604</link>
-    </book>
-    <book>
       <date>2013-12-26</date>
       <title>感覺十書：蔣勳談美（附 CD）</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000219276-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000219276</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2013-12-27</date>
       <title>到美國生活不可不會的食衣住行英語會...</title>
@@ -51,6 +37,13 @@
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000247953-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000247953</link>
+    </book>
+    <book>
+      <date>2013-12-31</date>
+      <title>大地廣角：國家地理自然人文影像之最</title>
+      <price>329</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000245736-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000245736</link>
     </book>
   </preview>
 </book66>

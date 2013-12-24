@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-24</date>
+      <date>2013-12-25</date>
       <title>黑道教我的12件事</title>
       <price>165</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986595154.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2013-12-25</date>
-      <title>Janet的英語遊樂園：不用教科書，英語...</title>
-      <price>238</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986601012.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003050971</link>
-    </book>
-    <book>
       <date>2013-12-26</date>
       <title>東大教授告訴你，Science也不知道 ...</title>
       <price>211</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986615150.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986615150.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004037678</link>
     </book>
     <book>
       <date>2013-12-27</date>
       <title>給過了20歲才決定開口說英文的人們：用「...</title>
       <price>217</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986616388.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986616388.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003791407</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2013-12-30</date>
       <title>有效導正孩子50種壞習慣</title>
       <price>145</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986884764.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986884764.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003466628</link>
+    </book>
+    <book>
+      <date>2013-12-31</date>
+      <title>圖解一定要知道的600則國學常識</title>
+      <price>231</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986594242.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003907783</link>
     </book>
   </preview>
 </book66>

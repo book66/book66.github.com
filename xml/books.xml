@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-24</date>
+      <date>2013-12-25</date>
       <title>排毒舒食盛宴2：真原味的實踐</title>
       <price>218</price>
       <imageUrl>http://www.books.com.tw/img/001/061/07/0010610747.jpg</imageUrl>
@@ -10,6 +10,20 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-12-23</date>
+      <title>30歲後你會站在哪裡？：想出人頭地，就必...</title>
+      <price>185</price>
+      <imageUrl>http://www.books.com.tw/img/001/061/19/0010611906.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010611906</link>
+    </book>
+    <book>
+      <date>2013-12-24</date>
+      <title>排毒舒食盛宴2：真原味的實踐</title>
+      <price>218</price>
+      <imageUrl>http://www.books.com.tw/img/001/061/07/0010610747.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010610747</link>
+    </book>
     <book>
       <date>2013-12-25</date>
       <title>誰來吃午餐</title>
