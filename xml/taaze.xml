@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-28</date>
-      <title>劃掉劃掉劃掉</title>
-      <price>238</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100594654</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100594654</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2013-12-29</date>
       <title>設計師不傳的私房秘技餐廚設計500</title>
       <price>277</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100653117</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100653117</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
