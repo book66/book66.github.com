@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2013-12-31</date>
-      <title>這樣表達，再複雜也能一聽就懂！商品或點子...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0507.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=32982</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-12-31</date>
       <title>16號公寓</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6518.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32775</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-01</date>
       <title>美軍野外生存手冊：最權威的美軍特種部隊絕...</title>
@@ -51,6 +44,13 @@
       <price>197</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2249.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=31050</link>
+    </book>
+    <book>
+      <date>2014-01-06</date>
+      <title>別說不可能：當所有行為都加上了風險的機率...</title>
+      <price>263</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0197.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=34726</link>
     </book>
   </preview>
 </book66>
