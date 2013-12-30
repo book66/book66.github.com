@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-30</date>
-      <title>我愛手工泰迪熊</title>
-      <price>211</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000247953-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000247953</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2013-12-31</date>
-      <title>大地廣角：國家地理自然人文影像之最</title>
-      <price>329</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000245736-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000245736</link>
-    </book>
-    <book>
       <date>2014-01-01</date>
       <title>保胃力：透過食療、運動和調理，讓你...</title>
       <price>164</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000257901-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000257901</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-02</date>
       <title>第一次建築設計就上手，術科考試入門...</title>
@@ -51,6 +37,13 @@
       <price>231</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000217738.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000217738</link>
+    </book>
+    <book>
+      <date>2014-01-06</date>
+      <title>21天韻律感特訓計畫：像老外一樣說英...</title>
+      <price>185</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000244900-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000244900</link>
     </book>
   </preview>
 </book66>
