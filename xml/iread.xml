@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2013-12-31</date>
-      <title>大地廣角：國家地理自然人文影像之最</title>
-      <price>329</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000245736-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000245736</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-01-01</date>
       <title>保胃力：透過食療、運動和調理，讓你...</title>
       <price>164</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000257901-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000257901</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-02</date>
       <title>第一次建築設計就上手，術科考試入門...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000244900-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000244900</link>
+    </book>
+    <book>
+      <date>2014-01-07</date>
+      <title>錢奴：今天你不弄懂金錢，有一天你就...</title>
+      <price>211</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000167132-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000167132</link>
     </book>
   </preview>
 </book66>
