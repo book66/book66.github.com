@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-01-01</date>
-      <title>保胃力：透過食療、運動和調理，讓你...</title>
-      <price>164</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000257901-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000257901</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-01-02</date>
       <title>第一次建築設計就上手，術科考試入門...</title>
       <price>396</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000149775-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000149775</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-03</date>
       <title>香脆‧鬆軟‧幸福的滋味：好好吃の格子...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000167132-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000167132</link>
+    </book>
+    <book>
+      <date>2014-01-08</date>
+      <title>自製養生豆漿大全</title>
+      <price>211</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000239835-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000239835</link>
     </book>
   </preview>
 </book66>
