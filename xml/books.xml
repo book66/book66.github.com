@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-01-02</date>
+      <date>2014-01-03</date>
       <title>超棒小說這樣寫：寫出結構完整、劇情緊湊、...</title>
       <price>198</price>
       <imageUrl>http://www.books.com.tw/img/001/059/85/0010598513.jpg</imageUrl>
@@ -10,6 +10,34 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2013-12-30</date>
+      <title>只要照著畫就OK的簡筆插畫BOOK 5</title>
+      <price>165</price>
+      <imageUrl>http://www.books.com.tw/img/001/057/06/0010570646.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010570646</link>
+    </book>
+    <book>
+      <date>2013-12-31</date>
+      <title>寶島。玩物：史上最強勸敗，終極尋寶遶境路...</title>
+      <price>251</price>
+      <imageUrl>http://www.books.com.tw/img/001/061/12/0010611229.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010611229</link>
+    </book>
+    <book>
+      <date>2014-01-01</date>
+      <title>20幾歲，就定位：小資5年，成為千萬富翁...</title>
+      <price>185</price>
+      <imageUrl>http://www.books.com.tw/img/001/061/12/0010611218.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010611218</link>
+    </book>
+    <book>
+      <date>2014-01-02</date>
+      <title>超棒小說這樣寫：寫出結構完整、劇情緊湊、...</title>
+      <price>198</price>
+      <imageUrl>http://www.books.com.tw/img/001/059/85/0010598513.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010598513</link>
+    </book>
     <book>
       <date>2014-01-03</date>
       <title>跑步，該怎麼跑？：學會「姿勢跑法」，提高...</title>
