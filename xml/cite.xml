@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-01-03</date>
-      <title>這樣做，大腦愈用愈聰明：開發腦潛力的8個...</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1017.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27255</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-01-03</date>
       <title>這個問題，你用數學方式想過嗎？：史丹佛大...</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FQ1030.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=31089</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-04</date>
       <title>別讓房子毒害你：簡單方法遠離居家健康隱形...</title>
