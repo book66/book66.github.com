@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-01-03</date>
+      <date>2014-01-04</date>
       <title>我在首爾慢慢散步：小巷古蹟私旅行，在地人...</title>
       <price>218</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986185896.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-01-04</date>
-      <title>卡債族重生寶典：看懂消費者債務清理修例內...</title>
-      <price>132</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986716761.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000663473</link>
-    </book>
-    <book>
       <date>2014-01-05</date>
       <title>50歲後，退而不休的養生力</title>
       <price>185</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986271333.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986271333.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003751859</link>
     </book>
     <book>
       <date>2014-01-06</date>
       <title>畢業5年決定你一生的成敗</title>
       <price>172</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/957/957713528.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/957/957713528.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003907153</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-01-09</date>
       <title>620億美元的秘密：巴菲特雪球傳奇全紀錄</title>
       <price>297</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986271275.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986271275.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003448619</link>
+    </book>
+    <book>
+      <date>2014-01-10</date>
+      <title>歷史的寬容</title>
+      <price>297</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595155.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003983477</link>
     </book>
   </preview>
 </book66>
