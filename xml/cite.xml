@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-01-07</date>
-      <title>別說不可能：當所有行為都加上了風險的機率...</title>
-      <price>263</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0197.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=34726</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-01-07</date>
       <title>生死疲勞</title>
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL6701.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=10989</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-08</date>
       <title>最親密的陌生人</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1019.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35064</link>
+    </book>
+    <book>
+      <date>2014-01-13</date>
+      <title>放手畫吧！Just Draw It!：6...</title>
+      <price>317</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VE0053.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=34036</link>
     </book>
   </preview>
 </book66>
