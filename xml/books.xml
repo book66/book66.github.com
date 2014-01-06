@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-01-06</date>
+      <date>2014-01-07</date>
       <title>福爾摩斯思考術：讓思考更清晰、見解更深入...</title>
       <price>224</price>
       <imageUrl>http://www.books.com.tw/img/001/061/12/0010611208.jpg</imageUrl>
@@ -10,6 +10,13 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2014-01-06</date>
+      <title>福爾摩斯思考術：讓思考更清晰、見解更深入...</title>
+      <price>224</price>
+      <imageUrl>http://www.books.com.tw/img/001/061/12/0010611208.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010611208</link>
+    </book>
     <book>
       <date>2014-01-07</date>
       <title>飢餓遊戲三部曲</title>

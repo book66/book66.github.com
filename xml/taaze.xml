@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-01-06</date>
-      <title>城堡</title>
-      <price>231</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100672147</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100672147</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-01-07</date>
       <title>動物生死書</title>
       <price>172</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100121416</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100121416</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-08</date>
       <title>嚕嚕米漫畫全集第一卷</title>
