@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-01-09</date>
-      <title>最親密的陌生人</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6420.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=34273</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-01-09</date>
       <title>療傷的對話</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX1027X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=18429</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-10</date>
       <title>一生至少要去一次的最美城市：歐洲精選小旅...</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0096.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34989</link>
+    </book>
+    <book>
+      <date>2014-01-15</date>
+      <title>獨學術</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1046.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=35984</link>
     </book>
   </preview>
 </book66>
