@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-01-08</date>
+      <date>2014-01-09</date>
       <title>廚房女神奈潔拉：114道輕鬆無壓力的義式...</title>
       <price>376</price>
       <imageUrl>http://www.books.com.tw/img/001/061/39/0010613918.jpg</imageUrl>
@@ -10,6 +10,27 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2014-01-06</date>
+      <title>福爾摩斯思考術：讓思考更清晰、見解更深入...</title>
+      <price>224</price>
+      <imageUrl>http://www.books.com.tw/img/001/061/12/0010611208.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010611208</link>
+    </book>
+    <book>
+      <date>2014-01-07</date>
+      <title>飢餓遊戲三部曲</title>
+      <price>634</price>
+      <imageUrl>http://www.books.com.tw/img/001/049/20/0010492006.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010492006</link>
+    </book>
+    <book>
+      <date>2014-01-08</date>
+      <title>廚房女神奈潔拉：114道輕鬆無壓力的義式...</title>
+      <price>376</price>
+      <imageUrl>http://www.books.com.tw/img/001/061/39/0010613918.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010613918</link>
+    </book>
     <book>
       <date>2014-01-09</date>
       <title>蔡康永的說話之道</title>
