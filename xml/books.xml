@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-01-13</date>
-      <title>考典</title>
-      <price>198</price>
-      <imageUrl>http://www.books.com.tw/img/001/061/14/0010611463.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010611463</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-01-13</date>
       <title>45個畫畫的小練習：900種圖形一次學會</title>
       <price>158</price>
       <imageUrl>http://www.books.com.tw/img/001/058/72/0010587213.jpg</imageUrl>
       <link>http://www.books.com.tw/products/0010587213</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-14</date>
       <title>京都小伴旅：co-Trip日本系列 3</title>
