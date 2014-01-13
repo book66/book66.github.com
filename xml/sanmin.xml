@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-01-13</date>
+      <date>2014-01-14</date>
       <title>愛拼才會贏：狂熱布手作</title>
       <price>211</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986636049.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-01-14</date>
-      <title>1644～1662：南明這一段歷史</title>
-      <price>185</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986595157.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003983478</link>
-    </book>
-    <book>
       <date>2014-01-15</date>
       <title>徬徨，也沒關係：27則人生問答，讓所有選...</title>
       <price>178</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185909.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986185909.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004074652</link>
     </book>
     <book>
       <date>2014-01-16</date>
       <title>google翻譯不了的英文</title>
       <price>197</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986592738.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986592738.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003907200</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-01-19</date>
       <title>用地理說世界歷史【全彩圖解】</title>
       <price>297</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595153.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986595153.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003916369</link>
+    </book>
+    <book>
+      <date>2014-01-20</date>
+      <title>點燃孩子的熱情：第56號教室外的人生課</title>
+      <price>191</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185436.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001227669</link>
     </book>
   </preview>
 </book66>
