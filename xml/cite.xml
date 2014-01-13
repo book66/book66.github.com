@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-01-14</date>
-      <title>放手畫吧！Just Draw It!：6...</title>
-      <price>317</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VE0053.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=34036</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-01-14</date>
       <title>有些事你不知道，永遠別想往上爬！：破除「...</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0096.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34989</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-15</date>
       <title>獨學術</title>
@@ -51,6 +44,13 @@
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM101.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=30009</link>
+    </book>
+    <book>
+      <date>2014-01-20</date>
+      <title>寫給孩子的邏輯思考書</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1003.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=35595</link>
     </book>
   </preview>
 </book66>
