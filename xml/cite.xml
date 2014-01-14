@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-01-15</date>
-      <title>有些事你不知道，永遠別想往上爬！：破除「...</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0096.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=34989</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-01-15</date>
       <title>獨學術</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1046.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35984</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-16</date>
       <title>沒有消除不了的疼痛（全新修訂版）</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1003.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35595</link>
+    </book>
+    <book>
+      <date>2014-01-21</date>
+      <title>17天就逆齡！幫你的身體恢復年輕：你的身...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RD4054.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=34269</link>
     </book>
   </preview>
 </book66>
