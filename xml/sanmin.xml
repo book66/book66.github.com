@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-01-16</date>
+      <date>2014-01-17</date>
       <title>google翻譯不了的英文</title>
       <price>197</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986592738.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-01-17</date>
-      <title>免痛苦！不拖延的超強自控力</title>
-      <price>198</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986271405.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004037782</link>
-    </book>
-    <book>
       <date>2014-01-18</date>
       <title>一生必學的萬用英語會話：專為英文不好的人...</title>
       <price>197</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986616330.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986616330.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002561518</link>
     </book>
     <book>
       <date>2014-01-19</date>
       <title>用地理說世界歷史【全彩圖解】</title>
       <price>297</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986595153.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986595153.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003916369</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-01-22</date>
       <title>遠離癌症：抗癌藥膳與氣功調養（附DVD）</title>
       <price>290</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962144868.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/962/962144868.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003902160</link>
+    </book>
+    <book>
+      <date>2014-01-23</date>
+      <title>十二年國教：學習的革命</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986591624.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003910157</link>
     </book>
   </preview>
 </book66>
