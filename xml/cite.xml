@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-01-18</date>
-      <title>當責，從停止抱怨開始：克服被害者心態，才...</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1107.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=32487</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-01-18</date>
       <title>Home：巴黎建築師的居家風格養成術</title>
       <price>495</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VX0028C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35592</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-19</date>
       <title>餐桌上的蔬菜百科</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3065.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32893</link>
+    </book>
+    <book>
+      <date>2014-01-24</date>
+      <title>關懷的力量</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1084.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=21668</link>
     </book>
   </preview>
 </book66>
