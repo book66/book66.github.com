@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-01-19</date>
-      <title>Home：巴黎建築師的居家風格養成術</title>
-      <price>495</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VX0028C.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=35592</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-01-19</date>
       <title>餐桌上的蔬菜百科</title>
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM101.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=30009</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-20</date>
       <title>寫給孩子的邏輯思考書</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1084.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21668</link>
+    </book>
+    <book>
+      <date>2014-01-25</date>
+      <title>鹽的魔法料理：慢食主廚教你用35種特色鹽...</title>
+      <price>297</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0060.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=35337</link>
     </book>
   </preview>
 </book66>
