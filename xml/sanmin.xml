@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-01-19</date>
+      <date>2014-01-20</date>
       <title>用地理說世界歷史【全彩圖解】</title>
       <price>297</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986595153.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-01-20</date>
-      <title>點燃孩子的熱情：第56號教室外的人生課</title>
-      <price>191</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986185436.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001227669</link>
-    </book>
-    <book>
       <date>2014-01-21</date>
       <title>從面相看健康</title>
       <price>145</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986608055.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986608055.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003669681</link>
     </book>
     <book>
       <date>2014-01-22</date>
       <title>遠離癌症：抗癌藥膳與氣功調養（附DVD）</title>
       <price>290</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/962/962144868.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/962/962144868.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003902160</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-01-25</date>
       <title>《甄嬛傳》華妃早知道該多好的道理：這些職...</title>
       <price>165</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185853.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185853.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003825221</link>
+    </book>
+    <book>
+      <date>2014-01-26</date>
+      <title>跟喬布斯學 PowerPoint 演說</title>
+      <price>231</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962145120.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003829671</link>
     </book>
   </preview>
 </book66>
