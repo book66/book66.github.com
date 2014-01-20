@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-01-21</date>
-      <title>寫給孩子的邏輯思考書</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1003.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=35595</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-01-21</date>
       <title>17天就逆齡！幫你的身體恢復年輕：你的身...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RD4054.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34269</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-22</date>
       <title>華頓商學院教你活用數字做決策</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0028.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34552</link>
+    </book>
+    <book>
+      <date>2014-01-27</date>
+      <title>思考的藝術：52 個非受迫性思考錯誤</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5073.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=25704</link>
     </book>
   </preview>
 </book66>
