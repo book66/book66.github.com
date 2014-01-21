@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-01-21</date>
+      <date>2014-01-22</date>
       <title>鬆餅先生！</title>
       <price>185</price>
       <imageUrl>http://www.books.com.tw/img/001/061/53/0010615309.jpg</imageUrl>
@@ -10,6 +10,20 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2014-01-20</date>
+      <title>PQ．正向智商：人生成功幸福的關鍵</title>
+      <price>211</price>
+      <imageUrl>http://www.books.com.tw/img/001/061/39/0010613914.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010613914</link>
+    </book>
+    <book>
+      <date>2014-01-21</date>
+      <title>鬆餅先生！</title>
+      <price>185</price>
+      <imageUrl>http://www.books.com.tw/img/001/061/53/0010615309.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010615309</link>
+    </book>
     <book>
       <date>2014-01-22</date>
       <title>湖濱散記：樹林中的生活</title>
