@@ -2,33 +2,26 @@
 <book66>
   <today>
     <book>
-      <date>2014-01-22</date>
-      <title>遠離癌症：抗癌藥膳與氣功調養（附DVD）</title>
-      <price>290</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/962/962144868.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003902160</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-01-23</date>
       <title>十二年國教：學習的革命</title>
       <price>172</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986591624.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003910157</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-24</date>
       <title>從掌紋看健康</title>
       <price>145</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986608056.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986608056.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003712029</link>
     </book>
     <book>
       <date>2014-01-25</date>
       <title>《甄嬛傳》華妃早知道該多好的道理：這些職...</title>
       <price>165</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185853.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185853.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003825221</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-01-28</date>
       <title>飯局決定你的結局：職場必懂的飯局潛規則</title>
       <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986591623.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986591623.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003916364</link>
+    </book>
+    <book>
+      <date>2014-01-29</date>
+      <title>日本妖怪物語</title>
+      <price>350</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962043280.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003829657</link>
     </book>
   </preview>
 </book66>
