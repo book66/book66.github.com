@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-01-23</date>
-      <title>華頓商學院教你活用數字做決策</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1110.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=34662</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-01-23</date>
       <title>高績效簡報：用思考力發揮你的影響力</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3065.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32893</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-24</date>
       <title>關懷的力量</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FS0031.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35113</link>
+    </book>
+    <book>
+      <date>2014-01-29</date>
+      <title>蛇棺葬</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UT007.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=31390</link>
     </book>
   </preview>
 </book66>
