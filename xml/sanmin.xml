@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-01-23</date>
+      <date>2014-01-24</date>
       <title>十二年國教：學習的革命</title>
       <price>172</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986591624.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-01-24</date>
-      <title>從掌紋看健康</title>
-      <price>145</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986608056.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003712029</link>
-    </book>
-    <book>
       <date>2014-01-25</date>
       <title>《甄嬛傳》華妃早知道該多好的道理：這些職...</title>
       <price>165</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185853.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986185853.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003825221</link>
     </book>
     <book>
       <date>2014-01-26</date>
       <title>跟喬布斯學 PowerPoint 演說</title>
       <price>231</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/962/962145120.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/962/962145120.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003829671</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-01-29</date>
       <title>日本妖怪物語</title>
       <price>350</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962043280.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/962/962043280.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003829657</link>
+    </book>
+    <book>
+      <date>2014-01-30</date>
+      <title>跟著作就會的美鞋改造術：4個女孩與28雙...</title>
+      <price>211</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986866905.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001667994</link>
     </book>
   </preview>
 </book66>
