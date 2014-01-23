@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-01-24</date>
-      <title>高績效簡報：用思考力發揮你的影響力</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3065.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=32893</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-01-24</date>
       <title>關懷的力量</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1084.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21668</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-25</date>
       <title>鹽的魔法料理：慢食主廚教你用35種特色鹽...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UT007.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=31390</link>
+    </book>
+    <book>
+      <date>2014-01-30</date>
+      <title>疼痛自療全解：骨骼與身體自我矯治療法喚醒...</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD038.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27770</link>
     </book>
   </preview>
 </book66>
