@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-01-25</date>
-      <title>關懷的力量</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1084.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=21668</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-01-25</date>
       <title>鹽的魔法料理：慢食主廚教你用35種特色鹽...</title>
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0060.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35337</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-26</date>
       <title>24小時神祕書店</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD038.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27770</link>
+    </book>
+    <book>
+      <date>2014-01-31</date>
+      <title>不吃主食，1週速瘦6公斤──「限醣飲食減...</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OS2008.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=34431</link>
     </book>
   </preview>
 </book66>
