@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-01-25</date>
+      <date>2014-01-26</date>
       <title>《甄嬛傳》華妃早知道該多好的道理：這些職...</title>
       <price>165</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986185853.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-01-26</date>
-      <title>跟喬布斯學 PowerPoint 演說</title>
-      <price>231</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/962/962145120.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003829671</link>
-    </book>
-    <book>
       <date>2014-01-27</date>
       <title>告訴你一個真實的西藏</title>
       <price>290</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/962/962043351.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/962/962043351.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003829659</link>
     </book>
     <book>
       <date>2014-01-28</date>
       <title>飯局決定你的結局：職場必懂的飯局潛規則</title>
       <price>185</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986591623.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986591623.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003916364</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-01-31</date>
       <title>一學就會107道經典韓國料理</title>
       <price>145</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986594247.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986594247.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003925588</link>
+    </book>
+    <book>
+      <date>2014-02-01</date>
+      <title>走進那些女子部屋：小坪數多風格，打造令人...</title>
+      <price>211</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185879.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003957049</link>
     </book>
   </preview>
 </book66>
