@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-01-29</date>
-      <title>意外的管書人生：監獄圖書館員歷險記</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FS0031.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=35113</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-01-29</date>
       <title>蛇棺葬</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UT007.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=31390</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-30</date>
       <title>疼痛自療全解：骨骼與身體自我矯治療法喚醒...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6419.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=31010</link>
+    </book>
+    <book>
+      <date>2014-02-04</date>
+      <title>行為的藝術：52個非受迫性行為偏誤</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5080.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=31853</link>
     </book>
   </preview>
 </book66>
