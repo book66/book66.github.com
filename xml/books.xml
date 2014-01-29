@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-01-29</date>
+      <date>2014-01-30</date>
       <title>100個禪繞畫的創意練習：從入門到進階、...</title>
       <price>165</price>
       <imageUrl>http://www.books.com.tw/img/001/061/40/0010614079.jpg</imageUrl>
@@ -10,6 +10,27 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2014-01-27</date>
+      <title>繪本123，用五感玩出寶寶的英語好感度</title>
+      <price>251</price>
+      <imageUrl>http://www.books.com.tw/img/001/059/49/0010594908.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010594908</link>
+    </book>
+    <book>
+      <date>2014-01-28</date>
+      <title>道德課：解決工作與生活難題的五種思考</title>
+      <price>198</price>
+      <imageUrl>http://www.books.com.tw/img/001/061/36/0010613675.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010613675</link>
+    </book>
+    <book>
+      <date>2014-01-29</date>
+      <title>100個禪繞畫的創意練習：從入門到進階、...</title>
+      <price>165</price>
+      <imageUrl>http://www.books.com.tw/img/001/061/40/0010614079.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010614079</link>
+    </book>
     <book>
       <date>2014-01-30</date>
       <title>為什麼有錢人先吃最喜歡的菜？：猶太富翁教...</title>
