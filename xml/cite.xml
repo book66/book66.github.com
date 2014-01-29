@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-01-30</date>
-      <title>蛇棺葬</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UT007.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=31390</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-01-30</date>
       <title>疼痛自療全解：骨骼與身體自我矯治療法喚醒...</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD038.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27770</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-01-31</date>
       <title>不吃主食，1週速瘦6公斤──「限醣飲食減...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5080.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=31853</link>
+    </book>
+    <book>
+      <date>2014-02-05</date>
+      <title>人體使用手冊3：每天10分鐘梳頭推背健康...</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG042.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=35898</link>
     </book>
   </preview>
 </book66>
