@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-01-30</date>
+      <date>2014-01-31</date>
       <title>跟著作就會的美鞋改造術：4個女孩與28雙...</title>
       <price>211</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986866905.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-01-31</date>
-      <title>一學就會107道經典韓國料理</title>
-      <price>145</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986594247.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003925588</link>
-    </book>
-    <book>
       <date>2014-02-01</date>
       <title>走進那些女子部屋：小坪數多風格，打造令人...</title>
       <price>211</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185879.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986185879.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003957049</link>
     </book>
     <book>
       <date>2014-02-02</date>
       <title>我用這幾句英文在全世界吃喝玩樂</title>
       <price>250</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986592743.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986592743.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004027850</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-02-05</date>
       <title>曾國藩傳奇‧演繹太平天國</title>
       <price>197</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957800521.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/957/957800521.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004016951</link>
+    </book>
+    <book>
+      <date>2014-02-06</date>
+      <title>背包客一定要會的英文便利句</title>
+      <price>263</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986271244.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003062964</link>
     </book>
   </preview>
 </book66>
