@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2014-02-01</date>
-      <title>風格牆設計：照片、飾品、瓷器、織品、藝術...</title>
-      <price>297</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100677851</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100677851</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-02-02</date>
       <title>大人氣！最想和好友一起分享的好感午茶店7...</title>
       <price>231</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100655975</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100655975</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
