@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-02-03</date>
+      <date>2014-02-04</date>
       <title>國家地理雜誌百年攝影經典</title>
       <price>317</price>
       <imageUrl>http://www.books.com.tw/img/001/052/39/0010523994.jpg</imageUrl>
@@ -10,6 +10,13 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2014-02-03</date>
+      <title>國家地理雜誌百年攝影經典</title>
+      <price>317</price>
+      <imageUrl>http://www.books.com.tw/img/001/052/39/0010523994.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010523994</link>
+    </book>
     <book>
       <date>2014-02-04</date>
       <title>招來好運的睡前5分鐘魔法習慣</title>
