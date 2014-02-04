@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-02-04</date>
+      <date>2014-02-05</date>
       <title>香港好聲音</title>
       <price>383</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/962/962043393.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-02-05</date>
-      <title>曾國藩傳奇‧演繹太平天國</title>
-      <price>197</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/957/957800521.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004016951</link>
-    </book>
-    <book>
       <date>2014-02-06</date>
       <title>背包客一定要會的英文便利句</title>
       <price>263</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986271244.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986271244.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003062964</link>
     </book>
     <book>
       <date>2014-02-07</date>
       <title>夢想成真的力量：全球成功人士實證，改變命...</title>
       <price>185</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185900.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185900.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004032995</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-02-10</date>
       <title>精神分析引論</title>
       <price>317</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595158.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986595158.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004037583</link>
+    </book>
+    <book>
+      <date>2014-02-11</date>
+      <title>懂得溝通，打破親子的藩籬</title>
+      <price>158</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986877242.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002788302</link>
     </book>
   </preview>
 </book66>
