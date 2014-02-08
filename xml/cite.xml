@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-02-09</date>
-      <title>考典</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0202.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=35311</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-02-09</date>
       <title>小心，別踩到我北方的腳！</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1053.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=33689</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-02-10</date>
       <title>廚房裡的中醫師</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1019.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35064</link>
+    </book>
+    <book>
+      <date>2014-02-15</date>
+      <title>有些事你不知道，永遠別想往上爬！：破除「...</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0096.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=34989</link>
     </book>
   </preview>
 </book66>
