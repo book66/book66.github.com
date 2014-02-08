@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2014-02-08</date>
-      <title>大學生一定要具備的職場接軌力</title>
-      <price>164</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100674102</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100674102</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-02-09</date>
       <title>我們的中國理想旅店</title>
       <price>277</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100668133</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100668133</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
