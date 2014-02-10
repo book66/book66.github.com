@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-02-11</date>
-      <title>廚房裡的中醫師</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD041.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=35887</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-02-11</date>
       <title>脊椎健康就能全身健康！：跟著體適能教練強...</title>
       <price>197</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ2051.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34544</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-02-12</date>
       <title>閱讀的技法</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1008X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=36796</link>
+    </book>
+    <book>
+      <date>2014-02-17</date>
+      <title>貓咪這樣吃最健康！</title>
+      <price>244</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1PA001.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=35891</link>
     </book>
   </preview>
 </book66>
