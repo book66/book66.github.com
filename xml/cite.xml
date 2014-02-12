@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-02-12</date>
-      <title>閱讀的技法</title>
-      <price>264</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0198.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=36592</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-02-13</date>
       <title>福爾摩斯與開膛手傑克</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR1404.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=36075</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-02-14</date>
       <title>福爾摩斯思考術：讓思考更清晰、見解更深入...</title>
@@ -51,6 +44,13 @@
       <price>363</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7051.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34379</link>
+    </book>
+    <book>
+      <date>2014-02-19</date>
+      <title>脈輪全書：意識之旅的地圖，生命之輪的指南</title>
+      <price>383</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VS0010.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=32816</link>
     </book>
   </preview>
 </book66>
