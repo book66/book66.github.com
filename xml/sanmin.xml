@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-02-13</date>
+      <date>2014-02-14</date>
       <title>看看人家猶太人</title>
       <price>145</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986595162.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-02-14</date>
-      <title>常見疾病的居家治療</title>
-      <price>165</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986608070.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004056384</link>
-    </book>
-    <book>
       <date>2014-02-15</date>
       <title>英語點心</title>
       <price>172</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/962/962145124.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/962/962145124.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004132333</link>
     </book>
     <book>
       <date>2014-02-16</date>
       <title>2014香港大地圖</title>
       <price>290</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/962/962145158.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/962/962145158.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004024651</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-02-19</date>
       <title>第56號教室的奇蹟：讓達賴喇嘛、美國總統...</title>
       <price>198</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185172.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185172.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000663145</link>
+    </book>
+    <book>
+      <date>2014-02-20</date>
+      <title>大學生一定要具備的職場接軌力</title>
+      <price>164</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986591627.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004074656</link>
     </book>
   </preview>
 </book66>
