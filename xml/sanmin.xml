@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-02-14</date>
+      <date>2014-02-15</date>
       <title>常見疾病的居家治療</title>
       <price>165</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986608070.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-02-15</date>
-      <title>英語點心</title>
-      <price>172</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/962/962145124.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004132333</link>
-    </book>
-    <book>
       <date>2014-02-16</date>
       <title>2014香港大地圖</title>
       <price>290</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/962/962145158.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/962/962145158.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004024651</link>
     </book>
     <book>
       <date>2014-02-17</date>
       <title>不會英文也能環遊世界：簡單、易懂、馬上開...</title>
       <price>197</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986592742.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986592742.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003965867</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-02-20</date>
       <title>大學生一定要具備的職場接軌力</title>
       <price>164</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986591627.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986591627.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004074656</link>
+    </book>
+    <book>
+      <date>2014-02-21</date>
+      <title>黃金30分鐘學會全世界都在用的英文</title>
+      <price>263</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986271355.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003902227</link>
     </book>
   </preview>
 </book66>
