@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-02-15</date>
-      <title>有些事你不知道，永遠別想往上爬！：破除「...</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0096.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=34989</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-02-16</date>
       <title>學習如何學習（改版）：歐洲名師教你自學成...</title>
       <price>145</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1008X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=36796</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-02-17</date>
       <title>貓咪這樣吃最健康！</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GB107.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34880</link>
+    </book>
+    <book>
+      <date>2014-02-22</date>
+      <title>史上最大搶案：金融體系如何掏空你的口袋</title>
+      <price>244</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0514.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=35061</link>
     </book>
   </preview>
 </book66>
