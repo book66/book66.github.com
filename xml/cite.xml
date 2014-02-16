@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-02-17</date>
-      <title>學習如何學習（改版）：歐洲名師教你自學成...</title>
-      <price>145</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1008X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=36796</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-02-17</date>
       <title>貓咪這樣吃最健康！</title>
       <price>244</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1PA001.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35891</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-02-18</date>
       <title>債的歷史：從文明的初始到全球負債時代</title>
@@ -51,6 +44,13 @@
       <price>244</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0514.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35061</link>
+    </book>
+    <book>
+      <date>2014-02-23</date>
+      <title>共病時代：醫師、獸醫師、生態學家如何合力...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FS0030.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=35046</link>
     </book>
   </preview>
 </book66>
