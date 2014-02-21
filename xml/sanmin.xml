@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-02-21</date>
+      <date>2014-02-22</date>
       <title>黃金30分鐘學會全世界都在用的英文</title>
       <price>263</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986271355.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-02-22</date>
-      <title>醫學美容與皮膚保養</title>
-      <price>251</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986880280.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002814304</link>
-    </book>
-    <book>
       <date>2014-02-23</date>
       <title>圖解真正用得到的英文：用老外的一天學好英...</title>
       <price>250</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986592747.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986592747.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004074674</link>
     </book>
     <book>
       <date>2014-02-24</date>
       <title>袖套偵探</title>
       <price>172</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185915.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185915.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004131844</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-02-27</date>
       <title>富爸爸，有錢有理：神奇的現金流象限</title>
       <price>211</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185559.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185559.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001688841</link>
+    </book>
+    <book>
+      <date>2014-02-28</date>
+      <title>35歲以後要上的33堂英文課</title>
+      <price>197</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986592749.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004096899</link>
     </book>
   </preview>
 </book66>
