@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-02-22</date>
-      <title>圖解自地自建×買地蓋屋完全通：掌握10大...</title>
-      <price>263</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GB107.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=34880</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-02-22</date>
       <title>史上最大搶案：金融體系如何掏空你的口袋</title>
       <price>244</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0514.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35061</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-02-23</date>
       <title>共病時代：醫師、獸醫師、生態學家如何合力...</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0069.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=36452</link>
+    </book>
+    <book>
+      <date>2014-02-28</date>
+      <title>以脈為師：科學解讀脈波曲線，以脈診分析治...</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD042.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=35885</link>
     </book>
   </preview>
 </book66>
