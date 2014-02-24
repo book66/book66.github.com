@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-02-25</date>
-      <title>平台革命：席捲全球社交、購物、遊戲、媒體...</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0515.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=36392</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-02-25</date>
       <title>王的國度</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RS7066.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=36797</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-02-26</date>
       <title>思考的藝術：52 個非受迫性思考錯誤</title>
