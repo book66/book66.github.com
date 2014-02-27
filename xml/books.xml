@@ -3,48 +3,13 @@
   <today>
     <book>
       <date>2014-02-28</date>
-      <title>脆弱的力量</title>
-      <price>224</price>
-      <imageUrl>http://www.books.com.tw/img/001/061/03/0010610327.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010610327</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-02-24</date>
-      <title>哈佛最受歡迎的快樂工作學：風行全美五百大...</title>
-      <price>211</price>
-      <imageUrl>http://www.books.com.tw/img/001/061/49/0010614971.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010614971</link>
-    </book>
-    <book>
-      <date>2014-02-25</date>
-      <title>我的第一本牛津小百科</title>
-      <price>197</price>
-      <imageUrl>http://www.books.com.tw/img/001/038/32/0010383208.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010383208</link>
-    </book>
-    <book>
-      <date>2014-02-26</date>
-      <title>吃出高中生的新陳代謝：關鍵1招，絕對窈‧...</title>
-      <price>231</price>
-      <imageUrl>http://www.books.com.tw/img/001/061/28/0010612852.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010612852</link>
-    </book>
-    <book>
-      <date>2014-02-27</date>
-      <title>脆弱的力量</title>
-      <price>224</price>
-      <imageUrl>http://www.books.com.tw/img/001/061/03/0010610327.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010610327</link>
-    </book>
-    <book>
-      <date>2014-02-28</date>
       <title>圖解自地自建×買地蓋屋完全通：掌握10大...</title>
       <price>263</price>
       <imageUrl>http://www.books.com.tw/img/001/061/04/0010610433.jpg</imageUrl>
       <link>http://www.books.com.tw/products/0010610433</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-01</date>
       <title>大阪小伴旅：co-Trip日本系列4</title>
