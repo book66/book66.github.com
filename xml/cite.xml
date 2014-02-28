@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-02-28</date>
-      <title>以脈為師：科學解讀脈波曲線，以脈診分析治...</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD042.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=35885</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-03-01</date>
       <title>美味保存！我的食材收納便利帖</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GD147.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35154</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-02</date>
       <title>豆腐百珍：一百道江戶古法傳授的豆腐料理</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0028.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34552</link>
+    </book>
+    <book>
+      <date>2014-03-07</date>
+      <title>麥田捕手（麥田二十週年紀念版書封）</title>
+      <price>158</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RC7012.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=20691</link>
     </book>
   </preview>
 </book66>
