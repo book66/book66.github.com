@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-01</date>
-      <title>美味保存！我的食材收納便利帖</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GD147.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=35154</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-03-02</date>
       <title>豆腐百珍：一百道江戶古法傳授的豆腐料理</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2060.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35278</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-03</date>
       <title>獨學術</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RC7012.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=20691</link>
+    </book>
+    <book>
+      <date>2014-03-08</date>
+      <title>主管不用做到死，下屬績效也能百倍奉還的用...</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7071.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=36080</link>
     </book>
   </preview>
 </book66>

@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-01</date>
+      <date>2014-03-02</date>
       <title>別再為小事抓狂07：新世代媽媽幸福指南</title>
       <price>198</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/957/957135582.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-03-02</date>
-      <title>不存在的旅行</title>
-      <price>290</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/962/962043438.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004024763</link>
-    </book>
-    <book>
       <date>2014-03-03</date>
       <title>圖解九型人格人生整理術</title>
       <price>197</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986578507.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986578507.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004127280</link>
     </book>
     <book>
       <date>2014-03-04</date>
       <title>數位併發症：Google把我們變笨了嗎？</title>
       <price>211</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/957/957135619.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/957/957135619.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003077143</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-03-07</date>
       <title>請客吃飯（中英對照）</title>
       <price>231</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962145218.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/962/962145218.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004048746</link>
+    </book>
+    <book>
+      <date>2014-03-08</date>
+      <title>跟著韓國女星這樣吃！：完美藝人享瘦食譜大...</title>
+      <price>198</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957135475.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002715823</link>
     </book>
   </preview>
 </book66>
