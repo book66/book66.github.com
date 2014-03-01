@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-01</date>
-      <title>我用這幾句英文在全世界吃喝玩樂（免費附贈...</title>
-      <price>250</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100669655</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100669655</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-03-02</date>
       <title>關鍵3點美腿操，大腿一週瘦5cm：掌握腳...</title>
       <price>172</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100653635</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100653635</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
