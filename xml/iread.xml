@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-09</date>
-      <title>有一種境界叫捨得</title>
-      <price>145</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000129418-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000129418</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-03-10</date>
       <title>孔子</title>
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000259472-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000259472</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-11</date>
       <title>逆轉人生</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000241973-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000241973</link>
+    </book>
+    <book>
+      <date>2014-03-16</date>
+      <title>有一種境界叫捨得 貳</title>
+      <price>145</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000164534-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000164534</link>
     </book>
   </preview>
 </book66>
