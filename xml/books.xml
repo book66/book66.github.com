@@ -3,27 +3,13 @@
   <today>
     <book>
       <date>2014-03-11</date>
-      <title>訂價背後的心理學：為什麼我要的是這個，最...</title>
-      <price>211</price>
-      <imageUrl>http://www.books.com.tw/img/001/058/03/0010580380.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010580380</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-03-10</date>
-      <title>訂價背後的心理學：為什麼我要的是這個，最...</title>
-      <price>211</price>
-      <imageUrl>http://www.books.com.tw/img/001/058/03/0010580380.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010580380</link>
-    </book>
-    <book>
-      <date>2014-03-11</date>
       <title>永遠的0</title>
       <price>251</price>
       <imageUrl>http://www.books.com.tw/img/001/061/61/0010616164.jpg</imageUrl>
       <link>http://www.books.com.tw/products/0010616164</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-12</date>
       <title>瑜伽的科學</title>
