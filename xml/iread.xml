@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-10</date>
-      <title>孔子</title>
-      <price>211</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000259472-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000259472</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-03-11</date>
       <title>逆轉人生</title>
       <price>198</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000215689-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000215689</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-12</date>
       <title>室內設計師與製圖</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000164534-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000164534</link>
+    </book>
+    <book>
+      <date>2014-03-17</date>
+      <title>小房子的法式風情</title>
+      <price>211</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000259761-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000259761</link>
     </book>
   </preview>
 </book66>
