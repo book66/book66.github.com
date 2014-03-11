@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-11</date>
-      <title>逆轉人生</title>
-      <price>198</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000215689-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000215689</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-03-12</date>
-      <title>室內設計師與製圖</title>
-      <price>264</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000265668-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000265668</link>
-    </book>
-    <book>
       <date>2014-03-13</date>
       <title>借力淘金！最吸利的鈔級魚池賺錢術</title>
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000219579-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000219579</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-14</date>
       <title>五十嵐路美的甜蜜果醬：日本超人氣果...</title>
@@ -51,6 +37,13 @@
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000259761-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000259761</link>
+    </book>
+    <book>
+      <date>2014-03-18</date>
+      <title>一看就懂的管理學全圖解</title>
+      <price>297</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000257215-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000257215</link>
     </book>
   </preview>
 </book66>
