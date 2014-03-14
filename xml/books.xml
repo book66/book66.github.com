@@ -3,55 +3,13 @@
   <today>
     <book>
       <date>2014-03-15</date>
-      <title>這個作品，怎麼這麼貴？：一句話說出現代藝...</title>
-      <price>238</price>
-      <imageUrl>http://www.books.com.tw/img/001/061/35/0010613577.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010613577</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-03-10</date>
-      <title>訂價背後的心理學：為什麼我要的是這個，最...</title>
-      <price>211</price>
-      <imageUrl>http://www.books.com.tw/img/001/058/03/0010580380.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010580380</link>
-    </book>
-    <book>
-      <date>2014-03-11</date>
-      <title>永遠的0</title>
-      <price>251</price>
-      <imageUrl>http://www.books.com.tw/img/001/061/61/0010616164.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010616164</link>
-    </book>
-    <book>
-      <date>2014-03-12</date>
-      <title>瑜伽的科學</title>
-      <price>264</price>
-      <imageUrl>http://www.books.com.tw/img/001/061/70/0010617028.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010617028</link>
-    </book>
-    <book>
-      <date>2014-03-13</date>
-      <title>初學者的日式家常菜教科書：110道每日基...</title>
-      <price>297</price>
-      <imageUrl>http://www.books.com.tw/img/001/061/81/0010618113.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010618113</link>
-    </book>
-    <book>
-      <date>2014-03-14</date>
-      <title>這個作品，怎麼這麼貴？：一句話說出現代藝...</title>
-      <price>238</price>
-      <imageUrl>http://www.books.com.tw/img/001/061/35/0010613577.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010613577</link>
-    </book>
-    <book>
-      <date>2014-03-15</date>
       <title>史上最強韓語文法：各詞性、助詞、文法、發...</title>
       <price>263</price>
       <imageUrl>http://www.books.com.tw/img/001/052/22/0010522217.jpg</imageUrl>
       <link>http://www.books.com.tw/products/0010522217</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-16</date>
       <title>看圖學會日本語文法：30天學會「東京日本...</title>
