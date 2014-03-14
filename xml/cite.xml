@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-14</date>
-      <title>穿梭超時空</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0005X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=34382</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-03-15</date>
       <title>七堂課學會微電影：全面掌握好萊塢電影法則</title>
       <price>363</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPO38.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35590</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-16</date>
       <title>一口氣搞懂原物料商品：經濟學人教你看懂市...</title>
@@ -50,6 +43,13 @@
       <title>網路行銷關鍵字×100：從SEO到社群媒...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB915.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=0</link>
+    </book>
+    <book>
+      <date>2014-03-21</date>
+      <title>疼痛自療全解：骨骼與身體自我矯治療法喚醒...</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD038.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=0</link>
     </book>
   </preview>

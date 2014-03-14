@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-14</date>
+      <date>2014-03-15</date>
       <title>荷蘭幸福教育法：從小培養孩子的創造力</title>
       <price>172</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986594253.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-03-15</date>
-      <title>李小龍技擊法</title>
-      <price>561</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/962/962073426.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004113665</link>
-    </book>
-    <book>
       <date>2014-03-16</date>
       <title>半澤直樹の倍返しだ：半澤直樹，想要告訴你...</title>
       <price>165</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986595164.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986595164.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004119417</link>
     </book>
     <book>
       <date>2014-03-17</date>
       <title>Jeff Galloway 跑步訓練手冊</title>
       <price>264</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/962/962073422.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/962/962073422.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003928517</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-03-20</date>
       <title>五月天的素人自拍</title>
       <price>238</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957133467.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/957/957133467.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001545965</link>
+    </book>
+    <book>
+      <date>2014-03-21</date>
+      <title>單車運動全攻略：健體、訓練、比賽</title>
+      <price>739</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962073404.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004160942</link>
     </book>
   </preview>
 </book66>
