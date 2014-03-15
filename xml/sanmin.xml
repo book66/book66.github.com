@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-15</date>
+      <date>2014-03-16</date>
       <title>李小龍技擊法</title>
       <price>561</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/962/962073426.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-03-16</date>
-      <title>半澤直樹の倍返しだ：半澤直樹，想要告訴你...</title>
-      <price>165</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986595164.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004119417</link>
-    </book>
-    <book>
       <date>2014-03-17</date>
       <title>Jeff Galloway 跑步訓練手冊</title>
       <price>264</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/962/962073422.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/962/962073422.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003928517</link>
     </book>
     <book>
       <date>2014-03-18</date>
       <title>祝你今年快樂</title>
       <price>198</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/957/957135681.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/957/957135681.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003602480</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-03-21</date>
       <title>單車運動全攻略：健體、訓練、比賽</title>
       <price>739</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962073404.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/962/962073404.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004160942</link>
+    </book>
+    <book>
+      <date>2014-03-22</date>
+      <title>家是孩子的第一所學校：獅爸教育法</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957135580.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003049724</link>
     </book>
   </preview>
 </book66>
