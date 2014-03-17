@@ -2,28 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-17</date>
-      <title>小房子的法式風情</title>
-      <price>211</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000259761-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000259761</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-03-18</date>
-      <title>一看就懂的管理學全圖解</title>
-      <price>297</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000257215-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000257215</link>
-    </book>
-    <book>
       <date>2014-03-19</date>
       <title>齊藤謠子的北歐風拼布包：簡單時尚×...</title>
       <price>317</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000260765-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000260765</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-20</date>
       <title>連面試官都讚嘆的英語口試應考大全</title>
@@ -51,6 +37,13 @@
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000147245-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000147245</link>
+    </book>
+    <book>
+      <date>2014-03-24</date>
+      <title>東大爸爸寫給我的日本史</title>
+      <price>191</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000260964-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000260964</link>
     </book>
   </preview>
 </book66>

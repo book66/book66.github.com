@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-17</date>
+      <date>2014-03-18</date>
       <title>Jeff Galloway 跑步訓練手冊</title>
       <price>264</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/962/962073422.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-03-18</date>
-      <title>祝你今年快樂</title>
-      <price>198</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/957/957135681.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003602480</link>
-    </book>
-    <book>
       <date>2014-03-19</date>
       <title>不可不會的全民英檢初級實戰測驗</title>
       <price>164</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986702595.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986702595.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004144097</link>
     </book>
     <book>
       <date>2014-03-20</date>
       <title>五月天的素人自拍</title>
       <price>238</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/957/957133467.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/957/957133467.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001545965</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-03-23</date>
       <title>大師．慈父．愛：梁啟超家書選輯</title>
       <price>290</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962043304.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/962/962043304.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003874913</link>
+    </book>
+    <book>
+      <date>2014-03-24</date>
+      <title>不可不會的全民英檢中級實戰測驗</title>
+      <price>164</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986702596.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004144098</link>
     </book>
   </preview>
 </book66>
