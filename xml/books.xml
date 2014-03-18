@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-18</date>
+      <date>2014-03-19</date>
       <title>只要1分鐘！看新聞趨勢，挑中倍數獲利潛力...</title>
       <price>231</price>
       <imageUrl>http://www.books.com.tw/img/001/061/88/0010618815.jpg</imageUrl>
@@ -10,6 +10,20 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2014-03-17</date>
+      <title>零偏見決斷法：如何擊退阻礙工作與生活的四...</title>
+      <price>251</price>
+      <imageUrl>http://www.books.com.tw/img/001/061/91/0010619197.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010619197</link>
+    </book>
+    <book>
+      <date>2014-03-18</date>
+      <title>只要1分鐘！看新聞趨勢，挑中倍數獲利潛力...</title>
+      <price>231</price>
+      <imageUrl>http://www.books.com.tw/img/001/061/88/0010618815.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010618815</link>
+    </book>
     <book>
       <date>2014-03-19</date>
       <title>席捲攝影界之超人氣Photoshop影像...</title>
