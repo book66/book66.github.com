@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-19</date>
-      <title>超譯尼采 II 權力‧意志</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BCP005C.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=33453</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-03-20</date>
       <title>網路行銷關鍵字×100：從SEO到社群媒...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB915.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28012</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-21</date>
       <title>疼痛自療全解：骨骼與身體自我矯治療法喚醒...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RD4050X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=36920</link>
+    </book>
+    <book>
+      <date>2014-03-26</date>
+      <title>改變世界的17個方程式</title>
+      <price>297</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0108.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=34549</link>
     </book>
   </preview>
 </book66>
