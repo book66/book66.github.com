@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-20</date>
-      <title>網路行銷關鍵字×100：從SEO到社群媒...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB915.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28012</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-03-21</date>
       <title>疼痛自療全解：骨骼與身體自我矯治療法喚醒...</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD038.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27770</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-22</date>
       <title>省錢修繕DIY全書（2013年封面改版全...</title>
@@ -51,6 +44,13 @@
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0108.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34549</link>
+    </book>
+    <book>
+      <date>2014-03-27</date>
+      <title>斷臂上的花朵：從囚徒到大法官，用一生開創...</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH1146.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=36085</link>
     </book>
   </preview>
 </book66>

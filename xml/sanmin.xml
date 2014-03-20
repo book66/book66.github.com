@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-20</date>
+      <date>2014-03-21</date>
       <title>五月天的素人自拍</title>
       <price>238</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/957/957133467.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-03-21</date>
-      <title>單車運動全攻略：健體、訓練、比賽</title>
-      <price>739</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/962/962073404.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004160942</link>
-    </book>
-    <book>
       <date>2014-03-22</date>
       <title>家是孩子的第一所學校：獅爸教育法</title>
       <price>172</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/957/957135580.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/957/957135580.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003049724</link>
     </book>
     <book>
       <date>2014-03-23</date>
       <title>大師．慈父．愛：梁啟超家書選輯</title>
       <price>290</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/962/962043304.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/962/962043304.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003874913</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-03-26</date>
       <title>用彩繪記錄生活故事：輕鬆繪製個性小插圖</title>
       <price>165</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986594251.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986594251.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004127256</link>
+    </book>
+    <book>
+      <date>2014-03-27</date>
+      <title>趁熱品嚐</title>
+      <price>145</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957135618.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003092126</link>
     </book>
   </preview>
 </book66>
