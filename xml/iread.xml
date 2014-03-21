@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-21</date>
-      <title>食物調理機料理教科書</title>
-      <price>277</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000259109-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000259109</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-03-22</date>
       <title>在巷口遇見經濟學大師：生活經濟學圖...</title>
       <price>198</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000242519-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000242519</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-23</date>
       <title>有一種智慧叫以退為進</title>
@@ -51,6 +44,13 @@
       <price>230</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000148406-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000148406</link>
+    </book>
+    <book>
+      <date>2014-03-28</date>
+      <title>湯品與燉肉教科書</title>
+      <price>317</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000217284-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000217284</link>
     </book>
   </preview>
 </book66>
