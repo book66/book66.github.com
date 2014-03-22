@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-22</date>
-      <title>省錢修繕DIY全書（2013年封面改版全...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GD148.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=35155</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-03-23</date>
       <title>月亮與六便士</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RC7022.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=36802</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-24</date>
       <title>手繪城市：畫遍全世界</title>
@@ -51,6 +44,13 @@
       <price>178</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA6211.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=36335</link>
+    </book>
+    <book>
+      <date>2014-03-29</date>
+      <title>觀看的實踐：給所有影像世代的視覺文化導論...</title>
+      <price>561</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FI2011.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=34288</link>
     </book>
   </preview>
 </book66>

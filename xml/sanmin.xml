@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-22</date>
+      <date>2014-03-23</date>
       <title>家是孩子的第一所學校：獅爸教育法</title>
       <price>172</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/957/957135580.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-03-23</date>
-      <title>大師．慈父．愛：梁啟超家書選輯</title>
-      <price>290</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/962/962043304.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003874913</link>
-    </book>
-    <book>
       <date>2014-03-24</date>
       <title>不可不會的全民英檢中級實戰測驗</title>
       <price>164</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986702596.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986702596.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004144098</link>
     </book>
     <book>
       <date>2014-03-25</date>
       <title>台灣民宿環島旅行：三天兩夜九故事</title>
       <price>264</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/962/962145150.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/962/962145150.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004024650</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-03-28</date>
       <title>能源大探索：石油即將枯竭？</title>
       <price>251</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957135612.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/957/957135612.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003069258</link>
+    </book>
+    <book>
+      <date>2014-03-29</date>
+      <title>圖解我的第一堂行銷課：等人教，不如自己偷...</title>
+      <price>164</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986578502.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004144108</link>
     </book>
   </preview>
 </book66>
