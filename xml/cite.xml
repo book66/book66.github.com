@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-23</date>
-      <title>月亮與六便士</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RC7022.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=36802</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-03-24</date>
       <title>手繪城市：畫遍全世界</title>
       <price>449</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VE0052.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28069</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-25</date>
       <title>足腰保暖療癒力：只要下半身暖了，身體就健...</title>
@@ -51,6 +44,13 @@
       <price>561</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FI2011.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34288</link>
+    </book>
+    <book>
+      <date>2014-03-30</date>
+      <title>世界史</title>
+      <price>429</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH3010.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=31597</link>
     </book>
   </preview>
 </book66>
