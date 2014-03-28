@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-28</date>
-      <title>湯品與燉肉教科書</title>
-      <price>317</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000217284-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000217284</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-03-29</date>
       <title>我家陽台小花園</title>
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000260101-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000260101</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-30</date>
       <title>有一種智慧叫以退為進(貳)</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000266396-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000266396</link>
+    </book>
+    <book>
+      <date>2014-04-04</date>
+      <title>五行娃娃教你打造健康養生方</title>
+      <price>231</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000224068-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000224068</link>
     </book>
   </preview>
 </book66>

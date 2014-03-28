@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-28</date>
+      <date>2014-03-29</date>
       <title>能源大探索：石油即將枯竭？</title>
       <price>251</price>
       <imageUrl>http://123.51.221.156/Assets/product_images/957/957135612.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-03-29</date>
-      <title>圖解我的第一堂行銷課：等人教，不如自己偷...</title>
-      <price>164</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986578502.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004144108</link>
-    </book>
-    <book>
       <date>2014-03-30</date>
       <title>橡皮印章雕刻速學．10分鐘上手！</title>
       <price>264</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/962/962145182.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/962/962145182.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004024653</link>
     </book>
     <book>
       <date>2014-03-31</date>
       <title>八面玲瓏左右逢源御心術</title>
       <price>217</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/957/957800535.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/957/957800535.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004119388</link>
     </book>
   </preview>
