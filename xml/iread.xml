@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-03-29</date>
-      <title>我家陽台小花園</title>
-      <price>211</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000260101-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000260101</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-03-30</date>
       <title>有一種智慧叫以退為進(貳)</title>
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000170979-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000170979</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-03-31</date>
       <title>多少才滿足？決定美好生活的7大指標</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000224068-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000224068</link>
+    </book>
+    <book>
+      <date>2014-04-05</date>
+      <title>逆風飛翔：22歲後要擁有的45個黃金心...</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000225041-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000225041</link>
     </book>
   </preview>
 </book66>
