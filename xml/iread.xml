@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-04-02</date>
-      <title>影響你生活的平民經濟學</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000266327-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000266327</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-04-03</date>
       <title>陳彥渲染手工皂（暢銷增訂版）</title>
       <price>251</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000266396-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000266396</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-04-04</date>
       <title>五行娃娃教你打造健康養生方</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000137690-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000137690</link>
+    </book>
+    <book>
+      <date>2014-04-09</date>
+      <title>背負一生</title>
+      <price>211</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000264134-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000264134</link>
     </book>
   </preview>
 </book66>
