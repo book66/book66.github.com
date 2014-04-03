@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-04-03</date>
-      <title>陳彥渲染手工皂（暢銷增訂版）</title>
-      <price>251</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000266396-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000266396</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-04-04</date>
       <title>五行娃娃教你打造健康養生方</title>
       <price>231</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000224068-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000224068</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-04-05</date>
       <title>逆風飛翔：22歲後要擁有的45個黃金心...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000264134-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000264134</link>
+    </book>
+    <book>
+      <date>2014-04-10</date>
+      <title>620億美元的秘密：巴菲特雪球傳奇全...</title>
+      <price>297</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000217736.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000217736</link>
     </book>
   </preview>
 </book66>
