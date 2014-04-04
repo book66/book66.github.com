@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-04-04</date>
+      <date>2014-04-05</date>
       <title>說故事的神奇教養力</title>
       <price>185</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986271253.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-04-05</date>
-      <title>德國菁英教育法，引導孩子用天賦發展自信人...</title>
-      <price>172</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986594254.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004207657</link>
-    </book>
-    <book>
       <date>2014-04-06</date>
       <title>零誤解溝通：說的清楚聽的明白</title>
       <price>264</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/988/988826373.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/988/988826373.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004361167</link>
     </book>
     <book>
       <date>2014-04-07</date>
       <title>華陀神醫秘典（扁鵲樓˙珍藏版）</title>
       <price>197</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/957/957800541.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/957/957800541.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004174269</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-04-10</date>
       <title>他改變了美國，也改變了世界：富蘭克林自傳</title>
       <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986892096.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986892096.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004207650</link>
+    </book>
+    <book>
+      <date>2014-04-11</date>
+      <title>還你不吃藥的生活：免疫力，讓你不「藥」而...</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986271327.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003829943</link>
     </book>
   </preview>
 </book66>
