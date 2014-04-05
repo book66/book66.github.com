@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2014-04-05</date>
-      <title>大家認為對的事，對你風險最大：擠公車、考...</title>
-      <price>172</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100678415</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100678415</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-04-06</date>
       <title>一百年的孤寂</title>
       <price>132</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100199731</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100199731</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
