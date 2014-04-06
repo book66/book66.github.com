@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-04-06</date>
+      <date>2014-04-07</date>
       <title>零誤解溝通：說的清楚聽的明白</title>
       <price>264</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/988/988826373.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-04-07</date>
-      <title>華陀神醫秘典（扁鵲樓˙珍藏版）</title>
-      <price>197</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/957/957800541.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004174269</link>
-    </book>
-    <book>
       <date>2014-04-08</date>
       <title>纖、挺、翹，10分鐘練出美體線：私人教練...</title>
       <price>231</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185858.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986185858.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004054972</link>
     </book>
     <book>
       <date>2014-04-09</date>
       <title>中國太極拳的學與術</title>
       <price>290</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/962/962073427.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/962/962073427.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004349399</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-04-12</date>
       <title>一本書讀懂36大科學定理</title>
       <price>231</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962145311.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/962/962145311.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004205153</link>
+    </book>
+    <book>
+      <date>2014-04-13</date>
+      <title>拉筋讓你更健康：100式拉筋全圖解</title>
+      <price>231</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962145258.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004160947</link>
     </book>
   </preview>
 </book66>
