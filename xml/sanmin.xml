@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-04-10</date>
+      <date>2014-04-11</date>
       <title>他改變了美國，也改變了世界：富蘭克林自傳</title>
       <price>185</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986892096.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-04-11</date>
-      <title>還你不吃藥的生活：免疫力，讓你不「藥」而...</title>
-      <price>172</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986271327.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003829943</link>
-    </book>
-    <book>
       <date>2014-04-12</date>
       <title>一本書讀懂36大科學定理</title>
       <price>231</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/962/962145311.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/962/962145311.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004205153</link>
     </book>
     <book>
       <date>2014-04-13</date>
       <title>拉筋讓你更健康：100式拉筋全圖解</title>
       <price>231</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/962/962145258.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/962/962145258.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004160947</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-04-16</date>
       <title>五行娃娃教你打造健康養生方</title>
       <price>231</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986271298.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986271298.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003564090</link>
+    </book>
+    <book>
+      <date>2014-04-17</date>
+      <title>多眼看世界：國際風雲萬花筒</title>
+      <price>264</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/988/988826324.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004205163</link>
     </book>
   </preview>
 </book66>
