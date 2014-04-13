@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-04-13</date>
+      <date>2014-04-14</date>
       <title>拉筋讓你更健康：100式拉筋全圖解</title>
       <price>231</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/962/962145258.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-04-14</date>
-      <title>中國後宮帝后嬪妃秘傳（圖文版）</title>
-      <price>217</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/957/957800542.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004174270</link>
-    </book>
-    <book>
       <date>2014-04-15</date>
       <title>愛上水果甜點（中英對照）</title>
       <price>231</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/962/962144223.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/962/962144223.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004160945</link>
     </book>
     <book>
       <date>2014-04-16</date>
       <title>五行娃娃教你打造健康養生方</title>
       <price>231</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986271298.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986271298.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003564090</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-04-19</date>
       <title>我的文化食旅</title>
       <price>284</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962075621.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/962/962075621.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004132329</link>
+    </book>
+    <book>
+      <date>2014-04-20</date>
+      <title>最經典的謎題</title>
+      <price>251</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595166.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004184949</link>
     </book>
   </preview>
 </book66>
