@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-04-14</date>
-      <title>你的體質，這樣吃就對了：找對體質，...</title>
-      <price>211</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000258081-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000258081</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-04-15</date>
       <title>中國悄悄占領全世界</title>
       <price>251</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000263683-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000263683</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-04-16</date>
       <title>日文單字走著瞧（附1防水書套 + 1 M...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000265788-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000265788</link>
+    </book>
+    <book>
+      <date>2014-04-21</date>
+      <title>日夜書</title>
+      <price>185</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000264136-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000264136</link>
     </book>
   </preview>
 </book66>
