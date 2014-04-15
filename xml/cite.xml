@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-04-15</date>
-      <title>為什麼有些人一開口就能說到重點？：讓人一...</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0090.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28462</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-04-16</date>
       <title>芬蘭教育這樣改！全球第一個教改成功案例教...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7045.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=27974</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-04-17</date>
       <title>你就這樣失去了她</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OC0068.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34417</link>
+    </book>
+    <book>
+      <date>2014-04-22</date>
+      <title>創新第一課：模仿—成功者的逆轉關鍵，星巴...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2252.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=32886</link>
     </book>
   </preview>
 </book66>
