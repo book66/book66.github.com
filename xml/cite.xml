@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-04-17</date>
-      <title>你就這樣失去了她</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5058.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=36909</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-04-18</date>
       <title>行李箱男孩</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0021.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28067</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-04-19</date>
       <title>活化自癒力的脊骨神經醫學</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB919.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32779</link>
+    </book>
+    <book>
+      <date>2014-04-24</date>
+      <title>能量水晶療癒全書：頻率對了，你的人生就對...</title>
+      <price>396</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPV08.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28678</link>
     </book>
   </preview>
 </book66>
