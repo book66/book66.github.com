@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-04-20</date>
-      <title>伊斯坦堡死亡紀事</title>
-      <price>263</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5056.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=35150</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-04-21</date>
       <title>這樣拜不會錯：解答50個拜拜常見疑難雜症</title>
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OC0068.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34417</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-04-22</date>
       <title>創新第一課：模仿—成功者的逆轉關鍵，星巴...</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RC7004.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=15902</link>
+    </book>
+    <book>
+      <date>2014-04-27</date>
+      <title>會議革命（暢銷改版）</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7059.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=27034</link>
     </book>
   </preview>
 </book66>
