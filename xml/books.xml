@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-04-21</date>
-      <title>打造5000名台大生的無敵學習法：榜首反...</title>
-      <price>185</price>
-      <imageUrl>http://www.books.com.tw/img/001/061/86/0010618680.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010618680</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-04-21</date>
       <title>理財不必學，就能輕鬆賺</title>
       <price>185</price>
       <imageUrl>http://www.books.com.tw/img/001/062/26/0010622675.jpg</imageUrl>
       <link>http://www.books.com.tw/products/0010622675</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-04-22</date>
       <title>地球全史：46億年的奇蹟</title>
