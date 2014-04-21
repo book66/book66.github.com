@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-04-21</date>
-      <title>日夜書</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000264136-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000264136</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-04-22</date>
       <title>這才是晚清－帝國崩潰的十六個細節</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000174035-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000174035</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-04-23</date>
       <title>7天學會必備英語問答會話</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000246924-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000246924</link>
+    </book>
+    <book>
+      <date>2014-04-28</date>
+      <title>會寫就會說！：日本老師教你用寫日記...</title>
+      <price>251</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000229405-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000229405</link>
     </book>
   </preview>
 </book66>
