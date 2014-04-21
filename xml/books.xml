@@ -3,27 +3,13 @@
   <today>
     <book>
       <date>2014-04-22</date>
-      <title>理財不必學，就能輕鬆賺</title>
-      <price>185</price>
-      <imageUrl>http://www.books.com.tw/img/001/062/26/0010622675.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010622675</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-04-21</date>
-      <title>理財不必學，就能輕鬆賺</title>
-      <price>185</price>
-      <imageUrl>http://www.books.com.tw/img/001/062/26/0010622675.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010622675</link>
-    </book>
-    <book>
-      <date>2014-04-22</date>
       <title>地球全史：46億年的奇蹟</title>
       <price>396</price>
       <imageUrl>http://www.books.com.tw/img/001/062/48/0010624864.jpg</imageUrl>
       <link>http://www.books.com.tw/products/0010624864</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-04-23</date>
       <title>走吧！去做你真正渴望的事：創造有意義人生...</title>
