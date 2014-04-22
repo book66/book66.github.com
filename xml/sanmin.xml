@@ -2,33 +2,26 @@
 <book66>
   <today>
     <book>
-      <date>2014-04-22</date>
-      <title>香港今昔（增訂版）</title>
-      <price>231</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/962/962043274.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004132328</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-04-23</date>
       <title>超神奇！喚醒自癒力的牛初乳：抗過敏、增免...</title>
       <price>165</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986271315.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003770630</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-04-24</date>
       <title>現在才知道：小小上班族，也能投資、理財、...</title>
       <price>185</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185855.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986185855.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003847397</link>
     </book>
     <book>
       <date>2014-04-25</date>
       <title>學得快才會想學！：黃金20小時學習法</title>
       <price>198</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986900860.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986900860.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004184546</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-04-28</date>
       <title>全台最旺88財神靈廟</title>
       <price>197</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957800552.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/957/957800552.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004207695</link>
+    </book>
+    <book>
+      <date>2014-04-29</date>
+      <title>格局，決定你的結局：48個讓人生正向發展...</title>
+      <price>158</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185676.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002728776</link>
     </book>
   </preview>
 </book66>

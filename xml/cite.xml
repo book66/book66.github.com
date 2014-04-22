@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-04-22</date>
-      <title>創新第一課：模仿—成功者的逆轉關鍵，星巴...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2252.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=32886</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-04-23</date>
       <title>Evernote 100個做筆記的好方法...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB919.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32779</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-04-24</date>
       <title>能量水晶療癒全書：頻率對了，你的人生就對...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1039.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=29744</link>
+    </book>
+    <book>
+      <date>2014-04-29</date>
+      <title>圖解自地自建×買地蓋屋完全通：掌握10大...</title>
+      <price>263</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GB107.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=34880</link>
     </book>
   </preview>
 </book66>
