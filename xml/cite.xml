@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-04-24</date>
-      <title>教出有思考力、自律、學習態度佳的好孩子</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SH0083X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27833</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-04-25</date>
       <title>廚房裡的中醫師</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD041.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35887</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-04-26</date>
       <title>異鄉人（卡繆版書衣）</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1080.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19703</link>
+    </book>
+    <book>
+      <date>2014-05-01</date>
+      <title>靖康之變：北宋衰亡記</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH7123.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=35985</link>
     </book>
   </preview>
 </book66>
