@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-01</date>
+      <date>2014-05-02</date>
       <title>給青年科學家的信</title>
       <price>178</price>
       <imageUrl>http://www.books.com.tw/img/001/062/39/0010623924.jpg</imageUrl>
@@ -10,6 +10,34 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2014-04-28</date>
+      <title>下班後賺更多：記帳、存錢、再投資，富朋友...</title>
+      <price>198</price>
+      <imageUrl>http://www.books.com.tw/img/001/062/04/0010620476.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010620476</link>
+    </book>
+    <book>
+      <date>2014-04-29</date>
+      <title>心靈療癒自助手冊：心理學家教你看穿情緒，...</title>
+      <price>231</price>
+      <imageUrl>http://www.books.com.tw/img/001/062/42/0010624263.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010624263</link>
+    </book>
+    <book>
+      <date>2014-04-30</date>
+      <title>餐桌上的魚百科：跟著魚汛吃好魚！從挑選、...</title>
+      <price>329</price>
+      <imageUrl>http://www.books.com.tw/img/001/062/44/0010624477.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010624477</link>
+    </book>
+    <book>
+      <date>2014-05-01</date>
+      <title>給青年科學家的信</title>
+      <price>178</price>
+      <imageUrl>http://www.books.com.tw/img/001/062/39/0010623924.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010623924</link>
+    </book>
     <book>
       <date>2014-05-02</date>
       <title>今天真好！：林良X貝果，給孩子滿滿勇氣的...</title>

@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-01</date>
+      <date>2014-05-02</date>
       <title>主管應該管什麼：輕易贏得下屬愛戴，老闆賞...</title>
       <price>185</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986892097.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-05-02</date>
-      <title>常見疾病的居家治療</title>
-      <price>165</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986608070.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004056384</link>
-    </book>
-    <book>
       <date>2014-05-03</date>
       <title>大尋寶家</title>
       <price>277</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986638545.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986638545.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004231009</link>
     </book>
     <book>
       <date>2014-05-04</date>
       <title>3分鐘、4步驟 ！每日玩美變髮術：55款...</title>
       <price>218</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185923.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185923.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004131846</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-05-07</date>
       <title>老台菜：紅城花廳台灣味</title>
       <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986679869.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986679869.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003899591</link>
+    </book>
+    <book>
+      <date>2014-05-08</date>
+      <title>0到3歲，用遊戲教出棒小孩</title>
+      <price>165</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986271357.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003874657</link>
     </book>
   </preview>
 </book66>
