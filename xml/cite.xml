@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-03</date>
-      <title>建築大師語錄</title>
-      <price>197</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GW026.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=37321</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-05-04</date>
       <title>設計師不傳的私房秘技 書櫃設計500</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GI834.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=37612</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-05-05</date>
       <title>河圖洛書新解：以科學框架取代陰陽五行，找...</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KS2018.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=37605</link>
+    </book>
+    <book>
+      <date>2014-05-10</date>
+      <title>明朝大人物：皇帝、權臣、佞倖、錦衣衛</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH7120X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=31509</link>
     </book>
   </preview>
 </book66>
