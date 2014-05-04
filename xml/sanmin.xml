@@ -2,33 +2,26 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-04</date>
-      <title>3分鐘、4步驟 ！每日玩美變髮術：55款...</title>
-      <price>218</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986185923.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004131846</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-05-05</date>
       <title>比爾蓋茲全傳：從電腦天才到世界慈善家</title>
       <price>211</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/957/957713442.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004219554</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-05-06</date>
       <title>東大醫學生親授輕鬆考上第一志願的讀書法：...</title>
       <price>165</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185666.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986185666.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002728772</link>
     </book>
     <book>
       <date>2014-05-07</date>
       <title>老台菜：紅城花廳台灣味</title>
       <price>185</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986679869.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986679869.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003899591</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-05-10</date>
       <title>Miki's童趣手作雜貨書</title>
       <price>211</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986636067.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986636067.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002797811</link>
+    </book>
+    <book>
+      <date>2014-05-11</date>
+      <title>善終，最美的祝福：預約圓滿終點的10個條...</title>
+      <price>205</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185924.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004160816</link>
     </book>
   </preview>
 </book66>

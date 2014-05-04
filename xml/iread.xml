@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-04</date>
-      <title>從零開始也OK!簡單做好皂：不失敗的...</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000271323-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000271323</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-05-05</date>
       <title>分好類超好背7000單字</title>
       <price>197</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000176588-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000176588</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-05-06</date>
       <title>學作麵包的頂級入門書</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000267400-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000267400</link>
+    </book>
+    <book>
+      <date>2014-05-11</date>
+      <title>健康存摺─為你儲備健康指數的501個...</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000171064</link>
     </book>
   </preview>
 </book66>
