@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-07</date>
-      <title>一口氣讀完大漢史</title>
-      <price>231</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000269991-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000269991</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-05-08</date>
       <title>幸福先生</title>
       <price>317</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000266714-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000266714</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-05-09</date>
       <title>第一次學會縫拉鍊作布包:27款手作包x...</title>
@@ -51,6 +44,13 @@
       <price>317</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000267136-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000267136</link>
+    </book>
+    <book>
+      <date>2014-05-14</date>
+      <title>常用蔬果養生吃法大百科</title>
+      <price>383</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000269496-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000269496</link>
     </book>
   </preview>
 </book66>
