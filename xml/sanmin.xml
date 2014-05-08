@@ -2,33 +2,26 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-08</date>
-      <title>0到3歲，用遊戲教出棒小孩</title>
-      <price>165</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986271357.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003874657</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-05-09</date>
       <title>New TOEIC多益口說&amp;寫作大破解</title>
       <price>317</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986702534.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004236617</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-05-10</date>
       <title>Miki's童趣手作雜貨書</title>
       <price>211</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986636067.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986636067.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002797811</link>
     </book>
     <book>
       <date>2014-05-11</date>
       <title>善終，最美的祝福：預約圓滿終點的10個條...</title>
       <price>205</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185924.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185924.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004160816</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-05-14</date>
       <title>菜根譚的人生88個感悟</title>
       <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957713540.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/957/957713540.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004258940</link>
+    </book>
+    <book>
+      <date>2014-05-15</date>
+      <title>夏威夷風印花布小物</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986664826.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000710512</link>
     </book>
   </preview>
 </book66>
