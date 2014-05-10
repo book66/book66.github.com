@@ -2,33 +2,26 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-10</date>
-      <title>Miki's童趣手作雜貨書</title>
-      <price>211</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986636067.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002797811</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-05-11</date>
       <title>善終，最美的祝福：預約圓滿終點的10個條...</title>
       <price>205</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986185924.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004160816</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-05-12</date>
       <title>圖解你不能不懂的小人經</title>
       <price>172</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986594255.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986594255.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004223563</link>
     </book>
     <book>
       <date>2014-05-13</date>
       <title>有錢人的自動賺錢術</title>
       <price>185</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986271313.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986271313.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003815016</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-05-16</date>
       <title>當蜜蜂消失的那天</title>
       <price>172</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986638508.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986638508.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001157704</link>
+    </book>
+    <book>
+      <date>2014-05-17</date>
+      <title>有錢人給孩子的26個禮物</title>
+      <price>165</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986271343.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004032980</link>
     </book>
   </preview>
 </book66>
