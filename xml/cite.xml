@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-13</date>
-      <title>巴黎地鐵站的歷史課：從西堤島到新凱旋門，...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUB011.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=37581</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-05-14</date>
       <title>配合28天生理期，喚醒妳的美麗平衡：女性...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3093.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35669</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-05-15</date>
       <title>圖解食品安全全書（最新修訂版）</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3041X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=36856</link>
+    </book>
+    <book>
+      <date>2014-05-20</date>
+      <title>圖解生理學</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DK0050.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=36525</link>
     </book>
   </preview>
 </book66>
