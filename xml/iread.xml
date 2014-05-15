@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-15</date>
-      <title>韓國：撼動世界的嗆泡菜</title>
-      <price>231</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000267140-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000267140</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-05-16</date>
       <title>等待：成功都需慢慢的煎熬及忍耐</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000269997-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000269997</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-05-17</date>
       <title>氣度決定一切</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000267893-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000267893</link>
+    </book>
+    <book>
+      <date>2014-05-22</date>
+      <title>大故宮Ⅱ</title>
+      <price>231</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000267137-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000267137</link>
     </book>
   </preview>
 </book66>
