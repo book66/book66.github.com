@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-17</date>
+      <date>2014-05-18</date>
       <title>有錢人給孩子的26個禮物</title>
       <price>165</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986271343.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-05-18</date>
-      <title>三國演義的人生64個感悟</title>
-      <price>185</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/957/957713445.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004219555</link>
-    </book>
-    <book>
       <date>2014-05-19</date>
       <title>用技術分析賺第一桶金</title>
       <price>185</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986271368.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986271368.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003914794</link>
     </book>
     <book>
       <date>2014-05-20</date>
       <title>愛麗絲夢遊仙境－文學菁選14</title>
       <price>132</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986708519.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986708519.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000476024</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-05-23</date>
       <title>用毛巾枕治好駝背！：超簡單﹗躺著做就健康</title>
       <price>158</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986679872.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986679872.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004016795</link>
+    </book>
+    <book>
+      <date>2014-05-24</date>
+      <title>零誤解溝通：說的清楚聽的明白</title>
+      <price>264</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/988/988826373.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004361167</link>
     </book>
   </preview>
 </book66>
