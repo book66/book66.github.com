@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-05-19</date>
-      <title>人體解剖全書</title>
-      <price>594</price>
-      <imageUrl>http://www.books.com.tw/img/001/057/14/0010571404.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010571404</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-05-19</date>
       <title>學習。在一起的幸福</title>
       <price>198</price>
       <imageUrl>http://www.books.com.tw/img/001/059/96/0010599625.jpg</imageUrl>
       <link>http://www.books.com.tw/products/0010599625</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-05-20</date>
       <title>1天只要1分鐘1個動作！瘦腰、平腹、提拉...</title>
