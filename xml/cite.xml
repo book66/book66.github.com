@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-19</date>
-      <title>出發囉！跟著肉魯玩瘋台灣：232個玩到爽...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA6701.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=37679</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-05-20</date>
       <title>圖解生理學</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DK0050.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=36525</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-05-21</date>
       <title>最極致的服務最賺錢：麗池卡登、寶格麗、迪...</title>
@@ -51,6 +44,13 @@
       <price>218</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3081.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=37322</link>
+    </book>
+    <book>
+      <date>2014-05-26</date>
+      <title>圖解照明：110種關鍵提案與具體做法，營...</title>
+      <price>317</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO3001.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=36805</link>
     </book>
   </preview>
 </book66>
