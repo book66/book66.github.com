@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-20</date>
+      <date>2014-05-21</date>
       <title>愛麗絲夢遊仙境－文學菁選14</title>
       <price>132</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986708519.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-05-21</date>
-      <title>當然可以不生氣：45個簡單策略，讓你不論...</title>
-      <price>158</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986185861.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003857483</link>
-    </book>
-    <book>
       <date>2014-05-22</date>
       <title>一次讀完史記故事</title>
       <price>231</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986595168.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986595168.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004254841</link>
     </book>
     <book>
       <date>2014-05-23</date>
       <title>用毛巾枕治好駝背！：超簡單﹗躺著做就健康</title>
       <price>158</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986679872.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986679872.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004016795</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-05-26</date>
       <title>鈔票上的名人</title>
       <price>277</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595170.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986595170.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004254842</link>
+    </book>
+    <book>
+      <date>2014-05-27</date>
+      <title>婚後3年，決定妳的一輩子的幸福：讓老公寵...</title>
+      <price>205</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185864.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003857484</link>
     </book>
   </preview>
 </book66>
