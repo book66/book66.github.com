@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-23</date>
-      <title>這樣表達，再複雜也能一聽就懂！商品或點子...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0507.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=32982</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-05-24</date>
       <title>上帝的粒子：希格斯粒子的發明與發現</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1241.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32813</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-05-25</date>
       <title>一切都是最好的安排</title>
