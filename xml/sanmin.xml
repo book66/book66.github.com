@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-23</date>
+      <date>2014-05-24</date>
       <title>用毛巾枕治好駝背！：超簡單﹗躺著做就健康</title>
       <price>158</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986679872.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-05-24</date>
-      <title>零誤解溝通：說的清楚聽的明白</title>
-      <price>264</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/988/988826373.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004361167</link>
-    </book>
-    <book>
       <date>2014-05-25</date>
       <title>讓2個人比1個人好</title>
       <price>165</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986271332.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986271332.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003801957</link>
     </book>
     <book>
       <date>2014-05-26</date>
       <title>鈔票上的名人</title>
       <price>277</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986595170.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986595170.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004254842</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-05-29</date>
       <title>泡茶．喝茶</title>
       <price>238</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986877402.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986877402.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003006625</link>
+    </book>
+    <book>
+      <date>2014-05-30</date>
+      <title>在碧綠的夏色裡</title>
+      <price>211</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/957/957444892.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003957562</link>
     </book>
   </preview>
 </book66>
