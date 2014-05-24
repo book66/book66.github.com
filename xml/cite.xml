@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-24</date>
-      <title>上帝的粒子：希格斯粒子的發明與發現</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1241.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=32813</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-05-25</date>
       <title>一切都是最好的安排</title>
       <price>218</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3081.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=37322</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-05-26</date>
       <title>圖解照明：110種關鍵提案與具體做法，營...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB828.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39029</link>
+    </book>
+    <book>
+      <date>2014-05-31</date>
+      <title>100%無人工添加物！揉不揉都好吃的天然...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB826.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=37320</link>
     </book>
   </preview>
 </book66>
