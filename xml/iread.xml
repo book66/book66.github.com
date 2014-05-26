@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-26</date>
-      <title>從現在開始學英文還有救！ 5週學完美...</title>
-      <price>263</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000217735.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000217735</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-05-27</date>
       <title>不管怎樣，別小看自己！</title>
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000177285-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000177285</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-05-28</date>
       <title>5分鐘就學會！完全圖解手診密碼</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000272921-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000272921</link>
+    </book>
+    <book>
+      <date>2014-06-02</date>
+      <title>說春秋之七：孔子世家</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000191595-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000191595</link>
     </book>
   </preview>
 </book66>
