@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-27</date>
-      <title>幸運賊</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HI076.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=36927</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-05-28</date>
       <title>華頓商學院的高效談判學：讓你成為最好的談...</title>
       <price>264</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1095.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25864</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-05-29</date>
       <title>工作，分析了再做：提升工作實力與表現的2...</title>
@@ -51,6 +44,13 @@
       <price>449</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VX0021C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21439</link>
+    </book>
+    <book>
+      <date>2014-06-03</date>
+      <title>圖解新制財報選好股：第一本IFRSs合併...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0526.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=36851</link>
     </book>
   </preview>
 </book66>
