@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-28</date>
-      <title>華頓商學院的高效談判學：讓你成為最好的談...</title>
-      <price>264</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1095.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25864</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-05-29</date>
       <title>工作，分析了再做：提升工作實力與表現的2...</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO1001X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=36071</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-05-30</date>
       <title>來煮一鍋湯：175道燉湯食譜，滋補養生全...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0526.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=36851</link>
+    </book>
+    <book>
+      <date>2014-06-04</date>
+      <title>第三次工業革命：世界經濟即將被顛覆，新能...</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QC1054C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=30670</link>
     </book>
   </preview>
 </book66>
