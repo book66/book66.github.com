@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-29</date>
-      <title>大故宮Ⅲ</title>
-      <price>251</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000269090-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000269090</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-05-30</date>
       <title>惱人的過敏,不見了!</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000268361-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000268361</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-05-31</date>
       <title>超級記憶術：改變一生的學習方式</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000271109-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000271109</link>
+    </book>
+    <book>
+      <date>2014-06-05</date>
+      <title>征服者 4：六合為家</title>
+      <price>297</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000271468-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000271468</link>
     </book>
   </preview>
 </book66>
