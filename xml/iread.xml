@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-30</date>
-      <title>惱人的過敏,不見了!</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000268361-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000268361</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-05-31</date>
       <title>超級記憶術：改變一生的學習方式</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000258889-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000258889</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-06-01</date>
       <title>在家請客：團圓宴客菜自己來</title>
@@ -51,6 +44,13 @@
       <price>297</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000271468-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000271468</link>
+    </book>
+    <book>
+      <date>2014-06-06</date>
+      <title>九型人格：自我人格特質的開發與提昇...</title>
+      <price>185</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000205683-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000205683</link>
     </book>
   </preview>
 </book66>

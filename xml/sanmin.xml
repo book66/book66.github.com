@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-05-30</date>
+      <date>2014-05-31</date>
       <title>在碧綠的夏色裡</title>
       <price>211</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/957/957444892.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-05-31</date>
-      <title>心靜致富：吸引財富最強大的力量，從困境到...</title>
-      <price>224</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986900861.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004245170</link>
-    </book>
-    <book>
       <date>2014-06-01</date>
       <title>中醫驗方I：內科</title>
       <price>165</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986316470.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986316470.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004294690</link>
     </book>
     <book>
       <date>2014-06-02</date>
       <title>雨傘小販溺水事件</title>
       <price>198</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986638525.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986638525.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003059585</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-06-05</date>
       <title>陽臺菜園採收樂</title>
       <price>165</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986716731.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986716731.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000511146</link>
+    </book>
+    <book>
+      <date>2014-06-06</date>
+      <title>Collins 易學易記英語用法</title>
+      <price>317</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/962/962071981.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004349397</link>
     </book>
   </preview>
 </book66>
