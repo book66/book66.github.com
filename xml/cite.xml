@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-01</date>
-      <title>用地圖看懂全球經濟趨勢</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5083.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=32890</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-06-02</date>
       <title>巴黎女人的時尚聖經</title>
       <price>449</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VX0021C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21439</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-06-03</date>
       <title>圖解新制財報選好股：第一本IFRSs合併...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM105.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=33351</link>
+    </book>
+    <book>
+      <date>2014-06-08</date>
+      <title>跟阿嬤學做菜2：記憶中的飯菜香&amp;季節手釀</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM109.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=35989</link>
     </book>
   </preview>
 </book66>
