@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-02</date>
-      <title>巴黎女人的時尚聖經</title>
-      <price>449</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VX0021C.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=21439</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-06-03</date>
       <title>圖解新制財報選好股：第一本IFRSs合併...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0526.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=36851</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-06-04</date>
       <title>第三次工業革命：世界經濟即將被顛覆，新能...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM109.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35989</link>
+    </book>
+    <book>
+      <date>2014-06-09</date>
+      <title>圖解日本神話</title>
+      <price>218</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HP014.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=38500</link>
     </book>
   </preview>
 </book66>
