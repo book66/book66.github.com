@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-03</date>
-      <title>圖解新制財報選好股：第一本IFRSs合併...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0526.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=36851</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-06-04</date>
       <title>第三次工業革命：世界經濟即將被顛覆，新能...</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QC1054C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=30670</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-06-05</date>
       <title>京都生活關鍵字：從百年老舖到喫茶店，體驗...</title>
@@ -51,6 +44,13 @@
       <price>218</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HP014.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=38500</link>
+    </book>
+    <book>
+      <date>2014-06-10</date>
+      <title>快樂的植物染： 26種植物、8種染法複合...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VG0072.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=34388</link>
     </book>
   </preview>
 </book66>

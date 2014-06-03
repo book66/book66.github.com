@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-03</date>
+      <date>2014-06-04</date>
       <title>跟著營養師挑對好食材！A+優良食材1分鐘...</title>
       <price>211</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986271320.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-06-04</date>
-      <title>捨不得：「捨得」是一種用金錢買不到的「獲...</title>
-      <price>172</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/957/957713441.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004271568</link>
-    </book>
-    <book>
       <date>2014-06-05</date>
       <title>陽臺菜園採收樂</title>
       <price>165</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986716731.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986716731.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=000511146</link>
     </book>
     <book>
       <date>2014-06-06</date>
       <title>Collins 易學易記英語用法</title>
       <price>317</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/962/962071981.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/962/962071981.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004349397</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-06-09</date>
       <title>一輩子都受用的英文單字課：字首，字根，字...</title>
       <price>263</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986271326.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986271326.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003812699</link>
+    </book>
+    <book>
+      <date>2014-06-10</date>
+      <title>狗狗教養百科</title>
+      <price>165</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986608045.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003456973</link>
     </book>
   </preview>
 </book66>
