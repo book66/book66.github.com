@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-06</date>
-      <title>地圖的歷史：從石刻地圖到Google M...</title>
-      <price>329</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2062.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=38521</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-06-07</date>
       <title>健走功：適合現代人的氣功健走，每天30分...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD040.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34191</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-06-08</date>
       <title>跟阿嬤學做菜2：記憶中的飯菜香&amp;季節手釀</title>
@@ -51,6 +44,13 @@
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH1147.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=36854</link>
+    </book>
+    <book>
+      <date>2014-06-13</date>
+      <title>放手畫吧！Just Draw It!：6...</title>
+      <price>317</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VE0053.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=34036</link>
     </book>
   </preview>
 </book66>
