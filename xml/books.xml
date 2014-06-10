@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-10</date>
+      <date>2014-06-11</date>
       <title>KINFOLK餐桌：獻給生活中的每一場小...</title>
       <price>627</price>
       <imageUrl>http://www.books.com.tw/img/001/062/67/0010626722.jpg</imageUrl>
@@ -10,6 +10,20 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2014-06-09</date>
+      <title>公司的品格：22個案例，了解公司治理和上...</title>
+      <price>178</price>
+      <imageUrl>http://www.books.com.tw/img/001/062/66/0010626613.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010626613</link>
+    </book>
+    <book>
+      <date>2014-06-10</date>
+      <title>KINFOLK餐桌：獻給生活中的每一場小...</title>
+      <price>627</price>
+      <imageUrl>http://www.books.com.tw/img/001/062/67/0010626722.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010626722</link>
+    </book>
     <book>
       <date>2014-06-11</date>
       <title>諾貝爾獎得主艾莉絲．孟若短篇小說集：《太...</title>

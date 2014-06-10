@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-10</date>
-      <title>快樂的植物染： 26種植物、8種染法複合...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VG0072.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=34388</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-06-11</date>
       <title>寫給孩子的邏輯思考書</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1003.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35595</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-06-12</date>
       <title>文化研究關鍵詞</title>
@@ -51,6 +44,13 @@
       <price>197</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA3004.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=38439</link>
+    </book>
+    <book>
+      <date>2014-06-17</date>
+      <title>邏輯思考法圖解</title>
+      <price>145</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0241X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=38433</link>
     </book>
   </preview>
 </book66>
