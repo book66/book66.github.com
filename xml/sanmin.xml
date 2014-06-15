@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-15</date>
+      <date>2014-06-16</date>
       <title>給大忙人看的佛法書</title>
       <price>185</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986595173.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-06-16</date>
-      <title>最強圖解新多益NEW TOEIC單字記憶...</title>
-      <price>230</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986271259.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003606748</link>
-    </book>
-    <book>
       <date>2014-06-17</date>
       <title>泡茶．喝茶</title>
       <price>238</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986877402.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986877402.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003006625</link>
     </book>
     <book>
       <date>2014-06-18</date>
       <title>中醫偏方I：傳染病、內科、外科、骨科、婦...</title>
       <price>165</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986316473.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986316473.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004294691</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-06-21</date>
       <title>只說故事，不說教</title>
       <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986591639.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986591639.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004294983</link>
+    </book>
+    <book>
+      <date>2014-06-22</date>
+      <title>立即見效，一輩子最受用的10堂情緒管理課</title>
+      <price>198</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986271282.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003491169</link>
     </book>
   </preview>
 </book66>
