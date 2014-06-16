@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-16</date>
-      <title>編輯樣</title>
-      <price>284</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000271470-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000271470</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-06-17</date>
       <title>金色聖經NEW TOEIC新多益5000...</title>
       <price>263</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000190397-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000190397</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-06-18</date>
       <title>純天然無毒清潔術：妙用小蘇打×檸檬...</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000163898-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000163898</link>
+    </book>
+    <book>
+      <date>2014-06-23</date>
+      <title>給青年科學家的信</title>
+      <price>178</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000271903-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000271903</link>
     </book>
   </preview>
 </book66>
