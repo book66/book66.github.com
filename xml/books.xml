@@ -3,34 +3,13 @@
   <today>
     <book>
       <date>2014-06-18</date>
-      <title>那些再與你無關的幸福</title>
-      <price>185</price>
-      <imageUrl>http://www.books.com.tw/img/001/058/67/0010586771.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010586771</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-06-16</date>
-      <title>麥肯錫新人培訓7堂課：上完這些課，去哪裡...</title>
-      <price>158</price>
-      <imageUrl>http://www.books.com.tw/img/001/062/33/0010623348.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010623348</link>
-    </book>
-    <book>
-      <date>2014-06-17</date>
-      <title>那些再與你無關的幸福</title>
-      <price>185</price>
-      <imageUrl>http://www.books.com.tw/img/001/058/67/0010586771.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010586771</link>
-    </book>
-    <book>
-      <date>2014-06-18</date>
       <title>國家地理終極旅遊：一生必遊的500經典路...</title>
       <price>416</price>
       <imageUrl>http://www.books.com.tw/img/001/056/09/0010560972.jpg</imageUrl>
       <link>http://www.books.com.tw/products/0010560972</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-06-19</date>
       <title>史上最簡單！日本大風行！法式吐司＆熱三明...</title>
