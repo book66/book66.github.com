@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-18</date>
+      <date>2014-06-19</date>
       <title>中醫偏方I：傳染病、內科、外科、骨科、婦...</title>
       <price>165</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986316473.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-06-19</date>
-      <title>小小探險家：美東親子逍遙遊</title>
-      <price>231</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986679849.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003009881</link>
-    </book>
-    <book>
       <date>2014-06-20</date>
       <title>海狼：靈魂與生命力的考驗</title>
       <price>158</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986302031.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986302031.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002788287</link>
     </book>
     <book>
       <date>2014-06-21</date>
       <title>只說故事，不說教</title>
       <price>185</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986591639.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986591639.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004294983</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-06-24</date>
       <title>西點軍校公開課</title>
       <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986575811.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986575811.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004341210</link>
+    </book>
+    <book>
+      <date>2014-06-25</date>
+      <title>一按上菜！80道零失敗懶人電鍋料理</title>
+      <price>172</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986271289.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003491170</link>
     </book>
   </preview>
 </book66>
