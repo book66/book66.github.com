@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-22</date>
-      <title>惡魔讀心術－算命師都在用的秒殺觀人...</title>
-      <price>145</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000163898-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000163898</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-06-23</date>
       <title>給青年科學家的信</title>
       <price>178</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000271903-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000271903</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-06-24</date>
       <title>1200 句讓你在全世界交朋友的必備英...</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000173889-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000173889</link>
+    </book>
+    <book>
+      <date>2014-06-29</date>
+      <title>惡魔讀心術2：讓小人都靠邊閃的秒殺破...</title>
+      <price>145</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000210717-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000210717</link>
     </book>
   </preview>
 </book66>

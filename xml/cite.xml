@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-22</date>
-      <title>明朝大人物：皇帝、權臣、佞倖、錦衣衛</title>
-      <price>224</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH7120X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=31509</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-06-23</date>
       <title>如何閱讀文學</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7054.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=38461</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-06-24</date>
       <title>圖解建築室內裝修設計入門：一次精通室內裝...</title>
@@ -51,6 +44,13 @@
       <price>178</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7072.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=38645</link>
+    </book>
+    <book>
+      <date>2014-06-29</date>
+      <title>貓咪這樣吃最健康！</title>
+      <price>244</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1PA001.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=35891</link>
     </book>
   </preview>
 </book66>
