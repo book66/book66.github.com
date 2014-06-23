@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-23</date>
-      <title>如何閱讀文學</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7054.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=38461</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-06-24</date>
       <title>圖解建築室內裝修設計入門：一次精通室內裝...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FI1028.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=37031</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-06-25</date>
       <title>增強你的意志力：教你實現目標、抗拒誘惑的...</title>
@@ -51,6 +44,13 @@
       <price>244</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1PA001.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35891</link>
+    </book>
+    <book>
+      <date>2014-06-30</date>
+      <title>行銷前必修的購物心理學：徹底推翻被誤解的...</title>
+      <price>264</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0523.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=37230</link>
     </book>
   </preview>
 </book66>

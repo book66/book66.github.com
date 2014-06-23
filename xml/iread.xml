@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-23</date>
-      <title>給青年科學家的信</title>
-      <price>178</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000271903-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000271903</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-06-24</date>
       <title>1200 句讓你在全世界交朋友的必備英...</title>
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000270363-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000270363</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-06-25</date>
       <title>齊藤謠子的拼布：晉級的手縫</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000210717-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000210717</link>
+    </book>
+    <book>
+      <date>2014-06-30</date>
+      <title>哲學家看世界的47種方法</title>
+      <price>178</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000269535-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000269535</link>
     </book>
   </preview>
 </book66>
