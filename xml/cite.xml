@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-24</date>
-      <title>圖解建築室內裝修設計入門：一次精通室內裝...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FI1028.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=37031</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-06-25</date>
       <title>增強你的意志力：教你實現目標、抗拒誘惑的...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1108.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=33303</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-06-26</date>
       <title>馬基維利式教養寶典：不動怒、不嘮叨，教出...</title>
@@ -51,6 +44,13 @@
       <price>264</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0523.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=37230</link>
+    </book>
+    <book>
+      <date>2014-07-01</date>
+      <title>東京攻略完全制霸2014-2015</title>
+      <price>263</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KS2018.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=37605</link>
     </book>
   </preview>
 </book66>
