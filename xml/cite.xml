@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-29</date>
-      <title>貓咪這樣吃最健康！</title>
-      <price>244</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1PA001.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=35891</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-06-30</date>
       <title>行銷前必修的購物心理學：徹底推翻被誤解的...</title>
       <price>264</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0523.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=37230</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-07-01</date>
       <title>東京攻略完全制霸2014-2015</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF627.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=38520</link>
+    </book>
+    <book>
+      <date>2014-07-06</date>
+      <title>何者（直木賞得獎作）</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YX0027.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=38440</link>
     </book>
   </preview>
 </book66>
