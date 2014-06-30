@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-06-30</date>
+      <date>2014-07-01</date>
       <title>圖解心理學</title>
       <price>251</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986594258.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-07-01</date>
-      <title>猶太人賺錢術</title>
-      <price>145</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986316477.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004341212</link>
-    </book>
-    <book>
       <date>2014-07-02</date>
       <title>秀惠老師的優雅．花卉拼布包</title>
       <price>231</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986636086.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986636086.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003537106</link>
     </book>
     <book>
       <date>2014-07-03</date>
       <title>真愛變魔術：全宇宙最簡單！聯誼、約會、夜...</title>
       <price>185</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185953.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185953.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004286021</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-07-06</date>
       <title>趁著年輕必須賭一次：窮人與富人的距離0....</title>
       <price>185</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595172.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986595172.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004361580</link>
+    </book>
+    <book>
+      <date>2014-07-07</date>
+      <title>中國模式到底有多獨特</title>
+      <price>264</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/988/988829018.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004520499</link>
     </book>
   </preview>
 </book66>
