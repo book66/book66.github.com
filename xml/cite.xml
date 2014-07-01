@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-01</date>
-      <title>東京攻略完全制霸2014-2015</title>
-      <price>263</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KS2018.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=37605</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-07-02</date>
       <title>圖解日用品安全全書</title>
       <price>449</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO2010.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19224</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-07-03</date>
       <title>三星成長300倍的祕密：揭露管理鬼才李健...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GB108.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39493</link>
+    </book>
+    <book>
+      <date>2014-07-08</date>
+      <title>心智圖法理論與應用</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1020.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=38626</link>
     </book>
   </preview>
 </book66>
