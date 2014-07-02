@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-02</date>
-      <title>圖解日用品安全全書</title>
-      <price>449</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO2010.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=19224</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-07-03</date>
       <title>三星成長300倍的祕密：揭露管理鬼才李健...</title>
       <price>218</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BP1041.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=26210</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-07-04</date>
       <title>125遊戲，提升孩子專注力6</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1020.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=38626</link>
+    </book>
+    <book>
+      <date>2014-07-09</date>
+      <title>圖解食品安全全書（最新修訂版）</title>
+      <price>304</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO2020.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=32903</link>
     </book>
   </preview>
 </book66>
