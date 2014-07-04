@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-04</date>
+      <date>2014-07-05</date>
       <title>翻一次說一輩子的英文簡報速成本</title>
       <price>197</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986271299.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-07-05</date>
-      <title>畫與醫：一位腦科醫生的視點</title>
-      <price>442</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/962/962043562.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004543316</link>
-    </book>
-    <book>
       <date>2014-07-06</date>
       <title>趁著年輕必須賭一次：窮人與富人的距離0....</title>
       <price>185</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986595172.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986595172.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004361580</link>
     </book>
     <book>
       <date>2014-07-07</date>
       <title>中國模式到底有多獨特</title>
       <price>264</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/988/988829018.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/988/988829018.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004520499</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-07-10</date>
       <title>湖濱散記 （全新譯本‧名家裝幀與插畫）</title>
       <price>218</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185840.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185840.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003815497</link>
+    </book>
+    <book>
+      <date>2014-07-11</date>
+      <title>瞬間啟動財富力：揮別窮忙的29個致富思維</title>
+      <price>185</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986271321.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003667281</link>
     </book>
   </preview>
 </book66>
