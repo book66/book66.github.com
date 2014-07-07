@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-07</date>
+      <date>2014-07-08</date>
       <title>中國模式到底有多獨特</title>
       <price>264</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/988/988829018.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-07-08</date>
-      <title>中醫驗方II：外科、婦科、兒科、五官科、...</title>
-      <price>165</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986316471.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004350534</link>
-    </book>
-    <book>
       <date>2014-07-09</date>
       <title>珍．奧斯汀的世界：英國最受歡迎小說家的生...</title>
       <price>317</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986627733.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986627733.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001322797</link>
     </book>
     <book>
       <date>2014-07-10</date>
       <title>湖濱散記 （全新譯本‧名家裝幀與插畫）</title>
       <price>218</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185840.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185840.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003815497</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-07-13</date>
       <title>微笑的花草遊戲：沒學過，一樣可以輕鬆上手...</title>
       <price>251</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986627784.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986627784.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002528522</link>
+    </book>
+    <book>
+      <date>2014-07-14</date>
+      <title>中醫偏方II：兒科、皮膚科、美容科、五官...</title>
+      <price>152</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986316474.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004350536</link>
     </book>
   </preview>
 </book66>
