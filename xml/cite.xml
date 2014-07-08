@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-08</date>
-      <title>心智圖法理論與應用</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1020.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=38626</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-07-09</date>
       <title>圖解食品安全全書（最新修訂版）</title>
       <price>304</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO2020.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32903</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-07-10</date>
       <title>操盤手的萬無一失投資術</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HI077.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=37828</link>
+    </book>
+    <book>
+      <date>2014-07-15</date>
+      <title>獨白</title>
+      <price>132</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX4228.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=39396</link>
     </book>
   </preview>
 </book66>
