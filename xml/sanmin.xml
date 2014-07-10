@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-10</date>
+      <date>2014-07-11</date>
       <title>湖濱散記 （全新譯本‧名家裝幀與插畫）</title>
       <price>218</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986185840.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-07-11</date>
-      <title>瞬間啟動財富力：揮別窮忙的29個致富思維</title>
-      <price>185</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986271321.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003667281</link>
-    </book>
-    <book>
       <date>2014-07-12</date>
       <title>西點軍校公開課</title>
       <price>185</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986575811.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986575811.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004341210</link>
     </book>
     <book>
       <date>2014-07-13</date>
       <title>微笑的花草遊戲：沒學過，一樣可以輕鬆上手...</title>
       <price>251</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986627784.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986627784.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=002528522</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-07-16</date>
       <title>放下，其實沒什麼大不了！雜念退散的煩惱清...</title>
       <price>145</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986271319.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986271319.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003707135</link>
+    </book>
+    <book>
+      <date>2014-07-17</date>
+      <title>經濟學原理</title>
+      <price>317</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595175.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004370359</link>
     </book>
   </preview>
 </book66>
