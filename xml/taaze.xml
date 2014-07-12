@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-12</date>
-      <title>這時候，美國人會怎麼說？</title>
-      <price>263</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100670018</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100670018</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-07-13</date>
       <title>低脂‧低卡‧好吃不發胖：自己作濃‧醇‧香...</title>
       <price>158</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100570867</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100570867</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>

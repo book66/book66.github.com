@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-12</date>
-      <title>西點軍校公開課</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000272876-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000272876</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-07-13</date>
       <title>我的第一本法式磅蛋糕：50種歐式美味...</title>
       <price>317</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000275062-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000275062</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-07-14</date>
       <title>超詳細！基礎木工圖解書</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000233344.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000233344</link>
+    </book>
+    <book>
+      <date>2014-07-19</date>
+      <title>正向法則</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000275079-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000275079</link>
     </book>
   </preview>
 </book66>
