@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-14</date>
+      <date>2014-07-15</date>
       <title>中醫偏方II：兒科、皮膚科、美容科、五官...</title>
       <price>152</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986316474.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-07-15</date>
-      <title>河神</title>
-      <price>185</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986185866.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003902523</link>
-    </book>
-    <book>
       <date>2014-07-16</date>
       <title>放下，其實沒什麼大不了！雜念退散的煩惱清...</title>
       <price>145</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986271319.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986271319.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003707135</link>
     </book>
     <book>
       <date>2014-07-17</date>
       <title>經濟學原理</title>
       <price>317</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986595175.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986595175.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004370359</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-07-20</date>
       <title>早鳥業務的200個超越</title>
       <price>172</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986595174.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986595174.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004361581</link>
+    </book>
+    <book>
+      <date>2014-07-21</date>
+      <title>五形五官開運彩妝：五形五官開運彩妝</title>
+      <price>251</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986302123.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003983982</link>
     </book>
   </preview>
 </book66>
