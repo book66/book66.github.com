@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-15</date>
-      <title>獨白</title>
-      <price>132</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX4228.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=39396</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-07-16</date>
       <title>第一次養鳥就上手（修訂版）</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DH0029.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24944</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-07-17</date>
       <title>綠色療癒力：台灣第一本園藝治療跨領域理論...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MR0003.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39415</link>
+    </book>
+    <book>
+      <date>2014-07-22</date>
+      <title>瓶漬魔法：人氣料理設計師的風格提案，無添...</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BS6006.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=39675</link>
     </book>
   </preview>
 </book66>
