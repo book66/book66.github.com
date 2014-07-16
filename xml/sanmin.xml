@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-16</date>
+      <date>2014-07-17</date>
       <title>放下，其實沒什麼大不了！雜念退散的煩惱清...</title>
       <price>145</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986271319.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-07-17</date>
-      <title>經濟學原理</title>
-      <price>317</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986595175.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004370359</link>
-    </book>
-    <book>
       <date>2014-07-18</date>
       <title>情場不輸人  職場不輸陣</title>
       <price>205</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/988/988823769.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/988/988823769.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004474163</link>
     </book>
     <book>
       <date>2014-07-19</date>
       <title>Facebook行銷設計全攻略</title>
       <price>231</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/962/962145402.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/962/962145402.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004407462</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-07-22</date>
       <title>和豬頭，握個手：化解對別人的成見；與自己...</title>
       <price>172</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986185822.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185822.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003714102</link>
+    </book>
+    <book>
+      <date>2014-07-23</date>
+      <title>王道：行銷3.0</title>
+      <price>251</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986271317.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003725329</link>
     </book>
   </preview>
 </book66>
