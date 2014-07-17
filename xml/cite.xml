@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-17</date>
-      <title>綠色療癒力：台灣第一本園藝治療跨領域理論...</title>
-      <price>263</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GC021.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=32635</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-07-18</date>
       <title>大思考，微解說：150個擺脫偏見的思考準...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA8002.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39394</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-07-19</date>
       <title>如何衡量萬事萬物：大數據時代，做好量化決...</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO1003.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=37834</link>
+    </book>
+    <book>
+      <date>2014-07-24</date>
+      <title>別說不可能：當所有行為都加上了風險的機率...</title>
+      <price>263</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0197.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=34726</link>
     </book>
   </preview>
 </book66>
