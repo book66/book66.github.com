@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-18</date>
-      <title>大思考，微解說：150個擺脫偏見的思考準...</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA8002.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=39394</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-07-19</date>
       <title>如何衡量萬事萬物：大數據時代，做好量化決...</title>
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1112.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=38139</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-07-20</date>
       <title>聽說桐島退社了</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0197.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34726</link>
+    </book>
+    <book>
+      <date>2014-07-25</date>
+      <title>想創業，你要有不一樣的腦袋：沒用、愚蠢、...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0530.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=39753</link>
     </book>
   </preview>
 </book66>
