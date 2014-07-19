@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-19</date>
-      <title>正向法則</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000275079-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000275079</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-07-20</date>
       <title>人人著迷的樂活養生素：自然、無毒、...</title>
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000192829-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000192829</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-07-21</date>
       <title>用超輕土Step by Step捏出擬真...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000274085-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000274085</link>
+    </book>
+    <book>
+      <date>2014-07-26</date>
+      <title>早知道，人生不用再重來！</title>
+      <price>145</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000179927-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000179927</link>
     </book>
   </preview>
 </book66>

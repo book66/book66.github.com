@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-19</date>
-      <title>如何衡量萬事萬物：大數據時代，做好量化決...</title>
-      <price>317</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1112.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=38139</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-07-20</date>
       <title>聽說桐島退社了</title>
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YX0023.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34294</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-07-21</date>
       <title>甜蜜的謀殺</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0530.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39753</link>
+    </book>
+    <book>
+      <date>2014-07-26</date>
+      <title>吳永志不一樣的自然養生法【全彩圖解珍藏版...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3096.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=35156</link>
     </book>
   </preview>
 </book66>
