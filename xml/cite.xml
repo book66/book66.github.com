@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-20</date>
-      <title>聽說桐島退社了</title>
-      <price>158</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YX0023.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=34294</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-07-21</date>
       <title>甜蜜的謀殺</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MR0003.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39415</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-07-22</date>
       <title>瓶漬魔法：人氣料理設計師的風格提案，無添...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3096.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35156</link>
+    </book>
+    <book>
+      <date>2014-07-27</date>
+      <title>阿鎧老師10天就看到成效的感統遊戲【加贈...</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SH0121.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=36347</link>
     </book>
   </preview>
 </book66>
