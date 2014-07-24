@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-24</date>
-      <title>泰戈爾的詩</title>
-      <price>131</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100179517</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100179517</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-07-25</date>
       <title>北歐式的自由生活提案</title>
       <price>165</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100668457</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100668457</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-07-26</date>
       <title>好人難遇</title>

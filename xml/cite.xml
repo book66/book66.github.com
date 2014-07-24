@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-24</date>
-      <title>別說不可能：當所有行為都加上了風險的機率...</title>
-      <price>263</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0197.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=34726</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-07-25</date>
       <title>想創業，你要有不一樣的腦袋：沒用、愚蠢、...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0530.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39753</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-07-26</date>
       <title>吳永志不一樣的自然養生法【全彩圖解珍藏版...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO2021.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=37512</link>
+    </book>
+    <book>
+      <date>2014-07-31</date>
+      <title>不吃主食，1週速瘦6公斤──「限醣飲食減...</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OS2008.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=34431</link>
     </book>
   </preview>
 </book66>
