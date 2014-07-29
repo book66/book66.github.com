@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-29</date>
+      <date>2014-07-30</date>
       <title>這不是飯店，是我家：精省美，100家好旅...</title>
       <price>211</price>
       <imageUrl>http://www.books.com.tw/img/001/063/31/0010633121.jpg</imageUrl>
@@ -10,6 +10,20 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2014-07-28</date>
+      <title>什麼都能賣！：貝佐斯如何締造亞馬遜傳奇</title>
+      <price>297</price>
+      <imageUrl>http://www.books.com.tw/img/001/063/39/0010633925.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010633925</link>
+    </book>
+    <book>
+      <date>2014-07-29</date>
+      <title>這不是飯店，是我家：精省美，100家好旅...</title>
+      <price>211</price>
+      <imageUrl>http://www.books.com.tw/img/001/063/31/0010633121.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010633121</link>
+    </book>
     <book>
       <date>2014-07-30</date>
       <title>小麥完全真相：歐美千萬人甩開糖尿病、心臟...</title>

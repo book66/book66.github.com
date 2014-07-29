@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-29</date>
-      <title>罪囚645號</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RQ7044.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=39326</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-07-30</date>
       <title>圖解簡明世界局勢（2014最新增訂版）</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO2021.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=37512</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-07-31</date>
       <title>不吃主食，1週速瘦6公斤──「限醣飲食減...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF116.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39916</link>
+    </book>
+    <book>
+      <date>2014-08-05</date>
+      <title>重讀經典：從寓言學習說故事的力量</title>
+      <price>158</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK6033.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=39397</link>
     </book>
   </preview>
 </book66>
