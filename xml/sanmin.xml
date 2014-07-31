@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-07-31</date>
+      <date>2014-08-01</date>
       <title>還在旅行中，2014旅行繪日誌</title>
       <price>238</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986722525.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-08-01</date>
-      <title>大明帝王師：劉伯溫</title>
-      <price>218</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/957/957713544.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004372038</link>
-    </book>
-    <book>
       <date>2014-08-02</date>
       <title>ETFs技術分析圖典</title>
       <price>185</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986271467.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986271467.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004411259</link>
     </book>
     <book>
       <date>2014-08-03</date>
       <title>入社會3年，薪水翻3倍：老闆怕你走，職場...</title>
       <price>172</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986185886.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185886.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003979061</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-08-06</date>
       <title>圖解中國古代哲學•先秦篇</title>
       <price>323</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/988/988829000.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/988/988829000.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004396423</link>
+    </book>
+    <book>
+      <date>2014-08-07</date>
+      <title>圖解水滸傳</title>
+      <price>251</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986594262.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004371839</link>
     </book>
   </preview>
 </book66>
