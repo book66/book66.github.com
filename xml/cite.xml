@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-08-04</date>
-      <title>絕美‧花之繪：色鉛筆的優雅描畫×花卉彩繪...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF116.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=39916</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-08-05</date>
       <title>重讀經典：從寓言學習說故事的力量</title>
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK6033.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39397</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-08-06</date>
       <title>圖解定調人類格局的八大文明</title>
@@ -51,6 +44,13 @@
       <price>197</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KA2044.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39914</link>
+    </book>
+    <book>
+      <date>2014-08-11</date>
+      <title>邏輯思考法圖解</title>
+      <price>145</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0241X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=38433</link>
     </book>
   </preview>
 </book66>

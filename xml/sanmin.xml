@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-08-04</date>
+      <date>2014-08-05</date>
       <title>零誤解溝通：說的清楚聽的明白</title>
       <price>264</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/988/988826373.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-08-05</date>
-      <title>每一天的覺醒：365篇日常生活的冥想與頓...</title>
-      <price>284</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986620077.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003547272</link>
-    </book>
-    <book>
       <date>2014-08-06</date>
       <title>圖解中國古代哲學•先秦篇</title>
       <price>323</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/988/988829000.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/988/988829000.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004396423</link>
     </book>
     <book>
       <date>2014-08-07</date>
       <title>圖解水滸傳</title>
       <price>251</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986594262.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986594262.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004371839</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-08-10</date>
       <title>為什麼狗是寵物？豬是食物？：人類與動物之...</title>
       <price>238</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986596723.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/986/986596723.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003049077</link>
+    </book>
+    <book>
+      <date>2014-08-11</date>
+      <title>米芽米咕人DVD（雙碟版）</title>
+      <price>323</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/430/430470456.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001200938</link>
     </book>
   </preview>
 </book66>
