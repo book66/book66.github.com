@@ -3,27 +3,13 @@
   <today>
     <book>
       <date>2014-08-05</date>
-      <title>愛德華的神奇旅行</title>
-      <price>185</price>
-      <imageUrl>http://www.books.com.tw/img/001/034/92/0010349202.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010349202</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-08-04</date>
-      <title>愛德華的神奇旅行</title>
-      <price>185</price>
-      <imageUrl>http://www.books.com.tw/img/001/034/92/0010349202.jpg</imageUrl>
-      <link>http://www.books.com.tw/products/0010349202</link>
-    </book>
-    <book>
-      <date>2014-08-05</date>
       <title>好問題，建立好關係：轉變工作、人際和家庭...</title>
       <price>198</price>
       <imageUrl>http://www.books.com.tw/img/001/063/15/0010631562.jpg</imageUrl>
       <link>http://www.books.com.tw/products/0010631562</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-08-06</date>
       <title>傑米．奧利佛省錢上菜</title>
