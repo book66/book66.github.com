@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-08-05</date>
+      <date>2014-08-06</date>
       <title>每一天的覺醒：365篇日常生活的冥想與頓...</title>
       <price>284</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986620077.jpg</imageUrl>
@@ -11,24 +11,17 @@
   </today>
   <preview>
     <book>
-      <date>2014-08-06</date>
-      <title>圖解中國古代哲學•先秦篇</title>
-      <price>323</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/988/988829000.jpg</imageUrl>
-      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004396423</link>
-    </book>
-    <book>
       <date>2014-08-07</date>
       <title>圖解水滸傳</title>
       <price>251</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986594262.jpg</imageUrl>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986594262.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004371839</link>
     </book>
     <book>
       <date>2014-08-08</date>
       <title>用ETFs賺遍全世界</title>
       <price>185</price>
-      <imageUrl>http://123.51.221.156/Assets/product_images/986/986271433.jpg</imageUrl>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986271433.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=004341317</link>
     </book>
     <book>
@@ -49,8 +42,15 @@
       <date>2014-08-11</date>
       <title>米芽米咕人DVD（雙碟版）</title>
       <price>323</price>
-      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/430/430470456.jpg</imageUrl>
+      <imageUrl>http://123.51.221.156/Assets/product_images/430/430470456.jpg</imageUrl>
       <link>http://www.sanmin.com.tw/page-product.asp?pf_id=001200938</link>
+    </book>
+    <book>
+      <date>2014-08-12</date>
+      <title>地球與人：生命群落的動態演繹</title>
+      <price>330</price>
+      <imageUrl>http://www.sanmin.com.tw/Assets/product_images/986/986888428.jpg</imageUrl>
+      <link>http://www.sanmin.com.tw/page-product.asp?pf_id=003856926</link>
     </book>
   </preview>
 </book66>
