@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-08-11</date>
-      <title>邏輯思考法圖解</title>
-      <price>145</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0241X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=38433</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-08-12</date>
       <title>讓情緒自由：結合傳統醫學、直觀、能量及夢...</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0085.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39790</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-08-13</date>
       <title>99迷宮遊戲，把專心變有趣</title>
@@ -51,6 +44,13 @@
       <price>329</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GX701.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39251</link>
+    </book>
+    <book>
+      <date>2014-08-18</date>
+      <title>印度納迪葉Nadi Leaf：跨次元即時...</title>
+      <price>218</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU7032.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=39023</link>
     </book>
   </preview>
 </book66>

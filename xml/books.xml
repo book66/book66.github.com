@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-08-11</date>
+      <date>2014-08-12</date>
       <title>史丹佛給你讀得懂的經濟學：給零基礎的你，...</title>
       <price>238</price>
       <imageUrl>http://www.books.com.tw/img/001/063/46/0010634640.jpg</imageUrl>
@@ -10,6 +10,13 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2014-08-11</date>
+      <title>史丹佛給你讀得懂的經濟學：給零基礎的你，...</title>
+      <price>238</price>
+      <imageUrl>http://www.books.com.tw/img/001/063/46/0010634640.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010634640</link>
+    </book>
     <book>
       <date>2014-08-12</date>
       <title>杜鵑的呼喚</title>
