@@ -2,14 +2,21 @@
 <book66>
   <today>
     <book>
+      <date>2014-08-11</date>
+      <title>編輯樣</title>
+      <price>284</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100688238</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100688238</link>
+    </book>
+  </today>
+  <preview>
+    <book>
       <date>2014-08-12</date>
       <title>末日之旅（晝＆夜旅程上下冊套書）</title>
       <price>527</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100621206</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100621206</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2014-08-13</date>
       <title>一元療法：消除54種病痛</title>
