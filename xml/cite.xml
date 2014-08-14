@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-08-14</date>
-      <title>電腦、手機盯再久也不怕！消除眼睛疲勞、有...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BB7038.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=38643</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-08-15</date>
       <title>東京生活再製造：綠園、小巷、良品、職人魂...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GU301.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39935</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-08-16</date>
       <title>100%台灣釀醬</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG052.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39238</link>
+    </book>
+    <book>
+      <date>2014-08-21</date>
+      <title>小主管出頭天：30歲起一定要學會的無情決...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1113.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=39758</link>
     </book>
   </preview>
 </book66>
