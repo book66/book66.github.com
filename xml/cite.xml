@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-08-15</date>
-      <title>東京生活再製造：綠園、小巷、良品、職人魂...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GU301.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=39935</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-08-16</date>
       <title>100%台灣釀醬</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB821.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39344</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-08-17</date>
       <title>米其林三星「銀座小十」主廚奧田透的全技法...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1113.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39758</link>
+    </book>
+    <book>
+      <date>2014-08-22</date>
+      <title>東京好咖啡：品嚐職人的究極精神</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPJ05.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=39909</link>
     </book>
   </preview>
 </book66>
