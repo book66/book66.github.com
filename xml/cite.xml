@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-08-16</date>
-      <title>100%台灣釀醬</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB821.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=39344</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-08-17</date>
       <title>米其林三星「銀座小十」主廚奧田透的全技法...</title>
       <price>329</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GX701.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39251</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-08-18</date>
       <title>印度納迪葉Nadi Leaf：跨次元即時...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPJ05.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39909</link>
+    </book>
+    <book>
+      <date>2014-08-23</date>
+      <title>回家：看見自己內在的靈性伴侶，完成今生功...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU7033C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=39676</link>
     </book>
   </preview>
 </book66>
