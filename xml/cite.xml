@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-08-17</date>
-      <title>米其林三星「銀座小十」主廚奧田透的全技法...</title>
-      <price>329</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GX701.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=39251</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-08-18</date>
       <title>印度納迪葉Nadi Leaf：跨次元即時...</title>
       <price>218</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU7032.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39023</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-08-19</date>
       <title>幼教老師不用數到3的秘密：全美12位最優...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU7033C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39676</link>
+    </book>
+    <book>
+      <date>2014-08-24</date>
+      <title>緬甸小日子</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FC2002.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=38619</link>
     </book>
   </preview>
 </book66>

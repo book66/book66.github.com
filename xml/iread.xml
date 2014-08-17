@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-08-17</date>
-      <title>桃太郎哈台記之我是這樣長大滴</title>
-      <price>251</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000277109-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000277109</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-08-18</date>
       <title>現在不看，未來你會怪自己的200句話</title>
       <price>158</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000278418-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000278418</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-08-19</date>
       <title>這一生的幸福計劃：快樂也可以被管理...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000277813-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000277813</link>
+    </book>
+    <book>
+      <date>2014-08-24</date>
+      <title>孩子成長拍攝零失誤的38種技巧：新手...</title>
+      <price>211</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000281753-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000281753</link>
     </book>
   </preview>
 </book66>
