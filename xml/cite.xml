@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-08-18</date>
-      <title>印度納迪葉Nadi Leaf：跨次元即時...</title>
-      <price>218</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU7032.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=39023</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-08-19</date>
       <title>幼教老師不用數到3的秘密：全美12位最優...</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SH0056X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39091</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-08-20</date>
       <title>台南80攤：徐天麟帶你吃遍道地台南美食</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FC2002.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=38619</link>
+    </book>
+    <book>
+      <date>2014-08-25</date>
+      <title>記憶如此奇妙：朱天衣散文集</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL1271.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=38671</link>
     </book>
   </preview>
 </book66>
