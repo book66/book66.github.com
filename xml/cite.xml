@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-08-20</date>
-      <title>台南80攤：徐天麟帶你吃遍道地台南美食</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG052.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=39238</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-08-21</date>
       <title>小主管出頭天：30歲起一定要學會的無情決...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1113.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39758</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-08-22</date>
       <title>東京好咖啡：品嚐職人的究極精神</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0340X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39913</link>
+    </book>
+    <book>
+      <date>2014-08-27</date>
+      <title>人體使用手冊3：每天10分鐘梳頭推背健康...</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG042.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=35898</link>
     </book>
   </preview>
 </book66>
