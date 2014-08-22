@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-08-22</date>
-      <title>東京好咖啡：品嚐職人的究極精神</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPJ05.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=39909</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-08-23</date>
       <title>回家：看見自己內在的靈性伴侶，完成今生功...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU7033C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39676</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-08-24</date>
       <title>緬甸小日子</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2259.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=38621</link>
+    </book>
+    <book>
+      <date>2014-08-29</date>
+      <title>台北自遊散策</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KG2019.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=39915</link>
     </book>
   </preview>
 </book66>
