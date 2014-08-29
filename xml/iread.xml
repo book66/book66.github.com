@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-08-29</date>
-      <title>一口氣讀完大唐史</title>
-      <price>251</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000278417-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000278417</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-08-30</date>
       <title>不看盤,每月輕鬆賺20萬</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000217733.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000217733</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-08-31</date>
       <title>學齡前必玩的300個小遊戲：奠定孩子...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000288202-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000288202</link>
+    </book>
+    <book>
+      <date>2014-09-05</date>
+      <title>從新手變達人的必備料理教科書：電鍋 ...</title>
+      <price>238</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000287697-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000287697</link>
     </book>
   </preview>
 </book66>
