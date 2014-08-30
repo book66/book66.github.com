@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-08-30</date>
-      <title>遠望日本見聞錄</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL4073.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=38651</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-08-31</date>
       <title>早安，晨之美！讓人快樂的100道繽紛早餐</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM115.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39979</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-09-01</date>
       <title>台南自遊散策</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MA042.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=41242</link>
+    </book>
+    <book>
+      <date>2014-09-06</date>
+      <title>你的身體就是最好的健身房（書+3片DVD...</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH6004S.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=39474</link>
     </book>
   </preview>
 </book66>

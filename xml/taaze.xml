@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2014-08-30</date>
-      <title>異數：超凡與平凡的界線在哪裡？</title>
-      <price>238</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100210934</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100210934</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-08-31</date>
       <title>到美麗島：沖繩、臺灣　我的家族物語</title>
       <price>211</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100695726</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100695726</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
