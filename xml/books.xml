@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-09-01</date>
+      <date>2014-09-02</date>
       <title>一日小野餐：花見×輕食×雜貨．大人版家家...</title>
       <price>231</price>
       <imageUrl>http://www.books.com.tw/img/001/063/48/0010634879.jpg</imageUrl>
@@ -10,6 +10,13 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2014-09-01</date>
+      <title>一日小野餐：花見×輕食×雜貨．大人版家家...</title>
+      <price>231</price>
+      <imageUrl>http://www.books.com.tw/img/001/063/48/0010634879.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010634879</link>
+    </book>
     <book>
       <date>2014-09-02</date>
       <title>擇食參 男人腰瘦，女人性福：邱錦伶的溫暖...</title>

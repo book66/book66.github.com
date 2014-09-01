@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-09-01</date>
-      <title>有時候，他們會回來：史蒂芬‧金最膾...</title>
-      <price>263</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000284074-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000284074</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-09-02</date>
       <title>楚亡：從項羽到韓信</title>
       <price>257</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000243751-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000243751</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-09-03</date>
       <title>政府正在監控你：史諾登揭密</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000195291-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000195291</link>
+    </book>
+    <book>
+      <date>2014-09-08</date>
+      <title>愛喝手作新鮮蔬果汁(暢銷新裝版)</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000284307-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000284307</link>
     </book>
   </preview>
 </book66>
