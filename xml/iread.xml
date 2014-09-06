@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-09-06</date>
-      <title>不勞不累，養好腎！</title>
-      <price>185</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000273706-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000273706</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-09-07</date>
       <title>消消氣，別跟自己過不去</title>
       <price>145</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000195291-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000195291</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-09-08</date>
       <title>愛喝手作新鮮蔬果汁(暢銷新裝版)</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000288184-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000288184</link>
+    </book>
+    <book>
+      <date>2014-09-13</date>
+      <title>人脈支持力</title>
+      <price>165</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000288302-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000288302</link>
     </book>
   </preview>
 </book66>
