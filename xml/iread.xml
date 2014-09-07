@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-09-07</date>
-      <title>消消氣，別跟自己過不去</title>
-      <price>145</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000195291-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000195291</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-09-08</date>
       <title>愛喝手作新鮮蔬果汁(暢銷新裝版)</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000284307-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000284307</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-09-09</date>
       <title>北歐式的自由生活提案</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000288302-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000288302</link>
+    </book>
+    <book>
+      <date>2014-09-14</date>
+      <title>日常的水彩教室：清新溫暖的繪本時光</title>
+      <price>251</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000285327-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000285327</link>
     </book>
   </preview>
 </book66>
