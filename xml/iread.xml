@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-09-08</date>
-      <title>愛喝手作新鮮蔬果汁(暢銷新裝版)</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000284307-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000284307</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-09-09</date>
       <title>北歐式的自由生活提案</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000254545-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000254545</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-09-10</date>
       <title>第三種猩猩：人類的身世與未來(問世2...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000285327-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000285327</link>
+    </book>
+    <book>
+      <date>2014-09-15</date>
+      <title>萬字固定</title>
+      <price>185</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000284073-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000284073</link>
     </book>
   </preview>
 </book66>
