@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-09-09</date>
-      <title>北歐式的自由生活提案</title>
-      <price>165</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000254545-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000254545</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-09-10</date>
       <title>第三種猩猩：人類的身世與未來(問世2...</title>
       <price>297</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000284914-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000284914</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-09-11</date>
       <title>101個有科學根據的減肥小偏方：邱醫...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000284073-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000284073</link>
+    </book>
+    <book>
+      <date>2014-09-16</date>
+      <title>哈比人（全新修訂譯本）</title>
+      <price>238</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000221767.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000221767</link>
     </book>
   </preview>
 </book66>

@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-09-09</date>
-      <title>以科學解讀咖啡的祕密：探究美味的原理！從...</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VV0049.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=41007</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-09-10</date>
       <title>拉拉熊四格漫畫2</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BV182.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39418</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-09-11</date>
       <title>蒸發</title>
@@ -51,6 +44,13 @@
       <price>449</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VE0052.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28069</link>
+    </book>
+    <book>
+      <date>2014-09-16</date>
+      <title>什麼樣的業力輪迴，造就現在的你：解開金錢...</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0087.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=40727</link>
     </book>
   </preview>
 </book66>
