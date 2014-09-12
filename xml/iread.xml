@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-09-12</date>
-      <title>圖解：大漢帝國</title>
-      <price>231</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000288184-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000288184</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-09-13</date>
       <title>人脈支持力</title>
       <price>165</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000288302-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000288302</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-09-14</date>
       <title>日常的水彩教室：清新溫暖的繪本時光</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000279143-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000279143</link>
+    </book>
+    <book>
+      <date>2014-09-19</date>
+      <title>朴槿惠傳：只要不絕望，就會有希望</title>
+      <price>231</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000284488-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000284488</link>
     </book>
   </preview>
 </book66>
