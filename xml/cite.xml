@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-09-18</date>
-      <title>冤罪者</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UC045.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=34991</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-09-19</date>
       <title>照明設計終極聖經：從入門到精通，超實用圖...</title>
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GB109.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=40639</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-09-20</date>
       <title>內向者的優勢：安靜的人如何展現你的存在，...</title>
@@ -51,6 +44,13 @@
       <price>131</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM118.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=40334</link>
+    </book>
+    <book>
+      <date>2014-09-25</date>
+      <title>勇者物語(上)</title>
+      <price>197</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UA008.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=11629</link>
     </book>
   </preview>
 </book66>
