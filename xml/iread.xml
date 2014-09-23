@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-09-23</date>
-      <title>謎樣的清明上河圖</title>
-      <price>238</price>
-      <imageUrl>http://www.iread.com.tw/ProductFile/B000246962-S.jpg</imageUrl>
-      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000246962</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-09-24</date>
       <title>東京小屋的回憶</title>
       <price>185</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000284915-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000284915</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-09-25</date>
       <title>圖解聖經（新版）</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://www.iread.com.tw/ProductFile/B000215880-S.jpg</imageUrl>
       <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000215880</link>
+    </book>
+    <book>
+      <date>2014-09-30</date>
+      <title>你們好奇怪啊！ 63種長得莫名其妙稀...</title>
+      <price>238</price>
+      <imageUrl>http://www.iread.com.tw/ProductFile/B000285529-S.jpg</imageUrl>
+      <link>http://www.iread.com.tw/ProdDetails.aspx?prodid=B000285529</link>
     </book>
   </preview>
 </book66>
