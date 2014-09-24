@@ -2,21 +2,14 @@
 <book66>
   <today>
     <book>
-      <date>2014-09-24</date>
-      <title>好吃15：好好吃飯：從選米、米食、料理、...</title>
-      <price>131</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM118.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=40334</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2014-09-25</date>
       <title>勇者物語(上)</title>
       <price>197</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UA008.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=11629</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-09-26</date>
       <title>勇者物語(下)</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD044.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=40320</link>
+    </book>
+    <book>
+      <date>2014-10-01</date>
+      <title>人體使用手冊3：每天10分鐘梳頭推背健康...</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG042.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=35898</link>
     </book>
   </preview>
 </book66>
