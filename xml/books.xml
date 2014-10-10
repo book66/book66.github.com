@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-10-10</date>
+      <date>2014-10-11</date>
       <title>故事如何改變你的大腦？透過閱讀小說、觀看...</title>
       <price>224</price>
       <imageUrl>http://www.books.com.tw/img/001/064/05/0010640598.jpg</imageUrl>
@@ -10,6 +10,41 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2014-10-06</date>
+      <title>聊不停的聰明問話術：【超圖解】40個開場...</title>
+      <price>172</price>
+      <imageUrl>http://www.books.com.tw/img/001/063/84/0010638445.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010638445</link>
+    </book>
+    <book>
+      <date>2014-10-07</date>
+      <title>秦始皇︰一場歷史的思辨之旅</title>
+      <price>185</price>
+      <imageUrl>http://www.books.com.tw/img/001/063/73/0010637327.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010637327</link>
+    </book>
+    <book>
+      <date>2014-10-08</date>
+      <title>練習有氣質：讓個性沉穩、姿態優雅的氣質養...</title>
+      <price>125</price>
+      <imageUrl>http://www.books.com.tw/img/001/063/69/0010636928.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010636928</link>
+    </book>
+    <book>
+      <date>2014-10-09</date>
+      <title>愛上鑄鐵鍋：美味、節能又省時的72道st...</title>
+      <price>231</price>
+      <imageUrl>http://www.books.com.tw/img/001/062/16/0010621625.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010621625</link>
+    </book>
+    <book>
+      <date>2014-10-10</date>
+      <title>故事如何改變你的大腦？透過閱讀小說、觀看...</title>
+      <price>224</price>
+      <imageUrl>http://www.books.com.tw/img/001/064/05/0010640598.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010640598</link>
+    </book>
     <book>
       <date>2014-10-11</date>
       <title>京阪神攻略完全制霸2013</title>
