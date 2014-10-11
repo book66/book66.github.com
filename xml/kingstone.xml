@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-10-12</date>
-      <title>16號公寓</title>
-      <price>238</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20187/2018730407431/2018730407431b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018730407431&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-10-12</date>
       <title>高國華的7-000單字(加強版)(軟精裝...</title>
       <price>296</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052533979/2018052533979b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052533979&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-10-13</date>
       <title>開口要、不為難的本事：不好意思開口？死纏...</title>
@@ -72,6 +65,13 @@
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011770972372/2011770972372b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011770972372&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2014-10-21</date>
+      <title>頂尖業務員都在用的3T筆記術：業績提高5...</title>
+      <price>185</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014960323138/2014960323138b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014960323138&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
