@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-10-14</date>
-      <title>我愛東京旅遊失心瘋：就是要藥妝、甜點、可...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG037.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=31912</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-10-14</date>
       <title>思考的藝術：52 個非受迫性思考錯誤</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5073.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25704</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-10-15</date>
       <title>身價1億投資大師傳授,小資上班族一定要偷...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD041.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35887</link>
+    </book>
+    <book>
+      <date>2014-10-20</date>
+      <title>戒吃、戒抓，告別異位性皮膚炎：台大過敏免...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SR0069.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=34561</link>
     </book>
   </preview>
 </book66>
