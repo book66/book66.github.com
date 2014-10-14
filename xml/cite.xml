@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-10-15</date>
-      <title>思考的藝術：52 個非受迫性思考錯誤</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5073.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=25704</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-10-15</date>
       <title>身價1億投資大師傳授,小資上班族一定要偷...</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OS2007.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=33831</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-10-16</date>
       <title>管教，要掌握鬆緊！（修訂版）</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SR0069.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34561</link>
+    </book>
+    <book>
+      <date>2014-10-21</date>
+      <title>記憶的技術：日本司法補習界王牌講師，親自...</title>
+      <price>178</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7072.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=38645</link>
     </book>
   </preview>
 </book66>
