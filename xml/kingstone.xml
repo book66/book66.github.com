@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-10-16</date>
-      <title>快墜機了，為什麼沒人敢告訴機長？動腦不動...</title>
-      <price>145</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941255434/2014941255434b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941255434&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-10-16</date>
       <title>腰痛、頭痛完全改善！最強30秒「拉筋操」...</title>
       <price>197</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014110619494/2014110619494b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014110619494&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-10-17</date>
       <title>還想吃：王瑞瑤美食報告書2</title>
@@ -72,6 +65,13 @@
       <price>317</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271039322/2014271039322b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271039322&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2014-10-25</date>
+      <title>血衣安娜完結篇：噩夢少女</title>
+      <price>197</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20187/2018730409275/2018730409275b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018730409275&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>

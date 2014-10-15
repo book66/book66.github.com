@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-10-16</date>
-      <title>身價1億投資大師傳授,小資上班族一定要偷...</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OS2007.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=33831</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-10-16</date>
       <title>管教，要掌握鬆緊！（修訂版）</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SH0080X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=36390</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-10-17</date>
       <title>考典</title>
@@ -51,6 +44,13 @@
       <price>178</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7072.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=38645</link>
+    </book>
+    <book>
+      <date>2014-10-22</date>
+      <title>神奇的肝膽排石法〔精裝珍藏版〕</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3061C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26216</link>
     </book>
   </preview>
 </book66>
