@@ -2,7 +2,7 @@
 <book66>
   <today>
     <book>
-      <date>2014-10-16</date>
+      <date>2014-10-17</date>
       <title>你流對汗了嗎？：不流汗是萬病之源，流錯汗...</title>
       <price>172</price>
       <imageUrl>http://www.books.com.tw/img/001/063/80/0010638028.jpg</imageUrl>
@@ -10,6 +10,34 @@
     </book>
   </today>
   <preview>
+    <book>
+      <date>2014-10-13</date>
+      <title>我已經夠好了：克服自卑！從「擔心別人怎麼...</title>
+      <price>238</price>
+      <imageUrl>http://www.books.com.tw/img/001/064/06/0010640672.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010640672</link>
+    </book>
+    <book>
+      <date>2014-10-14</date>
+      <title>閱讀建築的72個方式</title>
+      <price>251</price>
+      <imageUrl>http://www.books.com.tw/img/001/063/69/0010636952.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010636952</link>
+    </book>
+    <book>
+      <date>2014-10-15</date>
+      <title>國際觀的第一本書：看世界的方法（全新增訂...</title>
+      <price>257</price>
+      <imageUrl>http://www.books.com.tw/img/001/063/96/0010639620.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010639620</link>
+    </book>
+    <book>
+      <date>2014-10-16</date>
+      <title>你流對汗了嗎？：不流汗是萬病之源，流錯汗...</title>
+      <price>172</price>
+      <imageUrl>http://www.books.com.tw/img/001/063/80/0010638028.jpg</imageUrl>
+      <link>http://www.books.com.tw/products/0010638028</link>
+    </book>
     <book>
       <date>2014-10-17</date>
       <title>原子有話要說！元素週期表 【原子公寓圖解...</title>
