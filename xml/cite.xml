@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-10-20</date>
-      <title>廚房裡的中醫師</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD041.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=35887</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-10-20</date>
       <title>戒吃、戒抓，告別異位性皮膚炎：台大過敏免...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SR0069.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=34561</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-10-21</date>
       <title>記憶的技術：日本司法補習界王牌講師，親自...</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1019.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=35064</link>
+    </book>
+    <book>
+      <date>2014-10-26</date>
+      <title>躺著動就能瘦‧早上2分鐘骨盆體操</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG047.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=35900</link>
     </book>
   </preview>
 </book66>
