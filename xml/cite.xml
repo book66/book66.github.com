@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-11-08</date>
-      <title>第一天上班就該知道的賺錢祕密：定存、股票...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BE028X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=42652</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-11-08</date>
       <title>法國清新舒壓著色畫50：繽紛花園【附贈8...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0090.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42441</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-11-09</date>
       <title>旅繪人生：一支筆、一張紙、一段美好的想像...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GX801.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42413</link>
+    </book>
+    <book>
+      <date>2014-11-14</date>
+      <title>我也有聰明數學腦：15堂課激發被隱藏的競...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0088.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=41564</link>
     </book>
   </preview>
 </book66>
