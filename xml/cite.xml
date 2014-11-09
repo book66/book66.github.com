@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-11-10</date>
-      <title>旅繪人生：一支筆、一張紙、一段美好的想像...</title>
-      <price>449</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MA0031.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=40327</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-11-10</date>
       <title>思考的藝術：52 個非受迫性思考錯誤</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5073.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=25704</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-11-11</date>
       <title>第三方支付的真相：如何從網路收到錢？線上...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1059.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42871</link>
+    </book>
+    <book>
+      <date>2014-11-16</date>
+      <title>住沒有空調的房子：蓋房子必知的不依賴空調...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BCB709.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=40962</link>
     </book>
   </preview>
 </book66>
