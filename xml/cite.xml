@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-11-12</date>
-      <title>第三方支付的真相：如何從網路收到錢？線上...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB527.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=41716</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-11-12</date>
       <title>最浪漫的色鉛筆彩繪：光感×疊色的唯美繪畫...</title>
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF119.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42580</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-11-13</date>
       <title>十解日本料理：給美食家的和食入門書</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ2052.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=38623</link>
+    </book>
+    <book>
+      <date>2014-11-18</date>
+      <title>圖解腸道決定抗癌力【增訂版】</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD5017Y.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=28670</link>
     </book>
   </preview>
 </book66>
