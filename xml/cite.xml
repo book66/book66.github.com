@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-11-13</date>
-      <title>最浪漫的色鉛筆彩繪：光感×疊色的唯美繪畫...</title>
-      <price>224</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF119.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=42580</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-11-13</date>
       <title>十解日本料理：給美食家的和食入門書</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GX801.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42413</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-11-14</date>
       <title>我也有聰明數學腦：15堂課激發被隱藏的競...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD5017Y.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28670</link>
+    </book>
+    <book>
+      <date>2014-11-19</date>
+      <title>其實大腦不懂你的心</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0109.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=40976</link>
     </book>
   </preview>
 </book66>
