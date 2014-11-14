@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-11-15</date>
-      <title>我也有聰明數學腦：15堂課激發被隱藏的競...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0088.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=41564</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-11-15</date>
       <title>把化學吃下肚：造假的美味，揭開食品添加物...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1059.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42871</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-11-16</date>
       <title>住沒有空調的房子：蓋房子必知的不依賴空調...</title>
@@ -51,6 +44,13 @@
       <price>329</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GC023.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42581</link>
+    </book>
+    <book>
+      <date>2014-11-21</date>
+      <title>代謝平衡，健康瘦身2：均準飲食，順便瘦身</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3084.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=26292</link>
     </book>
   </preview>
 </book66>
