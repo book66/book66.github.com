@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-11-18</date>
-      <title>兩週速瘦8公斤！全美頂尖醫師都推薦100...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ2052.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=38623</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-11-18</date>
       <title>圖解腸道決定抗癌力【增訂版】</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD5017Y.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=28670</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-11-19</date>
       <title>其實大腦不懂你的心</title>
@@ -51,6 +44,13 @@
       <price>178</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0534.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42130</link>
+    </book>
+    <book>
+      <date>2014-11-24</date>
+      <title>奇蹟寄物商</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MR0006.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=43000</link>
     </book>
   </preview>
 </book66>
