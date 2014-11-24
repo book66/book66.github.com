@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-11-25</date>
-      <title>第三次工業革命：世界經濟即將被顛覆，新能...</title>
-      <price>277</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20155/2015540074525/2015540074525b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015540074525&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-11-25</date>
       <title>跟著Running Man玩韓國</title>
       <price>211</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20173/2017320017265/2017320017265b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2017320017265&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-11-26</date>
       <title>哈佛醫師心能量：為什麼有些病老是治不好或...</title>
@@ -72,6 +65,13 @@
       <price>231</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941283581/2014941283581b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941283581&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2014-12-04</date>
+      <title>為什麼有錢人都用長皮夾？年收入200倍法...</title>
+      <price>172</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20156/2015630512920/2015630512920b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015630512920&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
