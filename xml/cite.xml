@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-11-30</date>
-      <title>不浪費的食材保存術</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0065.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=42843</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-11-30</date>
       <title>再見，拖延病！：戒掉&amp;#65378;等一...</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0105.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42849</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-12-01</date>
       <title>衝突的年代：一張地圖看懂全球區域紛爭</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0091.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43497</link>
+    </book>
+    <book>
+      <date>2014-12-06</date>
+      <title>動動眼肌，視力自然好回來：實證遍布全球！...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BB7041.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=44881</link>
     </book>
   </preview>
 </book66>
