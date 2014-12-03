@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-12-04</date>
-      <title>會說故事，讓世界聽你的：說一個動人故事，...</title>
-      <price>231</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941283581/2014941283581b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941283581&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-12-04</date>
       <title>為什麼有錢人都用長皮夾？年收入200倍法...</title>
       <price>172</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20156/2015630512920/2015630512920b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015630512920&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-12-05</date>
       <title>一開始就不用收！家的最後一次空間收納課：...</title>
@@ -72,6 +65,13 @@
       <price>251</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014280191509/2014280191509b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014280191509&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2014-12-13</date>
+      <title>我的第一本韓語課本(附MP3)</title>
+      <price>263</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018030662257/2018030662257b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018030662257&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
