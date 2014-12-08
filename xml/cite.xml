@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-12-09</date>
-      <title>改變世界的九大演算法：讓今日電腦無所不能...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1117.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=44518</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-12-09</date>
       <title>森林祕境：生物學家的自然觀察年誌</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0110.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=40965</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-12-10</date>
       <title>愛上疊煮料理100：節能省時又健康的新式...</title>
@@ -51,6 +44,13 @@
       <price>218</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MB027.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=46108</link>
+    </book>
+    <book>
+      <date>2014-12-15</date>
+      <title>法國清新舒壓著色畫50：幸福懷舊【附贈8...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0093.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=44426</link>
     </book>
   </preview>
 </book66>

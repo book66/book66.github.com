@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-12-09</date>
-      <title>理想的簡單生活</title>
-      <price>231</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20119/2011920621020/2011920621020b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011920621020&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-12-09</date>
       <title>心靜禪繞畫：一筆一畫，靜心紓壓</title>
       <price>211</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20194/2019477307671/2019477307671b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2019477307671&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-12-10</date>
       <title>主管不說，但你一定要懂的50件事</title>
@@ -72,6 +65,13 @@
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20134/2013480013529/2013480013529b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2013480013529&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2014-12-18</date>
+      <title>思考的藝術+行為的藝術</title>
+      <price>370</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011760267730/2011760267730b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011760267730&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
