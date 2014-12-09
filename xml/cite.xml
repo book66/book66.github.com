@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-12-10</date>
-      <title>森林祕境：生物學家的自然觀察年誌</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0110.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=40965</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-12-10</date>
       <title>愛上疊煮料理100：節能省時又健康的新式...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0066.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43903</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-12-11</date>
       <title>地瓜上菜：50道超人氣低卡無負擔食譜</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0093.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=44426</link>
+    </book>
+    <book>
+      <date>2014-12-16</date>
+      <title>不知道會被笑的66個禮俗禁忌</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OC0071.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=43907</link>
     </book>
   </preview>
 </book66>
