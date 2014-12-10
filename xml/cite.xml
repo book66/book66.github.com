@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-12-11</date>
-      <title>愛上疊煮料理100：節能省時又健康的新式...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0066.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=43903</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-12-11</date>
       <title>地瓜上菜：50道超人氣低卡無負擔食譜</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MG0002.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43995</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-12-12</date>
       <title>風格小店創業學：24位設計人、生活風格者...</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OC0071.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43907</link>
+    </book>
+    <book>
+      <date>2014-12-17</date>
+      <title>一枝鉛筆的承諾</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0208.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=44127</link>
     </book>
   </preview>
 </book66>
