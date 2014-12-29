@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2014-12-30</date>
-      <title>少年Pi的奇幻漂流【電影書衣珍藏版】</title>
-      <price>231</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20181/2018100039804/2018100039804b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018100039804&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2014-12-30</date>
       <title>學校老師沒教的賺錢秘密：小資族微薪大進擊...</title>
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941296574/2014941296574b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941296574&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2014-12-31</date>
       <title>夢想德國：為什麼德國人可以打造完美賓士，...</title>
@@ -72,6 +65,13 @@
       <price>165</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014980036704/2014980036704b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014980036704&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-01-08</date>
+      <title>屋主都說讚的居家好設計：每次用都忍不住微...</title>
+      <price>251</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014220068403/2014220068403b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014220068403&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
