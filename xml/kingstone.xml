@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-01-02</date>
-      <title>海賊王的哲學課：正義、夢想和人生的偉大航...</title>
-      <price>172</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20110/2011000031169/2011000031169b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011000031169&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-01-02</date>
       <title>再次愛上麵包機</title>
       <price>197</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271083035/2014271083035b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271083035&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-01-03</date>
       <title>欸！喵的咧！eh！cat！藍貓與蛋頭的非...</title>
@@ -72,6 +65,13 @@
       <price>172</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052588634/2018052588634b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052588634&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-01-11</date>
+      <title>圖解英文文法的原理：看圖學文法不用背，一...</title>
+      <price>263</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052528272/2018052528272b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052528272&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>

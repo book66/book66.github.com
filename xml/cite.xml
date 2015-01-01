@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-01-02</date>
-      <title>路西法效應（修訂版）：在善惡的邊緣了解人...</title>
-      <price>370</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0082X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=45343</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-01-02</date>
       <title>英文這樣背就對了：超強記憶法讓你快樂學單...</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BC624.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=40294</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-01-03</date>
       <title>策略思考：建立自我獨特的insight，...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DH0023.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=15358</link>
+    </book>
+    <book>
+      <date>2015-01-08</date>
+      <title>什麼樣的業力輪迴，造就現在的你：解開金錢...</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0087.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=40727</link>
     </book>
   </preview>
 </book66>
