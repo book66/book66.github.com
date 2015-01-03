@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2015-01-03</date>
-      <title>好萊塢 A 咖教你電影英文：EZ TAL...</title>
-      <price>231</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100703617</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100703617</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2015-01-04</date>
       <title>吃，為什麼重要？從餐廳、食譜到美食、品味...</title>
       <price>277</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100666005</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100666005</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
