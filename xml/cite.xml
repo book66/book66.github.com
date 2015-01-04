@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-01-05</date>
-      <title>迷你盆栽習作：掌上天地寬，縮擬於豆缽中的...</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GC025.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=44605</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-01-05</date>
       <title>愛你是孤單的心事</title>
       <price>119</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX4236.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=44899</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-01-06</date>
       <title>為什麼我們的決定常出錯？哈佛教授的9堂心...</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA6212.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43091</link>
+    </book>
+    <book>
+      <date>2015-01-11</date>
+      <title>老前住宅設計解剖書：安心X便利X舒適，不...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GB110.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=44515</link>
     </book>
   </preview>
 </book66>
