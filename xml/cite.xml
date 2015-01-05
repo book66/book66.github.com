@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-01-06</date>
-      <title>愛你是孤單的心事</title>
-      <price>119</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX4236.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=44899</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-01-06</date>
       <title>為什麼我們的決定常出錯？哈佛教授的9堂心...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0539.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43094</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-01-07</date>
       <title>第一次品葡萄酒就上手</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GB110.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=44515</link>
+    </book>
+    <book>
+      <date>2015-01-12</date>
+      <title>與教宗對話：教宗方濟各談信仰、家庭、人生...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MA043.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=43908</link>
     </book>
   </preview>
 </book66>
