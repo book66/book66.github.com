@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-01-10</date>
-      <title>歐洲鐵道無國界旅行：Traveller完...</title>
-      <price>263</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KX0011.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=43551</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-01-10</date>
       <title>大手牽小手，親子台灣小旅行</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA6212.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43091</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-01-11</date>
       <title>老前住宅設計解剖書：安心X便利X舒適，不...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GD150.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=45043</link>
+    </book>
+    <book>
+      <date>2015-01-16</date>
+      <title>開口5句話，突破聽眾心防的動人簡報術：日...</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0104.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=40951</link>
     </book>
   </preview>
 </book66>
