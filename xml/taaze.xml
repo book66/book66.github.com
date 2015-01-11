@@ -2,12 +2,55 @@
 <book66>
   <today>
     <book>
-      <date>2015-01-11</date>
-      <title>就是快！韓語單字開口就能說！</title>
-      <price>165</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100708095</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100708095</link>
+      <date>2015-01-12</date>
+      <title>一九八四</title>
+      <price>198</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100626434</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100626434</link>
     </book>
   </today>
-  <preview/>
+  <preview>
+    <book>
+      <date>2015-01-13</date>
+      <title>空間就是想像力</title>
+      <price>251</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100697483</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100697483</link>
+    </book>
+    <book>
+      <date>2015-01-14</date>
+      <title>一擊奏效的社群行銷術：一句話打動1500...</title>
+      <price>231</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100709223</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100709223</link>
+    </book>
+    <book>
+      <date>2015-01-15</date>
+      <title>被扭曲的櫻花：美的意識與軍國主義</title>
+      <price>383</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100718035</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100718035</link>
+    </book>
+    <book>
+      <date>2015-01-16</date>
+      <title>我吃酵素瘦了21kg：吃出不復胖的健康體...</title>
+      <price>145</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100717662</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100717662</link>
+    </book>
+    <book>
+      <date>2015-01-17</date>
+      <title>圖解易經中的相術</title>
+      <price>277</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100704968</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100704968</link>
+    </book>
+    <book>
+      <date>2015-01-18</date>
+      <title>100道電鍋燉補湯最營養</title>
+      <price>111</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100687403</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100687403</link>
+    </book>
+  </preview>
 </book66>
