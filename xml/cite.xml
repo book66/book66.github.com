@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-01-14</date>
-      <title>北海道夢幻小旅行：絕景、花海、名湯、美食...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF636.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=44420</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-01-14</date>
       <title>圖解經濟學</title>
       <price>145</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DK0009.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=9699</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-01-15</date>
       <title>省錢修繕DIY全書（增訂工具詳解篇，20...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA9009.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43976</link>
+    </book>
+    <book>
+      <date>2015-01-20</date>
+      <title>現在，頂尖商學院教授都在想什麼？：你不知...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1118.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=45377</link>
     </book>
   </preview>
 </book66>
