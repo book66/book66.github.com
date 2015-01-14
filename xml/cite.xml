@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-01-15</date>
-      <title>圖解經濟學</title>
-      <price>145</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DK0009.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=9699</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-01-15</date>
       <title>省錢修繕DIY全書（增訂工具詳解篇，20...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GD150.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=45043</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-01-16</date>
       <title>開口5句話，突破聽眾心防的動人簡報術：日...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1118.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=45377</link>
+    </book>
+    <book>
+      <date>2015-01-21</date>
+      <title>圖解大人的心理學</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DK0052.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=41499</link>
     </book>
   </preview>
 </book66>
