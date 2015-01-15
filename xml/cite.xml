@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-01-16</date>
-      <title>省錢修繕DIY全書（增訂工具詳解篇，20...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GD150.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=45043</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-01-16</date>
       <title>開口5句話，突破聽眾心防的動人簡報術：日...</title>
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0104.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=40951</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-01-17</date>
       <title>大思考，微解說：150個擺脫偏見的思考準...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DK0052.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=41499</link>
+    </book>
+    <book>
+      <date>2015-01-22</date>
+      <title>房子再小都好住 做對格局，機能到位</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GV703.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=44604</link>
     </book>
   </preview>
 </book66>
