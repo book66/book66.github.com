@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-01-18</date>
-      <title>貓咪家庭醫學大百科</title>
-      <price>317</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20143/2014370140318/2014370140318b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014370140318&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-01-18</date>
       <title>專門替華人寫的圖解日語慣用句：外國人猜不...</title>
       <price>250</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018030802097/2018030802097b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018030802097&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-01-19</date>
       <title>超譯佛經：佛陀教你鍛鍊心靈自由的190個...</title>
@@ -72,6 +65,13 @@
       <price>178</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011770984313/2011770984313b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011770984313&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-01-27</date>
+      <title>為夢想跌倒，痛也值得！</title>
+      <price>178</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011771009916/2011771009916b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011771009916&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>

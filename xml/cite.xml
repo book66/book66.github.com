@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-01-18</date>
-      <title>大思考，微解說：150個擺脫偏見的思考準...</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA8002.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=39394</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-01-18</date>
       <title>圖解美學</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DK0055.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43008</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-01-19</date>
       <title>一個青年小說家的自白：艾可的寫作講堂</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0112.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43864</link>
+    </book>
+    <book>
+      <date>2015-01-24</date>
+      <title>沒有地圖的旅行</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MM1126.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=45373</link>
     </book>
   </preview>
 </book66>
