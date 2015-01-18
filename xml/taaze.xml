@@ -2,12 +2,55 @@
 <book66>
   <today>
     <book>
-      <date>2015-01-18</date>
-      <title>100道電鍋燉補湯最營養</title>
-      <price>111</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100687403</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100687403</link>
+      <date>2015-01-19</date>
+      <title>黑暗之心</title>
+      <price>165</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100190301</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100190301</link>
     </book>
   </today>
-  <preview/>
+  <preview>
+    <book>
+      <date>2015-01-20</date>
+      <title>練習有氣質：讓個性沉穩、姿態優雅的氣質養...</title>
+      <price>125</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100704523</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100704523</link>
+    </book>
+    <book>
+      <date>2015-01-21</date>
+      <title>多肉植物這樣玩：新手必備多肉養護大全</title>
+      <price>231</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100676265</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100676265</link>
+    </book>
+    <book>
+      <date>2015-01-22</date>
+      <title>關於跑步，我說的其實是……</title>
+      <price>165</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100210256</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100210256</link>
+    </book>
+    <book>
+      <date>2015-01-23</date>
+      <title>原能量：穿梭時空的身心療法</title>
+      <price>231</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100689584</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100689584</link>
+    </book>
+    <book>
+      <date>2015-01-24</date>
+      <title>有多會玩就有多成功</title>
+      <price>211</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100707794</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100707794</link>
+    </book>
+    <book>
+      <date>2015-01-25</date>
+      <title>考典</title>
+      <price>198</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100675461</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=11100675461</link>
+    </book>
+  </preview>
 </book66>
