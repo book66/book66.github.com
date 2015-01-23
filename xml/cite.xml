@@ -2,14 +2,21 @@
 <book66>
   <today>
     <book>
+      <date>2015-01-24</date>
+      <title>沒有地圖的旅行</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MM1126.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=45373</link>
+    </book>
+  </today>
+  <preview>
+    <book>
       <date>2015-01-25</date>
       <title>耶穌比宗教大：我熱愛耶穌，為什麼卻討厭宗...</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MA042.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=41242</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2015-01-26</date>
       <title>史丹佛給你讀得懂的經濟學：給零基礎的你，...</title>
@@ -37,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0051X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=39209</link>
+    </book>
+    <book>
+      <date>2015-01-30</date>
+      <title>津輕：映照太宰治人生風景的最高傑作</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2067.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=45071</link>
     </book>
   </preview>
 </book66>
