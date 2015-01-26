@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-01-27</date>
-      <title>史丹佛給你讀得懂的經濟學：給零基礎的你，...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0083.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=41632</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-01-27</date>
       <title>京都美食ABC：A級華麗料理、B級國民美...</title>
       <price>218</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0207.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43972</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-01-28</date>
       <title>圖解金融增訂版</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3112.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=48713</link>
+    </book>
+    <book>
+      <date>2015-02-02</date>
+      <title>安慰的藝術</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX1061.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=48857</link>
     </book>
   </preview>
 </book66>
