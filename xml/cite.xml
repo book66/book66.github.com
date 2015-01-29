@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-01-30</date>
-      <title>不怯場說話術：不擅言詞者也能學會的66種...</title>
-      <price>158</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0051X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=39209</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-01-30</date>
       <title>津輕：映照太宰治人生風景的最高傑作</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2067.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=45071</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-01-31</date>
       <title>鱷魚的黃眼睛〔電影書衣版〕</title>
@@ -51,6 +44,13 @@
       <price>449</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO2010.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19224</link>
+    </book>
+    <book>
+      <date>2015-02-05</date>
+      <title>餐桌上的蔬菜百科：跟著季節吃好菜！聰明採...</title>
+      <price>297</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM125.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=44603</link>
     </book>
   </preview>
 </book66>
