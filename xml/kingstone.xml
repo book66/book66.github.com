@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-01-31</date>
-      <title>如何閱讀一本書</title>
-      <price>277</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20101/2010190022865/2010190022865b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2010190022865&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-01-31</date>
       <title>圖解日文文法的規則</title>
       <price>230</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018030807467/2018030807467b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018030807467&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-02-01</date>
       <title>親愛的英文，我到底哪裡錯了？搞定50個你...</title>
@@ -72,6 +65,13 @@
       <price>395</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052589716/2018052589716b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052589716&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-02-09</date>
+      <title>為什麼我們的決定常出錯？哈佛教授的9堂心...</title>
+      <price>211</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941297816/2014941297816b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941297816&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
