@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-02-01</date>
-      <title>鱷魚的黃眼睛〔電影書衣版〕</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BCL701X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=45339</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-02-01</date>
       <title>遇見你的微幸福</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3112.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=48713</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-02-02</date>
       <title>安慰的藝術</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BCL707.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43883</link>
+    </book>
+    <book>
+      <date>2015-02-07</date>
+      <title>吃的美德：餐桌上的哲學思考</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7057.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=46317</link>
     </book>
   </preview>
 </book66>
