@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-02-02</date>
-      <title>遇見你的微幸福</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3112.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=48713</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-02-02</date>
       <title>安慰的藝術</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX1061.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=48857</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-02-03</date>
       <title>3分鐘讀懂霍金：進入霍金人生、理論、影響...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7057.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=46317</link>
+    </book>
+    <book>
+      <date>2015-02-08</date>
+      <title>圖解環保住宅：110 個建築面向與實用技...</title>
+      <price>317</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO3002.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=46369</link>
     </book>
   </preview>
 </book66>
