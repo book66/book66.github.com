@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-02-04</date>
-      <title>3分鐘讀懂霍金：進入霍金人生、理論、影響...</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VX0036.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=48872</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-02-04</date>
       <title>圖解日用品安全全書</title>
       <price>449</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO2010.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=19224</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-02-05</date>
       <title>餐桌上的蔬菜百科：跟著季節吃好菜！聰明採...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AC574.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=45068</link>
+    </book>
+    <book>
+      <date>2015-02-10</date>
+      <title>完全捷進寫作詞彙</title>
+      <price>527</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK6034.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=48211</link>
     </book>
   </preview>
 </book66>
