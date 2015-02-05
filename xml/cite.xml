@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-02-06</date>
-      <title>餐桌上的蔬菜百科：跟著季節吃好菜！聰明採...</title>
-      <price>297</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM125.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=44603</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-02-06</date>
       <title>A. J. 的書店人生</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BCL707.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43883</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-02-07</date>
       <title>吃的美德：餐桌上的哲學思考</title>
@@ -51,6 +44,13 @@
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO2018.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=31055</link>
+    </book>
+    <book>
+      <date>2015-02-12</date>
+      <title>愛上小烤箱：家用小烤箱讓你家廚房變成麵包...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MG0003.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=47021</link>
     </book>
   </preview>
 </book66>
