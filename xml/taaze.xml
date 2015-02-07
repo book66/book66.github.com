@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2015-02-07</date>
-      <title>背包客帶著走的英文口說本</title>
-      <price>263</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100674993</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100674993</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2015-02-08</date>
       <title>穴道按摩速效圖典</title>
       <price>172</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100702311</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100702311</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
