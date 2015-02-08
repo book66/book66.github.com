@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-02-09</date>
-      <title>圖解環保住宅：110 個建築面向與實用技...</title>
-      <price>317</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO3002.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=46369</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-02-09</date>
       <title>Google活用技巧大解密：絕對能派上用...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AC574.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=45068</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-02-10</date>
       <title>完全捷進寫作詞彙</title>
@@ -51,6 +44,13 @@
       <price>197</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KV1012.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=48541</link>
+    </book>
+    <book>
+      <date>2015-02-15</date>
+      <title>山之魔</title>
+      <price>317</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUC036.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=46672</link>
     </book>
   </preview>
 </book66>
