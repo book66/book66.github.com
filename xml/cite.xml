@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-02-10</date>
-      <title>Google活用技巧大解密：絕對能派上用...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AC574.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=45068</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-02-10</date>
       <title>完全捷進寫作詞彙</title>
       <price>527</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK6034.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=48211</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-02-11</date>
       <title>圖解保健食品全書</title>
@@ -51,6 +44,13 @@
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUC036.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=46672</link>
+    </book>
+    <book>
+      <date>2015-02-16</date>
+      <title>圖解食品安全全書（最新修訂版）</title>
+      <price>304</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO2020.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=32903</link>
     </book>
   </preview>
 </book66>
