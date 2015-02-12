@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-02-13</date>
-      <title>愛上小烤箱：家用小烤箱讓你家廚房變成麵包...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MG0003.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=47021</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-02-13</date>
       <title>最好的妳</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OT1015.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=44817</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-02-14</date>
       <title>出發！日本自助旅行：一看就懂 旅遊圖解S...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GW505.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=48404</link>
+    </book>
+    <book>
+      <date>2015-02-19</date>
+      <title>行李箱男孩2：消失的塔瑪斯</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0037.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=46738</link>
     </book>
   </preview>
 </book66>
