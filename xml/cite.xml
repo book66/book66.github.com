@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-02-16</date>
-      <title>山之魔</title>
-      <price>317</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUC036.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=46672</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-02-16</date>
       <title>圖解食品安全全書（最新修訂版）</title>
       <price>304</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO2020.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32903</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-02-17</date>
       <title>《思考的藝術》+《行為的藝術》套書</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7056.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42979</link>
+    </book>
+    <book>
+      <date>2015-02-22</date>
+      <title>笑的科學：解開人為什麼會笑、笑點為何不同...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1245.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=46941</link>
     </book>
   </preview>
 </book66>
