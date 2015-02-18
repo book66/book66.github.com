@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-02-19</date>
-      <title>老房子開店日記：結夥創業、修繕改建、開店...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GW505.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=48404</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-02-19</date>
       <title>行李箱男孩2：消失的塔瑪斯</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0037.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=46738</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-02-20</date>
       <title>怪老子教你：理專不想告訴你的穩穩賺投資法</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF703.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=48665</link>
+    </book>
+    <book>
+      <date>2015-02-25</date>
+      <title>考典2：國考、公職、銀行、研究所、各類證...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0213.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=46700</link>
     </book>
   </preview>
 </book66>
