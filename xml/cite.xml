@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-02-20</date>
-      <title>行李箱男孩2：消失的塔瑪斯</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0037.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=46738</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-02-20</date>
       <title>怪老子教你：理專不想告訴你的穩穩賺投資法</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2BB037.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=48889</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-02-21</date>
       <title>為什麼上街頭？新公民運動的歷史、危機和進...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0213.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=46700</link>
+    </book>
+    <book>
+      <date>2015-02-26</date>
+      <title>風是我的母親：一位印第安薩滿巫醫的傳奇與...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0092.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=43496</link>
     </book>
   </preview>
 </book66>
