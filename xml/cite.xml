@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-02-21</date>
-      <title>怪老子教你：理專不想告訴你的穩穩賺投資法</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2BB037.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=48889</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-02-21</date>
       <title>為什麼上街頭？新公民運動的歷史、危機和進...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7056.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42979</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-02-22</date>
       <title>笑的科學：解開人為什麼會笑、笑點為何不同...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0092.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43496</link>
+    </book>
+    <book>
+      <date>2015-02-27</date>
+      <title>愛瑪【「享受吧！一個人的旅行」作者巔峰鉅...</title>
+      <price>263</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0035.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=43901</link>
     </book>
   </preview>
 </book66>
