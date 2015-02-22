@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2015-02-21</date>
-      <title>藝術的慰藉</title>
-      <price>792</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100709629</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100709629</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2015-02-22</date>
       <title>台北巷弄日和：雜貨、文創、小餐館，帶著手...</title>
       <price>231</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100697539</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100697539</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
