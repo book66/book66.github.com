@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-02-25</date>
-      <title>我想跟著名醫這樣吃，半年瘦10公斤：日本...</title>
-      <price>185</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014150355123/2014150355123b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014150355123&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-02-25</date>
       <title>改變力：當世界無法改變時，改變自己！</title>
       <price>211</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011770942641/2011770942641b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011770942641&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-02-26</date>
       <title>漢英翻譯作文常用字彙速查典2011(軟精...</title>
@@ -72,6 +65,13 @@
       <price>238</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20173/2017330117474/2017330117474b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2017330117474&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-03-06</date>
+      <title>每週2天輕斷食，2個月瘦8公斤！高醫減重...</title>
+      <price>185</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014110635760/2014110635760b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014110635760&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
