@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2015-02-28</date>
-      <title>股票技術分析圖典</title>
-      <price>165</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100706474</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100706474</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2015-03-01</date>
       <title>我的小小法國廚房：100道上山下海，足跡...</title>
       <price>429</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100707770</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100707770</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
