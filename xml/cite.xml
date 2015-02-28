@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-03-01</date>
-      <title>史上超強學習法（新版）</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO6006X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=46920</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-03-01</date>
       <title>圖解木構造：110個木造概念與技法，讓憧...</title>
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO3003.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=44135</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-03-02</date>
       <title>吳哥深度導覽：神廟建築、神話傳說、藝術解...</title>
@@ -51,6 +44,13 @@
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0095.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=49528</link>
+    </book>
+    <book>
+      <date>2015-03-07</date>
+      <title>思考的盲點：為何真相就在眼前，我們卻視而...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA6419.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=49428</link>
     </book>
   </preview>
 </book66>

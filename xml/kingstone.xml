@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-03-01</date>
-      <title>KINFOLK餐桌：獻給生活中的每一場小...</title>
-      <price>627</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271040151/2014271040151b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271040151&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-03-01</date>
       <title>英文日記寫作句典：31種生活情境+130...</title>
       <price>317</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052556299/2018052556299b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052556299&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-03-02</date>
       <title>聊不停的聰明問話術：【超圖解】40個開場...</title>
@@ -72,6 +65,13 @@
       <price>238</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20131/2013120309807/2013120309807b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2013120309807&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-03-10</date>
+      <title>20秒，練出最棒的身材：全球最夯「TAB...</title>
+      <price>231</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014250352961/2014250352961b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014250352961&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
