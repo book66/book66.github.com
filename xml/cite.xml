@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-03-02</date>
-      <title>圖解木構造：110個木造概念與技法，讓憧...</title>
-      <price>317</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO3003.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=44135</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-03-02</date>
       <title>吳哥深度導覽：神廟建築、神話傳說、藝術解...</title>
       <price>653</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA1101.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=45007</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-03-03</date>
       <title>圖解第一次塔羅占卜就上手（修訂版）</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA6419.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=49428</link>
+    </book>
+    <book>
+      <date>2015-03-08</date>
+      <title>允許自己不快樂：勇敢悲觀、放心落淚，不再...</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0214.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=49158</link>
     </book>
   </preview>
 </book66>
