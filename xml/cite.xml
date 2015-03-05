@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-03-06</date>
-      <title>解剖</title>
-      <price>224</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5063.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=43847</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-03-06</date>
       <title>【當和尚遇到鑽石4】愛的業力法則：西藏的...</title>
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0095.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=49528</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-03-07</date>
       <title>思考的盲點：為何真相就在眼前，我們卻視而...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BE034.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42144</link>
+    </book>
+    <book>
+      <date>2015-03-12</date>
+      <title>沉默罪狀</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPA01.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=48549</link>
     </book>
   </preview>
 </book66>
