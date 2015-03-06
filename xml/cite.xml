@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-03-07</date>
-      <title>【當和尚遇到鑽石4】愛的業力法則：西藏的...</title>
-      <price>297</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0095.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=49528</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-03-07</date>
       <title>思考的盲點：為何真相就在眼前，我們卻視而...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA6419.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=49428</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-03-08</date>
       <title>允許自己不快樂：勇敢悲觀、放心落淚，不再...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPA01.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=48549</link>
+    </book>
+    <book>
+      <date>2015-03-13</date>
+      <title>創造力的極論：村上隆在藝術現場談「覺悟」...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BCD726.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=48974</link>
     </book>
   </preview>
 </book66>
