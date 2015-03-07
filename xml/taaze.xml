@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2015-03-07</date>
-      <title>如何衡量萬事萬物：大數據時代，做好量化決...</title>
-      <price>317</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100687358</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100687358</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2015-03-08</date>
       <title>一個人開伙也很棒</title>
       <price>198</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100705504</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100705504</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
