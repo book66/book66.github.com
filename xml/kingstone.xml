@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-03-10</date>
-      <title>改變世界的九大演算法：讓今日電腦無所不能...</title>
-      <price>238</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20131/2013120309807/2013120309807b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2013120309807&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-03-10</date>
       <title>20秒，練出最棒的身材：全球最夯「TAB...</title>
       <price>231</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014250352961/2014250352961b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014250352961&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-03-11</date>
       <title>第一次學Excel VBA就上手</title>
@@ -72,6 +65,13 @@
       <price>172</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20129/2012930318597/2012930318597b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2012930318597&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-03-19</date>
+      <title>瘦腹力：完美打造「瘦體骨架」，6週持續燃...</title>
+      <price>231</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014110655034/2014110655034b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014110655034&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
