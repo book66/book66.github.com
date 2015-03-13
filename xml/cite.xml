@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-03-14</date>
-      <title>創造力的極論：村上隆在藝術現場談「覺悟」...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BCD726.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=48974</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-03-14</date>
       <title>貓咪家庭醫學大百科</title>
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GP102.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42573</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-03-15</date>
       <title>奢侈品策略：讓你的品牌，成為所有人奢求的...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0106.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=49738</link>
+    </book>
+    <book>
+      <date>2015-03-20</date>
+      <title>傾聽力：溝通不是「說」出來的，是「聽」出...</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0108.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=49139</link>
     </book>
   </preview>
 </book66>
