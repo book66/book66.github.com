@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2015-03-14</date>
-      <title>預測工程師的遊戲：如何應用賽局理論，預測...</title>
-      <price>257</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100666009</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100666009</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2015-03-15</date>
       <title>救命飲食：熱銷100萬冊，完整專業版</title>
       <price>297</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100677474</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100677474</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
