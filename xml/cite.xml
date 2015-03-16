@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-03-17</date>
-      <title>台北人情味小吃，挑剔老饕的美食地圖60+</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KY0026.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=48373</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-03-17</date>
       <title>動物城市</title>
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RQ7050.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=46715</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-03-18</date>
       <title>Harumi的幸福家庭料理：獲得百萬女性...</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO6006X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=46920</link>
+    </book>
+    <book>
+      <date>2015-03-23</date>
+      <title>一日百年，東京建築時空之旅：搭JR走訪舊...</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPJ10.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=44514</link>
     </book>
   </preview>
 </book66>
