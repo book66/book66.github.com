@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-03-18</date>
-      <title>如果有一天，我們說再見</title>
-      <price>185</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014190046777/2014190046777b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014190046777&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-03-18</date>
       <title>血型小將ABO</title>
       <price>172</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20129/2012930318597/2012930318597b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2012930318597&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-03-19</date>
       <title>瘦腹力：完美打造「瘦體骨架」，6週持續燃...</title>
@@ -72,6 +65,13 @@
       <price>211</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011770997856/2011770997856b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011770997856&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-03-27</date>
+      <title>驚人的澱粉減重法</title>
+      <price>231</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014110629011/2014110629011b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014110629011&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
