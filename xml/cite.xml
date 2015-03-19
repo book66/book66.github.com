@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-03-20</date>
-      <title>媽媽是最好的心理諮商師：每天10分鐘，療...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0106.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=49738</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-03-20</date>
       <title>傾聽力：溝通不是「說」出來的，是「聽」出...</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0108.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=49139</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-03-21</date>
       <title>學會圖解的第一本書：整理思緒、解決問題的...</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD5024.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=44005</link>
+    </book>
+    <book>
+      <date>2015-03-26</date>
+      <title>我們，別做朋友了</title>
+      <price>132</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX4237.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=46698</link>
     </book>
   </preview>
 </book66>
