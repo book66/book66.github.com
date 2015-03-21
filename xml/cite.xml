@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-03-22</date>
-      <title>學會圖解的第一本書：整理思緒、解決問題的...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1075X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=49519</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-03-22</date>
       <title>史上超強學習法（新版）</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO6006X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=46920</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-03-23</date>
       <title>一日百年，東京建築時空之旅：搭JR走訪舊...</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DK0059.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=48220</link>
+    </book>
+    <book>
+      <date>2015-03-28</date>
+      <title>旅行，我給孩子最重要的一堂課</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2066.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=42414</link>
     </book>
   </preview>
 </book66>
