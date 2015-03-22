@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-03-23</date>
-      <title>史上超強學習法（新版）</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO6006X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=46920</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-03-23</date>
       <title>一日百年，東京建築時空之旅：搭JR走訪舊...</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPJ10.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=44514</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-03-24</date>
       <title>日本人也不知道的日本語3：敬語、人物對話...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2066.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42414</link>
+    </book>
+    <book>
+      <date>2015-03-29</date>
+      <title>圖解居家長期照護全書(修訂版)</title>
+      <price>330</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD0116X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=46061</link>
     </book>
   </preview>
 </book66>
