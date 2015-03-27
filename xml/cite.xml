@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-03-28</date>
-      <title>圖解物理學（修訂版）</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DK0059.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=48220</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-03-28</date>
       <title>旅行，我給孩子最重要的一堂課</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2066.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42414</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-03-29</date>
       <title>圖解居家長期照護全書(修訂版)</title>
