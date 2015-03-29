@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-03-30</date>
-      <title>圖解居家長期照護全書(修訂版)</title>
-      <price>330</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD0116X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=46061</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-03-30</date>
       <title>7位頂尖秘書教你職場行政成功術</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH6006.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42981</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-03-31</date>
       <title>傳聞中的女人</title>
@@ -51,6 +44,13 @@
       <price>218</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MR0007.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=49117</link>
+    </book>
+    <book>
+      <date>2015-04-05</date>
+      <title>圖解簡明世界局勢2015年版</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO2022.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=51581</link>
     </book>
   </preview>
 </book66>
