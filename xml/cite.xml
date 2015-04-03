@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-04-04</date>
-      <title>優秀的教養，是相信孩子的能力！</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5092.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=41943</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-04-04</date>
       <title>守護天使</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OG0019.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=51427</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-04-05</date>
       <title>圖解簡明世界局勢2015年版</title>
@@ -51,6 +44,13 @@
       <price>343</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO3004.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=48666</link>
+    </book>
+    <book>
+      <date>2015-04-10</date>
+      <title>大人的旅行．究極日本豪華度假列車</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPJ13.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=52191</link>
     </book>
   </preview>
 </book66>
