@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-04-09</date>
-      <title>箱型車裡的梭羅： 一個大學生從負債百萬到...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0099.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=45048</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-04-09</date>
       <title>圖解建築設備：110個規劃與應用知識，有...</title>
       <price>343</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO3004.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=48666</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-04-10</date>
       <title>大人的旅行．究極日本豪華度假列車</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ2048.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=30007</link>
+    </book>
+    <book>
+      <date>2015-04-15</date>
+      <title>遠望日本見聞錄</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL4073.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=38651</link>
     </book>
   </preview>
 </book66>
