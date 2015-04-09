@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-04-10</date>
-      <title>圖解建築設備：110個規劃與應用知識，有...</title>
-      <price>343</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO3004.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=48666</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-04-10</date>
       <title>大人的旅行．究極日本豪華度假列車</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPJ13.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=52191</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-04-11</date>
       <title>揉揉手的驚人療效</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL4073.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=38651</link>
+    </book>
+    <book>
+      <date>2015-04-16</date>
+      <title>身體就是最好的醫生！：34則健康提案，學...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3103.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=51279</link>
     </book>
   </preview>
 </book66>
