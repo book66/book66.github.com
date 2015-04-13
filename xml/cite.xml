@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-04-14</date>
-      <title>好主管一定要懂的2×3教練法則：每天2次...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1119.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=49680</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-04-14</date>
       <title>醫生，我可以運動嗎？：家庭必備16種運動...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ2048.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=30007</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-04-15</date>
       <title>遠望日本見聞錄</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD047.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=52121</link>
+    </book>
+    <book>
+      <date>2015-04-20</date>
+      <title>股市憲哥教你挑對好股，找對權證，小資也能...</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0559.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=52644</link>
     </book>
   </preview>
 </book66>
