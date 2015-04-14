@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-04-15</date>
-      <title>料理美學家的香料廚房</title>
-      <price>238</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271101616/2014271101616b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271101616&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-04-15</date>
       <title>看得到的世界史：99樣物品的故事 你對未...</title>
       <price>634</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20171/2017110025852/2017110025852b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2017110025852&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-04-16</date>
       <title>被混淆的臺灣史：1861~1949之史實...</title>
@@ -72,6 +65,13 @@
       <price>198</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20185/2018577757249/2018577757249b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018577757249&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-04-24</date>
+      <title>向藝術家看齊！啟發孩子創造力53個練習</title>
+      <price>211</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20152/2015280612605/2015280612605b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015280612605&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
