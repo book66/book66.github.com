@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-04-16</date>
-      <title>遠望日本見聞錄</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL4073.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=38651</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-04-16</date>
       <title>身體就是最好的醫生！：34則健康提案，學...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3103.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=51279</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-04-17</date>
       <title>健康金三角養生法</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6508.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=22441</link>
+    </book>
+    <book>
+      <date>2015-04-22</date>
+      <title>東大生寫給中學生的9個學習祕訣：掌握「自...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1053.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=38720</link>
     </book>
   </preview>
 </book66>

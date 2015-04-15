@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-04-16</date>
-      <title>看得到的世界史：99樣物品的故事 你對未...</title>
-      <price>634</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20171/2017110025852/2017110025852b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2017110025852&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-04-16</date>
       <title>被混淆的臺灣史：1861~1949之史實...</title>
       <price>251</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20173/2017330108939/2017330108939b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2017330108939&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-04-17</date>
       <title>行動小廚房：燜燒罐的美味指南</title>
@@ -72,6 +65,13 @@
       <price>211</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20152/2015280612605/2015280612605b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015280612605&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-04-25</date>
+      <title>史丹利來去夏威夷</title>
+      <price>251</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20175/2017520042364/2017520042364b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2017520042364&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
