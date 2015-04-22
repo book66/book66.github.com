@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-04-23</date>
-      <title>東大生寫給中學生的9個學習祕訣：掌握「自...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1053.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=38720</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-04-23</date>
       <title>上台的技術</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH6007.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=51273</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-04-24</date>
       <title>亞洲企業正在征服全世界：中日韓企業打敗美...</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1017.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=18403</link>
+    </book>
+    <book>
+      <date>2015-04-29</date>
+      <title>找回身體的好感覺，每個月的整體健康療法：...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RD4055.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=37818</link>
     </book>
   </preview>
 </book66>
