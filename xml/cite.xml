@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-04-24</date>
-      <title>上台的技術</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH6007.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=51273</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-04-24</date>
       <title>亞洲企業正在征服全世界：中日韓企業打敗美...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0103.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=48281</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-04-25</date>
       <title>設計師不傳的私房秘技 完全解構收納設計5...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RD4055.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=37818</link>
+    </book>
+    <book>
+      <date>2015-04-30</date>
+      <title>台南老店散步：回味本町摩登老時光</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MS1051.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=51574</link>
     </book>
   </preview>
 </book66>
