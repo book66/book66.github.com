@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-04-26</date>
-      <title>設計師不傳的私房秘技 完全解構收納設計5...</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GI837.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=52442</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-04-26</date>
       <title>一個人的聖殿：安頓心靈的七項修鍊</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MA009X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=51629</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-04-27</date>
       <title>在白天做夢的人：從臺大醫師到網路教師，敢...</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KS2020.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=52656</link>
+    </book>
+    <book>
+      <date>2015-05-02</date>
+      <title>夕陽紅：百位三國英雄勾勒成敗興衰</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3081.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=52910</link>
     </book>
   </preview>
 </book66>
