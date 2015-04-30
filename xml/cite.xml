@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-05-01</date>
-      <title>台南老店散步：回味本町摩登老時光</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MS1051.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=51574</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-05-01</date>
       <title>香港澳門攻略完全制霸2015-2016</title>
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KS2020.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=52656</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-05-02</date>
       <title>夕陽紅：百位三國英雄勾勒成敗興衰</title>
@@ -51,6 +44,13 @@
       <price>304</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0553.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=51558</link>
+    </book>
+    <book>
+      <date>2015-05-07</date>
+      <title>北海道夢幻小旅行：絕景、花海、名湯、美食...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF636.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=44420</link>
     </book>
   </preview>
 </book66>
