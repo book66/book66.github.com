@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-05-03</date>
-      <title>夕陽紅：百位三國英雄勾勒成敗興衰</title>
-      <price>224</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3081.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=52910</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-05-03</date>
       <title>日式禪風紓壓塗繪：帶領你自我療癒的Mar...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OS2010.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=48926</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-05-04</date>
       <title>印度智慧書（修訂版）：認識《薄伽梵歌》的...</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0038.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=51395</link>
+    </book>
+    <book>
+      <date>2015-05-09</date>
+      <title>氣的原理（暢銷珍藏版）</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD001C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=49678</link>
     </book>
   </preview>
 </book66>
