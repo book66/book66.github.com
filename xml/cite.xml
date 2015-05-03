@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-05-04</date>
-      <title>日式禪風紓壓塗繪：帶領你自我療癒的Mar...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OS2010.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=48926</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-05-04</date>
-      <title>印度智慧書（修訂版）：認識《薄伽梵歌》的...</title>
+      <title>印度智慧書（修訂版）：認識薄伽梵歌的第一...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU3029X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=49677</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-05-05</date>
       <title>免揉麵包之父吉姆．拉赫的83道獨門配方：...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD001C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=49678</link>
+    </book>
+    <book>
+      <date>2015-05-10</date>
+      <title>簡單揉就好吃的家庭烘焙坊2：自己做美味餐...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM129.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=51394</link>
     </book>
   </preview>
 </book66>
