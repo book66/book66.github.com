@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-05-09</date>
-      <title>魔像與精靈</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0038.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=51395</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-05-09</date>
       <title>氣的原理（暢銷珍藏版）</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD001C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=49678</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-05-10</date>
       <title>簡單揉就好吃的家庭烘焙坊2：自己做美味餐...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MR0008.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=51575</link>
+    </book>
+    <book>
+      <date>2015-05-15</date>
+      <title>職場最重要的小事</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0109.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=50859</link>
     </book>
   </preview>
 </book66>
