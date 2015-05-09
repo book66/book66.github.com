@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-05-10</date>
-      <title>這樣寫會考作文滿級分</title>
-      <price>165</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20152/2015240116266/2015240116266b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015240116266&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-05-10</date>
       <title>實用英語會話大全：靈活運用英語必備的 6...</title>
       <price>297</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052596257/2018052596257b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052596257&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-05-11</date>
       <title>思考致富聖經珍藏版</title>
@@ -72,6 +65,13 @@
       <price>172</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011771027866/2011771027866b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011771027866&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-05-19</date>
+      <title>神回覆的表達技術：刻意不整理、不客觀、再...</title>
+      <price>185</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20102/2010280003989/2010280003989b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2010280003989&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
