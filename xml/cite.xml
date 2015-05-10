@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-05-11</date>
-      <title>簡單揉就好吃的家庭烘焙坊2：自己做美味餐...</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM129.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=51394</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-05-11</date>
       <title>沒有地圖的旅行</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MM1126.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=45373</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-05-12</date>
       <title>利馬古書商</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5066.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=51389</link>
+    </book>
+    <book>
+      <date>2015-05-17</date>
+      <title>歐洲鐵道無國界旅行：Traveller完...</title>
+      <price>263</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KX0011.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=43551</link>
     </book>
   </preview>
 </book66>
