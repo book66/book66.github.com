@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-05-14</date>
-      <title>為什麼人類比老鼠長壽，卻比弓頭鯨短命？：...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1246.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=52904</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-05-14</date>
       <title>天竺葵的庭園</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MR0008.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=51575</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-05-15</date>
       <title>職場最重要的小事</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1220X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53171</link>
+    </book>
+    <book>
+      <date>2015-05-20</date>
+      <title>太平輪一九四九（增修版）：航向台灣的故事</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU5011X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=50495</link>
     </book>
   </preview>
 </book66>
