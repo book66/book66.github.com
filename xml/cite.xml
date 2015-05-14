@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-05-15</date>
-      <title>天竺葵的庭園</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MR0008.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=51575</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-05-15</date>
       <title>職場最重要的小事</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0109.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=50859</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-05-16</date>
       <title>集眼者</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU5011X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=50495</link>
+    </book>
+    <book>
+      <date>2015-05-21</date>
+      <title>十二幅地圖看世界史：從科學、政治、宗教和...</title>
+      <price>429</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2068.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=52960</link>
     </book>
   </preview>
 </book66>
