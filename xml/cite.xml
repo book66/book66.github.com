@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-05-16</date>
-      <title>職場最重要的小事</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0109.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=50859</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-05-16</date>
       <title>集眼者</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5066.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=51389</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-05-17</date>
       <title>歐洲鐵道無國界旅行：Traveller完...</title>
@@ -51,6 +44,13 @@
       <price>429</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2068.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=52960</link>
+    </book>
+    <book>
+      <date>2015-05-22</date>
+      <title>餅乾研究室：搞懂關鍵材料！油＋糖＋粉，學...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM131.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=53465</link>
     </book>
   </preview>
 </book66>
