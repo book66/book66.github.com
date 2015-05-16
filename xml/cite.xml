@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-05-17</date>
-      <title>集眼者</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5066.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=51389</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-05-17</date>
       <title>歐洲鐵道無國界旅行：Traveller完...</title>
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KX0011.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43551</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-05-18</date>
       <title>地圖的歷史：從石刻地圖到Google M...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM131.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53465</link>
+    </book>
+    <book>
+      <date>2015-05-23</date>
+      <title>麵包、湯與貓咪日和</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MR0009.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=52956</link>
     </book>
   </preview>
 </book66>
