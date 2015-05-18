@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-05-19</date>
-      <title>贏在好習慣：贏家與輸家的差別，往往取決於...</title>
-      <price>172</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011771027866/2011771027866b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011771027866&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-05-19</date>
       <title>神回覆的表達技術：刻意不整理、不客觀、再...</title>
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20102/2010280003989/2010280003989b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2010280003989&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-05-20</date>
       <title>翻倍效率工作術：不會就太可惜的 Exce...</title>
@@ -72,6 +65,13 @@
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20131/2013100025864/2013100025864b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2013100025864&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-05-28</date>
+      <title>葉丙成的機率驚豔：當數學遇上文學，學生考...</title>
+      <price>191</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20131/2013190027120/2013190027120b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2013190027120&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
