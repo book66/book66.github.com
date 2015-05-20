@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-05-21</date>
-      <title>翻倍效率工作術：不會就太可惜的 Exce...</title>
-      <price>185</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20147/2014713426611/2014713426611b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014713426611&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-05-21</date>
       <title>被白馬騎的王子</title>
       <price>172</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20186/2018610968960/2018610968960b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018610968960&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-05-22</date>
       <title>飯水分離陰陽飲食法(最新增訂版)</title>
@@ -72,6 +65,13 @@
       <price>238</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271051690/2014271051690b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271051690&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-05-30</date>
+      <title>圖解數學一點通！這樣教，三年級就能解出七...</title>
+      <price>205</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20152/2015232481266/2015232481266b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015232481266&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>

@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-05-21</date>
-      <title>太平輪一九四九（增修版）：航向台灣的故事</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU5011X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=50495</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-05-21</date>
       <title>十二幅地圖看世界史：從科學、政治、宗教和...</title>
       <price>429</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2068.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=52960</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-05-22</date>
       <title>餅乾研究室：搞懂關鍵材料！油＋糖＋粉，學...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0558.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=51763</link>
+    </book>
+    <book>
+      <date>2015-05-27</date>
+      <title>在信徒的國度：伊斯蘭世界之旅</title>
+      <price>370</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MM1127.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=53239</link>
     </book>
   </preview>
 </book66>
