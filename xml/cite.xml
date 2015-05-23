@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-05-24</date>
-      <title>麵包、湯與貓咪日和</title>
-      <price>172</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MR0009.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=52956</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-05-24</date>
       <title>一週賺進300萬！網路行銷大師教你賣什麼...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0561.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53452</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-05-25</date>
       <title>一筆畫出可愛感！色鉛筆創意手繪寶典（暢銷...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BF7102.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=52909</link>
+    </book>
+    <book>
+      <date>2015-05-30</date>
+      <title>給未來的極光旅人：二十年專業嚮導帶你圓極...</title>
+      <price>263</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MS1052.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=53238</link>
     </book>
   </preview>
 </book66>
