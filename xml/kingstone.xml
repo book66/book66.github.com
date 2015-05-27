@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-05-28</date>
-      <title>我也有聰明數學腦：15堂課激發被隱藏的競...</title>
-      <price>185</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20131/2013100025864/2013100025864b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2013100025864&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-05-28</date>
       <title>葉丙成的機率驚豔：當數學遇上文學，學生考...</title>
       <price>191</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20131/2013190027120/2013190027120b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2013190027120&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-05-29</date>
       <title>麵包的究極：日本最權威麵包研究機構告訴你...</title>
@@ -72,6 +65,13 @@
       <price>231</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20173/2017310119962/2017310119962b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2017310119962&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-06-06</date>
+      <title>跟著新多益滿分王一起戰勝NEW TOEI...</title>
+      <price>395</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052600503/2018052600503b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052600503&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
