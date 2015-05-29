@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-05-30</date>
-      <title>日本大眾食堂讓人無法忘懷的招牌料理：深夜...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BF7102.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=52909</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-05-30</date>
       <title>給未來的極光旅人：二十年專業嚮導帶你圓極...</title>
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MS1052.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53238</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-05-31</date>
       <title>比專業更重要的隱形競爭力：多做一小步，創...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0222.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54345</link>
+    </book>
+    <book>
+      <date>2015-06-05</date>
+      <title>台灣鐵道祕境慢旅</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KB3027.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54188</link>
     </book>
   </preview>
 </book66>
