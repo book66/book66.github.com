@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2015-05-30</date>
-      <title>昨夜的咖哩，明日的麵包</title>
-      <price>198</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100726480</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100726480</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2015-05-31</date>
       <title>這一生為何而來：靈界導師的十門課（暢銷慶...</title>
       <price>211</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100720410</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100720410</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
