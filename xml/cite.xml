@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-06-01</date>
-      <title>比專業更重要的隱形競爭力：多做一小步，創...</title>
-      <price>178</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0534.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=42130</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-06-01</date>
       <title>機率陷阱：從購物、保險到用藥，如何做出最...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0562.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54186</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-06-02</date>
       <title>京阪神攻略完全制霸2015-2016</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG059.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54251</link>
+    </book>
+    <book>
+      <date>2015-06-07</date>
+      <title>守護天使</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OG0019.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=51427</link>
     </book>
   </preview>
 </book66>
