@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-06-02</date>
-      <title>機率陷阱：從購物、保險到用藥，如何做出最...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0562.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54186</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-06-02</date>
       <title>京阪神攻略完全制霸2015-2016</title>
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KS2021.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53584</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-06-03</date>
       <title>發現超級食物。鮮榨苦茶油：64道茶油養生...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OG0019.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=51427</link>
+    </book>
+    <book>
+      <date>2015-06-08</date>
+      <title>行銷點子製造機：《商業周刊》最強行銷好點...</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0114.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54849</link>
     </book>
   </preview>
 </book66>
