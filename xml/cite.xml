@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-06-04</date>
-      <title>發現超級食物。鮮榨苦茶油：64道茶油養生...</title>
-      <price>330</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD5028.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54223</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-06-04</date>
       <title>在工作中自我療癒：心理醫生為你解決26個...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0222.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54345</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-06-05</date>
       <title>台灣鐵道祕境慢旅</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GA075.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54193</link>
+    </book>
+    <book>
+      <date>2015-06-10</date>
+      <title>白衣女子</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MR0010.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54147</link>
     </book>
   </preview>
 </book66>
