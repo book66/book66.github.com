@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-06-05</date>
-      <title>在工作中自我療癒：心理醫生為你解決26個...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0222.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54345</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-06-05</date>
       <title>台灣鐵道祕境慢旅</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KB3027.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54188</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-06-06</date>
       <title>這樣吃，從此遠離醫生：日本內科名醫教你如...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MR0010.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54147</link>
+    </book>
+    <book>
+      <date>2015-06-11</date>
+      <title>新加坡小旅行：南洋美食×人氣景點×購物血...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF617X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=53951</link>
     </book>
   </preview>
 </book66>
