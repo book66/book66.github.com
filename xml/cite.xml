@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-06-06</date>
-      <title>台灣鐵道祕境慢旅</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KB3027.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54188</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-06-06</date>
       <title>這樣吃，從此遠離醫生：日本內科名醫教你如...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG059.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54251</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-06-07</date>
       <title>守護天使</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF617X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53951</link>
+    </book>
+    <book>
+      <date>2015-06-12</date>
+      <title>激省淘金術！淘寶買物教戰守則</title>
+      <price>197</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPB002.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=52436</link>
     </book>
   </preview>
 </book66>
