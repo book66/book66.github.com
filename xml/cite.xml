@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-06-12</date>
-      <title>新加坡小旅行：南洋美食×人氣景點×購物血...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF617X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=53951</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-06-12</date>
       <title>激省淘金術！淘寶買物教戰守則</title>
       <price>197</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPB002.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=52436</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-06-13</date>
       <title>布魯媽媽的幸福食堂：輕鬆煮就好吃，200...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3111.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53599</link>
+    </book>
+    <book>
+      <date>2015-06-18</date>
+      <title>旅行這樣拍才美：新手變大師零誤差技巧大全</title>
+      <price>264</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPS12.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54362</link>
     </book>
   </preview>
 </book66>
