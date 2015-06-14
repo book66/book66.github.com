@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-06-14</date>
-      <title>布魯媽媽的幸福食堂：輕鬆煮就好吃，200...</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG057.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=53587</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-06-14</date>
       <title>設計師不傳的私房秘技 工業風空間設計50...</title>
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GI838.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54364</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-06-15</date>
       <title>超人氣托嬰園長0～2歲好帶養魔法：好吃、...</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB923X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53821</link>
+    </book>
+    <book>
+      <date>2015-06-20</date>
+      <title>超神奇「仙骨瘦身步行法」，免挨餓、不飆汗...</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BB7043.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54182</link>
     </book>
   </preview>
 </book66>
