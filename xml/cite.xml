@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-06-26</date>
-      <title>尼爾的幸運旅程</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0039.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54115</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-06-26</date>
       <title>閱讀6招，讓你更聰明</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH6008.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54046</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-06-27</date>
       <title>海盜共和國：骷髏旗飄揚、民主之火燃起的海...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1121.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54384</link>
+    </book>
+    <book>
+      <date>2015-07-02</date>
+      <title>以頸為鑰：跟百齡人瑞學脖子保健，輕鬆疏通...</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD046.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=51225</link>
     </book>
   </preview>
 </book66>
