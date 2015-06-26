@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-06-27</date>
-      <title>閱讀6招，讓你更聰明</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH6008.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54046</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-06-27</date>
       <title>海盜共和國：骷髏旗飄揚、民主之火燃起的海...</title>
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0108.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=51265</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-06-28</date>
       <title>改變人生的睡眠法則</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD046.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=51225</link>
+    </book>
+    <book>
+      <date>2015-07-03</date>
+      <title>侯布雄星級料理大全：110道精華食譜，米...</title>
+      <price>350</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GV107.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54146</link>
     </book>
   </preview>
 </book66>
