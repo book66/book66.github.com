@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-07-03</date>
-      <title>以頸為鑰：跟百齡人瑞學脖子保健，輕鬆疏通...</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD046.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=51225</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-07-03</date>
       <title>侯布雄星級料理大全：110道精華食譜，米...</title>
       <price>350</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GV107.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54146</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-07-04</date>
       <title>夜戲</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD019X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53653</link>
+    </book>
+    <book>
+      <date>2015-07-09</date>
+      <title>追尋印度史詩之美：100個神話故事全圖解...</title>
+      <price>395</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA1064Y.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54143</link>
     </book>
   </preview>
 </book66>
