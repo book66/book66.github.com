@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-07-04</date>
-      <title>侯布雄星級料理大全：110道精華食譜，米...</title>
-      <price>350</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GV107.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54146</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-07-04</date>
       <title>夜戲</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OG0021.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53787</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-07-05</date>
       <title>超世界史：走進歷史現場，記住每一個轉變關...</title>
@@ -51,6 +44,13 @@
       <price>395</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA1064Y.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54143</link>
+    </book>
+    <book>
+      <date>2015-07-10</date>
+      <title>正妹CEO：她從街頭流浪妹變身億萬女老闆</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0116.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54878</link>
     </book>
   </preview>
 </book66>
