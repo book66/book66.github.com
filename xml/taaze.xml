@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2015-07-04</date>
-      <title>W1</title>
-      <price>172</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100731874</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100731874</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2015-07-05</date>
       <title>原來手帳這樣玩：跟著小熊塗鴉、拼貼、隨手...</title>
       <price>211</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100720186</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100720186</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
