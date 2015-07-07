@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-07-08</date>
-      <title>台北閱讀空間</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPV33.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54478</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-07-08</date>
       <title>養生從放鬆開始：全球超過百萬人使用的身心...</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD019X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53653</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-07-09</date>
       <title>追尋印度史詩之美：100個神話故事全圖解...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MB029.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54449</link>
+    </book>
+    <book>
+      <date>2015-07-14</date>
+      <title>超慢跑入門</title>
+      <price>158</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BE1035.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54477</link>
     </book>
   </preview>
 </book66>
