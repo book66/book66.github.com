@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-07-09</date>
-      <title>養生從放鬆開始：全球超過百萬人使用的身心...</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD019X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=53653</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-07-09</date>
       <title>追尋印度史詩之美：100個神話故事全圖解...</title>
       <price>395</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA1064Y.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54143</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-07-10</date>
       <title>正妹CEO：她從街頭流浪妹變身億萬女老闆</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BE1035.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54477</link>
+    </book>
+    <book>
+      <date>2015-07-15</date>
+      <title>我愛東京旅遊失心瘋：就是要藥妝、甜點、可...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG037.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=31912</link>
     </book>
   </preview>
 </book66>
