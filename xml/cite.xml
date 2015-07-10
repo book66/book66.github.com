@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-07-11</date>
-      <title>正妹CEO：她從街頭流浪妹變身億萬女老闆</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0116.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54878</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-07-11</date>
       <title>每個產品都需要好劇本：做文創不可不學的基...</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO6021.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54059</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-07-12</date>
       <title>杜拜不轉機：跟著158cm空姐一路瘋玩金...</title>
@@ -51,6 +44,13 @@
       <price>323</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AC715.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54338</link>
+    </book>
+    <book>
+      <date>2015-07-17</date>
+      <title>人體使用手冊套書：人體使用手冊3-每天梳...</title>
+      <price>363</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG042S.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=44691</link>
     </book>
   </preview>
 </book66>
