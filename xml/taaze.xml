@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2015-07-11</date>
-      <title>富爸爸商學院</title>
-      <price>172</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100076885</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100076885</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2015-07-12</date>
       <title>貓咪這樣吃最健康！</title>
       <price>244</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100678132</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100678132</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
