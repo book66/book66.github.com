@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-07-13</date>
-      <title>杜拜不轉機：跟著158cm空姐一路瘋玩金...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF638.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54383</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-07-13</date>
       <title>聖經輕斷食：21天就能淨化身體、改善健康...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MB029.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54449</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-07-14</date>
       <title>超慢跑入門</title>
@@ -51,6 +44,13 @@
       <price>329</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2069.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54591</link>
+    </book>
+    <book>
+      <date>2015-07-19</date>
+      <title>布魯媽媽的幸福食堂：輕鬆煮就好吃，200...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG057.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=53587</link>
     </book>
   </preview>
 </book66>
