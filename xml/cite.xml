@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-07-15</date>
-      <title>超慢跑入門</title>
-      <price>158</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BE1035.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54477</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-07-15</date>
       <title>我愛東京旅遊失心瘋：就是要藥妝、甜點、可...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG037.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=31912</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-07-16</date>
       <title>跟四大會計師事務所學做Excel圖表：如...</title>
@@ -51,6 +44,13 @@
       <price>264</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1005.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54913</link>
+    </book>
+    <book>
+      <date>2015-07-21</date>
+      <title>法國清新舒壓著色畫50：璀璨伊斯蘭【附贈...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0097.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=53858</link>
     </book>
   </preview>
 </book66>
