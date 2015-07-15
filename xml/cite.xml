@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-07-16</date>
-      <title>我愛東京旅遊失心瘋：就是要藥妝、甜點、可...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG037.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=31912</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-07-16</date>
       <title>跟四大會計師事務所學做Excel圖表：如...</title>
       <price>323</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AC715.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54338</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-07-17</date>
       <title>人體使用手冊套書：人體使用手冊3-每天梳...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0097.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53858</link>
+    </book>
+    <book>
+      <date>2015-07-22</date>
+      <title>亞洲插畫師年鑑Collections 2...</title>
+      <price>330</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BV132.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=52827</link>
     </book>
   </preview>
 </book66>
