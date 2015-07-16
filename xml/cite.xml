@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-07-17</date>
-      <title>跟四大會計師事務所學做Excel圖表：如...</title>
-      <price>323</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AC715.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54338</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-07-17</date>
       <title>人體使用手冊套書：人體使用手冊3-每天梳...</title>
       <price>363</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG042S.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=44691</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-07-18</date>
       <title>饞：貪吃的歷史</title>
@@ -51,6 +44,13 @@
       <price>330</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BV132.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=52827</link>
+    </book>
+    <book>
+      <date>2015-07-23</date>
+      <title>聖人請卸妝：歷史課本不會教，關於聖賢名人...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BM6009.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54476</link>
     </book>
   </preview>
 </book66>
