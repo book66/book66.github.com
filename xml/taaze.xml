@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2015-07-18</date>
-      <title>火星任務</title>
-      <price>251</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100705030</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100705030</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2015-07-19</date>
       <title>法國麵包教父的經典配方：梅森凱瑟的80款...</title>
       <price>495</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100723677</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100723677</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
