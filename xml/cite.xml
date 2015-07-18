@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-07-19</date>
-      <title>饞：貪吃的歷史</title>
-      <price>329</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2069.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54591</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-07-19</date>
       <title>布魯媽媽的幸福食堂：輕鬆煮就好吃，200...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG057.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53587</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-07-20</date>
       <title>這才是數學：從不知道到想知道的探索之旅</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OG0020.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54127</link>
+    </book>
+    <book>
+      <date>2015-07-25</date>
+      <title>學校老師沒教的賺錢秘密：小資族微薪大進擊...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BE036.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=43005</link>
     </book>
   </preview>
 </book66>
