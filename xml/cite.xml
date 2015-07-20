@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-07-21</date>
-      <title>這才是數學：從不知道到想知道的探索之旅</title>
-      <price>264</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1005.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54913</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-07-21</date>
       <title>法國清新舒壓著色畫50：璀璨伊斯蘭【附贈...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0097.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53858</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-07-22</date>
       <title>亞洲插畫師年鑑Collections 2...</title>
@@ -51,6 +44,13 @@
       <price>561</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MG0004.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54589</link>
+    </book>
+    <book>
+      <date>2015-07-27</date>
+      <title>新手爸媽先懂孩子再懂教：掌握90個教養關...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BE035.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=49502</link>
     </book>
   </preview>
 </book66>
