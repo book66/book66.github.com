@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-07-23</date>
-      <title>亞洲插畫師年鑑Collections 2...</title>
-      <price>330</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BV132.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=52827</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-07-23</date>
       <title>聖人請卸妝：歷史課本不會教，關於聖賢名人...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BM6009.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54476</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-07-24</date>
       <title>祕密的承諾</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0117.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54973</link>
+    </book>
+    <book>
+      <date>2015-07-29</date>
+      <title>福爾摩斯探案全集</title>
+      <price>983</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR0010U.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=38616</link>
     </book>
   </preview>
 </book66>
