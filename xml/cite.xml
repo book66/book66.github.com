@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-07-24</date>
-      <title>聖人請卸妝：歷史課本不會教，關於聖賢名人...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BM6009.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54476</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-07-24</date>
       <title>祕密的承諾</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OG0020.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54127</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-07-25</date>
       <title>學校老師沒教的賺錢秘密：小資族微薪大進擊...</title>
@@ -51,6 +44,13 @@
       <price>983</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR0010U.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=38616</link>
+    </book>
+    <book>
+      <date>2015-07-30</date>
+      <title>與生活和好：克里希那穆提寫給你的28道生...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX1062.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54473</link>
     </book>
   </preview>
 </book66>
