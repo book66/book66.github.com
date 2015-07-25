@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2015-07-25</date>
-      <title>臺灣摩登咖啡屋：日治臺灣飲食消費文化考</title>
-      <price>231</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100706265</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100706265</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2015-07-26</date>
       <title>和小澤征爾先生談音樂</title>
       <price>251</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100728833</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100728833</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
