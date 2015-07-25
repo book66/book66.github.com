@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-07-26</date>
-      <title>學校老師沒教的賺錢秘密：小資族微薪大進擊...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BE036.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=43005</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-07-26</date>
       <title>巴黎最老甜點舖 A la mere de...</title>
       <price>561</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MG0004.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54589</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-07-27</date>
       <title>新手爸媽先懂孩子再懂教：掌握90個教養關...</title>
@@ -51,6 +44,13 @@
       <price>554</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HB056S.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43781</link>
+    </book>
+    <book>
+      <date>2015-08-01</date>
+      <title>天觀雙俠‧限量復刻炫金典藏書盒版套書組（...</title>
+      <price>693</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HO006W.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=19858</link>
     </book>
   </preview>
 </book66>
