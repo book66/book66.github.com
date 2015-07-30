@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-07-31</date>
-      <title>與生活和好：克里希那穆提寫給你的28道生...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX1062.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54473</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-07-31</date>
       <title>北方大道燙金書衣套書（上下冊）</title>
       <price>554</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HB056S.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43781</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-08-01</date>
       <title>天觀雙俠‧限量復刻炫金典藏書盒版套書組（...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MI1011.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55526</link>
+    </book>
+    <book>
+      <date>2015-08-06</date>
+      <title>老屋顏：走訪全台老房子，從老屋歷史、建築...</title>
+      <price>263</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MS1053.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=55524</link>
     </book>
   </preview>
 </book66>
