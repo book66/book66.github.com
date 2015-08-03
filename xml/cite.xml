@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-08-04</date>
-      <title>我愛東京旅遊失心瘋：就是要藥妝、甜點、可...</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BG037X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=53594</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-08-04</date>
       <title>無國界醫生的世界</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1051X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54957</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-08-05</date>
       <title>料理好「科學」：287個科學原理，從清洗...</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5103.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55790</link>
+    </book>
+    <book>
+      <date>2015-08-10</date>
+      <title>異星記(限量作者燙金簽名版)</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HB068X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=53798</link>
     </book>
   </preview>
 </book66>
