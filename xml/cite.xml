@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-08-05</date>
-      <title>無國界醫生的世界</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1051X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54957</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-08-05</date>
       <title>料理好「科學」：287個科學原理，從清洗...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MI1011.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55526</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-08-06</date>
       <title>老屋顏：走訪全台老房子，從老屋歷史、建築...</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HB068X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53798</link>
+    </book>
+    <book>
+      <date>2015-08-11</date>
+      <title>為什麼人類比老鼠長壽，卻比弓頭鯨短命？：...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1246.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=52904</link>
     </book>
   </preview>
 </book66>
