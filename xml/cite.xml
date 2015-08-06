@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-08-07</date>
-      <title>老屋顏：走訪全台老房子，從老屋歷史、建築...</title>
-      <price>263</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MS1053.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=55524</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-08-07</date>
       <title>貝爾曼的幽靈</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HB065.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=49134</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-08-08</date>
       <title>魚菜共生：鮮採現吃！從地下室到頂樓，從零...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7079.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55023</link>
+    </book>
+    <book>
+      <date>2015-08-13</date>
+      <title>行動思維時代：搶攻O2O商機，一場從管理...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0563.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54876</link>
     </book>
   </preview>
 </book66>
