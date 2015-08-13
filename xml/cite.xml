@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-08-14</date>
-      <title>行動思維時代：搶攻O2O商機，一場從管理...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0563.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54876</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-08-14</date>
       <title>沒人像我一樣在乎你：那些藏在心裡不說的事</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BV080.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54911</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-08-15</date>
       <title>留一段時間給自己：找回我們在緊密連結的世...</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BCB710.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55266</link>
+    </book>
+    <book>
+      <date>2015-08-20</date>
+      <title>圖解第一次看財務報表就上手（IFRS 新...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DM0067.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54967</link>
     </book>
   </preview>
 </book66>
