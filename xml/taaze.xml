@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2015-08-15</date>
-      <title>忽然一陣敲門聲</title>
-      <price>172</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100696002</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100696002</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2015-08-16</date>
       <title>比例尺畫的世界史：100張收藏億萬年人類...</title>
       <price>461</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100724810</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100724810</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
