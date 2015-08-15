@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-08-16</date>
-      <title>留一段時間給自己：找回我們在緊密連結的世...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0565.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54877</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-08-16</date>
-      <title>科斯托蘭尼的投機世界(2014修訂版)《...</title>
+      <title>科斯托蘭尼的投機世界(2014修訂版)一...</title>
       <price>634</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0098S.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=44714</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-08-17</date>
       <title>尼爾女巫</title>
@@ -51,6 +44,13 @@
       <price>343</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO3005.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54942</link>
+    </book>
+    <book>
+      <date>2015-08-22</date>
+      <title>開始冥想吧！：洗滌心靈，消除雜念，找回屬...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BB7044.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=55521</link>
     </book>
   </preview>
 </book66>
