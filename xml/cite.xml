@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-08-19</date>
-      <title>從空中看台灣：齊柏林空中攝影集（二版）</title>
-      <price>653</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA1039X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=26838</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-08-19</date>
       <title>路易斯．康　建築師中的哲學家：建築是深思...</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BCB710.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55266</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-08-20</date>
       <title>圖解第一次看財務報表就上手（IFRS 新...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL8625.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=52951</link>
+    </book>
+    <book>
+      <date>2015-08-25</date>
+      <title>神偷天下．限量精緻燙金典藏書盒版套書組（...</title>
+      <price>528</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HO027S.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=29381</link>
     </book>
   </preview>
 </book66>
