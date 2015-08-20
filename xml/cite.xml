@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-08-21</date>
-      <title>愛上鑄鐵鍋２：從蒸煮、油炸、煙燻到甜點，...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0070.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=53389</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-08-21</date>
       <title>圖解住宅植栽：110個植栽規劃與主題設計...</title>
       <price>343</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO3005.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54942</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-08-22</date>
       <title>開始冥想吧！：洗滌心靈，消除雜念，找回屬...</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA6422.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56271</link>
+    </book>
+    <book>
+      <date>2015-08-27</date>
+      <title>營養．免疫．長壽</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD7010.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=55847</link>
     </book>
   </preview>
 </book66>
