@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-08-22</date>
-      <title>圖解住宅植栽：110個植栽規劃與主題設計...</title>
-      <price>343</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO3005.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54942</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-08-22</date>
       <title>開始冥想吧！：洗滌心靈，消除雜念，找回屬...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BB7044.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55521</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-08-23</date>
       <title>雙併公寓</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD7010.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55847</link>
+    </book>
+    <book>
+      <date>2015-08-28</date>
+      <title>易醫：用科學思維探討天人合一的易經養生智...</title>
+      <price>317</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD048.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=55845</link>
     </book>
   </preview>
 </book66>
