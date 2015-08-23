@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-08-24</date>
-      <title>雙併公寓</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HO048.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=49119</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-08-24</date>
-      <title>關於人生，我最想告訴你的事：小野50則...</title>
+      <title>關於人生，我最想告訴你的事：小野50則陪...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL8625.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=52951</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-08-25</date>
       <title>愛上疊煮料理100：節能省時又健康的新式...</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0567.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55791</link>
+    </book>
+    <book>
+      <date>2015-08-30</date>
+      <title>是誰在說謊</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HI083.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=55529</link>
     </book>
   </preview>
 </book66>
