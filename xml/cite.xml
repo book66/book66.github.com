@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-08-26</date>
-      <title>愛上疊煮料理100：節能省時又健康的新式...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0066.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=43903</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-08-26</date>
       <title>耶路撒冷的移居者：一段在衝突中探求接納，...</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA6422.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56271</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-08-27</date>
       <title>營養．免疫．長壽</title>
@@ -51,6 +44,13 @@
       <price>383</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH3059.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53203</link>
+    </book>
+    <book>
+      <date>2015-09-01</date>
+      <title>讓我們過得更好的15堂道德課：每天都會遇...</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0107.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=50555</link>
     </book>
   </preview>
 </book66>
