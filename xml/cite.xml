@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-08-28</date>
-      <title>營養．免疫．長壽</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD7010.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=55847</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-08-28</date>
       <title>易醫：用科學思維探討天人合一的易經養生智...</title>
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD048.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55845</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-08-29</date>
       <title>十位經濟學大師教你一本讀通經濟學</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF124.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55270</link>
+    </book>
+    <book>
+      <date>2015-09-03</date>
+      <title>發現粗食好味道２：塘塘與早乙女 修夫婦傳...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD5025.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=56827</link>
     </book>
   </preview>
 </book66>
