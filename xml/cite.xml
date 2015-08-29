@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-08-30</date>
-      <title>十位經濟學大師教你一本讀通經濟學</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0567.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=55791</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-08-30</date>
       <title>是誰在說謊</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HI083.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55529</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-08-31</date>
       <title>未竟的帝國：英國的全球擴張</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GE105.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57958</link>
+    </book>
+    <book>
+      <date>2015-09-05</date>
+      <title>重點就要這樣記！日本東大名師公開二十年經...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7079.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=55023</link>
     </book>
   </preview>
 </book66>
