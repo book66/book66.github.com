@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-08-31</date>
-      <title>是誰在說謊</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HI083.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=55529</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-08-31</date>
       <title>未竟的帝國：英國的全球擴張</title>
       <price>383</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH3059.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53203</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-09-01</date>
       <title>讓我們過得更好的15堂道德課：每天都會遇...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7079.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55023</link>
+    </book>
+    <book>
+      <date>2015-09-06</date>
+      <title>經濟學關我什麼事！但月領22K很有事</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1069.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54445</link>
     </book>
   </preview>
 </book66>
