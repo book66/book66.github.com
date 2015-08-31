@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-09-01</date>
-      <title>未竟的帝國：英國的全球擴張</title>
-      <price>383</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH3059.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=53203</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-09-01</date>
       <title>讓我們過得更好的15堂道德課：每天都會遇...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0107.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=50555</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-09-02</date>
       <title>水彩花之繪：32種柔美綻放的花姿態，一畫...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RV1069.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54445</link>
+    </book>
+    <book>
+      <date>2015-09-07</date>
+      <title>一行禪師講金剛經</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JB0103.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=56707</link>
     </book>
   </preview>
 </book66>
