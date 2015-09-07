@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-09-08</date>
-      <title>一行禪師講金剛經</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JB0103.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=56707</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-09-08</date>
       <title>七人捉迷藏</title>
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UT014.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56096</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-09-09</date>
       <title>行李箱男孩</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0112.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=52748</link>
+    </book>
+    <book>
+      <date>2015-09-14</date>
+      <title>你的身體就是最好的健身房（書+3片DVD...</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH6004S.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=39474</link>
     </book>
   </preview>
 </book66>
