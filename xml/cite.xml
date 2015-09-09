@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-09-10</date>
-      <title>行李箱男孩</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MO0021.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28067</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-09-10</date>
       <title>監工驗收全能百科王：華人世界第一本裝潢監...</title>
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GA073.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=48550</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-09-11</date>
       <title>心跳率，你最好的運動教練：解讀最佳體能指...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1107.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=32487</link>
+    </book>
+    <book>
+      <date>2015-09-16</date>
+      <title>跑步，該怎麼跑：實戰操練手冊（附DVD）</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1020G.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=21919</link>
     </book>
   </preview>
 </book66>
