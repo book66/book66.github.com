@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-09-11</date>
-      <title>監工驗收全能百科王：華人世界第一本裝潢監...</title>
-      <price>317</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GA073.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=48550</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-09-11</date>
       <title>心跳率，你最好的運動教練：解讀最佳體能指...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1040.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54469</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-09-12</date>
       <title>自慢7：人生國學讀本</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1020G.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=21919</link>
+    </book>
+    <book>
+      <date>2015-09-17</date>
+      <title>北海道的幸福休日</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPJ08.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=41500</link>
     </book>
   </preview>
 </book66>
