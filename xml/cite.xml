@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-09-17</date>
-      <title>跑步，該怎麼跑：實戰操練手冊（附DVD）</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1020G.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=21919</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-09-17</date>
       <title>北海道的幸福休日</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPJ08.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=41500</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-09-18</date>
       <title>愛上日本料理：台灣道地和風料亭50+</title>
@@ -51,6 +44,13 @@
       <price>257</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OG0022.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56420</link>
+    </book>
+    <book>
+      <date>2015-09-23</date>
+      <title>免揉麵包之父吉姆．拉赫的83道獨門配方：...</title>
+      <price>329</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GX704.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=52661</link>
     </book>
   </preview>
 </book66>
