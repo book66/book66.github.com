@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-09-24</date>
-      <title>免揉麵包之父吉姆．拉赫的83道獨門配方：...</title>
-      <price>329</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GX704.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=52661</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-09-24</date>
       <title>隈研吾 奔跑的負建築家</title>
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BCB711.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55371</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-09-25</date>
       <title>審判者傳奇2：熾焰</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH2006.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56892</link>
+    </book>
+    <book>
+      <date>2015-09-30</date>
+      <title>Word、Excel、PowerPoin...</title>
+      <price>131</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AE044.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=56365</link>
     </book>
   </preview>
 </book66>
