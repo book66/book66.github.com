@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-09-30</date>
-      <title>認識以色列人與巴勒斯坦人從古到今的紛爭</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH2006.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=56892</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-09-30</date>
       <title>Word、Excel、PowerPoin...</title>
       <price>131</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AE044.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56365</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-01</date>
       <title>餐桌上的魚百科：跟著魚汛吃好魚！從挑選、...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6425.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56625</link>
+    </book>
+    <book>
+      <date>2015-10-06</date>
+      <title>阿德勒心理學講義</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1006.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=56362</link>
     </book>
   </preview>
 </book66>
