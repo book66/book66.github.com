@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-01</date>
-      <title>Word、Excel、PowerPoin...</title>
-      <price>131</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AE044.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=56365</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-01</date>
       <title>餐桌上的魚百科：跟著魚汛吃好魚！從挑選、...</title>
       <price>329</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM114.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=38516</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-02</date>
       <title>正妹CEO：她從街頭流浪妹變身億萬女老闆</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1006.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56362</link>
+    </book>
+    <book>
+      <date>2015-10-07</date>
+      <title>幹嘛不旅行：馬汀夫妻無宅一身輕，自由玩世...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KY0028.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57347</link>
     </book>
   </preview>
 </book66>
