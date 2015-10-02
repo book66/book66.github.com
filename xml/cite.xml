@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-03</date>
-      <title>正妹CEO：她從街頭流浪妹變身億萬女老闆</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0116.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54878</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-03</date>
       <title>酒娘心：從眷村幸福酒釀開始——每天一湯匙...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD049.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57345</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-04</date>
       <title>陶板屋&amp;#12398;家族物語：暖味食譜...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0100.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57949</link>
+    </book>
+    <book>
+      <date>2015-10-09</date>
+      <title>做自己的芳療師：跟著Nico老師一次弄懂...</title>
+      <price>297</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GC032.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57190</link>
     </book>
   </preview>
 </book66>
