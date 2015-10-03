@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-04</date>
-      <title>酒娘心：從眷村幸福酒釀開始——每天一湯匙...</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD049.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57345</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-04</date>
       <title>陶板屋&amp;#12398;家族物語：暖味食譜...</title>
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GV109.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57234</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-05</date>
       <title>別找到我</title>
@@ -51,6 +44,13 @@
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GC032.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57190</link>
+    </book>
+    <book>
+      <date>2015-10-10</date>
+      <title>沒了名片，你還剩下什麼？32個上班族增加...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPV16.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=38472</link>
     </book>
   </preview>
 </book66>
