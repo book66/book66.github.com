@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-07</date>
-      <title>阿德勒心理學講義</title>
-      <price>224</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1006.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=56362</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-07</date>
       <title>幹嘛不旅行：馬汀夫妻無宅一身輕，自由玩世...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KY0028.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57347</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-08</date>
       <title>能量曼陀羅：彩繪內在寧靜小宇宙</title>
@@ -51,6 +44,13 @@
       <price>264</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0568.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57699</link>
+    </book>
+    <book>
+      <date>2015-10-13</date>
+      <title>古書比孩子重要</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL7710.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57411</link>
     </book>
   </preview>
 </book66>
