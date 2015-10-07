@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-08</date>
-      <title>帝國崛起：一場歷史的思辨之旅2</title>
-      <price>185</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20162/2016210035808/2016210035808b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2016210035808&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-08</date>
       <title>晚安故事摩天輪：108個晚安故事</title>
       <price>329</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20185/2018592456240/2018592456240b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018592456240&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-09</date>
       <title>正確洗菜，擺脫農藥陰影：家庭必備！ 學會...</title>
@@ -72,6 +65,13 @@
       <price>218</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271130685/2014271130685b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271130685&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-10-17</date>
+      <title>考典2：國考、公職、銀行、研究所、各類證...</title>
+      <price>231</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20152/2015214279263/2015214279263b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015214279263&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>

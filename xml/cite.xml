@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-08</date>
-      <title>幹嘛不旅行：馬汀夫妻無宅一身輕，自由玩世...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KY0028.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57347</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-08</date>
       <title>能量曼陀羅：彩繪內在寧靜小宇宙</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0100.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57949</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-09</date>
       <title>做自己的芳療師：跟著Nico老師一次弄懂...</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RL7710.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57411</link>
+    </book>
+    <book>
+      <date>2015-10-14</date>
+      <title>最動人的色鉛筆彩繪：色調×意境的進階繪畫...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF108X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=55892</link>
     </book>
   </preview>
 </book66>
