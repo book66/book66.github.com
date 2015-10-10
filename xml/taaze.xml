@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2015-10-10</date>
-      <title>台灣小吃行腳</title>
-      <price>211</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100711936</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100711936</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2015-10-11</date>
       <title>德國專家育兒百招，2～6歲孩子超好帶！ ...</title>
       <price>185</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100715106</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100715106</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
