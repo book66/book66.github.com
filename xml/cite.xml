@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-11</date>
-      <title>沒了名片，你還剩下什麼？32個上班族增加...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPV16.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=38472</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-11</date>
       <title>冰盒蛋糕：不用「烤」的蛋糕！1 攪、2 ...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MG0005.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56590</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-12</date>
       <title>大到不能關：政府不敢動、法院不敢判，揭密...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MB031.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57647</link>
+    </book>
+    <book>
+      <date>2015-10-17</date>
+      <title>德國</title>
+      <price>263</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KV3005.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=55918</link>
     </book>
   </preview>
 </book66>
