@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-12</date>
-      <title>冰盒蛋糕：不用「烤」的蛋糕！1 攪、2 ...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MG0005.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=56590</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-12</date>
       <title>大到不能關：政府不敢動、法院不敢判，揭密...</title>
       <price>264</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0568.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57699</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-13</date>
       <title>古書比孩子重要</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KV3005.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55918</link>
+    </book>
+    <book>
+      <date>2015-10-18</date>
+      <title>F（特色燙黑書衣）</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUC038.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57267</link>
     </book>
   </preview>
 </book66>
