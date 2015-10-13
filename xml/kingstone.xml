@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-14</date>
-      <title>重點就要這樣記！日本東大名師公開二十年經...</title>
-      <price>185</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011771039807/2011771039807b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011771039807&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-14</date>
       <title>如何從聊天中得利不是殺時間，而是成交、說...</title>
       <price>172</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941332555/2014941332555b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941332555&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-15</date>
       <title>請問洪蘭老師</title>
@@ -72,6 +65,13 @@
       <price>172</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20191/2019140706831/2019140706831b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2019140706831&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-10-23</date>
+      <title>所謂收納這件事：日本超人氣室內設計師的收...</title>
+      <price>231</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014200054242/2014200054242b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014200054242&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
