@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-15</date>
-      <title>最動人的色鉛筆彩繪：色調×意境的進階繪畫...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF108X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=55892</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-15</date>
       <title>冷暴力</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH6013.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57189</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-16</date>
       <title>走出受傷的童年：理解父母，在傷心與怨恨中...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3097.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=36769</link>
+    </book>
+    <book>
+      <date>2015-10-21</date>
+      <title>焦點法則：別讓五年後的自己後悔！放棄不重...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1088X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57642</link>
     </book>
   </preview>
 </book66>
