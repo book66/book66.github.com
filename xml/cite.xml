@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-18</date>
-      <title>德國</title>
-      <price>263</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KV3005.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=55918</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-18</date>
       <title>F（特色燙黑書衣）</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUC038.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57267</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-19</date>
       <title>跳脫只能二選一的矛盾思考法</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BO0230.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57819</link>
+    </book>
+    <book>
+      <date>2015-10-24</date>
+      <title>北海道的幸福休日</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPJ08.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=41500</link>
     </book>
   </preview>
 </book66>
