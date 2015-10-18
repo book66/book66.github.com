@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-19</date>
-      <title>N5-N1新日檢單字大全：精選出題頻率最...</title>
-      <price>329</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018030827311/2018030827311b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018030827311&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-19</date>
       <title>給年輕人不出錯的50個工作習慣：為何隔壁...</title>
       <price>172</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941352409/2014941352409b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941352409&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-20</date>
       <title>阿德勒心理學講義</title>
@@ -72,6 +65,13 @@
       <price>172</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011771028368/2011771028368b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011771028368&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-10-28</date>
+      <title>安慰的藝術</title>
+      <price>231</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011760269444/2011760269444b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011760269444&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
