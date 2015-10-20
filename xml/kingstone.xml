@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-21</date>
-      <title>阿德勒心理學講義</title>
-      <price>224</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011750084088/2011750084088b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011750084088&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-21</date>
       <title>麥肯錫精英最重視的39個工作習慣：品質×...</title>
       <price>198</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941343124/2014941343124b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941343124&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-22</date>
       <title>有一天(新版)</title>
@@ -72,6 +65,13 @@
       <price>461</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014280201697/2014280201697b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014280201697&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-10-30</date>
+      <title>磅蛋糕聖經</title>
+      <price>185</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271149090/2014271149090b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271149090&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>

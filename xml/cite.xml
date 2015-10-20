@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-21</date>
-      <title>明天他會去砍草</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3097.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=36769</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-21</date>
       <title>焦點法則：別讓五年後的自己後悔！放棄不重...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1088X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57642</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-22</date>
       <title>日本溝通大師教你生氣的技術：生對氣，做人...</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/3/3DQ002C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54594</link>
+    </book>
+    <book>
+      <date>2015-10-27</date>
+      <title>大驅離：揭露二十一世紀全球經濟的殘酷真相</title>
+      <price>264</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7061.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57596</link>
     </book>
   </preview>
 </book66>
