@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-22</date>
-      <title>焦點法則：別讓五年後的自己後悔！放棄不重...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1088X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57642</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-22</date>
       <title>日本溝通大師教你生氣的技術：生對氣，做人...</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0118.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55264</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-23</date>
       <title>愛日本2！此生必遊的10大風格小鎮：一張...</title>
@@ -51,6 +44,13 @@
       <price>264</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7061.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57596</link>
+    </book>
+    <book>
+      <date>2015-10-28</date>
+      <title>小王子經典珍藏版：法國Gallimard...</title>
+      <price>515</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/3/3DR002C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=42841</link>
     </book>
   </preview>
 </book66>
