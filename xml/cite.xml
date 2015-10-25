@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-26</date>
-      <title>奇幻島冒險記：專注力大考驗，你有本事找出...</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/3/3DQ001X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54540</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-26</date>
       <title>奇幻島冒險記2：觀察力大挑戰，你有本事找...</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/3/3DQ002C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54594</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-27</date>
       <title>大驅離：揭露二十一世紀全球經濟的殘酷真相</title>
