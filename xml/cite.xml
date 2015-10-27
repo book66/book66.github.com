@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-28</date>
-      <title>大驅離：揭露二十一世紀全球經濟的殘酷真相</title>
-      <price>264</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK7061.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57596</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-28</date>
       <title>小王子經典珍藏版：法國Gallimard...</title>
       <price>515</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/3/3DR002C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42841</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-29</date>
       <title>圖解心智圖，超強記憶術！</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HB071.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56093</link>
+    </book>
+    <book>
+      <date>2015-11-03</date>
+      <title>百鬼夜行：陽</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UH022.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57349</link>
     </book>
   </preview>
 </book66>
