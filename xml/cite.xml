@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-29</date>
-      <title>小王子經典珍藏版：法國Gallimard...</title>
-      <price>515</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/3/3DR002C.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=42841</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-29</date>
       <title>圖解心智圖，超強記憶術！</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SH0032X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57235</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-30</date>
       <title>四捨五入：讓50歲後的身心更健康美好</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UH022.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57349</link>
+    </book>
+    <book>
+      <date>2015-11-04</date>
+      <title>邏輯贏話術：德國菁英教你在壓力下反敗為勝...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH6015.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=58625</link>
     </book>
   </preview>
 </book66>
