@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-10-30</date>
-      <title>圖解心智圖，超強記憶術！</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/s/SH0032X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57235</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-10-30</date>
       <title>四捨五入：讓50歲後的身心更健康美好</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3118.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57810</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-10-31</date>
       <title>秘境&amp;#39365;：日本鐵道迷一定要去...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH6015.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58625</link>
+    </book>
+    <book>
+      <date>2015-11-05</date>
+      <title>歪笑小說</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UE038.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=53747</link>
     </book>
   </preview>
 </book66>
