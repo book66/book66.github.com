@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-11-01</date>
-      <title>秘境&amp;#39365;：日本鐵道迷一定要去...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPT11.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=28815</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-11-01</date>
       <title>當世界只剩下貓珍藏版</title>
       <price>449</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPS11.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=52913</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-11-02</date>
       <title>亞特蘭提斯．基因（亞特蘭提斯進化首部曲）</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MI1012.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58702</link>
+    </book>
+    <book>
+      <date>2015-11-07</date>
+      <title>小心，別讓意外到你家！居家安全健診100</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GA074.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=48712</link>
     </book>
   </preview>
 </book66>
