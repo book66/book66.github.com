@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-11-02</date>
-      <title>當世界只剩下貓珍藏版</title>
-      <price>449</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPS11.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=52913</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-11-02</date>
       <title>亞特蘭提斯．基因（亞特蘭提斯進化首部曲）</title>
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HB071.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56093</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-11-03</date>
       <title>百鬼夜行：陽</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GA074.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=48712</link>
+    </book>
+    <book>
+      <date>2015-11-08</date>
+      <title>發現粗食好味道２：塘塘與早乙女 修夫婦傳...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD5025.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=56827</link>
     </book>
   </preview>
 </book66>
