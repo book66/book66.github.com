@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-11-03</date>
-      <title>亞特蘭提斯．基因（亞特蘭提斯進化首部曲）</title>
-      <price>263</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HB071.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=56093</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-11-03</date>
       <title>百鬼夜行：陽</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UH022.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57349</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-11-04</date>
       <title>邏輯贏話術：德國菁英教你在壓力下反敗為勝...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD5025.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56827</link>
+    </book>
+    <book>
+      <date>2015-11-09</date>
+      <title>瘋狂樹屋13層：安迪和他的祕密實驗室（隨...</title>
+      <price>191</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RX6014.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=58264</link>
     </book>
   </preview>
 </book66>
