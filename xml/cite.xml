@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-11-04</date>
-      <title>百鬼夜行：陽</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UH022.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57349</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-11-04</date>
       <title>邏輯贏話術：德國菁英教你在壓力下反敗為勝...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH6015.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58625</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-11-05</date>
       <title>歪笑小說</title>
@@ -51,6 +44,13 @@
       <price>191</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RX6014.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58264</link>
+    </book>
+    <book>
+      <date>2015-11-10</date>
+      <title>14天的約定</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OT1017.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=58246</link>
     </book>
   </preview>
 </book66>
