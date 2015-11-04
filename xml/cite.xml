@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-11-05</date>
-      <title>邏輯贏話術：德國菁英教你在壓力下反敗為勝...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH6015.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=58625</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-11-05</date>
       <title>歪笑小說</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UE038.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53747</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-11-06</date>
       <title>亂讀術</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OT1017.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58246</link>
+    </book>
+    <book>
+      <date>2015-11-11</date>
+      <title>德式廚房管理術：不浪費、不屯積、不焦慮，...</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VK0038.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54515</link>
     </book>
   </preview>
 </book66>
