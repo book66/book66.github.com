@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-11-12</date>
-      <title>厲害！別小看系統家具：設計師推薦愛用，廠...</title>
-      <price>263</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20125/2012560001401/2012560001401b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2012560001401&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-11-12</date>
       <title>我的世界在路上：走遍日澳紐蒐集微笑，台灣...</title>
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20171/2017190045320/2017190045320b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2017190045320&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-11-13</date>
       <title>行動小廚房2：燜燒罐的養生指南</title>
@@ -72,6 +65,13 @@
       <price>317</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271025097/2014271025097b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271025097&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-11-21</date>
+      <title>奶奶的傳家五榖香：九州百年榖物屋老鋪的米...</title>
+      <price>172</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271147966/2014271147966b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271147966&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
