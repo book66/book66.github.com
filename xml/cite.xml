@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-11-13</date>
-      <title>鮮味的祕密：大腦與舌尖聯合探索神祕第五味...</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GX804.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=56809</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-11-13</date>
       <title>超高齡社會的消費行為學：掌握中高齡族群心...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1125.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58881</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-11-14</date>
       <title>改變歷史的元素之王—碳：十一種碳化合物，...</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UH016X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57348</link>
+    </book>
+    <book>
+      <date>2015-11-19</date>
+      <title>田口護的咖啡方程式：咖啡之神與科學博士為...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VV0052.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=58234</link>
     </book>
   </preview>
 </book66>
