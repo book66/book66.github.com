@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-11-14</date>
-      <title>超高齡社會的消費行為學：掌握中高齡族群心...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1125.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=58881</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-11-14</date>
       <title>改變歷史的元素之王—碳：十一種碳化合物，...</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FS0041.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54142</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-11-15</date>
       <title>EXCEL樞紐分析：職場必學的大量數據解...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VV0052.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58234</link>
+    </book>
+    <book>
+      <date>2015-11-20</date>
+      <title>手感烘焙365：從經典到日常，專業教室級...</title>
+      <price>317</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM140.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57960</link>
     </book>
   </preview>
 </book66>
