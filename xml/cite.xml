@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-11-16</date>
-      <title>EXCEL樞紐分析：職場必學的大量數據解...</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AC714G.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=50857</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-11-16</date>
       <title>永遠的杏仁樹</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6535.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57036</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-11-17</date>
       <title>拒當菜鳥 我的第一本裝潢計劃書【暢銷更新...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0127.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57663</link>
+    </book>
+    <book>
+      <date>2015-11-22</date>
+      <title>夜戲</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OG0021.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=53787</link>
     </book>
   </preview>
 </book66>
