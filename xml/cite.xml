@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-11-19</date>
-      <title>百鬼夜行：陰（獨步九週年紀念版）</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UH016X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57348</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-11-19</date>
       <title>田口護的咖啡方程式：咖啡之神與科學博士為...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VV0052.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58234</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-11-20</date>
       <title>手感烘焙365：從經典到日常，專業教室級...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UG007.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53850</link>
+    </book>
+    <book>
+      <date>2015-11-25</date>
+      <title>用安靜改變世界：內向者的天賦、外向者的潛...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2266.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=53825</link>
     </book>
   </preview>
 </book66>
