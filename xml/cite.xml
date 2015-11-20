@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-11-21</date>
-      <title>手感烘焙365：從經典到日常，專業教室級...</title>
-      <price>317</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM140.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57960</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-11-21</date>
       <title>好服務，壞服務：蘇國垚的款待Ⅱ，45則貼...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0127.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57663</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-11-22</date>
       <title>夜戲</title>
@@ -51,6 +44,13 @@
       <price>178</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DM0070.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62202</link>
+    </book>
+    <book>
+      <date>2015-11-27</date>
+      <title>再見，最好的妳</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OT1016.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=55434</link>
     </book>
   </preview>
 </book66>
