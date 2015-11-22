@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-11-23</date>
-      <title>夜戲</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OG0021.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=53787</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-11-23</date>
       <title>薛西弗斯的神話：卡繆的荒謬哲學</title>
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BP6018C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58556</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-11-24</date>
       <title>槍與巧克力</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GU704.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56689</link>
+    </book>
+    <book>
+      <date>2015-11-29</date>
+      <title>彩繪曼陀羅：靜心、舒壓又療癒的神奇能量圓...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VE0061.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=56419</link>
     </book>
   </preview>
 </book66>
