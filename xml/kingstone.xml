@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-11-27</date>
-      <title>今天，你好嗎？想與你分享的小小幸福</title>
-      <price>218</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20185/2018551682895/2018551682895b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018551682895&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-11-27</date>
       <title>行動小廚房3：燜燒罐的副食品指南</title>
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271146914/2014271146914b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271146914&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-11-28</date>
       <title>作文滿級分必備--文藻語彙、成語大全</title>
@@ -72,6 +65,13 @@
       <price>211</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052637158/2018052637158b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052637158&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2015-12-06</date>
+      <title>圖解生活實用英語：舉目所及的人事物(附M...</title>
+      <price>263</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052642565/2018052642565b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052642565&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
