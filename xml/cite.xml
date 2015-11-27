@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-11-28</date>
-      <title>再見，最好的妳</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OT1016.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=55434</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-11-28</date>
       <title>我們的歐洲理想旅店100</title>
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GU704.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56689</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-11-29</date>
       <title>彩繪曼陀羅：靜心、舒壓又療癒的神奇能量圓...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1019Y.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58491</link>
+    </book>
+    <book>
+      <date>2015-12-04</date>
+      <title>走進一座大教堂（全新修訂版）──探尋德法...</title>
+      <price>845</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VX0038C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57192</link>
     </book>
   </preview>
 </book66>
