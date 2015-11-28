@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2015-11-28</date>
-      <title>裸食廚房</title>
-      <price>251</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100748098</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100748098</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2015-11-29</date>
       <title>世界是這樣運作的 150位引領時代思潮的...</title>
       <price>251</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100748210</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100748210</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
