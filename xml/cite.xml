@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-12-04</date>
-      <title>大師為你說的希臘神話：永遠的宇宙諸神人（...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1019Y.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=58491</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-12-04</date>
       <title>走進一座大教堂（全新修訂版）──探尋德法...</title>
       <price>845</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VX0038C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57192</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-12-05</date>
       <title>戒掉爛英文3：百萬網友讚聲的錯英文大選</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0072.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56418</link>
+    </book>
+    <book>
+      <date>2015-12-10</date>
+      <title>亨利說，殺人比撒謊容易</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BCL708.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=59283</link>
     </book>
   </preview>
 </book66>
