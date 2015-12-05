@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2015-12-05</date>
-      <title>神的病歷簿</title>
-      <price>165</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100461460</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100461460</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2015-12-06</date>
       <title>後毒物時代：偽食物、毒建材、假有機，全球...</title>
       <price>198</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100697361</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100697361</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
