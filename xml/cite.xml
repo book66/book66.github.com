@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-12-08</date>
-      <title>圖解暢銷學</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DK0056.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=55930</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-12-08</date>
       <title>Android地表最強密技超級精選</title>
       <price>131</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AL164.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57950</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-12-09</date>
       <title>鑄鐵鍋新手的第一本書：單一食材多變化！簡...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0117.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58385</link>
+    </book>
+    <book>
+      <date>2015-12-14</date>
+      <title>100件你不知道你不知道的事：日常生活裡...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FQ1020X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=53170</link>
     </book>
   </preview>
 </book66>
