@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-12-09</date>
-      <title>Android地表最強密技超級精選</title>
-      <price>131</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AL164.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57950</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-12-09</date>
       <title>鑄鐵鍋新手的第一本書：單一食材多變化！簡...</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0072.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56418</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-12-10</date>
       <title>亨利說，殺人比撒謊容易</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FQ1020X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=53170</link>
+    </book>
+    <book>
+      <date>2015-12-15</date>
+      <title>擺盤設計：100+專業廚房核心技巧，讓日...</title>
+      <price>363</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0071.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=55527</link>
     </book>
   </preview>
 </book66>
