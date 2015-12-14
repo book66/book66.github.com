@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-12-15</date>
-      <title>100件你不知道你不知道的事：日常生活裡...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FQ1020X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=53170</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-12-15</date>
       <title>擺盤設計：100+專業廚房核心技巧，讓日...</title>
       <price>363</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0071.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55527</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-12-16</date>
       <title>大東京自遊人</title>
@@ -51,6 +44,13 @@
       <price>164</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AL163.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59690</link>
+    </book>
+    <book>
+      <date>2015-12-21</date>
+      <title>圖解吳神父腳部按摩保健法2：對症按摩，打...</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD050.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=59812</link>
     </book>
   </preview>
 </book66>
