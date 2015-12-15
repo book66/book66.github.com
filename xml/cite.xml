@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-12-16</date>
-      <title>擺盤設計：100+專業廚房核心技巧，讓日...</title>
-      <price>363</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0071.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=55527</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-12-16</date>
       <title>大東京自遊人</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KS4007.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55919</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-12-17</date>
       <title>情報局長的布穀鳥情人</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD050.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59812</link>
+    </book>
+    <book>
+      <date>2015-12-22</date>
+      <title>探索時間之謎：從天文曆法、牛頓力學到愛因...</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1232X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=59691</link>
     </book>
   </preview>
 </book66>
