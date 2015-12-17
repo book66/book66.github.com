@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-12-18</date>
-      <title>情報局長的布穀鳥情人</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6531.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=53829</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-12-18</date>
       <title>原來歷史可以這樣學</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH3014.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59702</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-12-19</date>
       <title>圖解病毒．感染</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VK0040.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55431</link>
+    </book>
+    <book>
+      <date>2015-12-24</date>
+      <title>鐵道最喜歡，日本美好旅路：北陸新幹線．日...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KY0030.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=59707</link>
     </book>
   </preview>
 </book66>
