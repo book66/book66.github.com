@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-12-21</date>
-      <title>密技偷偷報年度精悍練功版6.0</title>
-      <price>164</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AL163.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=59690</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-12-21</date>
       <title>圖解吳神父腳部按摩保健法2：對症按摩，打...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD050.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59812</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-12-22</date>
       <title>探索時間之謎：從天文曆法、牛頓力學到愛因...</title>
@@ -51,6 +44,13 @@
       <price>330</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO3101.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56842</link>
+    </book>
+    <book>
+      <date>2015-12-27</date>
+      <title>低筋麵粉萬用料理：稀麵糊、稠麵糊、Q麵團...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0073.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=59468</link>
     </book>
   </preview>
 </book66>
