@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-12-22</date>
-      <title>圖解吳神父腳部按摩保健法2：對症按摩，打...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD050.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=59812</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-12-22</date>
       <title>探索時間之謎：從天文曆法、牛頓力學到愛因...</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1232X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59691</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-12-23</date>
       <title>Forever chic：那些法國女人天...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0073.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59468</link>
+    </book>
+    <book>
+      <date>2015-12-28</date>
+      <title>在家吃飯吧。獻給家人、朋友與自己，料理家...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF503.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=53803</link>
     </book>
   </preview>
 </book66>
