@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-12-25</date>
-      <title>冰&amp;#33747</title>
-      <price>165</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20186/2018610837006/2018610837006b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018610837006&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-12-25</date>
       <title>時間迴廊：色魅曼陀羅</title>
       <price>131</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20194/2019477880488/2019477880488b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2019477880488&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-12-26</date>
       <title>日本時尚潮流100選：Nippon所藏日...</title>
@@ -72,6 +65,13 @@
       <price>164</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018030833510/2018030833510b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018030833510&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-01-03</date>
+      <title>跟各國人都可以聊得來：語言大師教你如何掌...</title>
+      <price>277</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011771050123/2011771050123b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011771050123&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
