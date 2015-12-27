@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-12-28</date>
-      <title>NEW TOPIK 新韓檢初級題庫解析：...</title>
-      <price>231</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018030834302/2018030834302b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018030834302&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-12-28</date>
       <title>管理你的每個潛能：培養專業、放膽嘗試、創...</title>
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941347122/2014941347122b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941347122&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-12-29</date>
       <title>三大思考工具，輕鬆徹底解決各種問題：以色...</title>
@@ -72,6 +65,13 @@
       <price>211</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20156/2015630566213/2015630566213b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015630566213&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-01-06</date>
+      <title>食安守門人教你聰明擇食、安心飲食</title>
+      <price>185</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014110692626/2014110692626b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014110692626&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
