@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-12-29</date>
-      <title>在家吃飯吧。獻給家人、朋友與自己，料理家...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF503.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=53803</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-12-29</date>
       <title>忘憂森林：英國威爾斯大自然療癒著色畫【附...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1043.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58126</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-12-30</date>
       <title>作弊飲食瘦身法：每天10份「作弊食物」＋...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0113.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54847</link>
+    </book>
+    <book>
+      <date>2016-01-04</date>
+      <title>50歲開始，優雅過好日子：一生受用的80...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GA081.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=60296</link>
     </book>
   </preview>
 </book66>
