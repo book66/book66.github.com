@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-12-30</date>
-      <title>忘憂森林：英國威爾斯大自然療癒著色畫【附...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1043.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=58126</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-12-30</date>
       <title>作弊飲食瘦身法：每天10份「作弊食物」＋...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RD4062.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58392</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2015-12-31</date>
       <title>給孩子與世界接軌的教育：國際文憑與全球流...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GA081.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60296</link>
+    </book>
+    <book>
+      <date>2016-01-05</date>
+      <title>連連看1000：全球偉大城市</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VE0063.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=59359</link>
     </book>
   </preview>
 </book66>
