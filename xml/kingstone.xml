@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2015-12-31</date>
-      <title>西班牙，再發現！跟著中文官方導遊深度行</title>
-      <price>277</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20174/2017460009458/2017460009458b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2017460009458&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2015-12-31</date>
       <title>樂遊北海道：札幌．小樽．函館．富良野</title>
       <price>251</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20173/2017310133104/2017310133104b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2017310133104&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-01</date>
       <title>好吃20：讓人微笑的暖心甜點</title>
@@ -72,6 +65,13 @@
       <price>251</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20146/2014640010594/2014640010594b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014640010594&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-01-09</date>
+      <title>電烤箱烹調術：不只烤、蒸、煮，發酵也OK...</title>
+      <price>131</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271149700/2014271149700b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271149700&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
