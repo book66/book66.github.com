@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-02</date>
-      <title>解決衝突的關鍵技巧：面對職場中的權力不對...</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0580.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=60739</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-02</date>
       <title>打開大家的 Evernote 筆記本：5...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB931.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60934</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-03</date>
       <title>越不滿，越有力量：你也做得到的47個強心...</title>
@@ -51,6 +44,13 @@
       <price>395</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VX0037.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=52966</link>
+    </book>
+    <book>
+      <date>2016-01-08</date>
+      <title>這就是符號學！ 探索日常用品、圖像、文本...</title>
+      <price>363</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VQ0040.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54486</link>
     </book>
   </preview>
 </book66>
