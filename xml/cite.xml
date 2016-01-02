@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-03</date>
-      <title>打開大家的 Evernote 筆記本：5...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AB931.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=60934</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-03</date>
       <title>越不滿，越有力量：你也做得到的47個強心...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0113.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54847</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-04</date>
       <title>50歲開始，優雅過好日子：一生受用的80...</title>
@@ -51,6 +44,13 @@
       <price>363</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VQ0040.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54486</link>
+    </book>
+    <book>
+      <date>2016-01-09</date>
+      <title>圖解新制財報選好股《暢銷增訂版》（附：《...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0526X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=59453</link>
     </book>
   </preview>
 </book66>

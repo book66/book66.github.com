@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-03</date>
-      <title>一個人用日語一直玩一直玩：我的第一本旅遊...</title>
-      <price>164</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018030833510/2018030833510b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018030833510&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-03</date>
       <title>跟各國人都可以聊得來：語言大師教你如何掌...</title>
       <price>277</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011771050123/2011771050123b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011771050123&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-04</date>
       <title>記得牢，想得到，用得出來：記憶力、理解力...</title>
@@ -72,6 +65,13 @@
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20156/2015630555644/2015630555644b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015630555644&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-01-12</date>
+      <title>好奇心：生命不在於找答案，而是問問題</title>
+      <price>238</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011760276435/2011760276435b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011760276435&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
