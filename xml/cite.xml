@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-06</date>
-      <title>連連看1000：全球偉大城市</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VE0063.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=59359</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-06</date>
       <title>被埋葬的記憶</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5069.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60213</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-07</date>
       <title>消失的偉大電影：80年影壇祕辛，名導、巨...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH3013.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60932</link>
+    </book>
+    <book>
+      <date>2016-01-12</date>
+      <title>給女鵝的信：搖滾把拔愛妳一兆年</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPV42.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57706</link>
     </book>
   </preview>
 </book66>

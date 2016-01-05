@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-06</date>
-      <title>從零開始穩穩賺：富朋友教你買基金、賺股票...</title>
-      <price>211</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20156/2015630566213/2015630566213b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015630566213&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-06</date>
       <title>食安守門人教你聰明擇食、安心飲食</title>
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014110692626/2014110692626b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014110692626&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-07</date>
       <title>屍者的帝國</title>
@@ -72,6 +65,13 @@
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011771060580/2011771060580b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011771060580&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-01-15</date>
+      <title>讓你wow！的Kokoma糖霜餅乾</title>
+      <price>231</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271136267/2014271136267b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271136267&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
