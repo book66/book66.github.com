@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-07</date>
-      <title>被埋葬的記憶</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BL5069.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=60213</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-07</date>
       <title>消失的偉大電影：80年影壇祕辛，名導、巨...</title>
       <price>395</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VX0037.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=52966</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-08</date>
       <title>這就是符號學！ 探索日常用品、圖像、文本...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPV42.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57706</link>
+    </book>
+    <book>
+      <date>2016-01-13</date>
+      <title>武藏裕子不NG料理帳：94種必學撇步+6...</title>
+      <price>197</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1046.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=60288</link>
     </book>
   </preview>
 </book66>
