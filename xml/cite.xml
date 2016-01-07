@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-08</date>
-      <title>消失的偉大電影：80年影壇祕辛，名導、巨...</title>
-      <price>395</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VX0037.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=52966</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-08</date>
       <title>這就是符號學！ 探索日常用品、圖像、文本...</title>
       <price>363</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VQ0040.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54486</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-09</date>
       <title>圖解新制財報選好股《暢銷增訂版》（附：《...</title>
@@ -51,6 +44,13 @@
       <price>197</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1046.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60288</link>
+    </book>
+    <book>
+      <date>2016-01-14</date>
+      <title>斷不了、捨不下、離不開的33件珍品</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0128.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57667</link>
     </book>
   </preview>
 </book66>
