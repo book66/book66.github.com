@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-09</date>
-      <title>這就是符號學！ 探索日常用品、圖像、文本...</title>
-      <price>363</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VQ0040.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54486</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-09</date>
-      <title>圖解新制財報選好股《暢銷增訂版》（附：《...</title>
+      <title>圖解新制財報選好股暢銷增訂版（附：會計師...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0526X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59453</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-10</date>
       <title>天堂的律師</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0128.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57667</link>
+    </book>
+    <book>
+      <date>2016-01-15</date>
+      <title>天天在家玩科學</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1023.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=61023</link>
     </book>
   </preview>
 </book66>
