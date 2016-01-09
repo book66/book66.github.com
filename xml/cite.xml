@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-10</date>
-      <title>圖解新制財報選好股暢銷增訂版（附：會計師...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0526X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=59453</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-10</date>
       <title>天堂的律師</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RQ7059.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60243</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-11</date>
       <title>用觀念讀懂世界歷史：科學革命至當代世界</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1023.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61023</link>
+    </book>
+    <book>
+      <date>2016-01-16</date>
+      <title>大人的東京休日：哈日杏子嚴選．90個食宿...</title>
+      <price>244</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPJ15.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=58180</link>
     </book>
   </preview>
 </book66>
