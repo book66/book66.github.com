@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-11</date>
-      <title>天堂的律師</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RQ7059.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=60243</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-11</date>
       <title>用觀念讀懂世界歷史：科學革命至當代世界</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH3013.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60932</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-12</date>
       <title>給女鵝的信：搖滾把拔愛妳一兆年</title>
@@ -51,6 +44,13 @@
       <price>244</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPJ15.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58180</link>
+    </book>
+    <book>
+      <date>2016-01-17</date>
+      <title>我的趣味寫作本：引導孩子的寫作力！</title>
+      <price>191</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/3/3DQ003.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57415</link>
     </book>
   </preview>
 </book66>
