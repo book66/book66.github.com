@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-13</date>
-      <title>給女鵝的信：搖滾把拔愛妳一兆年</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPV42.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57706</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-13</date>
       <title>武藏裕子不NG料理帳：94種必學撇步+6...</title>
       <price>197</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1046.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60288</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-14</date>
       <title>斷不了、捨不下、離不開的33件珍品</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0125.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56727</link>
+    </book>
+    <book>
+      <date>2016-01-19</date>
+      <title>老咖啡，好味道：嚴選日本110間特色咖啡...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2APJ01.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=58949</link>
     </book>
   </preview>
 </book66>
