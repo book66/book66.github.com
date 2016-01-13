@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-14</date>
-      <title>武藏裕子不NG料理帳：94種必學撇步+6...</title>
-      <price>197</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FJ1046.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=60288</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-14</date>
       <title>斷不了、捨不下、離不開的33件珍品</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0128.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57667</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-15</date>
       <title>天天在家玩科學</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2APJ01.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58949</link>
+    </book>
+    <book>
+      <date>2016-01-20</date>
+      <title>PK</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UF020.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=50960</link>
     </book>
   </preview>
 </book66>
