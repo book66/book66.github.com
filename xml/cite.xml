@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-15</date>
-      <title>斷不了、捨不下、離不開的33件珍品</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0128.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57667</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-15</date>
       <title>天天在家玩科學</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1023.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61023</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-16</date>
       <title>大人的東京休日：哈日杏子嚴選．90個食宿...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UF020.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=50960</link>
+    </book>
+    <book>
+      <date>2016-01-21</date>
+      <title>追債人：金融高層X持槍搶匪，從華爾街到地...</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0578.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=59699</link>
     </book>
   </preview>
 </book66>
