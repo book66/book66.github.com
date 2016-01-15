@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-16</date>
-      <title>天天在家玩科學</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1023.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=61023</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-16</date>
       <title>大人的東京休日：哈日杏子嚴選．90個食宿...</title>
       <price>244</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPJ15.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58180</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-17</date>
       <title>我的趣味寫作本：引導孩子的寫作力！</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0578.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59699</link>
+    </book>
+    <book>
+      <date>2016-01-22</date>
+      <title>那些女神不告訴妳的事：外貌x優雅x自信x...</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPV44.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57836</link>
     </book>
   </preview>
 </book66>
