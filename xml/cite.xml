@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-17</date>
-      <title>大人的東京休日：哈日杏子嚴選．90個食宿...</title>
-      <price>244</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPJ15.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=58180</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-17</date>
       <title>我的趣味寫作本：引導孩子的寫作力！</title>
       <price>191</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/3/3DQ003.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57415</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-18</date>
       <title>頂尖CEO的前瞻力：聚焦思考、磨鍊品格，...</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPV44.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57836</link>
+    </book>
+    <book>
+      <date>2016-01-23</date>
+      <title>B型企業，現在最需要的好公司：想買他們的...</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0120.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=55849</link>
     </book>
   </preview>
 </book66>
