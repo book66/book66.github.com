@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-18</date>
-      <title>我的趣味寫作本：引導孩子的寫作力！</title>
-      <price>191</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/3/3DQ003.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57415</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-18</date>
       <title>頂尖CEO的前瞻力：聚焦思考、磨鍊品格，...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0125.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56727</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-19</date>
       <title>老咖啡，好味道：嚴選日本110間特色咖啡...</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0120.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55849</link>
+    </book>
+    <book>
+      <date>2016-01-24</date>
+      <title>用觀念讀懂世界歷史：上古至地理大發現</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH3012.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=60930</link>
     </book>
   </preview>
 </book66>
