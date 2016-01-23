@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2016-01-23</date>
-      <title>書，記憶著時光</title>
-      <price>197</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100752735</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100752735</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2016-01-24</date>
       <title>懷孕、生產、育兒三合一大百科：從懷孕第一...</title>
       <price>627</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100658395</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100658395</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
