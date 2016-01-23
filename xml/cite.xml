@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-24</date>
-      <title>B型企業，現在最需要的好公司：想買他們的...</title>
-      <price>224</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0120.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=55849</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-24</date>
       <title>用觀念讀懂世界歷史：上古至地理大發現</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH3012.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60930</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-25</date>
       <title>為什麼人這麼難懂？精神科醫師教你如何理解...</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BB7048.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60777</link>
+    </book>
+    <book>
+      <date>2016-01-30</date>
+      <title>連連看1000：世界名人肖像</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VE0062.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=59358</link>
     </book>
   </preview>
 </book66>
