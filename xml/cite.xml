@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-28</date>
-      <title>思考的技術</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0572C.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=55893</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-28</date>
       <title>露營料理不失敗：戶外料理器具大解惑．炊事...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VF0075.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60328</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-01-29</date>
       <title>睡不著、睡不好，絕對有救！日本睡眠名醫的...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0138.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59930</link>
+    </book>
+    <book>
+      <date>2016-02-03</date>
+      <title>認識媒體：人的延伸（麥克魯漢經典）</title>
+      <price>383</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1028X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57690</link>
     </book>
   </preview>
 </book66>
