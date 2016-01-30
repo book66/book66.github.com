@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-01-31</date>
-      <title>連連看1000：世界名人肖像</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/v/VE0062.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=59358</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-01-31</date>
       <title>從一杯可樂開始的帝國</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BF3041.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60927</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-01</date>
       <title>白鯨傳奇：怒海之心(電影書衣版)</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1UC051.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55523</link>
+    </book>
+    <book>
+      <date>2016-02-06</date>
+      <title>給活著的我們．致逝去的他們：東大急診醫師...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1007.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=61765</link>
     </book>
   </preview>
 </book66>
