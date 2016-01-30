@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2016-01-30</date>
-      <title>昔日之味</title>
-      <price>185</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100752260</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100752260</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2016-01-31</date>
       <title>一本就GO！：用這幾句德語玩遍德國</title>
       <price>131</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100748323</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100748323</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
