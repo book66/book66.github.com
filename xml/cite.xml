@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-02-01</date>
-      <title>從一杯可樂開始的帝國</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BF3041.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=60927</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-02-01</date>
       <title>白鯨傳奇：怒海之心(電影書衣版)</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MM1131.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62827</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-02</date>
       <title>用科學打開腦中的頓悟密碼： 搞懂創意從哪...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1007.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61765</link>
+    </book>
+    <book>
+      <date>2016-02-07</date>
+      <title>雞皮疙瘩15：小心雪人</title>
+      <price>131</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BG7055.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=63327</link>
     </book>
   </preview>
 </book66>
