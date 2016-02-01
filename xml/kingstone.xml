@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-02-02</date>
-      <title>富裕，屬於口袋裝滿快樂的人：22堂吸引財...</title>
-      <price>238</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20156/2015630577202/2015630577202b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015630577202&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-02-02</date>
       <title>人類圖：區分的科學 (人類圖國際總部 J...</title>
       <price>527</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20129/2012920478362/2012920478362b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2012920478362&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-03</date>
       <title>蘋果膠生食療法：斷糖．整腸．排毒．防癌</title>
@@ -72,6 +65,13 @@
       <price>218</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014160068181/2014160068181b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014160068181&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-02-11</date>
+      <title>頭薦骨療法：頭薦骨放鬆了，身體就回到健康...</title>
+      <price>231</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014180307086/2014180307086b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014180307086&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
