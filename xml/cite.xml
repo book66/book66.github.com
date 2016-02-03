@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-02-04</date>
-      <title>認識媒體：人的延伸（麥克魯漢經典）</title>
-      <price>383</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1028X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57690</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-02-04</date>
       <title>當然要挑食：當梁瓊白遇見原味新美食</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD5030.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62182</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-05</date>
       <title>古書店阿賽麗亞的屍體</title>
@@ -51,6 +44,13 @@
       <price>257</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1430.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55782</link>
+    </book>
+    <book>
+      <date>2016-02-10</date>
+      <title>在與世界的對抗中：慢讀卡夫卡</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA9013C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=60767</link>
     </book>
   </preview>
 </book66>
