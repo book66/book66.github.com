@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2016-02-06</date>
-      <title>天天在家玩科學</title>
-      <price>277</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100760697</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100760697</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2016-02-07</date>
       <title>血汗超商：連鎖加盟如何變成鏈鎖枷盟</title>
       <price>198</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100195412</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100195412</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
