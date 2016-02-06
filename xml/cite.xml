@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-02-07</date>
-      <title>給活著的我們．致逝去的他們：東大急診醫師...</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1007.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=61765</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-02-07</date>
       <title>雞皮疙瘩15：小心雪人</title>
       <price>131</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BG7055.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63327</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-08</date>
       <title>大店長開講：店長必修12學分／ 50個開...</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FK1006.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55364</link>
+    </book>
+    <book>
+      <date>2016-02-13</date>
+      <title>超高效心智圖學習法（改版）</title>
+      <price>172</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1012X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=59257</link>
     </book>
   </preview>
 </book66>
