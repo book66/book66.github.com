@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-02-08</date>
-      <title>雞皮疙瘩15：小心雪人</title>
-      <price>131</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BG7055.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=63327</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-02-08</date>
       <title>大店長開講：店長必修12學分／ 50個開...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0126.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57046</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-09</date>
       <title>流動的大都會：黎辛斯基的城市規畫再思考</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1012X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59257</link>
+    </book>
+    <book>
+      <date>2016-02-14</date>
+      <title>最暢銷行為科學大師石田淳告訴你： 改變人...</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0133.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=58453</link>
     </book>
   </preview>
 </book66>
