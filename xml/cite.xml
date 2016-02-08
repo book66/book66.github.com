@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-02-09</date>
-      <title>大店長開講：店長必修12學分／ 50個開...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0126.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57046</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-02-09</date>
       <title>流動的大都會：黎辛斯基的城市規畫再思考</title>
       <price>257</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1430.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55782</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-10</date>
       <title>在與世界的對抗中：慢讀卡夫卡</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0133.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58453</link>
+    </book>
+    <book>
+      <date>2016-02-15</date>
+      <title>全世界在瘋什麼自造者運動？解放創新思維，...</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2267.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=56708</link>
     </book>
   </preview>
 </book66>
