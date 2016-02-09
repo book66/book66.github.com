@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-02-10</date>
-      <title>流動的大都會：黎辛斯基的城市規畫再思考</title>
-      <price>257</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1430.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=55782</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-02-10</date>
       <title>在與世界的對抗中：慢讀卡夫卡</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA9013C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60767</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-11</date>
       <title>為什麼腸胃不會把自己給消化了？：揭開人體...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2267.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56708</link>
+    </book>
+    <book>
+      <date>2016-02-16</date>
+      <title>科特勒：我這樣看世界，還有我自己</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0137.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=59187</link>
     </book>
   </preview>
 </book66>
