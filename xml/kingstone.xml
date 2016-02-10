@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-02-11</date>
-      <title>美國眼科權威教你吃出好眼力：老眼回春，近...</title>
-      <price>218</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014160068181/2014160068181b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014160068181&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-02-11</date>
       <title>頭薦骨療法：頭薦骨放鬆了，身體就回到健康...</title>
       <price>231</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014180307086/2014180307086b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014180307086&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-12</date>
       <title>二年的育兒日記My Baby`s Two...</title>
@@ -72,6 +65,13 @@
       <price>251</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271147676/2014271147676b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271147676&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-02-20</date>
+      <title>國家地理：生活科學大揭密</title>
+      <price>395</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20130/2013000096131/2013000096131b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2013000096131&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>

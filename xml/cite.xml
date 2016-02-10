@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-02-11</date>
-      <title>在與世界的對抗中：慢讀卡夫卡</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA9013C.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=60767</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-02-11</date>
       <title>為什麼腸胃不會把自己給消化了？：揭開人體...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA1107.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57590</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-12</date>
       <title>孩子的家事課：73個簡單有趣的手做練習，...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0137.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59187</link>
+    </book>
+    <book>
+      <date>2016-02-17</date>
+      <title>拿起筆來放手畫：為瘋狂忙碌的生活加點創意...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MA0034.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=62544</link>
     </book>
   </preview>
 </book66>
