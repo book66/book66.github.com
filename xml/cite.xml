@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-02-12</date>
-      <title>為什麼腸胃不會把自己給消化了？：揭開人體...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YA1107.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57590</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-02-12</date>
       <title>孩子的家事課：73個簡單有趣的手做練習，...</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FK1006.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55364</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-13</date>
       <title>超高效心智圖學習法（改版）</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MA0034.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62544</link>
+    </book>
+    <book>
+      <date>2016-02-18</date>
+      <title>台灣老花磚的建築記憶</title>
+      <price>383</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YN3014.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=60534</link>
     </book>
   </preview>
 </book66>
