@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2016-02-13</date>
-      <title>拉得弗森林的藝術家</title>
-      <price>263</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100751562</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100751562</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2016-02-14</date>
       <title>別讓不懂營養學的醫生害了你</title>
       <price>165</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100195334</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100195334</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
