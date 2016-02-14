@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-02-15</date>
-      <title>最暢銷行為科學大師石田淳告訴你： 改變人...</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0133.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=58453</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-02-15</date>
       <title>全世界在瘋什麼自造者運動？解放創新思維，...</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2267.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56708</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-16</date>
       <title>科特勒：我這樣看世界，還有我自己</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QB1122.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55831</link>
+    </book>
+    <book>
+      <date>2016-02-21</date>
+      <title>數位麥克魯漢</title>
+      <price>277</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1003X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57694</link>
     </book>
   </preview>
 </book66>
