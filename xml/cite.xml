@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-02-19</date>
-      <title>台灣老花磚的建築記憶</title>
-      <price>383</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YN3014.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=60534</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-02-19</date>
       <title>只會越來越好：真實記錄21位燒燙傷者的復...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3125.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62192</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-20</date>
       <title>漲價的技術：提升產品價值，大膽漲價，才是...</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI7082.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62547</link>
+    </book>
+    <book>
+      <date>2016-02-25</date>
+      <title>台中日日有意思 享受悠閒小日子新行旅</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KG2030.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=63111</link>
     </book>
   </preview>
 </book66>
