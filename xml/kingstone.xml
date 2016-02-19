@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-02-20</date>
-      <title>美食家的餐桌：拿手菜、餐具器皿、烹調巧思...</title>
-      <price>251</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271147676/2014271147676b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271147676&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-02-20</date>
       <title>國家地理：生活科學大揭密</title>
       <price>395</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20130/2013000096131/2013000096131b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2013000096131&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-21</date>
       <title>怪物講師教學團隊的7，000「單字」+「...</title>
@@ -72,6 +65,13 @@
       <price>230</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052671084/2018052671084b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052671084&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-02-29</date>
+      <title>東大博士的考試腦：簡單拿高分，最有效率的...</title>
+      <price>198</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20139/2013900007046/2013900007046b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2013900007046&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
