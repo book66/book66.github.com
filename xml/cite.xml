@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-02-22</date>
-      <title>數位麥克魯漢</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1003X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57694</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-02-22</date>
       <title>擺脫痠．痛．僵，恢復自癒力、找回身體舒暢...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BB7045.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56368</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-23</date>
       <title>無聲海嘯：大腦退化、人性喪失、健康淪陷大...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6534.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55261</link>
+    </book>
+    <book>
+      <date>2016-02-28</date>
+      <title>戰勝愛滋：一段永遠改變醫療科學的故事</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/y/YK1247.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=56266</link>
     </book>
   </preview>
 </book66>
