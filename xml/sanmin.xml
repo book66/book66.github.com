@@ -3,47 +3,40 @@
   <today>
     <book>
       <date>2016-02-25</date>
-      <title>日本妖怪物語（第二版）</title>
-      <price>350</price>
-      <imageUrl>http://122.146.57.160/Assets/product_images/962/962043786.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99M155F5c102e39c102H65T109R121CAIuHGm127IbM</link>
+      <title>黃帝內經養生大全</title>
+      <price>198</price>
+      <imageUrl>http://123.51.221.159:81/Assets/product_images/986/986316619.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99u155T6v109F7C108d66N108O127CERlJDs261NcT</link>
     </book>
   </today>
   <preview>
     <book>
-      <date>2016-02-25</date>
-      <title>黃帝內經養生大全</title>
-      <price>198</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986316619.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99n155h6u109T7S108K66U108z127BYJnTBp170HqQ</link>
-    </book>
-    <book>
       <date>2016-02-26</date>
       <title>萬年曆一本通</title>
       <price>185</price>
-      <imageUrl>http://122.146.57.160/Assets/product_images/986/986603071.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99H155V7z109f52Z105N73z112A126cCUhBHj136YzK</link>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986603071.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99n155h7u109T52S105K73U112z126BYJnTBp170HqQ</link>
     </book>
     <book>
       <date>2016-02-27</date>
       <title>當業務就該知道的成交潛規則</title>
       <price>198</price>
-      <imageUrl>http://123.51.221.159:81/Assets/product_images/986/986271190.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99E155q8K108i87F100p69L109g125jHXqQLc188SxV</link>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986271190.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99H155V8z108f87Z100N69z109A125cCUhBHj136YzK</link>
     </book>
     <book>
       <date>2016-02-28</date>
       <title>去問愛麗絲</title>
       <price>198</price>
       <imageUrl>http://113.196.56.95/Assets/product_images/986/986361198.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99O155l5N102m24k106B72Z105K128mEMgQOe263RnK</link>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99E155q5K102i24F106p72L105g128jHXqQLc188SxV</link>
     </book>
     <book>
       <date>2016-02-29</date>
       <title>早知道，人生不用再重來！</title>
       <price>145</price>
-      <imageUrl>http://123.51.221.159:81/Assets/product_images/986/986271155.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99u155T8v107F88C102d68N105O130CERlJDs261NcT</link>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986271155.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99O155l8N107m88k102B68Z105K130mEMgQOe263RnK</link>
     </book>
   </preview>
 </book66>
