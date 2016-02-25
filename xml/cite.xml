@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-02-26</date>
-      <title>台中日日有意思 享受悠閒小日子新行旅</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KG2030.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=63111</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-02-26</date>
       <title>是思考，還是想太多？</title>
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH6016.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60747</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-27</date>
       <title>血棋局</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA8006.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62465</link>
+    </book>
+    <book>
+      <date>2016-03-03</date>
+      <title>餐桌上的小巴黎：Bon App&amp;#233...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GV110.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57980</link>
     </book>
   </preview>
 </book66>
