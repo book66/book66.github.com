@@ -3,40 +3,33 @@
   <today>
     <book>
       <date>2016-02-26</date>
-      <title>黃帝內經養生大全</title>
-      <price>198</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986316619.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99u155T6v109F7C108d66N108O127CERlJDs261NcT</link>
+      <title>萬年曆一本通</title>
+      <price>185</price>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986603071.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99O155l7N109m52k105B73Z112K126mEMgQOe263RnK</link>
     </book>
   </today>
   <preview>
     <book>
-      <date>2016-02-26</date>
-      <title>萬年曆一本通</title>
-      <price>185</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986603071.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99n155h7u109T52S105K73U112z126BYJnTBp170HqQ</link>
-    </book>
-    <book>
       <date>2016-02-27</date>
       <title>當業務就該知道的成交潛規則</title>
       <price>198</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986271190.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99H155V8z108f87Z100N69z109A125cCUhBHj136YzK</link>
+      <imageUrl>http://123.51.221.158:81/Assets/product_images/986/986271190.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99n155h8u108T87S100K69U109z125BYJnTBp170HqQ</link>
     </book>
     <book>
       <date>2016-02-28</date>
       <title>去問愛麗絲</title>
       <price>198</price>
-      <imageUrl>http://113.196.56.95/Assets/product_images/986/986361198.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99E155q5K102i24F106p72L105g128jHXqQLc188SxV</link>
+      <imageUrl>http://122.146.57.161/Assets/product_images/986/986361198.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99H155V5z102f24Z106N72z105A128cCUhBHj136YzK</link>
     </book>
     <book>
       <date>2016-02-29</date>
       <title>早知道，人生不用再重來！</title>
       <price>145</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986271155.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99O155l8N107m88k102B68Z105K130mEMgQOe263RnK</link>
+      <imageUrl>http://123.51.221.159:81/Assets/product_images/986/986271155.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99E155q8K107i88F102p68L105g130jHXqQLc188SxV</link>
     </book>
   </preview>
 </book66>
