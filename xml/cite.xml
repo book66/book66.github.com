@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-02-27</date>
-      <title>是思考，還是想太多？</title>
-      <price>198</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BH6016.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=60747</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-02-27</date>
       <title>血棋局</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6534.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55261</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-02-28</date>
       <title>戰勝愛滋：一段永遠改變醫療科學的故事</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GV110.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57980</link>
+    </book>
+    <book>
+      <date>2016-03-04</date>
+      <title>每一天的呼吸冥想練習：紓解壓力，重拾健康...</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD053.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=61860</link>
     </book>
   </preview>
 </book66>
