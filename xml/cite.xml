@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-02</date>
-      <title>向人生提問的藝術</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5105G.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=61653</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-02</date>
       <title>無限小：一個危險的數學理論如何形塑現代世...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA8006.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62465</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-03</date>
       <title>餐桌上的小巴黎：Bon App&amp;#233...</title>
@@ -51,6 +44,13 @@
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BE045.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61161</link>
+    </book>
+    <book>
+      <date>2016-03-08</date>
+      <title>Dr. 小百合，今天也要堅強啊！催淚、爆...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF504.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=62740</link>
     </book>
   </preview>
 </book66>
