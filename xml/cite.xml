@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-03</date>
-      <title>無限小：一個危險的數學理論如何形塑現代世...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA8006.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=62465</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-03</date>
       <title>餐桌上的小巴黎：Bon App&amp;#233...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GV110.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57980</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-04</date>
       <title>每一天的呼吸冥想練習：紓解壓力，重拾健康...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF504.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62740</link>
+    </book>
+    <book>
+      <date>2016-03-09</date>
+      <title>狄更斯與祖德</title>
+      <price>317</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUC039.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=61664</link>
     </book>
   </preview>
 </book66>
