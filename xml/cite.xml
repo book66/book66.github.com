@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-04</date>
-      <title>餐桌上的小巴黎：Bon App&amp;#233...</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GV110.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57980</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-04</date>
       <title>每一天的呼吸冥想練習：紓解壓力，重拾健康...</title>
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD053.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61860</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-05</date>
       <title>巴黎藍帶廚藝學校日記</title>
@@ -51,6 +44,13 @@
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUC039.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61664</link>
+    </book>
+    <book>
+      <date>2016-03-10</date>
+      <title>追夢企業家：巴西3G資本如何躍升全球食品...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0139.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=59950</link>
     </book>
   </preview>
 </book66>
