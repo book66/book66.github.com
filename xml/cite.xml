@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-06</date>
-      <title>巴黎藍帶廚藝學校日記</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2030X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=60795</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-06</date>
       <title>判決</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RQ7060.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61467</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-07</date>
       <title>哈哈英單7000：諧音、圖像記憶單字書</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BK5106.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61692</link>
+    </book>
+    <book>
+      <date>2016-03-12</date>
+      <title>野武士，一路向西！：從東京散步到大阪，兩...</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RA7015.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=55386</link>
     </book>
   </preview>
 </book66>
