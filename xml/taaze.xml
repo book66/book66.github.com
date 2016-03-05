@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2016-03-05</date>
-      <title>內容的力量：不販賣商品！用「內容行銷」讓...</title>
-      <price>211</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100763476</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100763476</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2016-03-06</date>
       <title>這個世界不是你想的那樣：窮人與富人的距離...</title>
       <price>185</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100744385</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100744385</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
