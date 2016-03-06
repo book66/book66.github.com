@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-07</date>
-      <title>判決</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RQ7060.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=61467</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-07</date>
       <title>哈哈英單7000：諧音、圖像記憶單字書</title>
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BE045.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61161</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-08</date>
       <title>Dr. 小百合，今天也要堅強啊！催淚、爆...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RA7015.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55386</link>
+    </book>
+    <book>
+      <date>2016-03-13</date>
+      <title>地表最強Windows 10完全攻略！升...</title>
+      <price>131</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AL621.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=61852</link>
     </book>
   </preview>
 </book66>
