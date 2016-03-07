@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-08</date>
-      <title>哈哈英單7000：諧音、圖像記憶單字書</title>
-      <price>297</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1BE045.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=61161</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-08</date>
       <title>Dr. 小百合，今天也要堅強啊！催淚、爆...</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF504.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62740</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-09</date>
       <title>狄更斯與祖德</title>
@@ -51,6 +44,13 @@
       <price>131</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AL621.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61852</link>
+    </book>
+    <book>
+      <date>2016-03-14</date>
+      <title>心智圖寫作秘典</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1024.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=62286</link>
     </book>
   </preview>
 </book66>
