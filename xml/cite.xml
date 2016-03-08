@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-09</date>
-      <title>Dr. 小百合，今天也要堅強啊！催淚、爆...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AF504.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=62740</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-09</date>
       <title>狄更斯與祖德</title>
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUC039.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61664</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-10</date>
       <title>追夢企業家：巴西3G資本如何躍升全球食品...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1024.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62286</link>
+    </book>
+    <book>
+      <date>2016-03-15</date>
+      <title>以花養生，寫給女人的平衡處方：208種花...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GH104.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=58953</link>
     </book>
   </preview>
 </book66>
