@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-12</date>
-      <title>來~跟毛小孩聊天2：最溫暖的情感在日常</title>
-      <price>231</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20138/2013830015449/2013830015449b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2013830015449&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-12</date>
       <title>祕密加州：一手掌握舊金山．洛杉磯．聖地牙...</title>
       <price>330</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20175/2017520044078/2017520044078b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2017520044078&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-13</date>
       <title>多益權威教你征服新多益聽力：內含全真模擬...</title>
@@ -72,6 +65,13 @@
       <price>251</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018030843007/2018030843007b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018030843007&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-03-21</date>
+      <title>麥肯錫、史丹佛都在用的思考筆記活用16圖...</title>
+      <price>172</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941368448/2014941368448b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941368448&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
