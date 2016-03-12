@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2016-03-12</date>
-      <title>城市悠遊行動後背包</title>
-      <price>251</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100761899</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100761899</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2016-03-13</date>
       <title>圖解第一本真的學得會的日文五十音</title>
       <price>197</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100745791</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100745791</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
