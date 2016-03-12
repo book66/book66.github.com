@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-13</date>
-      <title>野武士，一路向西！：從東京散步到大阪，兩...</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RA7015.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=55386</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-13</date>
       <title>地表最強Windows 10完全攻略！升...</title>
       <price>131</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AL621.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61852</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-14</date>
       <title>心智圖寫作秘典</title>
@@ -51,6 +44,13 @@
       <price>383</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GR044.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62104</link>
+    </book>
+    <book>
+      <date>2016-03-19</date>
+      <title>以粥養生：清代名著《老老恆言》粥品精選，...</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD051.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=61394</link>
     </book>
   </preview>
 </book66>
