@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-14</date>
-      <title>地表最強Windows 10完全攻略！升...</title>
-      <price>131</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AL621.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=61852</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-14</date>
       <title>心智圖寫作秘典</title>
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1024.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62286</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-15</date>
       <title>以花養生，寫給女人的平衡處方：208種花...</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD051.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61394</link>
+    </book>
+    <book>
+      <date>2016-03-20</date>
+      <title>女兒的道歉信</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RA7007X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57412</link>
     </book>
   </preview>
 </book66>
