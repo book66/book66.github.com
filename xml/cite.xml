@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-15</date>
-      <title>心智圖寫作秘典</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU1024.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=62286</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-15</date>
       <title>以花養生，寫給女人的平衡處方：208種花...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GH104.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58953</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-16</date>
       <title>微權力：從會議室、軍事衝突、宗教到國家，...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RA7007X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57412</link>
+    </book>
+    <book>
+      <date>2016-03-21</date>
+      <title>【全彩應用圖解】 常用局部疼痛關鍵按點全...</title>
+      <price>330</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3123.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=62024</link>
     </book>
   </preview>
 </book66>

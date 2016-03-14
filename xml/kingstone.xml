@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-15</date>
-      <title>用小錢，這樣做，也能成為千萬包租公：一次...</title>
-      <price>185</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941360442/2014941360442b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941360442&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-15</date>
       <title>無所不能的靈擺占卜【能量靈擺盒裝版】：找...</title>
       <price>449</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20129/2012920479734/2012920479734b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2012920479734&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-16</date>
       <title>一個人的日本鐵道旅行：海岸X農町X遺址，...</title>
@@ -72,6 +65,13 @@
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014110716919/2014110716919b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014110716919&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-03-24</date>
+      <title>深層肌止痛大圖鑑：精準找出激痛點，壓對深...</title>
+      <price>197</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014150381566/2014150381566b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014150381566&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
