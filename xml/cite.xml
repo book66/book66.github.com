@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-17</date>
-      <title>微權力：從會議室、軍事衝突、宗教到國家，...</title>
-      <price>264</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BA8007.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=62462</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-17</date>
       <title>七年之夜</title>
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RQ7056.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55356</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-18</date>
       <title>Herbs香草百科：品種、栽培與應用全書</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BP6019.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62538</link>
+    </book>
+    <book>
+      <date>2016-03-23</date>
+      <title>無印系收納聖經：本多流不用動就收到好，美...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GL122.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=61700</link>
     </book>
   </preview>
 </book66>
