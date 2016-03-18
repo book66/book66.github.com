@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-19</date>
-      <title>餐桌上的危機：基改食物大解密，靠自己的力...</title>
-      <price>251</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014110710177/2014110710177b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014110710177&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-19</date>
       <title>打動面試官！英語口試，這樣說就過關</title>
       <price>277</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052670162/2018052670162b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052670162&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-20</date>
       <title>圖解生活實用日語：人事物的種類構造（附1...</title>
@@ -72,6 +65,13 @@
       <price>297</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052661597/2018052661597b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052661597&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-03-28</date>
+      <title>簡報Show and Tell：講故事秀...</title>
+      <price>238</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941359453/2014941359453b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941359453&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>

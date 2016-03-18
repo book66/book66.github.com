@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-19</date>
-      <title>Herbs香草百科：品種、栽培與應用全書</title>
-      <price>383</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GR044.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=62104</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-19</date>
-      <title>以粥養生：清代名著《老老恆言》粥品精選，...</title>
+      <title>以粥養生：清代名著老老恆言粥品精選，保健...</title>
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BUD051.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61394</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-20</date>
       <title>女兒的道歉信</title>
@@ -51,6 +44,13 @@
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH3061.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59499</link>
+    </book>
+    <book>
+      <date>2016-03-25</date>
+      <title>就是愛住咖啡館風的家：舒服過日子的生活感...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GL117.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=55925</link>
     </book>
   </preview>
 </book66>
