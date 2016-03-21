@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-22</date>
-      <title>【全彩應用圖解】 常用局部疼痛關鍵按點全...</title>
-      <price>330</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3123.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=62024</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-22</date>
       <title>如果沒有今天，明天會不會有昨天？</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BP6019.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62538</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-23</date>
       <title>無印系收納聖經：本多流不用動就收到好，美...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KG4002.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61395</link>
+    </book>
+    <book>
+      <date>2016-03-28</date>
+      <title>裸猿</title>
+      <price>185</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0115.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=62281</link>
     </book>
   </preview>
 </book66>
