@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-23</date>
-      <title>認識不夠好的自己：從紛擾生活中找回平靜的...</title>
-      <price>211</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011780073663/2011780073663b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011780073663&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-23</date>
       <title>殭屍體操：日本超過50萬人都在做！醫學博...</title>
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014110716919/2014110716919b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014110716919&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-24</date>
       <title>深層肌止痛大圖鑑：精準找出激痛點，壓對深...</title>
@@ -72,6 +65,13 @@
       <price>461</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20135/2013590008224/2013590008224b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2013590008224&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-04-01</date>
+      <title>愛料理‧網友熱搜TOP100下飯菜</title>
+      <price>185</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271152533/2014271152533b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271152533&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>

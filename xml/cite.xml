@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-23</date>
-      <title>如果沒有今天，明天會不會有昨天？</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BP6019.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=62538</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-23</date>
       <title>無印系收納聖經：本多流不用動就收到好，美...</title>
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GL122.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61700</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-24</date>
       <title>絲路新史：一個已經逝去但曾經兼容並蓄的世...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0115.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62281</link>
+    </book>
+    <book>
+      <date>2016-03-29</date>
+      <title>現在我是東京人：東京生活練習曲</title>
+      <price>218</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KB3029.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=57704</link>
     </book>
   </preview>
 </book66>
