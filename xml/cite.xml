@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-24</date>
-      <title>無印系收納聖經：本多流不用動就收到好，美...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GL122.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=61700</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-24</date>
       <title>絲路新史：一個已經逝去但曾經兼容並蓄的世...</title>
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH3061.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59499</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-25</date>
       <title>就是愛住咖啡館風的家：舒服過日子的生活感...</title>
@@ -51,6 +44,13 @@
       <price>218</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KB3029.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57704</link>
+    </book>
+    <book>
+      <date>2016-03-30</date>
+      <title>究極京都：100 個你一定要知道的關鍵品...</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0123.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=56243</link>
     </book>
   </preview>
 </book66>
