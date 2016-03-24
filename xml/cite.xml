@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-25</date>
-      <title>絲路新史：一個已經逝去但曾經兼容並蓄的世...</title>
-      <price>317</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RH3061.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=59499</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-25</date>
       <title>就是愛住咖啡館風的家：舒服過日子的生活感...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GL117.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55925</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-26</date>
       <title>不怕，寂寞</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0123.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56243</link>
+    </book>
+    <book>
+      <date>2016-03-31</date>
+      <title>是邏輯，還是鬼扯？</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BP6010X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=62533</link>
     </book>
   </preview>
 </book66>
