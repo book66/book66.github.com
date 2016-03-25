@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-26</date>
-      <title>就是愛住咖啡館風的家：舒服過日子的生活感...</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GL117.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=55925</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-26</date>
       <title>不怕，寂寞</title>
       <price>145</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX4253.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62537</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-27</date>
       <title>丁噹我愛上的臺北生活</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BP6010X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62533</link>
+    </book>
+    <book>
+      <date>2016-04-01</date>
+      <title>孩子的家事課：73個簡單有趣的手做練習，...</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FK1006.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=55364</link>
     </book>
   </preview>
 </book66>
