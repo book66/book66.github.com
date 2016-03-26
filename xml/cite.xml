@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-27</date>
-      <title>不怕，寂寞</title>
-      <price>145</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BX4253.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=62537</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-27</date>
       <title>丁噹我愛上的臺北生活</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KG4002.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61395</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-28</date>
       <title>裸猿</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FK1006.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55364</link>
+    </book>
+    <book>
+      <date>2016-04-02</date>
+      <title>歡樂的神秘謀殺案</title>
+      <price>264</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPA02.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=51766</link>
     </book>
   </preview>
 </book66>
