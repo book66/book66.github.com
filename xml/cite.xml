@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-28</date>
-      <title>丁噹我愛上的臺北生活</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KG4002.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=61395</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-28</date>
       <title>裸猿</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0115.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62281</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-29</date>
       <title>現在我是東京人：東京生活練習曲</title>
@@ -51,6 +44,13 @@
       <price>264</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPA02.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=51766</link>
+    </book>
+    <book>
+      <date>2016-04-03</date>
+      <title>窮人為什麼變得更窮？：洞悉金融運作陷阱，...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0148.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=63361</link>
     </book>
   </preview>
 </book66>
