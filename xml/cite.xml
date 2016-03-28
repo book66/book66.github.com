@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-29</date>
-      <title>裸猿</title>
-      <price>185</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0115.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=62281</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-29</date>
       <title>現在我是東京人：東京生活練習曲</title>
       <price>218</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KB3029.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=57704</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-30</date>
       <title>究極京都：100 個你一定要知道的關鍵品...</title>
@@ -40,10 +33,10 @@
     </book>
     <book>
       <date>2016-04-02</date>
-      <title>歡樂的神秘謀殺案</title>
-      <price>264</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPA02.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=51766</link>
+      <title>親親奶奶（溫馨典藏版）</title>
+      <price>165</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/3/3DP006X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=58239</link>
     </book>
     <book>
       <date>2016-04-03</date>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0148.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63361</link>
+    </book>
+    <book>
+      <date>2016-04-04</date>
+      <title>好心的大人</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RS7076.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54481</link>
     </book>
   </preview>
 </book66>
