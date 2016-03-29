@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-30</date>
-      <title>心智圖寫作秘典</title>
-      <price>231</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20152/2015240158518/2015240158518b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015240158518&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-30</date>
       <title>英文字彙解密：人格、職業、科學與行為 字...</title>
       <price>251</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052645351/2018052645351b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052645351&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-31</date>
       <title>國家地理學會終極恐龍百科(新版)</title>
@@ -72,6 +65,13 @@
       <price>263</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014250365114/2014250365114b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014250365114&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-04-08</date>
+      <title>料理好「科學」：287個科學原理，從清洗...</title>
+      <price>251</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271131897/2014271131897b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271131897&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>

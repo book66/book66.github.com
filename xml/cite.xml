@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-30</date>
-      <title>現在我是東京人：東京生活練習曲</title>
-      <price>218</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/k/KB3029.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57704</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-30</date>
       <title>究極京都：100 個你一定要知道的關鍵品...</title>
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0123.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56243</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-03-31</date>
       <title>是邏輯，還是鬼扯？</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RS7076.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54481</link>
+    </book>
+    <book>
+      <date>2016-04-05</date>
+      <title>鏡頭背後的勇者：用生命與勇氣走過的戰地紀...</title>
+      <price>304</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2072.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=62739</link>
     </book>
   </preview>
 </book66>
