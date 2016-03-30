@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-03-31</date>
-      <title>究極京都：100 個你一定要知道的關鍵品...</title>
-      <price>224</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0123.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=56243</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-03-31</date>
       <title>是邏輯，還是鬼扯？</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BP6010X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62533</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-01</date>
       <title>孩子的家事課：73個簡單有趣的手做練習，...</title>
@@ -51,6 +44,13 @@
       <price>304</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2072.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62739</link>
+    </book>
+    <book>
+      <date>2016-04-06</date>
+      <title>EPIC史詩奇幻：英雄之心</title>
+      <price>317</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HB078.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=62546</link>
     </book>
   </preview>
 </book66>
