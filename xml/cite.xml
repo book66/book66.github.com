@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-01</date>
-      <title>是邏輯，還是鬼扯？</title>
-      <price>238</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BP6010X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=62533</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-01</date>
       <title>孩子的家事課：73個簡單有趣的手做練習，...</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FK1006.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55364</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-02</date>
       <title>親親奶奶（溫馨典藏版）</title>
@@ -51,6 +44,13 @@
       <price>317</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1HB078.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62546</link>
+    </book>
+    <book>
+      <date>2016-04-07</date>
+      <title>丹麥人為什麼這麼有創造力：全球最幸福國家...</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FP2268.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=61708</link>
     </book>
   </preview>
 </book66>
