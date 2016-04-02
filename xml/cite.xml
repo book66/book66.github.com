@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-03</date>
-      <title>親親奶奶（溫馨典藏版）</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/3/3DP006X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=58239</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-03</date>
       <title>窮人為什麼變得更窮？：洞悉金融運作陷阱，...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0148.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63361</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-04</date>
       <title>好心的大人</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BI2041.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62020</link>
+    </book>
+    <book>
+      <date>2016-04-09</date>
+      <title>世界的盡頭：從西非到近東，從伊朗到柬埔寨...</title>
+      <price>383</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MM1130.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=58807</link>
     </book>
   </preview>
 </book66>
