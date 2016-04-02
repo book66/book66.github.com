@@ -2,20 +2,12 @@
 <book66>
   <today>
     <book>
-      <date>2016-04-02</date>
-      <title>日本時尚潮流100選：Nippon所藏日...</title>
-      <price>231</price>
-      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100742536</imageUrl>
-      <link>http://www.taaze.tw/sing.html?pid=11100742536</link>
-    </book>
-  </today>
-  <preview>
-    <book>
       <date>2016-04-03</date>
       <title>圖解：精神分析引論-修訂版</title>
       <price>317</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100756136</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=11100756136</link>
     </book>
-  </preview>
+  </today>
+  <preview/>
 </book66>
