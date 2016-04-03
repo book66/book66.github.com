@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-04</date>
-      <title>窮人為什麼變得更窮？：洞悉金融運作陷阱，...</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0148.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=63361</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-04</date>
       <title>好心的大人</title>
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RS7076.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54481</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-05</date>
       <title>鏡頭背後的勇者：用生命與勇氣走過的戰地紀...</title>
@@ -51,6 +44,13 @@
       <price>383</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MM1130.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58807</link>
+    </book>
+    <book>
+      <date>2016-04-10</date>
+      <title>服從權威：有多少罪惡，假服從之名而行？</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1008.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=63692</link>
     </book>
   </preview>
 </book66>
