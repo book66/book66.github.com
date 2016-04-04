@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-05</date>
-      <title>好心的大人</title>
-      <price>224</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/r/RS7076.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54481</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-05</date>
       <title>鏡頭背後的勇者：用生命與勇氣走過的戰地紀...</title>
       <price>304</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/ME2072.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62739</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-06</date>
       <title>EPIC史詩奇幻：英雄之心</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1008.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63692</link>
+    </book>
+    <book>
+      <date>2016-04-11</date>
+      <title>用經濟學改變世界：諾貝爾經濟學獎得主的1...</title>
+      <price>264</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0146.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=62309</link>
     </book>
   </preview>
 </book66>
