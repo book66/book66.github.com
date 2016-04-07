@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-08</date>
-      <title>間歇訓練【最強圖解版】：1天6分鐘，燃脂...</title>
-      <price>263</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014250365114/2014250365114b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014250365114&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-08</date>
       <title>料理好「科學」：287個科學原理，從清洗...</title>
       <price>251</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271131897/2014271131897b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271131897&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-09</date>
       <title>全民指定，高效衝刺 英檢初級單字2500...</title>
@@ -72,6 +65,13 @@
       <price>230</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052679790/2018052679790b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052679790&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-04-17</date>
+      <title>英文字彙解密：語言、事件與個人特質字源及...</title>
+      <price>251</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052678038/2018052678038b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052678038&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
