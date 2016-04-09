@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-10</date>
-      <title>世界的盡頭：從西非到近東，從伊朗到柬埔寨...</title>
-      <price>383</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MM1130.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=58807</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-10</date>
       <title>服從權威：有多少罪惡，假服從之名而行？</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1008.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63692</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-11</date>
       <title>用經濟學改變世界：諾貝爾經濟學獎得主的1...</title>
@@ -51,6 +44,13 @@
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GR045.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63040</link>
+    </book>
+    <book>
+      <date>2016-04-16</date>
+      <title>灰色人性：發現潛伏在日常生活中的瘋狂</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0144.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=62080</link>
     </book>
   </preview>
 </book66>
