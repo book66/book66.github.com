@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-11</date>
-      <title>服從權威：有多少罪惡，假服從之名而行？</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/q/QD1008.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=63692</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-11</date>
       <title>用經濟學改變世界：諾貝爾經濟學獎得主的1...</title>
       <price>264</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0146.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62309</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-12</date>
       <title>我的娃娃朋友妲莉雅</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0144.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62080</link>
+    </book>
+    <book>
+      <date>2016-04-17</date>
+      <title>光之手：人體能量場療癒全書</title>
+      <price>593</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0104.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=61259</link>
     </book>
   </preview>
 </book66>
