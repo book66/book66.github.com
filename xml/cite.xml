@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-12</date>
-      <title>用經濟學改變世界：諾貝爾經濟學獎得主的1...</title>
-      <price>264</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0146.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=62309</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-12</date>
       <title>我的娃娃朋友妲莉雅</title>
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/3/3DP026C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60338</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-13</date>
       <title>跟各國人都可以聊得來：語言大師教你如何掌...</title>
@@ -51,6 +44,13 @@
       <price>593</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0104.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61259</link>
+    </book>
+    <book>
+      <date>2016-04-18</date>
+      <title>今天你有想我嗎？</title>
+      <price>198</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2APV07.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=64216</link>
     </book>
   </preview>
 </book66>
