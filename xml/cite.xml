@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-14</date>
-      <title>跟各國人都可以聊得來：語言大師教你如何掌...</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0575.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=57610</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-14</date>
       <title>重啟人</title>
       <price>224</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FY1016.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58008</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-15</date>
       <title>多肉植物．仙人掌圖鑑800</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6537.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59117</link>
+    </book>
+    <book>
+      <date>2016-04-20</date>
+      <title>共享經濟時代：從分享房屋、技能到時間，顛...</title>
+      <price>264</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0586.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=62819</link>
     </book>
   </preview>
 </book66>
