@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-15</date>
-      <title>天天在家玩科學</title>
-      <price>277</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20130/2013030003826/2013030003826b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2013030003826&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-15</date>
       <title>花型蛋糕點心BOOK：【1個模型，變出5...</title>
       <price>343</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271139633/2014271139633b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271139633&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-16</date>
       <title>用英文打開話閘子(附1MP3)</title>
@@ -72,6 +65,13 @@
       <price>172</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011760279191/2011760279191b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011760279191&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-04-24</date>
+      <title>我的第一本新多益聽力課本：全新！NEW ...</title>
+      <price>581</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052677826/2018052677826b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052677826&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>

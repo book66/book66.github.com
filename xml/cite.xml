@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-15</date>
-      <title>重啟人</title>
-      <price>224</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FY1016.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=58008</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-15</date>
       <title>多肉植物．仙人掌圖鑑800</title>
       <price>297</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GR045.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63040</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-16</date>
       <title>灰色人性：發現潛伏在日常生活中的瘋狂</title>
@@ -51,6 +44,13 @@
       <price>264</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0586.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62819</link>
+    </book>
+    <book>
+      <date>2016-04-21</date>
+      <title>與光影共舞：世界之美的攝影紀實</title>
+      <price>263</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPO49.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=41629</link>
     </book>
   </preview>
 </book66>
