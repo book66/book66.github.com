@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-16</date>
-      <title>多肉植物．仙人掌圖鑑800</title>
-      <price>297</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GR045.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=63040</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-16</date>
       <title>灰色人性：發現潛伏在日常生活中的瘋狂</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0144.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62080</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-17</date>
       <title>光之手：人體能量場療癒全書</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPO49.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=41629</link>
+    </book>
+    <book>
+      <date>2016-04-22</date>
+      <title>創意的五十道訣竅：連賈伯斯、祖克柏都在用...</title>
+      <price>211</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0581.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=59700</link>
     </book>
   </preview>
 </book66>
