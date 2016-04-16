@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-17</date>
-      <title>灰色人性：發現潛伏在日常生活中的瘋狂</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0144.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=62080</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-17</date>
       <title>光之手：人體能量場療癒全書</title>
       <price>593</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/j/JP0104.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61259</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-18</date>
       <title>今天你有想我嗎？</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0581.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59700</link>
+    </book>
+    <book>
+      <date>2016-04-23</date>
+      <title>秒懂貓咪，行為學醫師的貓星球解析：365...</title>
+      <price>251</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GP107.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=63112</link>
     </book>
   </preview>
 </book66>

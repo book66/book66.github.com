@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-17</date>
-      <title>用英文打開話閘子(附1MP3)</title>
-      <price>230</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052679790/2018052679790b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052679790&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-17</date>
       <title>英文字彙解密：語言、事件與個人特質字源及...</title>
       <price>251</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052678038/2018052678038b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052678038&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-18</date>
       <title>互聯網之神貝佐斯：揭開網路銷售，你所不知...</title>
@@ -72,6 +65,13 @@
       <price>165</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941389214/2014941389214b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941389214&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-04-26</date>
+      <title>一句話，讓你重新再出發：泰戈爾給你的5堂...</title>
+      <price>145</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20119/2011910198570/2011910198570b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011910198570&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
