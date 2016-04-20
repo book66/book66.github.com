@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-21</date>
-      <title>共享經濟時代：從分享房屋、技能到時間，顛...</title>
-      <price>264</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0586.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=62819</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-21</date>
       <title>與光影共舞：世界之美的攝影紀實</title>
       <price>263</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2CPO49.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=41629</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-22</date>
       <title>創意的五十道訣竅：連賈伯斯、祖克柏都在用...</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2APA01.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63334</link>
+    </book>
+    <book>
+      <date>2016-04-27</date>
+      <title>一次寫出勸敗神文案：從平面DM到臉書宣傳...</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0513.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=63964</link>
     </book>
   </preview>
 </book66>
