@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-23</date>
-      <title>創意的五十道訣竅：連賈伯斯、祖克柏都在用...</title>
-      <price>211</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BW0581.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=59700</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-23</date>
       <title>秒懂貓咪，行為學醫師的貓星球解析：365...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GP107.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63112</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-24</date>
       <title>我的食材便利包：全年常備！食材收納保存活...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1MA046.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63345</link>
+    </book>
+    <book>
+      <date>2016-04-29</date>
+      <title>日本一流終極收納全書：23位超人氣收納達...</title>
+      <price>231</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GL123.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=63968</link>
     </book>
   </preview>
 </book66>
