@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-24</date>
-      <title>秒懂貓咪，行為學醫師的貓星球解析：365...</title>
-      <price>251</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GP107.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=63112</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-24</date>
       <title>我的食材便利包：全年常備！食材收納保存活...</title>
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GM148.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63114</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-25</date>
       <title>工業4.0：從製造業到「智」造業，下一波...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GL123.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63968</link>
+    </book>
+    <book>
+      <date>2016-04-30</date>
+      <title>Oh!原來閃燈是這樣打的：小閃燈也能拍出...</title>
+      <price>264</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2APO03.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=63430</link>
     </book>
   </preview>
 </book66>
