@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-27</date>
-      <title>一句話，讓你重新再出發：泰戈爾給你的5堂...</title>
-      <price>145</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20119/2011910198570/2011910198570b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011910198570&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-27</date>
       <title>王明勇的健康廚房：拒絕食安風暴，從打造「...</title>
       <price>197</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014110680005/2014110680005b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014110680005&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-04-28</date>
       <title>微伸展，輕運動：徹底擺脫全身痠痛麻(附1...</title>
@@ -72,6 +65,13 @@
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20119/2011920643848/2011920643848b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011920643848&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-05-06</date>
+      <title>經典義大利甜點：表?道超人氣甜點主廚的四...</title>
+      <price>329</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271194205/2014271194205b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271194205&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
