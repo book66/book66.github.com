@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-04-30</date>
-      <title>日本一流終極收納全書：23位超人氣收納達...</title>
-      <price>231</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GL123.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=63968</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-04-30</date>
       <title>Oh!原來閃燈是這樣打的：小閃燈也能拍出...</title>
       <price>264</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2APO03.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63430</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-01</date>
       <title>圖解簡明世界局勢2016年版</title>
@@ -51,6 +44,13 @@
       <price>264</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/m/MA0035.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63432</link>
+    </book>
+    <book>
+      <date>2016-05-06</date>
+      <title>效果驚人！1:1逆齡步行法：一週一小時、...</title>
+      <price>178</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BB7049.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=63685</link>
     </book>
   </preview>
 </book66>
