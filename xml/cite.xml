@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-05-01</date>
-      <title>Oh!原來閃燈是這樣打的：小閃燈也能拍出...</title>
-      <price>264</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2APO03.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=63430</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-05-01</date>
       <title>圖解簡明世界局勢2016年版</title>
       <price>277</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/d/DO2023.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63992</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-02</date>
       <title>攝影本事：小道具做出大場景，人像拍攝的1...</title>
@@ -51,6 +44,13 @@
       <price>178</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BB7049.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63685</link>
+    </book>
+    <book>
+      <date>2016-05-07</date>
+      <title>透視圖 拿起筆就會畫：一步驟一圖解，60...</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/1/1GB112.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=64408</link>
     </book>
   </preview>
 </book66>
