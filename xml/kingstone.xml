@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-05-02</date>
-      <title>從日本中小學課本學會話（附東京音朗讀MP...</title>
-      <price>191</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018030845681/2018030845681b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018030845681&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-05-02</date>
       <title>物聯網革命：共享經濟與零邊際成本社會的崛...</title>
       <price>304</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20155/2015500143971/2015500143971b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015500143971&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-03</date>
       <title>菁英都是閱讀控巴菲特、比爾蓋茲、佐伯格都...</title>
@@ -72,6 +65,13 @@
       <price>330</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20136/2013620007340/2013620007340b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2013620007340&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-05-11</date>
+      <title>人本食氣：重返人類最適飲食及無病生活</title>
+      <price>218</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014110719415/2014110719415b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014110719415&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
