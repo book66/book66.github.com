@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-05-03</date>
-      <title>攝影本事：小道具做出大場景，人像拍攝的1...</title>
-      <price>277</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/2/2AL969.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=62101</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-05-03</date>
       <title>媽媽的一句話</title>
       <price>165</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0099.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=40343</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-04</date>
       <title>神奇的肌筋膜酸痛自療法〔增訂版〕：鬆開1...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/b/BU0119.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63392</link>
+    </book>
+    <book>
+      <date>2016-05-09</date>
+      <title>簡單用數據，做出好決策：降低成本、提升績...</title>
+      <price>238</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0150.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=63604</link>
     </book>
   </preview>
 </book66>
