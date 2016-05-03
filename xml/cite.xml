@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-05-04</date>
-      <title>媽媽的一句話</title>
-      <price>165</price>
-      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/o/OK0099.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=40343</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-05-04</date>
       <title>神奇的肌筋膜酸痛自療法〔增訂版〕：鬆開1...</title>
       <price>251</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/h/HD3126.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63342</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-05</date>
       <title>窗：50位作家，50種觀點</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/5/5BWB0150.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63604</link>
+    </book>
+    <book>
+      <date>2016-05-10</date>
+      <title>騙過死神的女孩</title>
+      <price>224</price>
+      <imageUrl>http://www1.cite.com.tw/product_thumb.php?img=images/f/FR6536.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=58369</link>
     </book>
   </preview>
 </book66>
