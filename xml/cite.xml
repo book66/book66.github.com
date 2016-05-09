@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-05-10</date>
-      <title>簡單用數據，做出好決策：降低成本、提升績...</title>
-      <price>238</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/5BWB0150.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=63604</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-05-10</date>
       <title>騙過死神的女孩</title>
       <price>224</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/FR6536.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58369</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-11</date>
       <title>小說的八百萬種寫法：不要從頭開始寫、從別...</title>
@@ -51,6 +44,13 @@
       <price>329</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/3TR014.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62509</link>
+    </book>
+    <book>
+      <date>2016-05-16</date>
+      <title>獵豹財務長投資的邏輯</title>
+      <price>317</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/BW0587.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=62817</link>
     </book>
   </preview>
 </book66>
