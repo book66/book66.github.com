@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-05-11</date>
-      <title>騙過死神的女孩</title>
-      <price>224</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/FR6536.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=58369</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-05-11</date>
       <title>小說的八百萬種寫法：不要從頭開始寫、從別...</title>
       <price>231</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/RG8011.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59492</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-12</date>
       <title>物理奇遇記：湯普金斯先生的相對論及量子力...</title>
@@ -51,6 +44,13 @@
       <price>317</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BW0587.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62817</link>
+    </book>
+    <book>
+      <date>2016-05-17</date>
+      <title>社區設計：重新思考「社區」定義，不只設計...</title>
+      <price>211</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/FS0043.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54436</link>
     </book>
   </preview>
 </book66>
