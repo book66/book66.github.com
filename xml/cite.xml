@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-05-14</date>
-      <title>療癒廚房：我家的舒適食、常備菜、料理的基...</title>
-      <price>251</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/1GM151.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=64169</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-05-14</date>
       <title>在異國餐桌上旅行：跟著食物旅行家遊走世界...</title>
       <price>211</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BS6013.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60740</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-15</date>
       <title>SUPER JUNIOR-M's gue...</title>
@@ -51,6 +44,13 @@
       <price>343</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/2APO04.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64173</link>
+    </book>
+    <book>
+      <date>2016-05-20</date>
+      <title>蔡英文：從談判桌到總統府</title>
+      <price>211</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/5BWB0149.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=63628</link>
     </book>
   </preview>
 </book66>
