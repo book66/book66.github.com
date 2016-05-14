@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-05-15</date>
-      <title>在異國餐桌上旅行：跟著食物旅行家遊走世界...</title>
-      <price>211</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/BS6013.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=60740</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-05-15</date>
       <title>SUPER JUNIOR-M's gue...</title>
       <price>329</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/3TR014.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62509</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-16</date>
       <title>獵豹財務長投資的邏輯</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/5BWB0149.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63628</link>
+    </book>
+    <book>
+      <date>2016-05-21</date>
+      <title>改變歷史的50種食物</title>
+      <price>317</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/VX0040.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=59712</link>
     </book>
   </preview>
 </book66>
