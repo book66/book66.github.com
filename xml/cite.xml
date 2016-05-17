@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-05-18</date>
-      <title>社區設計：重新思考「社區」定義，不只設計...</title>
-      <price>211</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/FS0043.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54436</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-05-18</date>
       <title>精靈少女</title>
       <price>211</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BUC040.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64400</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-19</date>
       <title>末日邊境：我們美麗又脆弱的世界</title>
@@ -51,6 +44,13 @@
       <price>297</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/2AC717.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65386</link>
+    </book>
+    <book>
+      <date>2016-05-24</date>
+      <title>世界咖啡地圖</title>
+      <price>647</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/VV0061C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=64565</link>
     </book>
   </preview>
 </book66>
