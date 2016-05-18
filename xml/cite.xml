@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-05-19</date>
-      <title>精靈少女</title>
-      <price>211</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/BUC040.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=64400</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-05-19</date>
       <title>末日邊境：我們美麗又脆弱的世界</title>
       <price>343</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/2APO04.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64173</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-20</date>
       <title>蔡英文：從談判桌到總統府</title>
@@ -51,6 +44,13 @@
       <price>647</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/VV0061C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64565</link>
+    </book>
+    <book>
+      <date>2016-05-25</date>
+      <title>創造力：生命中缺乏的不是創意，而是釋放內...</title>
+      <price>211</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/MI1014.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=64548</link>
     </book>
   </preview>
 </book66>
