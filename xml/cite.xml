@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-05-20</date>
-      <title>末日邊境：我們美麗又脆弱的世界</title>
-      <price>343</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/2APO04.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=64173</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-05-20</date>
       <title>蔡英文：從談判桌到總統府</title>
       <price>211</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/5BWB0149.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63628</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-21</date>
       <title>改變歷史的50種食物</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/MI1014.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64548</link>
+    </book>
+    <book>
+      <date>2016-05-26</date>
+      <title>第一次玩空拍機全攻略：飛行、攝影、場地、...</title>
+      <price>231</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/2AB530.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=62719</link>
     </book>
   </preview>
 </book66>
