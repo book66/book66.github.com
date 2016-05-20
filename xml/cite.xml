@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-05-21</date>
-      <title>蔡英文：從談判桌到總統府</title>
-      <price>211</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/5BWB0149.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=63628</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-05-21</date>
       <title>改變歷史的50種食物</title>
       <price>317</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/VX0040.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59712</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-22</date>
       <title>一次搞懂統計與分析：大數據時代的必勝競爭...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/2AB530.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62719</link>
+    </book>
+    <book>
+      <date>2016-05-27</date>
+      <title>一日法式烘餅與薄餅：一只平底鍋、一張麵皮...</title>
+      <price>238</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/MG0009.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=64046</link>
     </book>
   </preview>
 </book66>
