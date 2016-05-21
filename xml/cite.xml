@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-05-22</date>
-      <title>改變歷史的50種食物</title>
-      <price>317</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/VX0040.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=59712</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-05-22</date>
       <title>一次搞懂統計與分析：大數據時代的必勝競爭...</title>
       <price>304</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BW3048.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64318</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-23</date>
       <title>Excel職場函數468招：超完整！新人...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/MG0009.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64046</link>
+    </book>
+    <book>
+      <date>2016-05-28</date>
+      <title>GRE是啊，是啊！</title>
+      <price>185</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/3TR015.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=65203</link>
     </book>
   </preview>
 </book66>
