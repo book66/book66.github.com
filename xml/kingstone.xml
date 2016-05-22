@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-05-23</date>
-      <title>別當文法傻瓜！地表最強文法QA破解術</title>
-      <price>263</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052685739/2018052685739b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052685739&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-05-23</date>
       <title>一流主管超強會計報告製作術：稻盛和夫讓日...</title>
       <price>211</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014950114173/2014950114173b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014950114173&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-24</date>
       <title>圖解人際關係心理學：搞好人際關係，不用靠...</title>
@@ -72,6 +65,13 @@
       <price>224</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941381638/2014941381638b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941381638&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-06-01</date>
+      <title>與神聊天：為什麼看不見99%的幸福，卻執...</title>
+      <price>317</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20119/2011920651881/2011920651881b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011920651881&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
