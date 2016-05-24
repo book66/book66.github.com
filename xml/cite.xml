@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-05-25</date>
-      <title>世界咖啡地圖</title>
-      <price>647</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/VV0061C.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=64565</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-05-25</date>
       <title>創造力：生命中缺乏的不是創意，而是釋放內...</title>
       <price>211</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/MI1014.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64548</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-26</date>
       <title>第一次玩空拍機全攻略：飛行、攝影、場地、...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/5BWB0151.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63693</link>
+    </book>
+    <book>
+      <date>2016-05-31</date>
+      <title>案例解析！超高效心智圖法入門：輕鬆學會用...</title>
+      <price>231</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/BU1025.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=64403</link>
     </book>
   </preview>
 </book66>
