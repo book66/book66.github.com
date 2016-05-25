@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-05-26</date>
-      <title>改善脖子僵硬，身體90%的疼痛都會消失</title>
-      <price>185</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014160070672/2014160070672b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014160070672&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-05-26</date>
       <title>90%的病自己會好！哪些病其實不必吃藥？...</title>
       <price>172</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014120060163/2014120060163b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014120060163&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-05-27</date>
       <title>我的第一本手做健康麵包【暢銷修訂版】</title>
@@ -72,6 +65,13 @@
       <price>667</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271241435/2014271241435b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271241435&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-06-04</date>
+      <title>不花錢學筆記王Know-How(初版)</title>
+      <price>165</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20101/2010190043181/2010190043181b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2010190043181&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
