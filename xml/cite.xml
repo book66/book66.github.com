@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-06-01</date>
-      <title>案例解析！超高效心智圖法入門：輕鬆學會用...</title>
-      <price>231</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/BU1025.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=64403</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-06-01</date>
       <title>樂高小小世界：50片積木就OK！大小朋友...</title>
       <price>197</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/2AB618.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65604</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-06-02</date>
       <title>首爾弘大全攻略！：《現在是弘大Style...</title>
@@ -51,6 +44,13 @@
       <price>343</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/OG0024X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65437</link>
+    </book>
+    <book>
+      <date>2016-06-07</date>
+      <title>避稅天堂</title>
+      <price>251</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/QC1061.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=65445</link>
     </book>
   </preview>
 </book66>
