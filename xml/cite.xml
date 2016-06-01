@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-06-02</date>
-      <title>樂高小小世界：50片積木就OK！大小朋友...</title>
-      <price>197</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/2AB618.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=65604</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-06-02</date>
-      <title>首爾弘大全攻略！：《現在是弘大Style...</title>
+      <title>首爾弘大全攻略！：現在是弘大Style慶...</title>
       <price>231</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/3TR005X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=56097</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-06-03</date>
       <title>逃稅者的金庫：揭穿避稅天堂祕辛，踢爆富豪...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/QC1061.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65445</link>
+    </book>
+    <book>
+      <date>2016-06-08</date>
+      <title>古董局中局1-4套書</title>
+      <price>970</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/1HO061S.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68187</link>
     </book>
   </preview>
 </book66>
