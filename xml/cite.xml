@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-06-06</date>
-      <title>細菌：我們的生命共同體</title>
-      <price>264</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/BU0122.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=65590</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-06-06</date>
       <title>格雷的五十道陰影．克里斯欽篇：格雷（格雷...</title>
       <price>343</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/OG0024X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65437</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-06-07</date>
       <title>避稅天堂</title>
@@ -51,6 +44,13 @@
       <price>317</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/1GR047.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65966</link>
+    </book>
+    <book>
+      <date>2016-06-12</date>
+      <title>幸福的起點：一個人，不寂寞</title>
+      <price>185</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/1BL020.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=61703</link>
     </book>
   </preview>
 </book66>
