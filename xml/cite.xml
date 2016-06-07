@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-06-08</date>
-      <title>避稅天堂</title>
-      <price>251</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/QC1061.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=65445</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-06-08</date>
       <title>古董局中局1-4套書</title>
       <price>970</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/1HO061S.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68187</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-06-09</date>
       <title>島嶼無戰事：不願面對的和平假象</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/2AC575.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65681</link>
+    </book>
+    <book>
+      <date>2016-06-14</date>
+      <title>為什麼出布容易贏？從球賽、股市到選擇題，...</title>
+      <price>238</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/BO0237.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=64851</link>
     </book>
   </preview>
 </book66>
