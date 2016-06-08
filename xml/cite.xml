@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-06-09</date>
-      <title>古董局中局1-4套書</title>
-      <price>970</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/1HO061S.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68187</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-06-09</date>
       <title>島嶼無戰事：不願面對的和平假象</title>
       <price>284</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BK7067.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65585</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-06-10</date>
       <title>老木吼不吼：艾莉媽的育兒趣事</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BO0237.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64851</link>
+    </book>
+    <book>
+      <date>2016-06-15</date>
+      <title>餐桌上的香料百科：廚房裡的玩香實驗！從初...</title>
+      <price>329</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/1GM154.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=65964</link>
     </book>
   </preview>
 </book66>
