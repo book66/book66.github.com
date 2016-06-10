@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-06-11</date>
-      <title>我的食材便利包：全年常備！食材收納保存活...</title>
-      <price>238</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271193413/2014271193413b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271193413&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-06-11</date>
       <title>開口吃遍USA 美國食用英語：EZ TA...</title>
       <price>231</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052691198/2018052691198b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052691198&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-06-12</date>
       <title>考試王超快記憶術：考生專用！800萬人實...</title>
@@ -72,6 +65,13 @@
       <price>329</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052688075/2018052688075b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052688075&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-06-20</date>
+      <title>為什麼高明的人都用表格管理？活用9張表格...</title>
+      <price>185</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941387500/2014941387500b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941387500&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
