@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-06-15</date>
-      <title>為什麼出布容易贏？從球賽、股市到選擇題，...</title>
-      <price>238</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/BO0237.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=64851</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-06-15</date>
       <title>餐桌上的香料百科：廚房裡的玩香實驗！從初...</title>
       <price>329</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/1GM154.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65964</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-06-16</date>
       <title>七年級變出百萬年薪：魔術般啟動人生的6個...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BK7064.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63499</link>
+    </book>
+    <book>
+      <date>2016-06-21</date>
+      <title>小說家的旅行</title>
+      <price>224</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/ME2073.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=65595</link>
     </book>
   </preview>
 </book66>
