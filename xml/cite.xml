@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-06-16</date>
-      <title>餐桌上的香料百科：廚房裡的玩香實驗！從初...</title>
-      <price>329</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/1GM154.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=65964</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-06-16</date>
       <title>七年級變出百萬年薪：魔術般啟動人生的6個...</title>
       <price>198</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/1BE049.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64057</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-06-17</date>
       <title>系統思考：克服盲點、面對複雜性、見樹又見...</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/ME2073.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65595</link>
+    </book>
+    <book>
+      <date>2016-06-22</date>
+      <title>Z字點子爆發術：創意不必天才，8步驟點子...</title>
+      <price>257</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/5BWB0161.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=65507</link>
     </book>
   </preview>
 </book66>
