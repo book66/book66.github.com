@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-06-18</date>
-      <title>只想窩在家的休日好食光：120道簡易居家...</title>
-      <price>251</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271177567/2014271177567b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271177567&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-06-18</date>
       <title>聰明收納術：超過1000張實景圖！做家事...</title>
       <price>251</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014200056956/2014200056956b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014200056956&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-06-19</date>
       <title>超高命中率NEW TOEIC新多益單字+...</title>
@@ -72,6 +65,13 @@
       <price>164</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018030850418/2018030850418b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018030850418&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-06-27</date>
+      <title>猶太人這樣想、這樣做：200則讓全世界買...</title>
+      <price>185</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011771073153/2011771073153b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011771073153&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
