@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-06-20</date>
-      <title>我的超人爸爸</title>
-      <price>317</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/3TR012.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=58440</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-06-20</date>
       <title>正義的效益：一場法學與經濟學的思辨之旅</title>
       <price>211</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BK7064.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63499</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-06-21</date>
       <title>小說家的旅行</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/1BV084.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=62106</link>
+    </book>
+    <book>
+      <date>2016-06-26</date>
+      <title>東京親子遊：大手牽小手，零經驗也能輕鬆上...</title>
+      <price>263</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/2AF639.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=65384</link>
     </book>
   </preview>
 </book66>
