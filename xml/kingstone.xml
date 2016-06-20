@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-06-21</date>
-      <title>為什麼高明的人都用表格管理？活用9張表格...</title>
-      <price>185</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941387500/2014941387500b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941387500&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-06-21</date>
       <title>未來預演：啟動你的量子改變</title>
       <price>297</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011771089062/2011771089062b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011771089062&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-06-22</date>
       <title>有時候，魔鬼是人之常情</title>
@@ -72,6 +65,13 @@
       <price>231</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014130406265/2014130406265b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014130406265&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-06-30</date>
+      <title>想像力是完美人生的剪刀：除非你能想像，否...</title>
+      <price>185</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011771088430/2011771088430b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011771088430&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
