@@ -3,13 +3,20 @@
   <today>
     <book>
       <date>2016-06-23</date>
+      <title>食尋。蘊味（中英對照）</title>
+      <price>290</price>
+      <imageUrl>http://113.196.56.95/Assets/product_images/988/988832598.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99v155B5i105N52l109b72O104p122UKUsSTe230BgY</link>
+    </book>
+  </today>
+  <preview>
+    <book>
+      <date>2016-06-23</date>
       <title>防癌抗癌最強中藥100</title>
       <price>231</price>
       <imageUrl>http://122.146.57.161/Assets/product_images/962/962145791.jpg</imageUrl>
       <link>http://www.m.sanmin.com.tw/Product/Index/99Y155L5U104J52i107D73C107S130eZMaLHt254VeC</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2016-06-24</date>
       <title>品酒意趣：提昇欣賞葡萄酒的意義和樂趣</title>
