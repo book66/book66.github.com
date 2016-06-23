@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-06-24</date>
-      <title>神奇的肝膽排石法〔經典完整解析版〕</title>
-      <price>297</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/HD3061Y.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=63973</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-06-24</date>
       <title>丈夫的祕密（限量書盒版）</title>
       <price>251</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/OT1018.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60212</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-06-25</date>
       <title>喬老師告白語錄</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/1BG0062.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60801</link>
+    </book>
+    <book>
+      <date>2016-06-30</date>
+      <title>西班牙星光之路</title>
+      <price>317</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/MM1091X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=64862</link>
     </book>
   </preview>
 </book66>
