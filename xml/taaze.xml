@@ -3,13 +3,20 @@
   <today>
     <book>
       <date>2016-06-27</date>
+      <title>星空圖-夜光閃亮版【Luckies】</title>
+      <price>944</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=61100002748</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=61100002748</link>
+    </book>
+  </today>
+  <preview>
+    <book>
+      <date>2016-06-27</date>
       <title>日本好食力：日本米其林餐廳擄獲人心的好服...</title>
       <price>195</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=14100017676</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=14100017676</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2016-07-01</date>
       <title>TRAVELER luxe旅人誌 05月...</title>
