@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-06-30</date>
-      <title>人體使用手冊(實踐版)：啟動自癒，排除垃...</title>
-      <price>231</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014130406265/2014130406265b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014130406265&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-06-30</date>
       <title>想像力是完美人生的剪刀：除非你能想像，否...</title>
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011771088430/2011771088430b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011771088430&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-01</date>
       <title>烤箱出好菜：172道家常飯菜.極品料理....</title>
@@ -72,6 +65,13 @@
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20173/2017310141727/2017310141727b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2017310141727&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-07-09</date>
+      <title>法式馬克杯蛋糕：攪拌30秒，微波2分鐘，...</title>
+      <price>185</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271213388/2014271213388b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271213388&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>

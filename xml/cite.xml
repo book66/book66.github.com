@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-06-30</date>
-      <title>里維的巴黎餐桌：在家也可以吃到主廚級幸福...</title>
-      <price>277</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/1BG0062.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=60801</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-06-30</date>
       <title>西班牙星光之路</title>
       <price>317</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/MM1091X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64862</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-01</date>
       <title>妳的身體就是最好的健身房．90天挑戰計畫...</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/2AB932.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66615</link>
+    </book>
+    <book>
+      <date>2016-07-06</date>
+      <title>大灣大員福爾摩沙：從葡萄牙航海日誌、荷西...</title>
+      <price>376</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/YN3018.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=64554</link>
     </book>
   </preview>
 </book66>
