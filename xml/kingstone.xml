@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-07-02</date>
-      <title>烤箱出好菜：172道家常飯菜.極品料理....</title>
-      <price>251</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271202719/2014271202719b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271202719&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-07-02</date>
       <title>角落生物的生活：這裡讓人好安心</title>
       <price>165</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20185/2018579140278/2018579140278b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018579140278&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-03</date>
       <title>專賣在美國的華人！親子英文會話8000：...</title>
@@ -72,6 +65,13 @@
       <price>693</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018030860615/2018030860615b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018030860615&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-07-11</date>
+      <title>非典型破壞： 西方不認識、資源大轉移的四...</title>
+      <price>251</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20155/2015520103009/2015520103009b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015520103009&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
