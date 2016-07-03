@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-07-04</date>
-      <title>福爾摩斯與第五心</title>
-      <price>317</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/BUC041.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=66266</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-07-04</date>
       <title>偉大攝影的基礎</title>
       <price>231</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/VQ0046.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66160</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-05</date>
       <title>早上最重要的3件事：習慣並且去做，30天...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/2APJ02.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66764</link>
+    </book>
+    <book>
+      <date>2016-07-10</date>
+      <title>人體使用手冊【實踐版】：啟動自癒，排除垃...</title>
+      <price>231</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/BUD052.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=66272</link>
     </book>
   </preview>
 </book66>
