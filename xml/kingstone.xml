@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-07-06</date>
-      <title>回話的態度：爭執、回答不清，是因為「太熟...</title>
-      <price>185</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20119/2011920662900/2011920662900b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011920662900&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-07-06</date>
       <title>敵我之間︰一場歷史的思辨之旅3</title>
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20162/2016210036140/2016210036140b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2016210036140&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-07</date>
       <title>滅世天使【全新經典封面】</title>
@@ -72,6 +65,13 @@
       <price>263</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20187/2018740856076/2018740856076b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018740856076&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-07-15</date>
+      <title>蛋糕研究室：烘焙技師的五星級食譜大揭密</title>
+      <price>251</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271206557/2014271206557b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271206557&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>

@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-07-06</date>
-      <title>早上最重要的3件事：習慣並且去做，30天...</title>
-      <price>198</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/2AB932.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=66615</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-07-06</date>
       <title>大灣大員福爾摩沙：從葡萄牙航海日誌、荷西...</title>
       <price>376</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/YN3018.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64554</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-07</date>
       <title>洞裡頭有什麼東西？</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/1GU507.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65965</link>
+    </book>
+    <book>
+      <date>2016-07-12</date>
+      <title>哇！厲害的人這樣做筆記（修訂版）</title>
+      <price>211</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/5BWB0153.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=64534</link>
     </book>
   </preview>
 </book66>
