@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-07-08</date>
-      <title>洞裡頭有什麼東西？</title>
-      <price>185</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/3DP028C.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=65403</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-07-08</date>
       <title>滅世天使三部曲</title>
       <price>607</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/1HI088S.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68190</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-09</date>
       <title>日本北陸鐵道假期：搭新幹線拜訪最美的富山...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BB7050.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66357</link>
+    </book>
+    <book>
+      <date>2016-07-14</date>
+      <title>小翻頁大發現8：我的太空探索大發現</title>
+      <price>515</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/3DB008C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=64410</link>
     </book>
   </preview>
 </book66>
