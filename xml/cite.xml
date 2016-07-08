@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-07-09</date>
-      <title>滅世天使三部曲</title>
-      <price>607</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/1HI088S.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68190</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-07-09</date>
       <title>日本北陸鐵道假期：搭新幹線拜訪最美的富山...</title>
       <price>231</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/2APJ02.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66764</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-10</date>
       <title>人體使用手冊【實踐版】：啟動自癒，排除垃...</title>
@@ -51,6 +44,13 @@
       <price>515</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/3DB008C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64410</link>
+    </book>
+    <book>
+      <date>2016-07-15</date>
+      <title>小廚娘Olivia的美好食光：讓家更有味...</title>
+      <price>251</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/1BG063.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=64600</link>
     </book>
   </preview>
 </book66>
