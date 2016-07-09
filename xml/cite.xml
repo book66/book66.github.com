@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-07-10</date>
-      <title>日本北陸鐵道假期：搭新幹線拜訪最美的富山...</title>
-      <price>231</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/2APJ02.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=66764</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-07-10</date>
       <title>人體使用手冊【實踐版】：啟動自癒，排除垃...</title>
       <price>231</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BUD052.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66272</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-11</date>
       <title>明天就出發！拚死也要去的日本絕景</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/1BG063.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64600</link>
+    </book>
+    <book>
+      <date>2016-07-16</date>
+      <title>好吃23：打開的瞬間！我們的便當生活</title>
+      <price>131</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/1GM157.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=66724</link>
     </book>
   </preview>
 </book66>
