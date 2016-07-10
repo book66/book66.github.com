@@ -3,54 +3,54 @@
   <today>
     <book>
       <date>2016-07-11</date>
-      <title>領悟兩個字，找回那個微笑的自己</title>
-      <price>172</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986361175.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99W155t5i101c52K107c74q107d121FZDaIOx184KwV</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-07-11</date>
       <title>人事管理成功之路</title>
       <price>251</price>
       <imageUrl>/images/nobook.gif</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99n155h9u106T52S100K73U112z125BYJnTBp170HqQ</link>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99W155t9i106c52K100c73q112d125FZDaIOx184KwV</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-12</date>
       <title>七年前，七年後</title>
       <price>145</price>
       <imageUrl>http://113.196.56.91/Assets/product_images/986/986870682.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99H155V8z106f7Z104N69z110A128cCUhBHj136YzK</link>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99n155h8u106T7S104K69U110z128BYJnTBp170HqQ</link>
     </book>
     <book>
       <date>2016-07-13</date>
       <title>Henna手繪召喚幸福的圖騰02：完美婚...</title>
       <price>297</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986572447.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99E155q5K103i87F105p67L109g129jHXqQLc188SxV</link>
+      <imageUrl>http://123.51.221.159:81/Assets/product_images/986/986572447.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99H155V5z103f87Z105N67z109A129cCUhBHj136YzK</link>
     </book>
     <book>
       <date>2016-07-14</date>
       <title>佛門人生大智慧</title>
       <price>165</price>
-      <imageUrl>http://122.146.57.160/Assets/product_images/986/986316642.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99O155l5N101m63k104B74Z113K127mEMgQOe263RnK</link>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986316642.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99E155q5K101i63F104p74L113g127jHXqQLc188SxV</link>
     </book>
     <book>
       <date>2016-07-15</date>
       <title>指一指，不會韓文也能easy韓國遊</title>
       <price>165</price>
-      <imageUrl>http://123.51.221.158:81/Assets/product_images/986/986271584.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99u155T6v109F88C102d65N109O122CERlJDs261NcT</link>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986271584.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99O155l6N109m88k102B65Z109K122mEMgQOe263RnK</link>
     </book>
     <book>
       <date>2016-07-16</date>
       <title>手機變魔術：雲端魔術降臨，從低頭族變身手...</title>
       <price>185</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986185988.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99M155F6c104e84c104H68T110R125CAIuHGm127IbM</link>
+      <imageUrl>http://123.51.221.158:81/Assets/product_images/986/986185988.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99u155T6v104F84C104d68N110O125CERlJDs261NcT</link>
+    </book>
+    <book>
+      <date>2016-07-17</date>
+      <title>當冬天遇見夏天</title>
+      <price>145</price>
+      <imageUrl>http://113.196.56.95/Assets/product_images/986/986870683.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99M155F8c109e39c105H68T107R129CAIuHGm127IbM</link>
     </book>
   </preview>
 </book66>

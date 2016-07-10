@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-07-11</date>
-      <title>人體使用手冊【實踐版】：啟動自癒，排除垃...</title>
-      <price>231</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/BUD052.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=66272</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-07-11</date>
       <title>明天就出發！拚死也要去的日本絕景</title>
       <price>238</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/1GU507.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65965</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-12</date>
       <title>哇！厲害的人這樣做筆記（修訂版）</title>
@@ -51,6 +44,13 @@
       <price>131</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/1GM157.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66724</link>
+    </book>
+    <book>
+      <date>2016-07-17</date>
+      <title>大唐風：帝國盛極而衰 詩人隨波浮沉</title>
+      <price>185</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/BU3084.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=67158</link>
     </book>
   </preview>
 </book66>
