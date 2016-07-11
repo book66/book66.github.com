@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-07-12</date>
-      <title>明天就出發！拚死也要去的日本絕景</title>
-      <price>238</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/1GU507.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=65965</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-07-12</date>
       <title>哇！厲害的人這樣做筆記（修訂版）</title>
       <price>211</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/5BWB0153.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64534</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-13</date>
       <title>1日5分鐘暖眼操，視力就會好回來：消除眼...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BU3084.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67158</link>
+    </book>
+    <book>
+      <date>2016-07-18</date>
+      <title>澳門小旅行：世界遺產X旅店潮玩X離島漫遊...</title>
+      <price>211</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/2AF627X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=66892</link>
     </book>
   </preview>
 </book66>
