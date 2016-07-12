@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-07-13</date>
-      <title>哇！厲害的人這樣做筆記（修訂版）</title>
-      <price>211</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/5BWB0153.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=64534</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-07-13</date>
       <title>1日5分鐘暖眼操，視力就會好回來：消除眼...</title>
       <price>185</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BB7050.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66357</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-14</date>
       <title>小翻頁大發現8：我的太空探索大發現</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/2AF627X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66892</link>
+    </book>
+    <book>
+      <date>2016-07-19</date>
+      <title>你睡對覺了嗎？：睡不對疾病纏身，睡不好憂...</title>
+      <price>185</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/FJ2057.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=56051</link>
     </book>
   </preview>
 </book66>
