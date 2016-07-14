@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-07-15</date>
-      <title>小翻頁大發現8：我的太空探索大發現</title>
-      <price>515</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/3DB008C.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=64410</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-07-15</date>
       <title>小廚娘Olivia的美好食光：讓家更有味...</title>
       <price>251</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/1BG063.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64600</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-16</date>
       <title>好吃23：打開的瞬間！我們的便當生活</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/QD1009.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66731</link>
+    </book>
+    <book>
+      <date>2016-07-21</date>
+      <title>家事小浣熊：一戴上頭巾就變得超愛乾淨</title>
+      <price>165</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/1BV050.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=64595</link>
     </book>
   </preview>
 </book66>
