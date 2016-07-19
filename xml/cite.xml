@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-07-20</date>
-      <title>你睡對覺了嗎？：睡不對疾病纏身，睡不好憂...</title>
-      <price>185</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/FJ2057.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=56051</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-07-20</date>
       <title>口譯人生：在跨文化的交界，窺看世界的精采</title>
       <price>198</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/QD1009.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66731</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-21</date>
       <title>家事小浣熊：一戴上頭巾就變得超愛乾淨</title>
@@ -51,6 +44,13 @@
       <price>218</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/5BWB0143.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61709</link>
+    </book>
+    <book>
+      <date>2016-07-26</date>
+      <title>被遺忘的古巴人：臥底記者在古巴20年的生...</title>
+      <price>251</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/BH2011.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=66732</link>
     </book>
   </preview>
 </book66>
