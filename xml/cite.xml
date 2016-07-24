@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-07-25</date>
-      <title>守護妳</title>
-      <price>251</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/FR6533.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=54438</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-07-25</date>
       <title>為什麼辣椒醬顏色越深感覺越辣？：設計前不...</title>
       <price>218</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/5BWB0143.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=61709</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-26</date>
       <title>被遺忘的古巴人：臥底記者在古巴20年的生...</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BH6017.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66356</link>
+    </book>
+    <book>
+      <date>2016-07-31</date>
+      <title>暗殺教典：刺客的21條法則</title>
+      <price>263</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/FS0042.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=54435</link>
     </book>
   </preview>
 </book66>
