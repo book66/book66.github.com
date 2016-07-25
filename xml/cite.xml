@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-07-26</date>
-      <title>為什麼辣椒醬顏色越深感覺越辣？：設計前不...</title>
-      <price>218</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/5BWB0143.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=61709</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-07-26</date>
       <title>被遺忘的古巴人：臥底記者在古巴20年的生...</title>
       <price>251</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BH2011.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66732</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-27</date>
       <title>聲音的奇妙旅程</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/FS0042.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=54435</link>
+    </book>
+    <book>
+      <date>2016-08-01</date>
+      <title>NETFLIX：全球線上影音服務龍頭網飛...</title>
+      <price>277</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/5BWB0156.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=65381</link>
     </book>
   </preview>
 </book66>
