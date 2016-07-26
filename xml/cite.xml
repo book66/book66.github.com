@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-07-27</date>
-      <title>被遺忘的古巴人：臥底記者在古巴20年的生...</title>
-      <price>251</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/BH2011.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=66732</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-07-27</date>
       <title>聲音的奇妙旅程</title>
       <price>238</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/MI1015.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66369</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-07-28</date>
       <title>跟著花去旅行！全台賞花路線GUIDE　夏...</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/5BWB0156.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65381</link>
+    </book>
+    <book>
+      <date>2016-08-02</date>
+      <title>小翻頁大發現7：我的航海工具大發現</title>
+      <price>515</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/3DB007C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=61763</link>
     </book>
   </preview>
 </book66>
