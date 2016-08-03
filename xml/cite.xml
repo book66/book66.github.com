@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-04</date>
-      <title>室內設計手繪製圖必學1 平面、天花、剖立...</title>
-      <price>297</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/1GQ801.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=67387</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-04</date>
       <title>封口</title>
       <price>211</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/MR0014.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67355</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-05</date>
       <title>空中菜園！用種菜箱實現城市田園樂</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/HD3128.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67389</link>
+    </book>
+    <book>
+      <date>2016-08-10</date>
+      <title>書樓弔堂：破曉</title>
+      <price>304</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/1UR016.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=63403</link>
     </book>
   </preview>
 </book66>
