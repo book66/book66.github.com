@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-06</date>
-      <title>空中菜園！用種菜箱實現城市田園樂</title>
-      <price>211</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/1GC034.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=66607</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-06</date>
       <title>為什麼麵條讓人變笨？</title>
       <price>231</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BK5115.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67369</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-07</date>
       <title>切開左右腦：葛詹尼加的腦科學人生</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BX4257.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67584</link>
+    </book>
+    <book>
+      <date>2016-08-12</date>
+      <title>怪物大全(軟精裝)</title>
+      <price>659</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/1HR028C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=13532</link>
     </book>
   </preview>
 </book66>
