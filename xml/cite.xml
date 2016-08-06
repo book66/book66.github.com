@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-07</date>
-      <title>為什麼麵條讓人變笨？</title>
-      <price>231</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/BK5115.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=67369</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-07</date>
       <title>切開左右腦：葛詹尼加的腦科學人生</title>
       <price>317</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/YK1250.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67576</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-08</date>
       <title>當主管要知道的第一件事：懂得用人，庸才也...</title>
@@ -51,6 +44,13 @@
       <price>659</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/1HR028C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=13532</link>
+    </book>
+    <book>
+      <date>2016-08-13</date>
+      <title>阿鎧老師10天就看到成效的感統遊戲【加贈...</title>
+      <price>224</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/SH0121.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=36347</link>
     </book>
   </preview>
 </book66>

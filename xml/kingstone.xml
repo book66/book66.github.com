@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-07</date>
-      <title>樂遊土耳其：伊斯坦堡．安塔利亞．卡帕多奇...</title>
-      <price>330</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20173/2017350017419/2017350017419b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2017350017419&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-07</date>
       <title>開啟英文模式，一個人就能練出反射式造句力...</title>
       <price>224</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052697770/2018052697770b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052697770&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-08</date>
       <title>一眼看穿怎麼溝通：讀心術大師教你了解男女...</title>
@@ -72,6 +65,13 @@
       <price>218</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20173/2017320023754/2017320023754b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2017320023754&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-08-16</date>
+      <title>如果，愛能不寂寞。</title>
+      <price>231</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20154/2015440495031/2015440495031b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015440495031&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
