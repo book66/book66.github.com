@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-09</date>
-      <title>當主管要知道的第一件事：懂得用人，庸才也...</title>
-      <price>211</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/BW0597.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=66766</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-09</date>
       <title>初斷食：淨化身體，啟動最全面的自癒力</title>
       <price>231</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/HD3128.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67389</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-10</date>
       <title>書樓弔堂：破曉</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/1GM158.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67426</link>
+    </book>
+    <book>
+      <date>2016-08-15</date>
+      <title>追蹤開膛手傑克：DNA科學鑑識解密百年懸...</title>
+      <price>238</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/BUB013.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=67431</link>
     </book>
   </preview>
 </book66>
