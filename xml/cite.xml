@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-10</date>
-      <title>初斷食：淨化身體，啟動最全面的自癒力</title>
-      <price>231</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/HD3128.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=67389</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-10</date>
       <title>書樓弔堂：破曉</title>
       <price>304</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/1UR016.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63403</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-11</date>
       <title>所謂的你愛我</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BUB013.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67431</link>
+    </book>
+    <book>
+      <date>2016-08-16</date>
+      <title>擺盤設計解構全書：6大設計概念 x 94...</title>
+      <price>277</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/1GV113.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=65442</link>
     </book>
   </preview>
 </book66>
