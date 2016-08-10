@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-11</date>
-      <title>書樓弔堂：破曉</title>
-      <price>304</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/1UR016.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=63403</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-11</date>
       <title>所謂的你愛我</title>
       <price>145</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BX4257.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67584</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-12</date>
       <title>怪物大全(軟精裝)</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/1GV113.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65442</link>
+    </book>
+    <book>
+      <date>2016-08-17</date>
+      <title>骨時鐘</title>
+      <price>317</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/BUC042.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=67585</link>
     </book>
   </preview>
 </book66>

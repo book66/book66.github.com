@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-11</date>
-      <title>學著，好好愛：台大超人氣「愛情社會學」精...</title>
-      <price>224</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20154/2015440494669/2015440494669b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015440494669&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-11</date>
       <title>仁神術的療癒奇蹟：調和生命能量的至簡療法</title>
       <price>211</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014130394173/2014130394173b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014130394173&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-12</date>
       <title>我的第一本肌肉鍛鍊書：韓國健美女王教你從...</title>
@@ -72,6 +65,13 @@
       <price>297</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271086081/2014271086081b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271086081&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-08-20</date>
+      <title>波西傑克森：希臘天神報告(精裝版)</title>
+      <price>329</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20187/2018740847821/2018740847821b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018740847821&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
