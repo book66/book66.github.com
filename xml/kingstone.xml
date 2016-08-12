@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-13</date>
-      <title>我的第一本肌肉鍛鍊書：韓國健美女王教你從...</title>
-      <price>231</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20152/2015280651901/2015280651901b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015280651901&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-13</date>
       <title>一支炒鍋，搞定三餐！超對味下飯菜：時蔬×...</title>
       <price>211</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271218918/2014271218918b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271218918&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-14</date>
       <title>NEW GEPT 全新全民英檢初級聽力&amp;...</title>
@@ -72,6 +65,13 @@
       <price>218</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20152/2015240118550/2015240118550b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015240118550&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-08-22</date>
+      <title>一寫就熱賣：照抄就很好用的101個推坑寫...</title>
+      <price>172</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014970050208/2014970050208b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014970050208&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
