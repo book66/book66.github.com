@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-15</date>
-      <title>設計，在韓食：帶你味訪韓國，多元料理、絕...</title>
-      <price>263</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/1GM158.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=67426</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-15</date>
       <title>追蹤開膛手傑克：DNA科學鑑識解密百年懸...</title>
       <price>238</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BUB013.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67431</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-16</date>
       <title>擺盤設計解構全書：6大設計概念 x 94...</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BI7085.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66359</link>
+    </book>
+    <book>
+      <date>2016-08-21</date>
+      <title>一週小一個size！纖體棍塑身術（內附專...</title>
+      <price>263</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/FJ2058.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=55491</link>
     </book>
   </preview>
 </book66>
