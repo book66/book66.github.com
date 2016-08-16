@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-17</date>
-      <title>擺盤設計解構全書：6大設計概念 x 94...</title>
-      <price>277</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/1GV113.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=65442</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-17</date>
       <title>骨時鐘</title>
       <price>317</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BUC042.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67585</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-18</date>
       <title>我在房市賺一億2：預售屋實戰操作秘笈</title>
@@ -51,6 +44,13 @@
       <price>218</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BCP012.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67577</link>
+    </book>
+    <book>
+      <date>2016-08-23</date>
+      <title>小翻頁大發現6：我的火車演進大發現</title>
+      <price>515</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/3DB006C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=58439</link>
     </book>
   </preview>
 </book66>

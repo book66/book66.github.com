@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-17</date>
-      <title>如果，愛能不寂寞。</title>
-      <price>231</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20154/2015440495031/2015440495031b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015440495031&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-17</date>
       <title>生日塔羅密碼書：一次看懂人格牌、靈魂牌、...</title>
       <price>277</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20129/2012920484691/2012920484691b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2012920484691&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-18</date>
       <title>當爸媽過了 65 歲：你一定要知道的醫療...</title>
@@ -72,6 +65,13 @@
       <price>257</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20152/2015280624516/2015280624516b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015280624516&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-08-26</date>
+      <title>那時候，我只剩下勇敢：一千一百哩太平洋屋...</title>
+      <price>238</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20187/2018740748852/2018740748852b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018740748852&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
