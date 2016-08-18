@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-19</date>
-      <title>我在房市賺一億2：預售屋實戰操作秘笈</title>
-      <price>198</price>
-      <imageUrl>//cdn.cite.com.tw/thumbs/1BE050.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=65601</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-19</date>
       <title>小事的力量 ：將職場習以為常的「基本小事...</title>
       <price>172</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/OK0117.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67148</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-20</date>
       <title>不想成為滄桑前輩，你一定要懂的36件事：...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>//cdn.cite.com.tw/thumbs/BA8008.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67163</link>
+    </book>
+    <book>
+      <date>2016-08-25</date>
+      <title>日日見財！全台33家超人氣必拜財神廟開運...</title>
+      <price>251</price>
+      <imageUrl>//cdn.cite.com.tw/thumbs/1BG064.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=64933</link>
     </book>
   </preview>
 </book66>

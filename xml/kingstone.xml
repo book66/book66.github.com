@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-19</date>
-      <title>當爸媽過了 65 歲：你一定要知道的醫療...</title>
-      <price>185</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20154/2015440491323/2015440491323b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015440491323&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-19</date>
       <title>吳寶春的麵包祕笈：27年功夫‧34道麵包...</title>
       <price>297</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271086081/2014271086081b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271086081&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-20</date>
       <title>波西傑克森：希臘天神報告(精裝版)</title>
@@ -72,6 +65,13 @@
       <price>211</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20185/2018592516593/2018592516593b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018592516593&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-08-28</date>
+      <title>搞懂 17 個關鍵文法，日語大跳級！跟著...</title>
+      <price>218</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018030844509/2018030844509b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018030844509&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
