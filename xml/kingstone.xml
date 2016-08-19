@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-20</date>
-      <title>吳寶春的麵包祕笈：27年功夫‧34道麵包...</title>
-      <price>297</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271086081/2014271086081b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271086081&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-20</date>
       <title>波西傑克森：希臘天神報告(精裝版)</title>
       <price>329</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20187/2018740847821/2018740847821b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018740847821&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-21</date>
       <title>神奇的小花圖作文法：68 個學生，57個...</title>
@@ -72,6 +65,13 @@
       <price>218</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018030844509/2018030844509b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018030844509&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-08-29</date>
+      <title>輕鬆駕馭壓力：史丹佛大學最受歡迎的心理成...</title>
+      <price>205</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011760282184/2011760282184b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011760282184&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
