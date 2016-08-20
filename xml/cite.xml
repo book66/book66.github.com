@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-21</date>
-      <title>不想成為滄桑前輩，你一定要懂的36件事：...</title>
-      <price>198</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BI7085.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=66359</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-21</date>
       <title>一週小一個size！纖體棍塑身術（內附專...</title>
       <price>263</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/FJ2058.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55491</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-22</date>
       <title>說真話的勇氣：北野武&amp;#12398;新道...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/OT1014.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=41929</link>
+    </book>
+    <book>
+      <date>2016-08-27</date>
+      <title>不一樣的蔬果汁百症保健全解</title>
+      <price>297</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/HD3116.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=60610</link>
     </book>
   </preview>
 </book66>
