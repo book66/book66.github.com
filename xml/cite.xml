@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-24</date>
-      <title>小翻頁大發現6：我的火車演進大發現</title>
-      <price>515</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/3DB006C.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=58439</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-24</date>
       <title>最後的正義：美國聯邦最高法院的歷史</title>
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BA8008.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67163</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-25</date>
       <title>日日見財！全台33家超人氣必拜財神廟開運...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BUE004.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67430</link>
+    </book>
+    <book>
+      <date>2016-08-30</date>
+      <title>Re： [問卦] 有沒有超級英雄的八卦？</title>
+      <price>263</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/1GW034.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=65963</link>
     </book>
   </preview>
 </book66>
