@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-25</date>
-      <title>最後的正義：美國聯邦最高法院的歷史</title>
-      <price>238</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BA8008.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=67163</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-25</date>
       <title>日日見財！全台33家超人氣必拜財神廟開運...</title>
       <price>251</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1BG064.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64933</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-26</date>
       <title>人生最後一場拍賣會</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1GW034.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65963</link>
+    </book>
+    <book>
+      <date>2016-08-31</date>
+      <title>把他們關起來，然後呢？</title>
+      <price>251</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BK7069.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=66363</link>
     </book>
   </preview>
 </book66>
