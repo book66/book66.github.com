@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-27</date>
-      <title>人生最後一場拍賣會</title>
-      <price>211</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/OT1014.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=41929</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-27</date>
       <title>不一樣的蔬果汁百症保健全解</title>
       <price>297</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/HD3116.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60610</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-28</date>
       <title>拉拉熊四格漫畫4</title>
@@ -51,6 +44,13 @@
       <price>257</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BA6424.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67658</link>
+    </book>
+    <book>
+      <date>2016-09-02</date>
+      <title>沖繩上癮：奔向海灘秘境x南國度假，自助島...</title>
+      <price>231</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/2AF646.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=67894</link>
     </book>
   </preview>
 </book66>
