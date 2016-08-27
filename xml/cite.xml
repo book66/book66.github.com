@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-28</date>
-      <title>不一樣的蔬果汁百症保健全解</title>
-      <price>297</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/HD3116.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=60610</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-28</date>
       <title>拉拉熊四格漫畫4</title>
       <price>165</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1BV184.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64599</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-29</date>
       <title>我家就是國際學校（增修版，附完全自學手冊...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2AF646.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67894</link>
+    </book>
+    <book>
+      <date>2016-09-03</date>
+      <title>隔間：我們如何從19世紀陰暗帳房走到21...</title>
+      <price>323</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/YK1431.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=67618</link>
     </book>
   </preview>
 </book66>
