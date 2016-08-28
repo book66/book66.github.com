@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-29</date>
-      <title>拉拉熊四格漫畫4</title>
-      <price>165</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/1BV184.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=64599</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-29</date>
       <title>我家就是國際學校（增修版，附完全自學手冊...</title>
       <price>211</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BUE004.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67430</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-08-30</date>
       <title>Re： [問卦] 有沒有超級英雄的八卦？</title>
@@ -51,6 +44,13 @@
       <price>323</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/YK1431.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67618</link>
+    </book>
+    <book>
+      <date>2016-09-04</date>
+      <title>樹的祕密生命</title>
+      <price>238</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BU0123.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=67583</link>
     </book>
   </preview>
 </book66>
