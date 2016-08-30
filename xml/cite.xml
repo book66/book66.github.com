@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-08-31</date>
-      <title>Re： [問卦] 有沒有超級英雄的八卦？</title>
-      <price>263</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/1GW034.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=65963</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-08-31</date>
       <title>把他們關起來，然後呢？</title>
       <price>251</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BK7069.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66363</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-09-01</date>
       <title>挑戰，巔峰之後</title>
@@ -51,6 +44,13 @@
       <price>370</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/MG0010.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66277</link>
+    </book>
+    <book>
+      <date>2016-09-06</date>
+      <title>惡德偵探制裁社1</title>
+      <price>172</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/1UY007.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=65402</link>
     </book>
   </preview>
 </book66>
