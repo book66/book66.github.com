@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-09-04</date>
-      <title>隔間：我們如何從19世紀陰暗帳房走到21...</title>
-      <price>323</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/YK1431.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=67618</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-09-04</date>
       <title>樹的祕密生命</title>
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BU0123.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67583</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-09-05</date>
       <title>香料香草風味全書：日本首席香料師親授！完...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1HI079.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=42165</link>
+    </book>
+    <book>
+      <date>2016-09-10</date>
+      <title>冰盒蛋糕：不用「烤」的蛋糕！1 攪、2 ...</title>
+      <price>238</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/MG0005.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=56590</link>
     </book>
   </preview>
 </book66>
