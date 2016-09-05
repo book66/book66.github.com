@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-09-06</date>
-      <title>香料香草風味全書：日本首席香料師親授！完...</title>
-      <price>370</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/MG0010.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=66277</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-09-06</date>
       <title>惡德偵探制裁社1</title>
       <price>172</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1UY007.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65402</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-09-07</date>
       <title>改變歷史的50種武器</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1BV171.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64596</link>
+    </book>
+    <book>
+      <date>2016-09-12</date>
+      <title>說句「去他的」，減少99%的壓力</title>
+      <price>172</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/OK0083.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=24947</link>
     </book>
   </preview>
 </book66>

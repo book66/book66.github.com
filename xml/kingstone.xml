@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-09-06</date>
-      <title>如何移動你的公車？輕鬆駕馭生活、工作的寓...</title>
-      <price>218</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941411960/2014941411960b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941411960&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-09-06</date>
       <title>我決定簡單的生活：從斷捨離到極簡主義，丟...</title>
       <price>211</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20119/2011920659047/2011920659047b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011920659047&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-09-07</date>
       <title>哲學經典的32堂公開課：從《理想國》烏托...</title>
@@ -72,6 +65,13 @@
       <price>251</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20152/2015232747423/2015232747423b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015232747423&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-09-15</date>
+      <title>免捏御飯糰：日本狂銷20萬冊！野餐露營╳...</title>
+      <price>185</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271224117/2014271224117b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271224117&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
