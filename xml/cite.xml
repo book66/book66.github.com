@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-09-07</date>
-      <title>惡德偵探制裁社1</title>
-      <price>172</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/1UY007.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=65402</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-09-07</date>
       <title>改變歷史的50種武器</title>
       <price>317</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/VX0043.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67657</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-09-08</date>
       <title>Growth Hack 這樣做：打破銷售...</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/OK0083.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24947</link>
+    </book>
+    <book>
+      <date>2016-09-13</date>
+      <title>你是下一個</title>
+      <price>211</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/MO0045.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=65597</link>
     </book>
   </preview>
 </book66>
