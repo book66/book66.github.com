@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-09-11</date>
-      <title>冰盒蛋糕：不用「烤」的蛋糕！1 攪、2 ...</title>
-      <price>238</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/MG0005.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=56590</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-09-11</date>
       <title>艷陽天預報：拉拉熊的生活11</title>
       <price>165</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1BV171.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64596</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-09-12</date>
       <title>說句「去他的」，減少99%的壓力</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BH6019.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68121</link>
+    </book>
+    <book>
+      <date>2016-09-17</date>
+      <title>上海美食80選：貴婦美食達人PEGGY上...</title>
+      <price>251</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/1BG065.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=65070</link>
     </book>
   </preview>
 </book66>
