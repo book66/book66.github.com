@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-09-13</date>
-      <title>說句「去他的」，減少99%的壓力</title>
-      <price>172</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/OK0083.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=24947</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-09-13</date>
       <title>你是下一個</title>
       <price>211</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/MO0045.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65597</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-09-14</date>
       <title>10秒內言之有物的即答思考法：5天打造你...</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1BV203.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65599</link>
+    </book>
+    <book>
+      <date>2016-09-19</date>
+      <title>薛丁格生命物理學講義：生命是什麼？</title>
+      <price>198</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/YK1215X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=66351</link>
     </book>
   </preview>
 </book66>
