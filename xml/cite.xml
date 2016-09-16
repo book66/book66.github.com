@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-09-17</date>
-      <title>快樂是最強大的選擇</title>
-      <price>165</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BH6019.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68121</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-09-17</date>
       <title>上海美食80選：貴婦美食達人PEGGY上...</title>
       <price>251</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1BG065.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65070</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-09-18</date>
       <title>靴下貓3：不合季節的襪子</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BL5072.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66271</link>
+    </book>
+    <book>
+      <date>2016-09-23</date>
+      <title>暗夜奪情</title>
+      <price>231</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/OG0023.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=63344</link>
     </book>
   </preview>
 </book66>
