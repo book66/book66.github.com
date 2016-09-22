@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-09-23</date>
-      <title>一生如寄</title>
-      <price>165</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BL5072.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=66271</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-09-23</date>
       <title>暗夜奪情</title>
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/OG0023.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=63344</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-09-24</date>
       <title>日本製造：東京廣告人的潮流觀察筆記</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BK7070.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67660</link>
+    </book>
+    <book>
+      <date>2016-09-29</date>
+      <title>免烤模！百變蛋糕捲</title>
+      <price>251</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/1GM155.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=67619</link>
     </book>
   </preview>
 </book66>
