@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-09-27</date>
-      <title>深度思考的力量：從個案研究探索全新的未知...</title>
-      <price>277</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/QB1130.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=67792</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-09-27</date>
       <title>直覺式塗鴉筆記：不用落落長文字，5個元素...</title>
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/5BWB0168.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67590</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-09-28</date>
       <title>規則的烏托邦：官僚制度的真相與權力誘惑</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/YX0034.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67350</link>
+    </book>
+    <book>
+      <date>2016-10-03</date>
+      <title>多益職場一本通：不只考試好用，工作現場更...</title>
+      <price>238</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/5BWB0170.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=67797</link>
     </book>
   </preview>
 </book66>
