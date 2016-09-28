@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-09-29</date>
-      <title>規則的烏托邦：官僚制度的真相與權力誘惑</title>
-      <price>251</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BK7070.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=67660</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-09-29</date>
       <title>免烤模！百變蛋糕捲</title>
       <price>251</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1GM155.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67619</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-09-30</date>
       <title>閒散的藝術與科學：從腦神經科學的角度看放...</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/KX0018.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66365</link>
+    </book>
+    <book>
+      <date>2016-10-05</date>
+      <title>Windows 10超級練功坊</title>
+      <price>231</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/2AC576.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68347</link>
     </book>
   </preview>
 </book66>
