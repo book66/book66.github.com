@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-09-28</date>
-      <title>直覺式塗鴉筆記：不用落落長文字，5個元素...</title>
-      <price>231</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/5BWB0168.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=67590</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-09-28</date>
       <title>規則的烏托邦：官僚制度的真相與權力誘惑</title>
       <price>251</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BK7070.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67660</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-09-29</date>
       <title>免烤模！百變蛋糕捲</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/5BWB0170.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67797</link>
+    </book>
+    <book>
+      <date>2016-10-04</date>
+      <title>東京都外一泊二日</title>
+      <price>238</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/KX0018.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=66365</link>
     </book>
   </preview>
 </book66>
