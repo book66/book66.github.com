@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-09-30</date>
-      <title>免烤模！百變蛋糕捲</title>
-      <price>251</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/1GM155.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=67619</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-09-30</date>
       <title>閒散的藝術與科學：從腦神經科學的角度看放...</title>
       <price>198</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BU0124.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68120</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-10-01</date>
       <title>多肉植物栽培大全：品種介紹．四季管理．Q...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2AC576.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68347</link>
+    </book>
+    <book>
+      <date>2016-10-06</date>
+      <title>一定做得到！超強藍筆記憶法</title>
+      <price>198</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BI7084.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=65584</link>
     </book>
   </preview>
 </book66>
