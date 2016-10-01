@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-10-02</date>
-      <title>多肉植物栽培大全：品種介紹．四季管理．Q...</title>
-      <price>263</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/1GR048.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=67473</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-10-02</date>
       <title>那些你不懂的</title>
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/YX0034.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67350</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-10-03</date>
       <title>多益職場一本通：不只考試好用，工作現場更...</title>
@@ -51,6 +44,13 @@
       <price>1036</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1HI097S.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69939</link>
+    </book>
+    <book>
+      <date>2016-10-08</date>
+      <title>好想幫你帶便當：大人小孩都愛吃！布魯媽媽...</title>
+      <price>251</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/1BG067.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=67652</link>
     </book>
   </preview>
 </book66>
