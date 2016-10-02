@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-10-03</date>
-      <title>那些你不懂的</title>
-      <price>238</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/YX0034.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=67350</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-10-03</date>
       <title>多益職場一本通：不只考試好用，工作現場更...</title>
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/5BWB0170.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67797</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-10-04</date>
       <title>東京都外一泊二日</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1BG067.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67652</link>
+    </book>
+    <book>
+      <date>2016-10-09</date>
+      <title>鐵道環台Day by Day行程規劃書</title>
+      <price>185</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/KB3031.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68304</link>
     </book>
   </preview>
 </book66>
