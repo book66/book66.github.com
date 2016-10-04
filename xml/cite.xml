@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-10-05</date>
-      <title>東京都外一泊二日</title>
-      <price>238</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/KX0018.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=66365</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-10-05</date>
       <title>Windows 10超級練功坊</title>
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2AC576.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68347</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-10-06</date>
       <title>一定做得到！超強藍筆記憶法</title>
@@ -51,6 +44,13 @@
       <price>395</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/MO0043.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59251</link>
+    </book>
+    <book>
+      <date>2016-10-11</date>
+      <title>小奇的奇幻之旅：平行時空是真的嗎？這個心...</title>
+      <price>172</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BU7045.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=66045</link>
     </book>
   </preview>
 </book66>

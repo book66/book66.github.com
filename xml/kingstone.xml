@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-10-05</date>
-      <title>誰說我沒有影響力</title>
-      <price>197</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011771030439/2011771030439b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011771030439&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-10-05</date>
       <title>腸保魅力：健康不健康？腸子說了算！全歐洲...</title>
       <price>211</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014150386936/2014150386936b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014150386936&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-10-06</date>
       <title>便便不思議</title>
@@ -72,6 +65,13 @@
       <price>211</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014180312653/2014180312653b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014180312653&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-10-14</date>
+      <title>管教的勇氣：該管就要管，你要幫孩子變得更...</title>
+      <price>211</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20152/2015280648628/2015280648628b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015280648628&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
