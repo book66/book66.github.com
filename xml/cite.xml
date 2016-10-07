@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-10-08</date>
-      <title>超能冒險五部曲</title>
-      <price>1036</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/1HI097S.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=69939</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-10-08</date>
       <title>好想幫你帶便當：大人小孩都愛吃！布魯媽媽...</title>
       <price>251</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1BG067.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67652</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-10-09</date>
       <title>鐵道環台Day by Day行程規劃書</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BO6025.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66270</link>
+    </book>
+    <book>
+      <date>2016-10-14</date>
+      <title>鄉民公審：群眾力量，是正義還是霸凌？</title>
+      <price>264</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/5BWB0172.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68145</link>
     </book>
   </preview>
 </book66>
