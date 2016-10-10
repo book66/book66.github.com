@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-10-11</date>
-      <title>金翅雀</title>
-      <price>395</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/MO0043.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=59251</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-10-11</date>
       <title>小奇的奇幻之旅：平行時空是真的嗎？這個心...</title>
       <price>172</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BU7045.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66045</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-10-12</date>
       <title>我的百變人物畫：激發孩子的觀察力！</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/YA1120.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68184</link>
+    </book>
+    <book>
+      <date>2016-10-17</date>
+      <title>在那些燦爛的時光裡，我最喜歡你</title>
+      <price>145</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BX4259X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=67574</link>
     </book>
   </preview>
 </book66>
