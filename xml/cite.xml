@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-10-17</date>
-      <title>便便不思議</title>
-      <price>238</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/YA1120.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68184</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-10-17</date>
       <title>在那些燦爛的時光裡，我最喜歡你</title>
       <price>145</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BX4259X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67574</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-10-18</date>
       <title>致命的均衡：哈佛經濟學家推理系列</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1BE057.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68554</link>
+    </book>
+    <book>
+      <date>2016-10-23</date>
+      <title>我的歡樂漫畫本：開發孩子的故事力！（附贈...</title>
+      <price>191</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/3DQ007.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68314</link>
     </book>
   </preview>
 </book66>
