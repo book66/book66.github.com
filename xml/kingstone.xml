@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-10-20</date>
-      <title>說好，說滿，不如講重點！學會3的神邏輯，...</title>
-      <price>185</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941425295/2014941425295b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941425295&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-10-20</date>
       <title>中年的意義：一個生物學家的觀點</title>
       <price>251</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20154/2015440500919/2015440500919b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015440500919&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-10-21</date>
       <title>不失敗！真正超基本的烘焙書：第一次做點心...</title>
@@ -72,6 +65,13 @@
       <price>396</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271210172/2014271210172b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271210172&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-10-29</date>
+      <title>一試必中！東大首席菁英的讀書必勝法：不用...</title>
+      <price>172</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20152/2015215004420/2015215004420b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015215004420&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>

@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-10-20</date>
-      <title>這一次，你該捨不得的是自己</title>
-      <price>238</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BO0238.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=65587</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-10-20</date>
       <title>好吃24：泡泡的力量！日常裡的迷人發酵食</title>
       <price>131</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1GM162.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68350</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-10-21</date>
       <title>在這裡等妳</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1GV115.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67475</link>
+    </book>
+    <book>
+      <date>2016-10-26</date>
+      <title>身體的日記</title>
+      <price>329</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/YX0033.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=66353</link>
     </book>
   </preview>
 </book66>
