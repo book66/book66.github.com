@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-10-21</date>
-      <title>好吃24：泡泡的力量！日常裡的迷人發酵食</title>
-      <price>131</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/1GM162.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68350</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-10-21</date>
       <title>在這裡等妳</title>
       <price>211</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/OT1009.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=29764</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-10-22</date>
       <title>一生幸福的人生企畫書：從事業、財富、家庭...</title>
@@ -51,6 +44,13 @@
       <price>329</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/YX0033.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66353</link>
+    </book>
+    <book>
+      <date>2016-10-27</date>
+      <title>銷售的科學：如文案一般的說話，像心理師一...</title>
+      <price>211</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/2AB934.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68386</link>
     </book>
   </preview>
 </book66>
