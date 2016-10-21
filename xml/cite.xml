@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-10-22</date>
-      <title>在這裡等妳</title>
-      <price>211</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/OT1009.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=29764</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-10-22</date>
       <title>一生幸福的人生企畫書：從事業、財富、家庭...</title>
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1BE057.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68554</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-10-23</date>
       <title>我的歡樂漫畫本：開發孩子的故事力！（附贈...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2AB934.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68386</link>
+    </book>
+    <book>
+      <date>2016-10-28</date>
+      <title>在生命最深處遇見哲學</title>
+      <price>238</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BP6020.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=65592</link>
     </book>
   </preview>
 </book66>
