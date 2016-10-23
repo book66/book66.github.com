@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-10-24</date>
-      <title>我的歡樂漫畫本：開發孩子的故事力！（附贈...</title>
-      <price>191</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/3DQ007.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68314</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-10-24</date>
       <title>美軍四星上將教你打造黃金團隊：從急診室到...</title>
       <price>304</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BW0594.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66602</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-10-25</date>
       <title>咖啡職人究極技法圖典</title>
@@ -51,6 +44,13 @@
       <price>329</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1GI093.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66609</link>
+    </book>
+    <book>
+      <date>2016-10-30</date>
+      <title>順風車遊越南</title>
+      <price>251</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/MM1133.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=66646</link>
     </book>
   </preview>
 </book66>
