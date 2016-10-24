@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-10-25</date>
-      <title>美軍四星上將教你打造黃金團隊：從急診室到...</title>
-      <price>304</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BW0594.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=66602</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-10-25</date>
       <title>咖啡職人究極技法圖典</title>
       <price>263</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1GV115.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67475</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-10-26</date>
       <title>身體的日記</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/MM1133.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66646</link>
+    </book>
+    <book>
+      <date>2016-10-31</date>
+      <title>我繼承了一座莊園</title>
+      <price>277</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/YX0035.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68192</link>
     </book>
   </preview>
 </book66>
