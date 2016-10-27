@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-10-28</date>
-      <title>銷售的科學：如文案一般的說話，像心理師一...</title>
-      <price>211</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/2AB934.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68386</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-10-28</date>
       <title>在生命最深處遇見哲學</title>
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BP6020.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65592</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-10-29</date>
       <title>服裝立體裁剪與設計</title>
@@ -51,6 +44,13 @@
       <price>198</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1BE059.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67803</link>
+    </book>
+    <book>
+      <date>2016-11-03</date>
+      <title>邊際謀殺：哈佛經濟學家推理系列</title>
+      <price>198</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/QC1019X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68206</link>
     </book>
   </preview>
 </book66>
