@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-10-30</date>
-      <title>服裝立體裁剪與設計</title>
-      <price>329</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/1GI093.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=66609</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-10-30</date>
       <title>順風車遊越南</title>
       <price>251</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/MM1133.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=66646</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-10-31</date>
       <title>我繼承了一座莊園</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/3JA004.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65682</link>
+    </book>
+    <book>
+      <date>2016-11-05</date>
+      <title>阿芳老師手做美食全紀錄：媽媽的私房味</title>
+      <price>277</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BK5111.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=65545</link>
     </book>
   </preview>
 </book66>
