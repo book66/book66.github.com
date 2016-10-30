@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-10-31</date>
-      <title>順風車遊越南</title>
-      <price>251</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/MM1133.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=66646</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-10-31</date>
       <title>我繼承了一座莊園</title>
       <price>277</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/YX0035.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68192</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-11-01</date>
       <title>塔木德精要</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BK5111.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65545</link>
+    </book>
+    <book>
+      <date>2016-11-06</date>
+      <title>我們是誰？大數據下的人類行為觀察</title>
+      <price>277</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/MI1016.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=67661</link>
     </book>
   </preview>
 </book66>
