@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-11-01</date>
-      <title>我繼承了一座莊園</title>
-      <price>277</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/YX0035.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68192</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-11-01</date>
       <title>塔木德精要</title>
       <price>363</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1MC014.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60485</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-11-02</date>
       <title>學校老師沒教的賺錢祕密2：早知道早有錢 ...</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/MI1016.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67661</link>
+    </book>
+    <book>
+      <date>2016-11-07</date>
+      <title>眩談</title>
+      <price>198</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/1UT016.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=60248</link>
     </book>
   </preview>
 </book66>
