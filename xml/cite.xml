@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-11-04</date>
-      <title>邊際謀殺：哈佛經濟學家推理系列</title>
-      <price>198</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/QC1019X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68206</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-11-04</date>
       <title>東京．極上肉食人氣名店：嚴選107間絕對...</title>
       <price>185</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/3JA004.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65682</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-11-05</date>
       <title>阿芳老師手做美食全紀錄：媽媽的私房味</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1BE058.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68356</link>
+    </book>
+    <book>
+      <date>2016-11-10</date>
+      <title>用生活常識就能看懂財務報表</title>
+      <price>211</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BW0596.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=65388</link>
     </book>
   </preview>
 </book66>
