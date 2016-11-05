@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-11-06</date>
-      <title>阿芳老師手做美食全紀錄：媽媽的私房味</title>
-      <price>277</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BK5111.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=65545</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-11-06</date>
       <title>我們是誰？大數據下的人類行為觀察</title>
       <price>277</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/MI1016.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67661</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-11-07</date>
       <title>眩談</title>
@@ -51,6 +44,13 @@
       <price>1175</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1HB054S.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59689</link>
+    </book>
+    <book>
+      <date>2016-11-12</date>
+      <title>桑潟幸一副教授的時尚生活</title>
+      <price>251</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/1UR003.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=37831</link>
     </book>
   </preview>
 </book66>
