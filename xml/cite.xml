@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-11-07</date>
-      <title>我們是誰？大數據下的人類行為觀察</title>
-      <price>277</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/MI1016.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=67661</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-11-07</date>
       <title>眩談</title>
       <price>198</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1UT016.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=60248</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-11-08</date>
       <title>我是誰</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1UR003.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=37831</link>
+    </book>
+    <book>
+      <date>2016-11-13</date>
+      <title>城市的36種表情</title>
+      <price>224</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/MS1055.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=64929</link>
     </book>
   </preview>
 </book66>
