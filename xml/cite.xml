@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-11-08</date>
-      <title>眩談</title>
-      <price>198</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/1UT016.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=60248</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-11-08</date>
       <title>我是誰</title>
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1MC009.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=17583</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-11-09</date>
       <title>逆轉女王： 從女工到CEO的真情告白，即...</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/MS1055.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=64929</link>
+    </book>
+    <book>
+      <date>2016-11-14</date>
+      <title>為什麼我們最幸福？在冰島到墨西哥等13個...</title>
+      <price>264</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BO0246.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68573</link>
     </book>
   </preview>
 </book66>
