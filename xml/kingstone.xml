@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-11-09</date>
-      <title>打開狄波諾的思考工具箱：從「水平思考」到...</title>
-      <price>297</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011760279061/2011760279061b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011760279061&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-11-09</date>
       <title>燜燒罐美人湯：美女中醫直傳53道食療秘方...</title>
       <price>251</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014130402847/2014130402847b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014130402847&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-11-10</date>
       <title>情緒的毒，身體知道：從身體找到控制情緒的...</title>
@@ -72,6 +65,13 @@
       <price>211</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011760279801/2011760279801b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011760279801&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-11-18</date>
+      <title>MASA最愛！世界五大美食國家料理：一看...</title>
+      <price>231</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271240933/2014271240933b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271240933&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
