@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-11-10</date>
-      <title>逆轉女王： 從女工到CEO的真情告白，即...</title>
-      <price>185</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/1BE058.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68356</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-11-10</date>
       <title>用生活常識就能看懂財務報表</title>
       <price>211</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BW0596.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65388</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-11-11</date>
       <title>懸案密碼套書（1-5集）</title>
@@ -51,6 +44,13 @@
       <price>363</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1UD044.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65443</link>
+    </book>
+    <book>
+      <date>2016-11-16</date>
+      <title>植物比你想的更聰明：植物智能的探索之旅</title>
+      <price>172</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BU0125.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68583</link>
     </book>
   </preview>
 </book66>
