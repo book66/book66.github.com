@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-11-11</date>
-      <title>用生活常識就能看懂財務報表</title>
-      <price>211</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BW0596.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=65388</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-11-11</date>
       <title>懸案密碼套書（1-5集）</title>
       <price>1175</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1HB054S.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=59689</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-11-12</date>
       <title>桑潟幸一副教授的時尚生活</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BU0125.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68583</link>
+    </book>
+    <book>
+      <date>2016-11-17</date>
+      <title>Fortnum &amp; Mason英式百年經...</title>
+      <price>251</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/MG0012.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=67663</link>
     </book>
   </preview>
 </book66>
