@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-11-15</date>
-      <title>為什麼我們最幸福？在冰島到墨西哥等13個...</title>
-      <price>264</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BO0246.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68573</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-11-15</date>
       <title>惡靈島</title>
       <price>363</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1UD044.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=65443</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-11-16</date>
       <title>植物比你想的更聰明：植物智能的探索之旅</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1GX808.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68514</link>
+    </book>
+    <book>
+      <date>2016-11-21</date>
+      <title>聊得有品味：掌握話題，當個有格調又魅力四...</title>
+      <price>231</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BU3086.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68513</link>
     </book>
   </preview>
 </book66>
