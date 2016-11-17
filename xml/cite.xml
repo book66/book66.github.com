@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-11-18</date>
-      <title>Fortnum &amp; Mason英式百年經...</title>
-      <price>251</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/MG0012.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=67663</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-11-18</date>
       <title>用心智圖法開發孩子的左右腦：教出富有創意...</title>
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BU1026.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68532</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-11-19</date>
       <title>百合心</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BU0126.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68519</link>
+    </book>
+    <book>
+      <date>2016-11-24</date>
+      <title>香水聖經</title>
+      <price>395</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/VK0048.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68588</link>
     </book>
   </preview>
 </book66>
