@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-11-20</date>
-      <title>百合心</title>
-      <price>185</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/1UR001.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=31100</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-11-20</date>
       <title>日本料理，原來如此：美味又不失禮的日本料...</title>
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1GX808.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68514</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-11-21</date>
       <title>聊得有品味：掌握話題，當個有格調又魅力四...</title>
@@ -51,6 +44,13 @@
       <price>172</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/OK0117.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67148</link>
+    </book>
+    <book>
+      <date>2016-11-26</date>
+      <title>私藏東京：美學、巷弄、名景、美食的日本品...</title>
+      <price>197</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/1GU303.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=69280</link>
     </book>
   </preview>
 </book66>
