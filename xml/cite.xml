@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-11-21</date>
-      <title>日本料理，原來如此：美味又不失禮的日本料...</title>
-      <price>238</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/1GX808.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68514</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-11-21</date>
       <title>聊得有品味：掌握話題，當個有格調又魅力四...</title>
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BU3086.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68513</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-11-22</date>
       <title>Dr.小志志圖解健康醫學</title>
@@ -51,6 +44,13 @@
       <price>197</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1GU303.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69280</link>
+    </book>
+    <book>
+      <date>2016-11-27</date>
+      <title>超圖解新手料理課：從洗菜、切菜到下鍋、調...</title>
+      <price>277</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/VF0083.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68868</link>
     </book>
   </preview>
 </book66>
