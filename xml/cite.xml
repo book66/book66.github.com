@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-11-23</date>
-      <title>Dr.小志志圖解健康醫學</title>
-      <price>264</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BH2015.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68871</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-11-23</date>
       <title>棉花糖的誘惑：從腦神經科學看自制力</title>
       <price>224</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BU0126.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68519</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-11-24</date>
       <title>香水聖經</title>
@@ -51,6 +44,13 @@
       <price>263</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1UC051.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55523</link>
+    </book>
+    <book>
+      <date>2016-11-29</date>
+      <title>B2B銷售勝經</title>
+      <price>251</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BW0604.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68191</link>
     </book>
   </preview>
 </book66>
