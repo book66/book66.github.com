@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-11-26</date>
-      <title>小事的力量 ：將職場習以為常的「基本小事...</title>
-      <price>172</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/OK0117.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=67148</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-11-26</date>
       <title>私藏東京：美學、巷弄、名景、美食的日本品...</title>
       <price>197</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1GU303.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69280</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-11-27</date>
       <title>超圖解新手料理課：從洗菜、切菜到下鍋、調...</title>
@@ -51,6 +44,13 @@
       <price>317</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/YK1236X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68570</link>
+    </book>
+    <book>
+      <date>2016-12-02</date>
+      <title>啤酒品飲聖經</title>
+      <price>363</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/VV0059.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68198</link>
     </book>
   </preview>
 </book66>
