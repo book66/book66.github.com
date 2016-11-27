@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-11-28</date>
-      <title>超圖解新手料理課：從洗菜、切菜到下鍋、調...</title>
-      <price>277</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/VF0083.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68868</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-11-28</date>
       <title>古書店阿賽麗亞的屍體</title>
       <price>263</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1UC051.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=55523</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-11-29</date>
       <title>B2B銷售勝經</title>
@@ -51,6 +44,13 @@
       <price>383</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1GX711.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68369</link>
+    </book>
+    <book>
+      <date>2016-12-04</date>
+      <title>Evernote 100個做筆記的好方法...</title>
+      <price>198</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/2AB935.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=69294</link>
     </book>
   </preview>
 </book66>
