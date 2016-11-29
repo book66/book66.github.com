@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-11-30</date>
-      <title>不生氣的心：人生有九成的事都不值得生氣</title>
-      <price>165</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011760285260/2011760285260b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011760285260&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-11-30</date>
       <title>為什麼麵條讓人變笨？</title>
       <price>231</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014110730021/2014110730021b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014110730021&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-12-01</date>
       <title>人生每件事，都是取捨的練習</title>
@@ -72,6 +65,13 @@
       <price>224</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20185/2018551731579/2018551731579b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018551731579&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-12-09</date>
+      <title>Stinna媽媽手作幸福料理：180道孩...</title>
+      <price>251</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014280209853/2014280209853b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014280209853&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
