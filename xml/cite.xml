@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-12-02</date>
-      <title>生命的躍升：40億年演化史上最重要的10...</title>
-      <price>317</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/YK1236X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68570</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-12-02</date>
       <title>啤酒品飲聖經</title>
       <price>363</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/VV0059.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68198</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-12-03</date>
       <title>披薩聖經</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1UT015.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=58434</link>
+    </book>
+    <book>
+      <date>2016-12-08</date>
+      <title>下一波經濟狂潮：從人口、債務、物價指數剖...</title>
+      <price>297</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BW0615.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=69649</link>
     </book>
   </preview>
 </book66>
