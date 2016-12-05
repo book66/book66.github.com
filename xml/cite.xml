@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-12-06</date>
-      <title>傷心農場：從印尼到墨西哥，一段直擊動物生...</title>
-      <price>297</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BO0242.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68155</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-12-06</date>
       <title>1946：形塑現代世界的關鍵年</title>
       <price>370</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/ME2074.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68123</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-12-07</date>
       <title>明治妖怪摩登記</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/3DP033C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68540</link>
+    </book>
+    <book>
+      <date>2016-12-12</date>
+      <title>藍瓶子咖啡</title>
+      <price>495</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/VV0062C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68185</link>
     </book>
   </preview>
 </book66>
