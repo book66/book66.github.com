@@ -3,13 +3,20 @@
   <today>
     <book>
       <date>2016-12-05</date>
+      <title>2017導盲犬掛曆【台灣導盲犬協會】</title>
+      <price>300</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=61100003691</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=61100003691</link>
+    </book>
+  </today>
+  <preview>
+    <book>
+      <date>2016-12-05</date>
       <title>瑜伽女孩：IG全球超出100萬追隨者的瑞...</title>
       <price>175</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=14100019942</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=14100019942</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2016-12-09</date>
       <title>Or旅讀中國 11月號/2016 第57...</title>
