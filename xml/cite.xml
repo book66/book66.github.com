@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-12-08</date>
-      <title>明治妖怪摩登記</title>
-      <price>185</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/1UT015.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=58434</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-12-08</date>
       <title>下一波經濟狂潮：從人口、債務、物價指數剖...</title>
       <price>297</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BW0615.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69649</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-12-09</date>
       <title>五大賊王1-7套書（全八冊）</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BW0605.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68517</link>
+    </book>
+    <book>
+      <date>2016-12-14</date>
+      <title>鐘城殺人事件</title>
+      <price>197</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/1UC034.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=20446</link>
     </book>
   </preview>
 </book66>
