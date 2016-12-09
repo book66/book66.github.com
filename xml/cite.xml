@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-12-10</date>
-      <title>五大賊王1-7套書（全八冊）</title>
-      <price>1478</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/1HO035S.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=27819</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-12-10</date>
       <title>Dior：穿迪奧的女孩</title>
       <price>383</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/VO0005C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68867</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-12-11</date>
       <title>鬧哄哄的巢</title>
@@ -51,6 +44,13 @@
       <price>363</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/YK1432.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69149</link>
+    </book>
+    <book>
+      <date>2016-12-16</date>
+      <title>我的縫紉機筆記：機縫完全上手100個關鍵...</title>
+      <price>238</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/1GI094.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68372</link>
     </book>
   </preview>
 </book66>
