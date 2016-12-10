@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-12-11</date>
-      <title>Dior：穿迪奧的女孩</title>
-      <price>383</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/VO0005C.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68867</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-12-11</date>
       <title>鬧哄哄的巢</title>
       <price>211</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/3DP033C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68540</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-12-12</date>
       <title>藍瓶子咖啡</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1GI094.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68372</link>
+    </book>
+    <book>
+      <date>2016-12-17</date>
+      <title>耶穌跟你想的不一樣</title>
+      <price>211</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/1MA050.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68843</link>
     </book>
   </preview>
 </book66>
