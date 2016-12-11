@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-12-12</date>
-      <title>鬧哄哄的巢</title>
-      <price>211</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/3DP033C.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68540</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-12-12</date>
       <title>藍瓶子咖啡</title>
       <price>495</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/VV0062C.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68185</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-12-13</date>
       <title>為什麼粉絲都不理我？：不花廣告費的內容行...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1MA050.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68843</link>
+    </book>
+    <book>
+      <date>2016-12-18</date>
+      <title>九州私路小旅行：人氣景點、在地美食、特色...</title>
+      <price>231</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/2AF644.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68691</link>
     </book>
   </preview>
 </book66>
