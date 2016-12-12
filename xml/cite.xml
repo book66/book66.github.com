@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-12-13</date>
-      <title>藍瓶子咖啡</title>
-      <price>495</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/VV0062C.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68185</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-12-13</date>
       <title>為什麼粉絲都不理我？：不花廣告費的內容行...</title>
       <price>185</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BW0605.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68517</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-12-14</date>
       <title>鐘城殺人事件</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2AF644.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68691</link>
+    </book>
+    <book>
+      <date>2016-12-19</date>
+      <title>勇敢議論所有事！猶太人每天鍛鍊的Why思...</title>
+      <price>211</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/5BWB0167.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=67495</link>
     </book>
   </preview>
 </book66>
