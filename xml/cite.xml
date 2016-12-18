@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-12-19</date>
-      <title>九州私路小旅行：人氣景點、在地美食、特色...</title>
-      <price>231</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/2AF644.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68691</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-12-19</date>
       <title>勇敢議論所有事！猶太人每天鍛鍊的Why思...</title>
       <price>211</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/5BWB0167.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67495</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-12-20</date>
       <title>沉睡中的種子</title>
@@ -51,6 +44,13 @@
       <price>297</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BH6021.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68488</link>
+    </book>
+    <book>
+      <date>2016-12-25</date>
+      <title>加拿大</title>
+      <price>263</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/KV3017.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68728</link>
     </book>
   </preview>
 </book66>
