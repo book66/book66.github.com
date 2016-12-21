@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-12-22</date>
-      <title>慢卡路里讓你瘦：為什麼有人喝水就會胖，有...</title>
-      <price>218</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014110738317/2014110738317b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014110738317&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-12-22</date>
       <title>體硬人也能做的伸展操，2週見效！：跟著日...</title>
       <price>185</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014110731103/2014110731103b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014110731103&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-12-23</date>
       <title>關西HOLIDAY：大阪.京都.神戶.奈...</title>
@@ -72,6 +65,13 @@
       <price>277</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014110739949/2014110739949b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014110739949&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2016-12-31</date>
+      <title>狡猾的讀書法：改變學習順序，我從大學落榜...</title>
+      <price>158</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011760285000/2011760285000b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011760285000&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
