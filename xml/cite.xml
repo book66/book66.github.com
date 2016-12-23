@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-12-24</date>
-      <title>就算衰到爆，也要窮開心：趙大鼻的傻瓜日記</title>
-      <price>185</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/OK0093.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=31904</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-12-24</date>
       <title>肌筋膜健身全書</title>
       <price>297</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BH6021.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68488</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-12-25</date>
       <title>加拿大</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/KA2050.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68798</link>
+    </book>
+    <book>
+      <date>2016-12-30</date>
+      <title>有耐心的蝴蝶</title>
+      <price>211</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/3DP035C.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68873</link>
     </book>
   </preview>
 </book66>
