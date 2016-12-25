@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-12-26</date>
-      <title>加拿大</title>
-      <price>263</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/KV3017.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68728</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-12-26</date>
       <title>不要留遺產給孩子</title>
       <price>185</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/5BWB0171.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68144</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-12-27</date>
       <title>疲勞不過夜：身兼三職名醫教你如何從疲倦谷...</title>
