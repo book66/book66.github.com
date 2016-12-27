@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-12-28</date>
-      <title>疲勞不過夜：身兼三職名醫教你如何從疲倦谷...</title>
-      <price>198</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BB7052.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=69129</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-12-28</date>
       <title>漢字的故事（暢銷十周年紀念版）</title>
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/YK1026X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68855</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-12-29</date>
       <title>沖&amp;#32260;地圖隨身GO 2016...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2CPA01X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68973</link>
+    </book>
+    <book>
+      <date>2017-01-03</date>
+      <title>花朵的祕密生命：解剖一朵花的美、自然與科...</title>
+      <price>218</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/YK1206X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=69663</link>
     </book>
   </preview>
 </book66>
