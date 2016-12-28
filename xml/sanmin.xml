@@ -3,10 +3,10 @@
   <today>
     <book>
       <date>2016-12-28</date>
-      <title>中華文明的核心價值</title>
-      <price>290</price>
-      <imageUrl>http://122.146.57.161/Assets/product_images/962/962043839.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99O155l5N106m87k105B71Z108K125mEMgQOe263RnK</link>
+      <title/>
+      <price>0</price>
+      <imageUrl/>
+      <link>http://www.m.sanmin.com.tw/Product/Index/</link>
     </book>
   </today>
   <preview>
@@ -14,21 +14,21 @@
       <date>2016-12-29</date>
       <title>一齊「遊‧韓」語出發</title>
       <price>231</price>
-      <imageUrl>http://122.146.57.160/Assets/product_images/988/988832590.jpg</imageUrl>
+      <imageUrl>http://123.51.221.158:81/Assets/product_images/988/988832590.jpg</imageUrl>
       <link>http://www.m.sanmin.com.tw/Product/Index/99n155h5u105T39S109K71U110z127BYJnTBp170HqQ</link>
     </book>
     <book>
       <date>2016-12-30</date>
       <title>圖解香港手冊（最新修訂版）</title>
       <price>290</price>
-      <imageUrl>http://122.146.57.161/Assets/product_images/988/988836659.jpg</imageUrl>
+      <imageUrl>http://122.146.57.160/Assets/product_images/988/988836659.jpg</imageUrl>
       <link>http://www.m.sanmin.com.tw/Product/Index/99H155V5z105f87Z105N68z105A126cCUhBHj136YzK</link>
     </book>
     <book>
       <date>2016-12-31</date>
       <title>微小中的巨大：小人物的巨大貢獻</title>
       <price>165</price>
-      <imageUrl>http://123.51.221.158:81/Assets/product_images/986/986874435.jpg</imageUrl>
+      <imageUrl>http://122.146.57.160/Assets/product_images/986/986874435.jpg</imageUrl>
       <link>http://www.m.sanmin.com.tw/Product/Index/99E155q5K101i63F104p74L110g124jHXqQLc188SxV</link>
     </book>
   </preview>
