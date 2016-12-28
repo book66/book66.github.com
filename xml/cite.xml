@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2016-12-29</date>
-      <title>漢字的故事（暢銷十周年紀念版）</title>
-      <price>231</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/YK1026X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68855</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2016-12-29</date>
       <title>沖&amp;#32260;地圖隨身GO 2016...</title>
       <price>165</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/KA2050.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68798</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2016-12-30</date>
       <title>有耐心的蝴蝶</title>
@@ -51,6 +44,13 @@
       <price>218</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/YK1206X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69663</link>
+    </book>
+    <book>
+      <date>2017-01-04</date>
+      <title>恨意、精神分析與羅夏克墨漬測驗：紐倫堡審...</title>
+      <price>264</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BUB014.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68990</link>
     </book>
   </preview>
 </book66>
