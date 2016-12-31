@@ -3,54 +3,54 @@
   <today>
     <book>
       <date>2017-01-01</date>
-      <title/>
-      <price>0</price>
-      <imageUrl/>
-      <link>http://www.m.sanmin.com.tw/Product/Index/</link>
+      <title>成熟大人該有的生活方式：告別幼稚，運用1...</title>
+      <price>185</price>
+      <imageUrl>http://123.51.221.159:81/Assets/product_images/986/986922304.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99W155t5i105c72K102c70q113d130FZDaIOx184KwV</link>
     </book>
   </today>
   <preview>
-    <book>
-      <date>2017-01-01</date>
-      <title>成熟大人該有的生活方式：告別幼稚，運用1...</title>
-      <price>185</price>
-      <imageUrl>http://122.146.57.161/Assets/product_images/986/986922304.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99n155h5u105T72S102K70U113z130BYJnTBp170HqQ</link>
-    </book>
     <book>
       <date>2017-01-02</date>
       <title>蔡阿嘎Fun閃玩台灣：帶她一起去旅行，7...</title>
       <price>238</price>
       <imageUrl>http://123.51.221.158:81/Assets/product_images/986/986361305.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99H155V5z108f79Z105N66z107A125cCUhBHj136YzK</link>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99n155h5u108T79S105K66U107z125BYJnTBp170HqQ</link>
     </book>
     <book>
       <date>2017-01-03</date>
       <title>跟著日本老師學得快：初學者大丈夫，50音...</title>
       <price>211</price>
-      <imageUrl>http://113.196.56.91/Assets/product_images/986/986271655.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99E155q5K104i88F107p74L113g123jHXqQLc188SxV</link>
+      <imageUrl>http://123.51.221.158:81/Assets/product_images/986/986271655.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99H155V5z104f88Z107N74z113A123cCUhBHj136YzK</link>
     </book>
     <book>
       <date>2017-01-04</date>
       <title>急症室的福爾摩斯 II：守護生命的故事</title>
       <price>264</price>
-      <imageUrl>http://123.51.221.158:81/Assets/product_images/962/962076578.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99O155l5N109m39k103B72Z108K130mEMgQOe263RnK</link>
+      <imageUrl>http://113.196.56.91/Assets/product_images/962/962076578.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99E155q5K109i39F103p72L108g130jHXqQLc188SxV</link>
     </book>
     <book>
       <date>2017-01-05</date>
       <title>熱石上的麵包（中英對照）</title>
       <price>409</price>
-      <imageUrl>http://122.146.57.160/Assets/product_images/962/962145890.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99u155T5v105F52C109d71N112O123CERlJDs261NcT</link>
+      <imageUrl>http://113.196.56.95/Assets/product_images/962/962145890.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99O155l5N105m52k109B71Z112K123mEMgQOe263RnK</link>
     </book>
     <book>
       <date>2017-01-06</date>
       <title>新世代核心能力（增訂版）</title>
       <price>264</price>
-      <imageUrl>http://122.146.57.161/Assets/product_images/962/962044028.jpg</imageUrl>
-      <link>http://www.m.sanmin.com.tw/Product/Index/99M155F4c100e84c108H67T111R122CAIuHGm127IbM</link>
+      <imageUrl>http://123.51.221.158:81/Assets/product_images/962/962044028.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99u155T4v100F84C108d67N111O122CERlJDs261NcT</link>
+    </book>
+    <book>
+      <date>2017-01-07</date>
+      <title>天下第一道術：老莊之道</title>
+      <price>211</price>
+      <imageUrl>http://113.196.56.91/Assets/product_images/986/986923192.jpg</imageUrl>
+      <link>http://www.m.sanmin.com.tw/Product/Index/99M155F5c105e63c108H69T111R124CAIuHGm127IbM</link>
     </book>
   </preview>
 </book66>
