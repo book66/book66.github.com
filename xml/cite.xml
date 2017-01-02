@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-03</date>
-      <title>沉默罪狀：從未被遺忘的女孩</title>
-      <price>251</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/2CPA01X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68973</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-03</date>
       <title>花朵的祕密生命：解剖一朵花的美、自然與科...</title>
       <price>218</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/YK1206X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69663</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-04</date>
       <title>恨意、精神分析與羅夏克墨漬測驗：紐倫堡審...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/MI1017.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68160</link>
+    </book>
+    <book>
+      <date>2017-01-09</date>
+      <title>失控的心理學：心理學如何成為賺錢的產業、...</title>
+      <price>238</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BO0243.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68197</link>
     </book>
   </preview>
 </book66>
