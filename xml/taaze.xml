@@ -12,6 +12,20 @@
   <preview>
     <book>
       <date>2017-01-02</date>
+      <title>星期天們</title>
+      <price>130</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=14100010906</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=14100010906</link>
+    </book>
+    <book>
+      <date>2017-01-06</date>
+      <title>BiCYCLE CLUB 單車俱樂部 6...</title>
+      <price>65</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=25100004715</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=25100004715</link>
+    </book>
+    <book>
+      <date>2017-01-02</date>
       <title>性別與設計：建築與女性主義的邂逅</title>
       <price>238</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=11100737901</imageUrl>
