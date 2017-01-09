@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-10</date>
-      <title>失控的心理學：心理學如何成為賺錢的產業、...</title>
-      <price>238</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BO0243.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68197</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-10</date>
       <title>Excel精用密技字典（第二版）</title>
       <price>98</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2AE238.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68796</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-11</date>
       <title>親子FUN科學：46個刺激五感、鍛鍊思考...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/HD3129.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68181</link>
+    </book>
+    <book>
+      <date>2017-01-16</date>
+      <title>狼與森林的教科書：挽救崩毀生態系的關鍵物...</title>
+      <price>277</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/YK1252.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=69579</link>
     </book>
   </preview>
 </book66>
