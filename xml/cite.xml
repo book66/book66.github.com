@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-11</date>
-      <title>Excel精用密技字典（第二版）</title>
-      <price>98</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/2AE238.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68796</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-11</date>
       <title>親子FUN科學：46個刺激五感、鍛鍊思考...</title>
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BUE005.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69571</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-12</date>
       <title>死前一定要知道的五件事</title>
@@ -51,6 +44,13 @@
       <price>277</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/YK1252.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69579</link>
+    </book>
+    <book>
+      <date>2017-01-17</date>
+      <title>你以為你的選擇真的是你的選擇？</title>
+      <price>238</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BP6021.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=69496</link>
     </book>
   </preview>
 </book66>
