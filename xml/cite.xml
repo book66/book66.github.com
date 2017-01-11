@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-12</date>
-      <title>親子FUN科學：46個刺激五感、鍛鍊思考...</title>
-      <price>231</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BUE005.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=69571</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-12</date>
       <title>死前一定要知道的五件事</title>
       <price>211</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/5BWB0176.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68296</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-13</date>
       <title>刀光錢影系列套書（全五冊）</title>
@@ -51,6 +44,13 @@
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BP6021.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69496</link>
+    </book>
+    <book>
+      <date>2017-01-18</date>
+      <title>酒的科學：從發酵、蒸餾、熟陳至品酩的醉人...</title>
+      <price>264</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BU0127.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=69943</link>
     </book>
   </preview>
 </book66>
