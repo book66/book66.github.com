@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-14</date>
-      <title>刀光錢影系列套書（全五冊）</title>
-      <price>1300</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/1HB000W.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=71153</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-14</date>
       <title>京都巴士旅行：500日幣玩遍京都！</title>
       <price>211</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/KX0020.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69734</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-15</date>
       <title>肌筋膜舒活伸展法</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/5BWB0177.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68490</link>
+    </book>
+    <book>
+      <date>2017-01-20</date>
+      <title>歡樂的神秘謀殺案：誰想殺了小說家？</title>
+      <price>264</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/2CPA02X.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=69230</link>
     </book>
   </preview>
 </book66>
