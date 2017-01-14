@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-15</date>
-      <title>京都巴士旅行：500日幣玩遍京都！</title>
-      <price>211</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/KX0020.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=69734</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-15</date>
       <title>肌筋膜舒活伸展法</title>
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/HD3129.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68181</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-16</date>
       <title>狼與森林的教科書：挽救崩毀生態系的關鍵物...</title>
@@ -51,6 +44,13 @@
       <price>264</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2CPA02X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69230</link>
+    </book>
+    <book>
+      <date>2017-01-21</date>
+      <title>圖解混音入門：活用推桿、等化器、壓縮器3...</title>
+      <price>297</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/DA2001.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=69384</link>
     </book>
   </preview>
 </book66>
