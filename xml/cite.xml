@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-16</date>
-      <title>肌筋膜舒活伸展法</title>
-      <price>231</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/HD3129.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68181</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-16</date>
       <title>狼與森林的教科書：挽救崩毀生態系的關鍵物...</title>
       <price>277</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/YK1252.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69579</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-17</date>
       <title>你以為你的選擇真的是你的選擇？</title>
@@ -51,6 +44,13 @@
       <price>297</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/DA2001.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69384</link>
+    </book>
+    <book>
+      <date>2017-01-22</date>
+      <title>阿榮福利味Best！極簡好用免費軟體大補...</title>
+      <price>145</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/2AS110G.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=67423</link>
     </book>
   </preview>
 </book66>
