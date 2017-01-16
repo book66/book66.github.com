@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-17</date>
-      <title>狼與森林的教科書：挽救崩毀生態系的關鍵物...</title>
-      <price>277</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/YK1252.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=69579</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-17</date>
       <title>你以為你的選擇真的是你的選擇？</title>
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BP6021.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69496</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-18</date>
       <title>酒的科學：從發酵、蒸餾、熟陳至品酩的醉人...</title>
@@ -51,6 +44,13 @@
       <price>145</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2AS110G.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67423</link>
+    </book>
+    <book>
+      <date>2017-01-23</date>
+      <title>p53：破解癌症密碼的基因</title>
+      <price>238</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BU0121.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68171</link>
     </book>
   </preview>
 </book66>
