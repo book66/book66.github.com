@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-20</date>
-      <title>鴻海為什麼贏得夏普：前夏普技術長為你揭開...</title>
-      <price>251</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/5BWB0177.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68490</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-20</date>
       <title>歡樂的神秘謀殺案：誰想殺了小說家？</title>
       <price>264</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2CPA02X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69230</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-21</date>
       <title>圖解混音入門：活用推桿、等化器、壓縮器3...</title>
@@ -51,6 +44,13 @@
       <price>165</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/OC0071.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43907</link>
+    </book>
+    <book>
+      <date>2017-01-26</date>
+      <title>騙局：為什麼聰明人容易上當？</title>
+      <price>297</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BU0130.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=70312</link>
     </book>
   </preview>
 </book66>
