@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-22</date>
-      <title>圖解混音入門：活用推桿、等化器、壓縮器3...</title>
-      <price>297</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/DA2001.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=69384</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-22</date>
       <title>阿榮福利味Best！極簡好用免費軟體大補...</title>
       <price>145</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2AS110G.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67423</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-23</date>
       <title>p53：破解癌症密碼的基因</title>
@@ -51,6 +44,13 @@
       <price>185</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BK5058X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69407</link>
+    </book>
+    <book>
+      <date>2017-01-28</date>
+      <title>北京最強行程全攻略：專業導遊精選15條地...</title>
+      <price>231</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/2AF648.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=70230</link>
     </book>
   </preview>
 </book66>
