@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-23</date>
-      <title>阿榮福利味Best！極簡好用免費軟體大補...</title>
-      <price>145</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/2AS110G.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=67423</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-23</date>
       <title>p53：破解癌症密碼的基因</title>
       <price>238</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BU0121.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68171</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-24</date>
       <title>下一波經濟狂潮：從人口、債務、物價指數剖...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2AF648.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=70230</link>
+    </book>
+    <book>
+      <date>2017-01-29</date>
+      <title>WOW!原來專業攝影師這樣打光：棚內、外...</title>
+      <price>329</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/2APO08.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=69743</link>
     </book>
   </preview>
 </book66>
