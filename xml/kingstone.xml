@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-24</date>
-      <title>再見，朝九晚五：崴爺教你微創業，收入翻倍...</title>
-      <price>178</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941421877/2014941421877b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941421877&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-24</date>
       <title>一日浮生：十個探問生命意義的故事</title>
       <price>251</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20117/2011780072161/2011780072161b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2011780072161&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-25</date>
       <title>夢想密碼【全新增訂版】：從壓力源頭清除成...</title>
@@ -72,6 +65,13 @@
       <price>172</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20141/2014180316491/2014180316491b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014180316491&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2017-02-02</date>
+      <title>讀歷史，我可以學會什麼？(50年重版出來...</title>
+      <price>178</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20160/2016010023739/2016010023739b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2016010023739&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>

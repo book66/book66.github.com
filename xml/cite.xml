@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-24</date>
-      <title>p53：破解癌症密碼的基因</title>
-      <price>238</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BU0121.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68171</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-24</date>
       <title>下一波經濟狂潮：從人口、債務、物價指數剖...</title>
       <price>297</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BW0615.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69649</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-25</date>
       <title>不知道會被笑的66個禮俗禁忌</title>
@@ -51,6 +44,13 @@
       <price>329</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2APO08.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69743</link>
+    </book>
+    <book>
+      <date>2017-01-30</date>
+      <title>我做專題研究，學會獨立思考！：高中生的專...</title>
+      <price>211</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BO6028.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=69651</link>
     </book>
   </preview>
 </book66>
