@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-25</date>
-      <title>下一波經濟狂潮：從人口、債務、物價指數剖...</title>
-      <price>297</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BW0615.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=69649</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-25</date>
       <title>不知道會被笑的66個禮俗禁忌</title>
       <price>165</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/OC0071.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=43907</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-26</date>
       <title>騙局：為什麼聰明人容易上當？</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BO6028.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69651</link>
+    </book>
+    <book>
+      <date>2017-01-31</date>
+      <title>談話聖經</title>
+      <price>251</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BH6022.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=70029</link>
     </book>
   </preview>
 </book66>
