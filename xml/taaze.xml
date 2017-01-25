@@ -2,14 +2,28 @@
 <book66>
   <today>
     <book>
+      <date>2017-01-26</date>
+      <title>我們都是一家人</title>
+      <price>199</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=31100002119</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=31100002119</link>
+    </book>
+  </today>
+  <preview>
+    <book>
+      <date>2017-01-23</date>
+      <title>六巡者【套書】：夜巡者、日巡者、幽巡者、...</title>
+      <price>970</price>
+      <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=14100021102</imageUrl>
+      <link>http://www.taaze.tw/sing.html?pid=14100021102</link>
+    </book>
+    <book>
       <date>2017-01-27</date>
       <title>Fashion Queen時尚女王雜誌 ...</title>
       <price>100</price>
       <imageUrl>http://media.taaze.tw/showLargeImage.html?sc=25100005331</imageUrl>
       <link>http://www.taaze.tw/sing.html?pid=25100005331</link>
     </book>
-  </today>
-  <preview>
     <book>
       <date>2017-01-23</date>
       <title>在歷史的傷口上重生：德國走過的轉型正義之...</title>
