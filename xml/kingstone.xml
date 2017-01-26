@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-27</date>
-      <title>記錄你的每一天2</title>
-      <price>165</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20187/2018760173993/2018760173993b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018760173993&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-27</date>
       <title>金寶拔&amp;#12398;毛小孩安心鮮料理：...</title>
       <price>251</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20143/2014370152779/2014370152779b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014370152779&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-28</date>
       <title>史上最速衝刺！25天學會一生必用英文文法</title>
@@ -72,6 +65,13 @@
       <price>211</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018030873448/2018030873448b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018030873448&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2017-02-05</date>
+      <title>一本搞定K書、考試、時間管理的學習聖經</title>
+      <price>231</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20152/2015215140241/2015215140241b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2015215140241&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>

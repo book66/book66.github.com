@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-27</date>
-      <title>騙局：為什麼聰明人容易上當？</title>
-      <price>297</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BU0130.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=70312</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-27</date>
       <title>自由書寫術</title>
       <price>185</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BK5058X.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69407</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-28</date>
       <title>北京最強行程全攻略：專業導遊精選15條地...</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BO6029.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=70019</link>
+    </book>
+    <book>
+      <date>2017-02-02</date>
+      <title>築地市場四百年</title>
+      <price>251</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/1GX809.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=70228</link>
     </book>
   </preview>
 </book66>
