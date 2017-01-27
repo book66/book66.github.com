@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-28</date>
-      <title>自由書寫術</title>
-      <price>185</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BK5058X.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=69407</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-28</date>
       <title>北京最強行程全攻略：專業導遊精選15條地...</title>
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2AF648.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=70230</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-29</date>
       <title>WOW!原來專業攝影師這樣打光：棚內、外...</title>
@@ -51,6 +44,13 @@
       <price>251</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1GX809.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=70228</link>
+    </book>
+    <book>
+      <date>2017-02-03</date>
+      <title>畫張圖想得更清楚！任何人都能學會的視覺筆...</title>
+      <price>224</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/2AB936.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=70233</link>
     </book>
   </preview>
 </book66>
