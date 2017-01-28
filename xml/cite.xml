@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-29</date>
-      <title>北京最強行程全攻略：專業導遊精選15條地...</title>
-      <price>231</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/2AF648.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=70230</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-29</date>
       <title>WOW!原來專業攝影師這樣打光：棚內、外...</title>
       <price>329</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2APO08.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69743</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-30</date>
       <title>我做專題研究，學會獨立思考！：高中生的專...</title>
@@ -51,6 +44,13 @@
       <price>224</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2AB936.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=70233</link>
+    </book>
+    <book>
+      <date>2017-02-04</date>
+      <title>拒絕理所當然的思考</title>
+      <price>231</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BW0613.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=70503</link>
     </book>
   </preview>
 </book66>
