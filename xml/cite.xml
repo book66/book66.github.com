@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-01-30</date>
-      <title>WOW!原來專業攝影師這樣打光：棚內、外...</title>
-      <price>329</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/2APO08.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=69743</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-01-30</date>
       <title>我做專題研究，學會獨立思考！：高中生的專...</title>
       <price>211</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BO6028.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69651</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-01-31</date>
       <title>談話聖經</title>
@@ -51,6 +44,13 @@
       <price>231</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BW0613.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=70503</link>
+    </book>
+    <book>
+      <date>2017-02-05</date>
+      <title>以肺為宗：跟科學家學養肺自救，做好體內環...</title>
+      <price>165</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/BUD055.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=68994</link>
     </book>
   </preview>
 </book66>
