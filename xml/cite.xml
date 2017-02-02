@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-02-03</date>
-      <title>築地市場四百年</title>
-      <price>251</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/1GX809.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=70228</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-02-03</date>
       <title>畫張圖想得更清楚！任何人都能學會的視覺筆...</title>
       <price>224</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/2AB936.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=70233</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-02-04</date>
       <title>拒絕理所當然的思考</title>
@@ -51,6 +44,13 @@
       <price>475</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/YK1433.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=69899</link>
+    </book>
+    <book>
+      <date>2017-02-09</date>
+      <title>請問植物醫生：居家植物病蟲害圖鑑與防治</title>
+      <price>297</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/1GR051.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=69739</link>
     </book>
   </preview>
 </book66>
