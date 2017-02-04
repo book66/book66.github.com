@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-02-05</date>
-      <title>拒絕理所當然的思考</title>
-      <price>231</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BW0613.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=70503</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-02-05</date>
       <title>以肺為宗：跟科學家學養肺自救，做好體內環...</title>
       <price>165</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/BUD055.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68994</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-02-06</date>
       <title>用一天說歷史：從石器時代到數位時代，你的...</title>
@@ -51,6 +44,13 @@
       <price>527</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1HB038S.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=24986</link>
+    </book>
+    <book>
+      <date>2017-02-11</date>
+      <title>唱出好聲音：顛覆你的歌唱思維，讓歌聲自由</title>
+      <price>211</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/HD7013.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=70032</link>
     </book>
   </preview>
 </book66>
