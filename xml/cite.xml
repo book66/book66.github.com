@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-02-06</date>
-      <title>以肺為宗：跟科學家學養肺自救，做好體內環...</title>
-      <price>165</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/BUD055.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=68994</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-02-06</date>
       <title>用一天說歷史：從石器時代到數位時代，你的...</title>
       <price>277</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/ME2076.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68487</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-02-07</date>
       <title>離開後留下的東西：遺物整理師從逝者背影領...</title>
@@ -51,6 +44,13 @@
       <price>211</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/HD7013.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=70032</link>
+    </book>
+    <book>
+      <date>2017-02-12</date>
+      <title>手揉麵包教科書：呂老師的86款超手感麵包...</title>
+      <price>429</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/1BG066.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=67822</link>
     </book>
   </preview>
 </book66>
