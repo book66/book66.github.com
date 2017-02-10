@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-02-11</date>
-      <title>想吃就吃！只用平底鍋就能做出100道中西...</title>
-      <price>251</price>
-      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20142/2014271262591/2014271262591b.jpg</imageUrl>
-      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014271262591&amp;actid=onsale66.asp</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-02-11</date>
       <title>英語單字王，靠這本闖天下！</title>
       <price>197</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052719939/2018052719939b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052719939&amp;actid=onsale66.asp</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-02-12</date>
       <title>實用英語閱讀大全：務實理解英語必備的30...</title>
@@ -72,6 +65,13 @@
       <price>263</price>
       <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20180/2018052734093/2018052734093b.jpg</imageUrl>
       <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018052734093&amp;actid=onsale66.asp</link>
+    </book>
+    <book>
+      <date>2017-02-20</date>
+      <title>方格筆記之神高橋政史，最完整版「一張紙整...</title>
+      <price>198</price>
+      <imageUrl>http://cdn.kingstone.com.tw/book/images/product/20149/2014941435102/2014941435102b.jpg</imageUrl>
+      <link>http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941435102&amp;actid=onsale66.asp</link>
     </book>
   </preview>
 </book66>
