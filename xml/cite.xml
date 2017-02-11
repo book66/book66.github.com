@@ -3,20 +3,13 @@
   <today>
     <book>
       <date>2017-02-12</date>
-      <title>唱出好聲音：顛覆你的歌唱思維，讓歌聲自由</title>
-      <price>211</price>
-      <imageUrl>http://cdn.cite.com.tw/thumbs/HD7013.jpg</imageUrl>
-      <link>http://www.cite.com.tw/product_info.php?products_id=70032</link>
-    </book>
-  </today>
-  <preview>
-    <book>
-      <date>2017-02-12</date>
       <title>手揉麵包教科書：呂老師的86款超手感麵包...</title>
       <price>429</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/1BG066.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=67822</link>
     </book>
+  </today>
+  <preview>
     <book>
       <date>2017-02-13</date>
       <title>從零開始的1頁企劃書：掌握3大重點，12...</title>
@@ -51,6 +44,13 @@
       <price>158</price>
       <imageUrl>http://cdn.cite.com.tw/thumbs/5BWB0179.jpg</imageUrl>
       <link>http://www.cite.com.tw/product_info.php?products_id=68814</link>
+    </book>
+    <book>
+      <date>2017-02-18</date>
+      <title>西方文明的崩潰：氣候變遷，人類會有怎樣的...</title>
+      <price>185</price>
+      <imageUrl>http://cdn.cite.com.tw/thumbs/QD1012.jpg</imageUrl>
+      <link>http://www.cite.com.tw/product_info.php?products_id=69405</link>
     </book>
   </preview>
 </book66>
